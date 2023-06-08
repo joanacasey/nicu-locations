@@ -1,0 +1,7 @@
+default:
+  code: code
+  conf: conf
+  data: data
+  doc: doc
+  figures: figures
+  results: results
