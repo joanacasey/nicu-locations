@@ -1,39 +1,39 @@
 SHELBY MEDICAL CENTER
- 1000 First St. NL, P.O. Box 488
+1000 First St. NL, P.O. Box 488
 Alabaster, AL 35007-0488
 NICU Beds:6
- Neonatologists:
- Refer to Children’s Hospital of Alabama
+Neonatologists:
+Refer to Children’s Hospital of Alabama
 
 BROOKWOOD MEDICAL CENTER 
 2010 Brookwood Medical Center Dr.
 Birmingham, AL 35209
 NICU Beds:18 
 Neonatolagists:2
+Neonatologists names: 
 
 COOPER GREEN HOSPITAL 
 1515 Sixth Ave.
- Birmingham, AL 35233
- NICU Beds:2
- Neonatologists:
+Birmingham, AL 35233
+NICU Beds:2
+Neonatologists:
+Neonatologists names: 
 
- MEDICAL CENTER EAST
- 50 Medical Park Dr. E,
- Birmingham, AL 35235
- NICU Beds:G
- Neonatologists:
- Refer to Children's Hospital of Alabama
+MEDICAL CENTER EAST
+50 Medical Park Dr. E,
+Birmingham, AL 35235
+NICU Beds:G
+Neonatologists:
+Refer to Children's Hospital of Alabama
 
- MONTCLAIR BAPTIST MEDICAL.
- CENTER
- 800 Montclair Rd.
- Birmingham, AL 35213
+MONTCLAIR BAPTIST MEDICAL. CENTER
+800 Montclair Rd.
+Birmingham, AL 35213
 NICU Beds: 12
 Neonatologists:
 Refer to Children's Hospital of Alabama
 
-PRINCETON BAPTIST MEDICAL
-CENTER
+PRINCETON BAPTIST MEDICAL CENTER
 201 Princeton Ave, S,W,
 Birmingham, AL 35211
 NICU Beds:8
@@ -45,6 +45,7 @@ ST. VINCENT'S HOSPITAL
 Birmingham, AL 36205
 NICU Beds:23
 Neonatologists:2
+Neonatologists names: 
 
 UNIVERSITY OF ALABAMA HOSPITAL 
 CHILDREN'S HOSPITAL OF ALABAMA
