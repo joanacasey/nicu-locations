@@ -16,8 +16,7 @@ COOPER GREEN HOSPITAL
 1515 Sixth Ave.
 Birmingham, AL 35233
 NICU Beds:2
-Neonatologists:
-Neonatologists names: 
+Neonatologists: 
 
 MEDICAL CENTER EAST
 50 Medical Park Dr. E,
@@ -97,8 +96,7 @@ Flagstaff, AZ 86001
 NICU Beds:12
 Neonalologists:1
 
-THUNDERBIRD SAMARITAN MEDICAL
-CENTER
+THUNDERBIRD SAMARITAN MEDICAL CENTER
 5655 W. Thunderbird Rd.
 Glendale, AZ 85306
 NICU Beds:10
