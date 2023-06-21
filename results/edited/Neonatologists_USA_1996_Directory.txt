@@ -10,18 +10,18 @@ BROOKWOOD MEDICAL CENTER
 Birmingham, AL 35209
 NICU Beds:18 
 Neonatolagists:2
-Neonatologists names: 
+Neonatologists names: Wahib Mena; Martha Strange
 
 COOPER GREEN HOSPITAL 
 1515 Sixth Ave.
 Birmingham, AL 35233
 NICU Beds:2
-Neonatologists: 
+Neonatologists:
 
 MEDICAL CENTER EAST
 50 Medical Park Dr. E,
 Birmingham, AL 35235
-NICU Beds:G
+NICU Beds:6
 Neonatologists:
 Refer to Children's Hospital of Alabama
 
@@ -44,44 +44,48 @@ ST. VINCENT'S HOSPITAL
 Birmingham, AL 36205
 NICU Beds:23
 Neonatologists:2
-Neonatologists names: 
+Neonatologists names: Terry Bierd; Roger Bruce
 
 UNIVERSITY OF ALABAMA HOSPITAL 
 CHILDREN'S HOSPITAL OF ALABAMA
 619 S. 20th St.
 Birmingham, AL 35233
 NICU Beds:78
-Neonatologist ogits:7
+Neonatologits:7
+Neonatologists names: Elaine Barfield; Waldemar Carlo; Carl Coghill; James Haywood; Virginia Karle; Joseph Philips; Sidartha Tan
 
-UNIVERSITY OF SO. ALABAMA 
-MEDICAL CENTER
+UNIVERSITY OF SO. ALABAMA MEDICAL CENTER
 2451 Fillingim St.
 NICU Beds:45
 Neonatologists:6
+Neonatologists names: Fabien Eyal; Charles Hamm Jr; Keith Peevy; Beverly Roy; Richard Whitehurst Jr; Michael Zayek
 
 BAPTIST MEDICAL CENTER 
 2105 E. South Blvd,
 Montgomery. AL 36116
 NiCU Beds:24
 Neonatologists:6
+Neonatologists names: Allan Cheek; Rodney Curand; Allan Newton; Lawrence Wallin; Lynn Whittington; John Woodall
 
-DRUID CITY HOSPITAL REGIONAL 
-MEDICAL CENTER
+DRUID CITY HOSPITAL REGIONAL MEDICAL CENTER
 809 University Blvd, E.
 Tuscaloosa, AL 35401
 NICU Bads:20
 Neonatologists:2
+Neonatologists names: Hanseek Choi; Guillermo Godoy
 
 PROVIDENCE HOSPITAL 
 3400 Providence Dr,
 Anchorage, AK 99519
 NICU Beds:36
 Neonatologists:6
+Neonatologists names: Jack Anderson; Emilio Avila; Roy Davis; Jack Jacob; Eric Johnson; Kenneth Kesler
 
 USNH - OKINAWA
 PSC 482 - Box 86 USNH
 FPO, AP 96363-1695
 Neonatologists:2
+Neonatologists names: John Golden; David Goodwin
 
 CHANDLER REGIONAL HOSPITAL.
 475 S. Dobson Rd.
@@ -95,6 +99,7 @@ FLAGSTAFF MEDICAL CENTER A
 Flagstaff, AZ 86001
 NICU Beds:12
 Neonalologists:1
+Neonatologists names: John Steenbarger
 
 THUNDERBIRD SAMARITAN MEDICAL CENTER
 5655 W. Thunderbird Rd.
@@ -103,22 +108,22 @@ NICU Beds:10
 Neonatologists:
 Refer to Phoenix Children's Hospital
 
-DESERT SAMARITAN MEDICAL
-CENTER
+DESERT SAMARITAN MEDICAL CENTER
 1400 S, Dobson Rd.
 Mesa, AZ 85202
 NICU Beds:18
 Neonatologists:2
 Refer to Phoenix Children's Hospital
+Neonatologists names: Katherine Allare; Glenn Waterkotte
 
-MARICOPA MEDICAL CENTER Y
+MARICOPA MEDICAL CENTER 
 2601 E. Roosevelt St.
 Phoenix, AZ 85010
 NICU Beds:30
 Neonatologists:4
+Neonatologists names: Jose Gonzalez; Mahesh Kotwal; Marl Shoptaugh; Victor Zapanta
 
-MARYVALE SAMARITAN MEDICAL Y
-CENTER
+MARYVALE SAMARITAN MEDICAL CENTER
 5102 W, Campbell Ave.
 Phoenix, AZ 85031
 NICU Beds:4
@@ -129,6 +134,7 @@ PHOENIX CHILDREN'S HOSPITAL
 Phoenix, AZ 85006
 NICU Beds:45
 Neonatologists:6
+Neonatologists names: Cristina Carballo; Jack Christiansen; Teddy Dela Cruz; Larry Eggert; Michael McQueen; Eric Tack
 
 PHOENIX MEMORIAL HOSPITAL
 1201 S, 7th Ave./Box 1201
@@ -136,12 +142,12 @@ Phoenix, AZ 85007
 NICU Beds:12
 Neonatologists:
 
-ST. JOSEPH'S HOSPITAL AND 
-MEDICAL CENTER
+ST. JOSEPH'S HOSPITAL AND MEDICAL CENTER
 350 W. Thomas Rd.
 Phoenix, AZ 85013
 NICU Beds:42
 Neonalologists:5
+Neonatologists names: William Daily Jr; Donna Hamburg; Thomas Harris; Montgomery Hart; Daniel Sprague 
 
 ANHSC/CRC 
 Depariment of Pediatrics, Rm. 3341
@@ -149,13 +155,14 @@ Depariment of Pediatrics, Rm. 3341
 Tucson, AZ 85724
 NICU Beds:30
 Neonatologists:7
+Neonatologists names: Carlos Flores; Pamela Kling; Wallace Nogami; Anthony Philippps; Devyani Raval; Moira Richards; Evelyn Rider 
 
-CARONDELET ST. JOSEPH'S 
-HOSPITAL
+CARONDELET ST. JOSEPH'S HOSPITAL
 350 N, Wilmont Rd.
 Tucson, AZ 85711
 NICU Beds:17
 Neonatologists:2
+Neonatologists names:Dariush Mehrabani; Robert Sexton
 
 TUCSON MEDICAL CENTER
 5301 E. Grant Rd.
@@ -171,16 +178,16 @@ NICU Beds:32
 Neonatologists:
 Refer to AHSC/CRC, Tucson
 
-ARKANSAS CHILDREN'S HOSPITAL -
+ARKANSAS CHILDREN'S HOSPITAL
 800 Marshall
 Little Rock, AR 72202
 NICU Beds:46
 Neonatologists:12
+Neonatologists names: Robert Arrington; Zuhair Bakdoud; Paul Grim; Whit Hall; Mark Heulitt; Susan Landers; Robert Lyle; Jon Mazursky; Bonnie Taylor; Billy Thomas; Donnal Walter
 
 BAPTIST MEDICAL CENTER
 9601 interstate 630, Exit 7
 Little Rock, AR 72205
-
 NICU Beds:18
 Neonatologists:
 Refer to HCA Doctor's Hospital
@@ -197,138 +204,141 @@ HCA DOCTORS HOSPITAL
 Little Rock, AR 72205
 NICU Beds:20
 Neonatologists:4
+Neonatologists names: William Benton; Richard Nestrud; Richard Sotomaora; Terrace Zuerlein
 
-ST. VINCENT INFIRMARY MEDICAL
-CENTER
+ST. VINCENT INFIRMARY MEDICAL CENTER
 Two St. Vincent Circle
 Little Rock, AR 72205
 NICU Beds:14
 Neonatologists:
 Refer to HCA Doctor's Hospital
 
-THE UNIVERSITY HOSPITAL OF
-an ARKANSAS
+THE UNIVERSITY HOSPITAL OF ARKANSAS
 4301 W. Markham St.
 Little Rock, AR 72205
 NICU Beds:35
 Neonatologists:
 Refer to Arkansas Children's Hospital
 
-KAISER PERMANENTE MEDICAL 
-CENTER - ANAHEIM
+KAISER PERMANENTE MEDICAL CENTER - ANAHEIM
 441 N. Lakeview Ave.
 Anaheim, CA 92807
 NICU Beds:8
 Neonatologists:4 
+Neonatologists names: Sogba Bosu; Theodore Calidendo; Luke Yu; Ya Mei Yu
 
 MARTIN LUTHER HOSPITAL 
 1830 W. Romneya Dr,
 Anaheim, CA 92803
 Neonatologists:8
+Neonatologists names: Leonard Fox; Mamerto Garcia; Gloria Morales; Sandra Shaw; Marlene Tan; Jeffery Teal; David Tio; Patrick Walsh
 
-ST. MARY DESERT VALLEY ¥
-HOSPITAL
+ST. MARY DESERT VALLEY HOSPITAL
 18300 Highway 18
 Apple Valley, CA 92307
 NICU Beds:8
 Neonatologists:1
+Neonatologists names: Katherine Schooley
 
 BAKERSFIELD MEMORIAL HOSPITAL 
 420 34th St,
 Bakersfield, CA 93301
 NICU Beds:12
 Neonatologiste:3
+Neonatologists names: Madhu Bhogal; Sze Ho; Matilda Klupsteen
 
 KERN MEDICAL CENTER 
 1830 Flower St.
 Bakersfield, CA 93305
 NICU Beds:28
 Neonatologists:2
+Neonatologists names: Mohamad karb; Tien Khuu
 
-KAISER PERMANENTE MEDICAL 
-CENTER - BELLFLOWER
+KAISER PERMANENTE MEDICAL CENTER - BELLFLOWER
 9400 E. Rosecrans Ave.
 Bellflower, CA 90706
 NICU Beds:38
 Neonatologists:2
+Neonatologists names: Kum Kum Bhasin; Ann Marie Morris
 
-BERKELEY, CA
 ALTA BATES MEDICAL CENTER
 2450 Ashby Ava,
 Berkeley, CA 94705
 NICU Beds:40
 Neonatologists:2
+Neonatologists names: Gilbert Duritz; Amarjit Sandhu
 
 ST. JOSEPH MEDICAL CENTER.
 501 S, Buena Vista St.
 Burbank, CA 91505
 NICU Beds:20
 Neonatologists:3
+Neonatologists names: Charles Gall; Paul Hinkes; Miriam Mylius
 
 MERCY SAN JUAN HOSPITAL 
 6501 Coyle Ave.
 Carmichael, CA 95608
 NICU Bads:18
 Naonatologists:5
+Neonatologists names: Sarah Buxton; Carolyn Getman; Robert Kahle; Diane Saeed; Gustavo Sosa
 
-SCRIPPS MEMORIAL HOSPITAL
-CHULA VISTA
+SCRIPPS MEMORIAL HOSPITAL CHULA VISTA
 435 "H" St,
 Chula Vista, CA 91910
 NICU Beds:10
 Neonatologists:
-Refer to Children's Hospital of San
-Diego
+Refer to Children's Hospital of San Diego
 
-INTER-COMMUNITY MEDICAL CENTER /
+INTER-COMMUNITY MEDICAL CENTER
 210 W. San Bernardino Rd.
 Covina, CA 91723
 NICU Beds:8
 Neonatologists:4
+Neonatologists names: Chundu Veeraiah; Gilbert Martin; Jeffery Martin; Bruce Sindel
 
-EL CENTRO REGIONAL MEDICAL
-CENTER
+EL CENTRO REGIONAL MEDICAL CENTER
 1415 Ross Ave.
 El Centro, CA 92443
 NICU Beds:4
 Neonatologists:3
+Neonatologists names: Mohamad Admani; Vallop Kanjanapone; Oscar Ortiz
 
 PALOMAR MEDICAL CENTER
 555 E. valley Pky.
 Escondido, CA 92025
 NICU Beds:6
 Neonatologists:
-Refer to Children's Hospital of San
-Diego
+Refer to Children's Hospital of San Diego
 
 NORTHBAY MEDICAL CENTER 
 1200 B. Gale Wilson Bivd.
 Fairfied, CA 94533
 NICU Beds:16
 Neonatologists:2
+Neonatologists names: Richard Bell; Steven Gwiazdowski
 
-KAISER PERMANENTE MEDICAL
-CENTER - FONTANA
+KAISER PERMANENTE MEDICAL CENTER - FONTANA
 9961 Sierra Ave.
 Fontana, CA 92335
 NICU Beds:36
 Neonatologists:4
+Neonatologists names: Dilip Bhatt; Jacek Gogolok; Robert Meyer; Asha Parikh
 
 FHP HOSPITAL 
 9920 Talbert Ave. 
 Fountain Valley, CA 92728
 NICU Beds:12
 Neonatologists:2
+Neonatologists names: Jagdish Bhatt; Glen Ginoza
 
-FOUNTAIN VALLEY REGIONAL 
-HOSPITAL & MEDICAL CENTER
+FOUNTAIN VALLEY REGIONAL HOSPITAL & MEDICAL CENTER
 17100 Euclid
 Fountain Valley, CA 92708
 NICU Beds:14
 Neonatologists: 6
+Neonatologists names: Michael Barsotti; Cindy Chen; Armida Esparza; Leonel Guajardo; Ronald Naglie 
 
-FRESNO COMMUNITY HOSPITAL &
-MEDICAL CENTER
+FRESNO COMMUNITY HOSPITAL & MEDICAL CENTER
 2776 W. Wrenwood Ave.
 Fresno, CA 93711
 NICU Beds: 10
@@ -347,9 +357,9 @@ VALLEY CHILDREN'S HOSPITAL
 Fresno, CA 93703
 NICU Beds:41
 Neonatologists:4
+Neonatologists names: Vinod Bansal; devindra Chopra; Krishnakumar; Nadarasa Vishveshwara
 
-VALLEY MEDICAL CENTER OF
-FRESNO
+VALLEY MEDICAL CENTER OF FRESNO
 445 S, Cedar Ave.
 Fresno, CA 93702
 NICU Beds:12
@@ -361,156 +371,157 @@ ST. JUDE MEDICAL CENTER
 Fullerton, CA 92635
 NICU Beds:6
 Neonatologists:6
+Neonatologists names: Joseph Awadalla; Christie Davanzo; John Madden; Richard Meidell; Pankaj Mistry; Nagla Ramadan
 
-AMI GARDEN GROVE HOSPITAL AND
-MEDICAL. CENTER
+AMI GARDEN GROVE HOSPITAL AND MEDICAL. CENTER
 12601 Garden Grove Blvd.
 Garden Grove, CA 92643
 NICU Beds:12
 Neonatologists:
-Refer to Children's Hospital of Orange
-County
+Refer to Children's Hospital of Orange County
 
-GLENDALE ADVENTIST MEDICAL 
-CENTER
+GLENDALE ADVENTIST MEDICAL CENTER
 1509 Wilson Terrace
 Glendale, CA 91206
 NICU Beds:8
 Neonatologists:3
+Neonatologists names: Mona Chung; Khin Swe Lay; John Mapp
 
 MARIN GENERAL HOSPITAL
 250 Bon Alr Rd.
 Greenbrae, CA 94904
 NICU Beds:8
 Neonatologists:
-Refer to California Pacific Medical
-Center, San Francisco
+Refer to California Pacific Medical Center, San Francisco
 
-KAISER PERMANENTE MEDICAL
-CENTER - HARBOR CITY
+KAISER PERMANENTE MEDICAL CENTER - HARBOR CITY
 26526 S. Vermont
 Harbor City CA 90710
 NICU Beds:3
 Neonatologists:1
+Neonatologists names: Bruce Smith
 
-KAISER PERMANENTE MEDICAL
-CENTER - HAYWARD
+KAISER PERMANENTE MEDICAL CENTER - HAYWARD
 27400 Hesperian Blvd.
 Hayward, CA 94545
 NICU Beds:15
 Neonatologists:4
+Neonatologists names: Jocelyn Alcantara; Berenic Ku; Margaret Walker; Cynthia Wikler
 
-CENTINELA HOSPITAL MEDICAL 
-CENTER
+CENTINELA HOSPITAL MEDICAL CENTER
 555 E. Hardy St.
 Inglewood, CA 90307
 NICU Beds: 10
 Neonatologists:2
+Neonatologists names: Nalini Brahmbhatt; Bertran Cooper
 
-DANIEL FREEMAN MEMORIAL 
-HOSPITAL
+DANIEL FREEMAN MEMORIAL HOSPITAL
 333 N. Prarie Ave.
 Inglewood, CA 90301
 NICU Beds:8
 Neonatologists:2
+Neonatologists names: Scott Beasley; Ronald Tyrus
 
 IRVINE MEDICAL CENTER 
 16200 Sand Canyon Ave.
 Irvine, CA 92718
 NICU Beds: 16
 Neonatologiets:2
-Refer to Children’s Hospital of Orange
-County
+Refer to Children’s Hospital of Orange County
+Neonatologists names: David Hicks; Pankaj Mistry
 
 GROSSMONT HOSPITAL
 5555 Grossmont Center Dr.
 La Mesa, CA 91942
 NICU Beds:24
 Neonatologists:1
+Neonatologists names: Paul Zlotnik
 
-SADDLEBACK MEMORIAL MEDICAL
-CENTER
+SADDLEBACK MEMORIAL MEDICAL CENTER
 24451 Health Center Dr.
 Laguna Hills, CA 92653
 NICU Beds:19
-Neonatologists.5
+Neonatologists: 5 
+Neonatologists names: Mike Barsotti; Armida Esparza; Leonel Guajardo; Ronald Naglie; Mita Shah
 
-ANTELOPE VALLEY HOSPITAL 
-MEDICAL CENTER
+ANTELOPE VALLEY HOSPITAL MEDICAL CENTER
 1600 W. Avenue "J"
 Lancaster, CA 93534
 NICU Beds:27
 Neonatologists:2
+Neonatologists names: Murali Kumar; Murugesa Thangavel 
 
-LOMA LINDA UNIVERSITY 
-CHILDREN'S HOSPITAL
+LOMA LINDA UNIVERSITY CHILDREN'S HOSPITAL
 Department of Pediatrics
 11262 Campus St., WH135
 Loma Linda, CA 92354
 NICU Beds:72
 Neonatologists:11
+Neonatologists names: Assaad Assaad; Douglas Deming; Elba Fayard; Christina Garberoglio; Andrew Hopper; Lella Job; Lanny Nizar; Gerald Nystrom; Ricardo Peverini; Diana Trupp; Nidia Vyhmeister
 
 LONG BEACH COMMUNITY HOSPITAL
 1720 Termino Ave.
 Long Beach, CA 90804
 NICU Beds:20
 Neonatologists:8
+Neonatologists names: Mamerto Garcia; Gloria Morales; Sandra Shaw; Marlene Tan; Jeffery Teal; David Tio; Cong Vo; Patrick Walsh
 
-LONG BEAGH MEMORIAL MEDICAL 
-CENTER
+LONG BEAGH MEMORIAL MEDICAL CENTER
 P.O. Box 1428
 2801 Atlanta Ave.
 Long Beach, CA 90861-1428
 NICU Beds:70
 Neonatologists:5
+Neonatologists names: Douglas Cunningham; Josefina Jacinto; Guadalupe Padilla-Robb; Jose Perez; Arthur Strauss
 
 ST. MARY MEDICAL CENTER
 1050 Linden Ave.
 Long Beach, CA 90913
 NICU Beds:25
 Neonatologists:5
+Neonatologists names: Rhaghavender; Hong Mai; Azra Nisar; Roger Takla; Chung Tsi
 
 CALIFORNIA MEDICAL CENTER 
 1401 S. Grand Ave.
 Los Angeles, CA 90015
 NICU Beds:26
 Neonatologists:4
+Neonatologists names: Hernan Cruz; Robert De Lemod; Maria Pernia; Evelyn Tintoc
 
 CEDARS-SINAI MEDICAL CENTER 
 8700 Beverly, #4310
 Los Angeles, CA 90048
 NICU Beds:32
 Neonatologists:7
+Neonatologists names: Arie Leon Alkalay; Soledad Austin; Raymond Duncan; Jeffery Pomerance; Asha Puri; Sabitha Sehgal; Andre Vanderhal
 
-CHILDREN'S HOSPITAL OF LOS 
-ANGELES
+CHILDREN'S HOSPITAL OF LOS ANGELES
 4650 Sunset Blvd, Box 83
 Los Angeles, CA 90027
 NICU Beds:37
 Neonatologists:4
+Neonatologists names: Thomas Keens; Cheryl Lew; Arnold Platzker; Nirupama Subraminian
 
 HOSPITAL OF THE GOOD SAMARITAN
 616 S. Witmer St.
 Los Angeles, CA 90017
 NICU Beds:18
 Neonatologists:4
+Neonatologists names: Robert De Lemos; 
 
-KAISER PERMANENTE MEDICAL 
-CENTER - LOS ANGELES
+KAISER PERMANENTE MEDICAL CENTER - LOS ANGELES
 4867 Sunset Blyd.
 Los Angeles, CA 90027
 NICU Beds:40
 Neonatologists:6
 
-KAISER PERMANENTE MEDICAL 
-CENTER - WEST L.A.
+KAISER PERMANENTE MEDICAL CENTER - WEST L.A.
 6041 Cadillac Ave.
 Los Angeles, CA 90034
 NICU Beds:9
 Neonalologists:3
 
-LAC + USC MEDICAL CENTER 
-WOMEN'S & CHILDREN'S HOSP
+LAC + USC MEDICAL CENTER WOMEN'S & CHILDREN'S HOSP
 4240 N, Mission, Rm, L919
 Los Angeles, CA 90033
 NICU Beds:50
