@@ -162,7 +162,7 @@ CARONDELET ST. JOSEPH'S HOSPITAL
 Tucson, AZ 85711
 NICU Beds:17
 Neonatologists:2
-Neonatologists names:Dariush Mehrabani; Robert Sexton
+Neonatologists names: Dariush Mehrabani; Robert Sexton
 
 TUCSON MEDICAL CENTER
 5301 E. Grant Rd.
@@ -507,133 +507,147 @@ HOSPITAL OF THE GOOD SAMARITAN
 Los Angeles, CA 90017
 NICU Beds:18
 Neonatologists:4
-Neonatologists names: Robert De Lemos; 
+Neonatologists names: Robert De Lemos; Ramanathan Rangasamy; Smeeta Sardesai; Bijan Siassi
 
 KAISER PERMANENTE MEDICAL CENTER - LOS ANGELES
 4867 Sunset Blyd.
 Los Angeles, CA 90027
 NICU Beds:40
 Neonatologists:6
+Neonatologists names: Ralph Franceshini; Saul Newman; Patrick Robbie; Rosa Sanchez; Bikramjit Sangha; David Wirtschafter
 
 KAISER PERMANENTE MEDICAL CENTER - WEST L.A.
 6041 Cadillac Ave.
 Los Angeles, CA 90034
 NICU Beds:9
 Neonalologists:3
+Neonatologists names: Cleotilde Bondad; John D'Ambola; Mayenne Karelitz
 
 LAC + USC MEDICAL CENTER WOMEN'S & CHILDREN'S HOSP
 4240 N, Mission, Rm, L919
 Los Angeles, CA 90033
 NICU Beds:50
 Neonatologisis:14
+Neonatologists names: Ruben Acherman; Asif Ahmed; Lorayne Barton; Robert De Lemos; Manuel Durand; Nancy Edwards; Alice garner; Joan Hodgman; Ivette Pena; Ramanathan rangasamy; Smeeta Siassi; Y.K. Paul Wu
 
 LAG-KING-DREW MEDICAL CENTER 
 12021 S. Wilmington Ave.
 Los Angeles, CA 90059
 NICU Beds:42
 Neonatologists:5
+Neonatologists names: Xylina Bean; Isaac Belai; Richard Findlay; Meena Garg; Frans Walther
 
 UCLA MEDICAL CENTER 
 10833 Le Conte Ave.
 Los Angelos, CA 90095-1752
 NICU Beds:24
 Neonatologists:5
+Neonatologists names: Cynthia Barrett; Susan Gray; Paul Pollack; Maureen Sims; Jeffery Smith
 
 WHITE MEMORIAL MEDICAL CENTER 
 1720 Cesar Chavez Blvd.
 Los Angeles, CA 90033
 NICU Beds:30
 Neonatologists:3
+Neonatologists names: Guillermo Loew; esperanza Naves-Ruiz; Robert Tefft
 
 ST. FRANCIS MEDICAL CENTER 
 3630 E. Imperial Hwy
 Lynwood, CA 90262
 NICU Beds:20
 Neonatologists:2
+Neonatologists names: Amod Moosa; David Vogel
 
 CHILDREN'S HOSPITAL AT MISSION 
 27700 Medical Center Dr.
 Mission Viele. CA 92691
 NICU Beds:16
 Neonatologists:3
+Neonatologists names: Willard Blankenship; Stephen Hanten; Chetan Patel
 
 DOCTORS MEDICAL CENTER 
 1441 Florida Ave.
 Modesto, CA 95350
 NICU Beds:30
 Neonatologists:2
+Neonatologists names: David Klain; Frederich Murphy 
 
 BEVERLY HOSPITAL 
 309 W. Beverly Blvd.
 Montebello, CA 90640
 NICU Beds:4
 Neonatologists:2
+Neonatologists names: Ken Chon; Savitri Rambhatla
 
 GARFIELD MEDICAL CENTER
 525 N. Garfield Ave.
 Monterey Park, CA 91754
 NICU Beds: 14
 Neonatologists:4
+Neonatologists names: Lorraine Jones; Van Lilly; Mary Lim; Harjinder Singh
 
 EL CAMINO HOSPITAL
 2500 Grant Rd.
 Mountain View, CA 94040
 NICU Beds:See Lucile Salter
 Packard Children's Hospital
-Neonatologists:Refer to Lucile Satter Packard
-Children's Hospital
+Neonatologists:Refer to Lucile Satter Packard Children's Hospital
 
-HOAG MEMORIAL. HOSPITAL V
-PRESBYTERIAN
+HOAG MEMORIAL. HOSPITAL PRESBYTERIAN
 301 Newport Blvd.
 Newport Beach, CA 92663
 NICU Beds:12
 Neonatologists:2
+Neonatologists names: Bernard Hannam; Lawrence Wickham
 
-NORTHRIDGE HOSPITAL MEDICAL
-CENTER
+NORTHRIDGE HOSPITAL MEDICAL CENTER
 18300 Roscoe Blvd.
 Northridge, CA 91328
 NICU Beds:22
 Neonatologists:3
+Neonatologists names: Saba Gaffar; Theodore Glatz; Berry Halpern 
 
 CHILDREN'S HOSPITAL OAKLAND 
 747 - 52nd St.
 Oakland, CA 94609
 NICU Beds:47
 Neonat0logists:21
+Neonatologists names: Linda Burden; Arthur D'Harlingue; David Durand; Gibert Duritz; Alex Espinoza; Thomas Eusterbrock; Lawrence Franklin; James Harrod; Harold Helbock; Priscilla Joe; Lily Kao; Florence Kuyt; Victor Lvoff; William Murphy; Barry Phillips; Richard Powers; Amarjit Sandhu; Charles Scott; jamie Tannebaum; Anna Usowicz; Carlene Wong; Hui-Hsin Wu
 
 HIGHLAND GENERAL HOSPITAL
 1441 E. 31st St.
 Oakland, CA 94602
 NICU Bads:8
 Neonatologists:1
+Neonatologists names: Richard Fulroth
 
-KAISER PERMANENTE MEDICAL
-CENTER - OAKLAND
+KAISER PERMANENTE MEDICAL CENTER - OAKLAND
 280 W. Mac Arthur Blvd.
 Oakland, CA 94611
 NICU Beds:29
 Neonatologists:3
+Neonatologists names: Carl Gilden; MichaelJennis; Frederick Shum
 
 SUMMIT MEDICAL CENTER 
 350 Hawthorne Ave.
 Oakland, CA 94609
 NICU Beds:20 
 Neonatologists:1
+Neonatologists names: Victor Lvoff
 
 TRI-CITY MEDICAL CENTER 
 4002 Vista Way
 Oceanside, CA 92056
 NICU Beds:20
 Neonatologists:3
+Neonatologists names: Gerard Brown; Philip Marinelli
 
-CHILDREN'S HOSPITAL OF ORANGE 
-COUNTY
+CHILDREN'S HOSPITAL OF ORANGE COUNTY
 455 S. Main St.
 Orange, CA 92668
 NICU Beds:32
 Neonatologists:8
+Neonatologists names: 
 
 ST. JOSEPH HOSPITAL
 1100 W. Stewart Dr.
