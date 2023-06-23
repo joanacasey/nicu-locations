@@ -2356,24 +2356,26 @@ NICU Beds:54
 Neonatologists:7
 Neonatologists names: Barry Bloom; Curtis Dorn; Carolyn johnson; Susan Laudert; Russell Nelson; Randy Reed; Yeai Roan
 
-KING'S DAUGHTERS! MEDICAL CENTER
+KING'S DAUGHTERS' MEDICAL CENTER
 2201 Lexington Ave.
 Ashland, KY 41104
 NICU Beds:8
 Neonatologists:2
+Neonatologists names: Barry Perlin; Andrew Simmons
 
-SAINT ELIZABETH MEDICAL CENTER
-SOUTH
+SAINT ELIZABETH MEDICAL CENTER SOUTH
 1 Medical Village Dr,
 Edgewood, KY 41017
 NICU Beds:12
 Neonatologists:4
+Neonatologists names: Edward Donovan; Ronald Lubbe; Ward Rice; Jeffrey Whitsett
 
 CENTRAL BAPTIST HOSPITAL
 1740 Nicholasville Rd
 Lexington, KY 40503
 NICU Beds:46
 Neonatotogists:3
+Neonatologists names: Nicholas Lynn; Mahesh Naik; Lynda Sanders
 
 HUMANA HOSPITAL 
 P.O. Box 23260
@@ -2381,14 +2383,15 @@ P.O. Box 23260
 Lexington, KY 40523
 NICU Beds:4
 Neonatologists:1
+Neonatologists names: John Vance
 
-UNIVERSITY OF KENTUCKY COLLEGE 
-OF MEDICINE
+UNIVERSITY OF KENTUCKY COLLEGE OF MEDICINE
 Division of Neonatology
 800 Rose St,
 Lexington, KY 40536
 NICU Beds:50
 Neonatologists:4
+Neonatologists names: Nirmala Desai; Thomas Pauly; Lori Shook; John Walker
 
 AUDUBON REGIONAL MEDICAL CENTER
 NICU
@@ -2396,9 +2399,10 @@ One Audobon Plaza Dr.
 Louisville, KY 40217
 NICU Beds:18
 Neonatologists:5
+Neonatologists names: Moises Dreszer; Norris Hill; Charles Sarasohn; Elizabeth Wade; Caroline Willette
 
 BAPTIST HOSPITAL EAST
-4000 kresge Way
+4000 Kresge Way
 Louisville, KY 40207
 NICU Beds:6
 Neonatologists:
@@ -2409,8 +2413,7 @@ KOSAIR CHILDREN'S HOSPITAL
 Louisville, KY 40202
 NICU Beds:51
 Neonatologists:
-Refer to University of Louisville Schoo!
-of Medicine
+Refer to University of Louisville School of Medicine
 
 NORTON HOSPITAL OF ALLIANT
 HEALTH SYSTEM
@@ -2418,8 +2421,7 @@ Box 35070
 Louisville, KY 40232-5070
 NICU Beds:25
 Neonatologists:
-Refer to University of Louisville School
-of Medicine
+Refer to University of Louisville School of Medicine
 
 SUBURBAN MEDICAL CENTER
 4001 Dutchman’s Lane
@@ -2434,93 +2436,100 @@ HOSPITAL
 Louisville, KY 40202
 NICU Beds:24
 Neonatologists:
-Refer to University of Louisville School
-of Medicine
+Refer to University of Louisville School of Medicine
 
 UNIVERSITY OF LOUISVILLE
 SCHOOL OF MEDICINE
 Division of Neonatal Medicine
 Louisville, KY 40292 
 Neonatologists:9
+Neonatologists names: David Adamkin; Karen Bibb; Larry Cook; Herbert Lassiter; John Roberts; Tonnya Robinson; Roger Shott; Dan Stewart; Shirley Wilkerson
 
-REGIONAL MEDICAL CENTER OF 
-HOPKINS COUNTY
+REGIONAL MEDICAL CENTER OF HOPKINS COUNTY
 900 Hospital Dr.
 Madisonville, KY 42431
 NICU Beds:15
 Neonatologists:2
+Neonatologists names: Iyad Aljabi; Alejandro Soriano
 
 PIKEVILLE METHODIST HOSPITAL
 911 S. ByPass Rd.
 Pikeville, KY 415041
 NICU Beds:8
 Neonatologists:1
+Neonatologists names: Ruth Shepherd
 
-LAKE CUMBERLAND REGIONAL 
-HOSPITAL
+LAKE CUMBERLAND REGIONAL HOSPITAL
 305 Langdon St.
 Somerset, KY 42501
 NICU Beds:15
 Neonatologists:1
+Neonatologists names: Glenn Blackburn
 
-RAPIDES REGIONAL MEDICAL 
-CENTER
+RAPIDES REGIONAL MEDICAL CENTER
 Box 30101
 Alexandria, LA 71306
 NICU Beds:12 
 Neonatologists:2
+Neonatologists names: Perla Castor; Amar Nijjar
 
 ST. FRANCES CABRINI HOSPITAL 
 3330 Masonic Dr.
 Alexandria, LA 71301
 NICU Beds:12
 Neonatologists:
-Refer to Rapides Regional Medical Cente.
+Refer to Rapides Regional Medical Center
 
-EARL K. LONG HOSPITAL “
+EARL K. LONG HOSPITAL
 5825 Airline Hwy.
 Baton Rouge, LA 70805
 NICU Beds:13
 Neonatologists:3
+Neonatologists names: Judith fishbein; Sandra Grant; Richard Heath
 
 WOMAN'S HOSPITAL
 9050 Airline Hwy.
 Baton Rouge, LA 70815
 NICU Beds:48
 Neonatologists:4
+Neonatologists names: Peter Aldoretta; Janet Larson; Robert Pace; Steven Spedale
 
 LAKEVIEW HOSPITAL 
 P.O, Drawer 1269
 Covington, LA 70434
 NICU Beds:6
 Neonatologists:2
+Neonatologists names: Carolyn Robinson; Roberto Suarez
 
 ST. TAMMANY PARISH HOSPITAL
 1202 S. Tyler St
 Covington, LA 70433 
 NICU Beds:6
 Neonatologists:1
+Neonatologists names: Alma Levy
 
 MEADOWCREST HOSPITAL
 2500 Belle Chase Hospital
 Gretna, LA 70066
 NICU Beds:12
 Neonatologists:2
+Neonatologists names: harish Anand; Rajesh Sharma
 
 NORTH OAKS MEDICAL CENTER 
 Box 2668
 Hammond, LA 70404
 NICU Beds:4
 Neonatologists:2
+Neonatologists names: Thomas Kloor; Ivan Villalta-Wehmeyer
 
 ST, JUDE MEDICAL CENTER 
 180 W. Esplanade Ave.
 Kenner, LA 70085
 NICU Beds:6
 Neonatologists:1
+Neonatologists names: Malektaj Yazdani
 
-LAFAYETTE GENERAL MEDICAL
-CENTER
+LAFAYETTE GENERAL MEDICAL CENTER
 Box 52008 OCS
 Lafayette, LA 70505
 NICU Beds:10
@@ -2530,14 +2539,16 @@ Refer to Women’s & Children's Hospital
 UNIVERSITY MEDICAL CENTER
 2390 W, Congress
 Lafayette, LA 70507
-NICU Beds:22 .
- Neonatologists:2
+NICU Beds:22
+Neonatologists:2
+Neonatologists names: Parvin Safari; Sarita Sharma 
 
 WOMEN'S & CHILDREN'S HOSPITAL
 4600 Ambassador Caffery Pky.
 Lafayette, LA 70508
 NICU Beds:18
 Neonatologists:3
+Neonatologists names: James Adams; Rosaire Belizaire; Cong Vo
 
 LAKE AREA MEDICAL CENTER
 4200 Nelson Rd.
@@ -2551,21 +2562,21 @@ LAKE CHARLES MEMORIAL HOSPITAL
 Lake Charles, LA 70604
 NICU Beds:19
 Neonatologists:2
+Neonatologists names: Juan Bossano; Chih-Hao Lin
 
-EAST JEFFERSON GENERAL
-HOSPITAL
+EAST JEFFERSON GENERAL HOSPITAL
 4200 Houma Blvd.
 Metairie, LA 70011
 NICU Beds:12
 Neonatologists:
-Refer to Ochner Foundation Hospital, New
-Orleans
+Refer to Ochner Foundation Hospital, New Orleans
 
 LAKESIDE HOSPITAL 
 4700 1-10 Service Rd.
 Metairie, LA 70001
 NICU Beds:23
 Neonatologists:1
+Neonatologists names: Malektaj Yazdani
 
 ST. FRANCIS MEDICAL CENTER 
 Box 1901
@@ -2573,244 +2584,256 @@ Box 1901
 Monroe, LA 71210
 NICU Beds:21
 Neonatologists:1
+Neonatologists names: Marc deSoler 
 
-CHILDRENS HOSPITAL OF NEW 
-ORLEANS
+CHILDRENS HOSPITAL OF NEW ORLEANS
 200 Henry Clay Ave.
 New Orleans, LA 70118
 NICU Beds:22
 Neonatologists:8
+Neonatologists names: Dianna Albrecht; Brian Barkemeyer; Sergio Bustamante; David Clark; Sheila Gottschalk; Duna Penn; Claudia Schuth
 
-MEDICAL CENTER OF LOUISIANA AT
-NEW ORLEANS
+MEDICAL CENTER OF LOUISIANA AT NEW ORLEANS
 University Hospital
 1532 Tulane Ave.
 New Orleans, LA 70140-2822
 NICU Beds:35
-Neonayologists:
-Refer to Children’s Hospital of New
-Orleans
+Neonatologists:
+Refer to Children’s Hospital of New Orleans
 
 MERCY BAPTIST MEDICAL CENTER
 2700 Napolean Ave.
 New Orleans, LA 70015
 NICU Beds:25
 Neonatologists:4
+Neonatologists names: Imelda Bautista; Marlene Buis; Juan Gershanik; Victor Lunyong
 
 OCHSNER FOUNDATION HOSPITAL 
 1516 Jefferson Hwy.
 New Orleans, LA 70121
 NICU Beds:36
 Neonatologists:3
+Neonatologists names: Harley Ginsberg; Jay Goldsmith; Marie McGettigan 
 
-PENDLETON MEMORIAL METHODIST
-HOSPITAL
+PENDLETON MEMORIAL METHODIST HOSPITAL
 5620 Read Blvd.
 New Orleans, LA 70127
 NICU Beds:8
 Neonatologists:
-Refer to Children’s Hospital of New
-Orleans
+Refer to Children’s Hospital of New Orleans
 
 TOURO INFIRMARY 
 1401 Foucher St.
 New Orleans, LA 70115
 NICU Beds:8
 Neonatologiets:1
+Neonatologists names: Dianne Albrecht 
 
-TULANE UNIVERSITY MEDICAL 
-CENTER
+TULANE UNIVERSITY MEDICAL CENTER
 Department of pediatrics SL-37
 1430 Tulane Ave.
 New Orleans
 NICU Beds:12
 Neonatologists:3
+Neonatologists names: William Gill; Maria Pierce; Jane Reynolds 
 
-LOUISIANA STATE UNIVERSITY 
-MEDICAL CENTER
+LOUISIANA STATE UNIVERSITY MEDICAL CENTER
 P.O. Box 33932
 1501 Kings Hwy.
 Shreveport, LA 71101
 NICU Beds:35
 Neonatologists:7
+Neonatologists names: John Baier; Janet Blount; Edwin Brown; Hasan Ibrahim; Richard Krouskop; Bharti Manchandia; Arun Pramanik
 
 SCHUMPERT MEDICAL CENTER 
 1 St. Mary Place
 Shreveport, LA 71101
 NICU Beds:12
 Neonatologists:2
+Neonatologists names: Michael cone; Julia Elrod
 
-WILLIS KNIGHTON CENTER FOR
-WOMEN'S HEALTH
+WILLIS KNIGHTON CENTER FOR WOMEN'S HEALTH
 2510 Bert Kouns Industrial Loop
 Shreveport, LA 71118
 NICU Beds:14
 Neonatologists:2
+Neonatologists names: Bharti Manchandia; Po-I Tseng
 
-NORTHSHORE REGIONAL MEDICAL
-CENTER
+NORTHSHORE REGIONAL MEDICAL CENTER
 100 Medical Center Dr.
 Slidell, LA 70461
 NICU Beds:8
 Neonatologists:
-Refer to Children’s Hospital of New
-Orleans
+Refer to Children’s Hospital of New Orleans
 
 SLIDELL MEMORIAL HOSPITAL
 1001 Gause Blvd.
 Slidell, LA 70458
 NICU Beds:8
 Neonatologists:1
+Neonatologists names: Deborah Picken
 
 EASTERN MAINE MEDICAL CENTER 
 489 State St.
 Bangor, ME 04401
 NICU Beds:17
 Neonatologists:2
+Neonatologists names: Mary Connolly; Mary Kate Davitt 
 
 CENTRAL MAINE MEDICAL CENTER
 300 Main St.
 Lewiston, ME 04240-0305
 NICU Beds:10
 Neonatologists:2
+Neonatologists names: Elizabeth Rosquete; William Salomon
 
 MAINE MEDICAL CENTER 
 22 Bramhall St.
 Portland, ME 04102
 NiCU Beds:25
 Neonatologists:5
+Neonatologists names: Douglas Dransfield; Dale Kessler Jr.; Peter Marro; Doreen Morrow; Daniel Sobel
 
 ANNE ARUNDEL MEDICAL CENTER
 Franklin & Cathedral Sts. 
 Annapolis, MD 21401
 NICU Beds:10
 Neonatologists:1
+Neonatologists names: Suzanne Rindfleisch
 
-FRANKLIN SQUARE HOSPITAL 
-CENTER
+FRANKLIN SQUARE HOSPITAL CENTER
 9000 Franklin Square Dr.
 Baltimore, MD 21237
 NICU Beds:13
 Neonatologists:3
+Neonatologists names: Alan Bedrick; Melinda Elliott; Sita Kottapalli 
 
-GREATER BALTIMORE MEDICAL. 
-CENTER
+GREATER BALTIMORE MEDICAL CENTER
 Division of Newborn Medicine
 6701 N. Charles St.
 Baltimore, MD 21204-6881
 NICU Beds:30
 Neonatologists:3
+Neonatologists names: Sabah Helou; Ambadas Pathak; Siew-Jyu Wong 
 
 HARBOR HOSPITAL CENTER 
 3001 S. Hanover St.
 Baltimore, MD 21225
 NICU Beds:10
 Neonatologists:1
+Neonatologists names: Laurel Yap
 
-JOHNS HOPKINS BAYVIEW MEDICAL
-CENTER
+JOHNS HOPKINS BAYVIEW MEDICAL CENTER
 4940 Eastern Ave.
 Baltimore, MD 21224
 NICU Beds:26
 Neonatologists:5
+Neonatologists names: Gad Alpan; M.P. Gomella; M. Harris; Michael Langbaum; Homa Niknafs
 
 JOHNS HOPKINS HOSPITAL 
 600 N, Wolfe St, CMSC 210
 Baltimore, MD 21287-3200
 NICU Beds:36
 Neonatologists:7
+Neonatologists names: Marilee Allen; Gad Alpan; Estelle Gauda; Christine Gleason; Susan McCune; Lawrence Nogee; Frances Northington
 
 MERCY MEDICAL CENTER
 301 St. Paul Place
 Baltimore, MD 21202
 NICU Beds:26
 Neonatologists:
-Refer to University of Maryland School
-of Medicine
+Refer to University of Maryland School of Medicine
 
 SINAI HOSPITAL OF BALTIMORE
 2401 W. Belvedere Ave.
 Baltimore, MD 21215
 NICU Beds:24
 Neonatologists:3
+Neonatologists names: Lee Marban; Kathleen McDonlad; Thomas O'Brien
 
 ST, AGNES HOSPITAL
 900 Caton Ave.
 Baltimore, MD 21229
 NICU Beds:28
 Neonatoiogists:7
+Neonatologists names: Maria del Rosario Ames; Howard Birenbaum; Karen Broderick; Yvette Johnson; Salvador Papa; Arturo Santos; Susan Schapiro
 
 UNION MEMORIAL HOSPITAL 
 201 E. Vaiversity Pky.
 Baltimore, MD 21218
 NICU Beds: 10
 Neonatologists:2
+Neonatologists names: Jay Gopal; Ajay Verma
 
-UNIVERSITY OF MARYLAND SCHOOL
-OF MEDICINE
+UNIVERSITY OF MARYLAND SCHOOL OF MEDICINE
 Division of Neonatology
 22 S. Greene St.
 Baltimore, MD 21201
 NICU Beds:40
 Neonatologists:8
+Neonatologists names: Lilliam Blackmon; Susan Dulkerian; Renee Rox; Ira Gewolb; Ronald Gutberlet; Bernadine Moglia; timothy Oalmer; rose Viscardi
 
 NATIONAL NAVAL MEDICAL CENTER
 8901 Wisconsin Ave.
 Bethesda, MD 20889
 NICU Beds:24
 Neonatologists:
-Refer to Uniform Services University of
-Health Sciences
+Refer to Uniform Services University of Health Sciences
 
-UNIFORM SERVICES UNIVERSITY OF
-THE HEALTH SCIENCES
+UNIFORM SERVICES UNIVERSITY OF THE HEALTH SCIENCES
 4301 Jones Bridge Rd.
 Bethesda, MD 20814
 Neonatologists:8
+Neonatologists names: James Berkenbaugh; Brian Carter; Bryan Darling; Jeffrey Greenwald; Rodney Levine; Russell Moores Jr.; Cheryl Naulty; John Pierce
 
-PRINCE GEORGE'S HOSPITAL
-CENTER
+PRINCE GEORGE'S HOSPITAL CENTER
 3001 Hospital Dr.
 Cheverly, MD 20785
 NICU Beds:15
 Neonatologists:3
+Neonatologists names: Zenaida Alidon; Wilma Dayrit; Isabelita Frattarola
 
-SOUTHERN MARYLAND HOSPITAL 
-CENTER
+SOUTHERN MARYLAND HOSPITAL CENTER
 7503 Surratts Rd.
 Clinton, MD 29735
 NICU Beds:8
 Neonatologists:1
+Neonatologists names: Carmen Enecio
 
 HOWARD COUNTY GENERAL HOSPITAL 
 5755 Cedar Lane
 Columbia, MD 21044
 NICU Beds:18
 Neonatologists:3
+Neonatologists names: tuvia Blechman; Nikhil Raval; Bharti Razdan
 
 MONTGOMERY GENERAL HOSPITAL
 18101 Prince Phillp Dr.
 Olney, MD 20832-9990
 NICU Beds:18
 Neonatologists:3
+Neonatologists names: Mariad Ames; Suzanne Rindfleish; Milton Werthmann
 
 SHADY GROVE ADVENTIST HOSPITAL
 9901 Medical Center Dr.
 Rockville, MD 20850
 NICU Beds:27
 Neonatologists:3
+Neonatologists names: Robert Buczek; Chris Jultzen; Sith Sadhasivam
 
 HOLY CROSS HOSPITAL 
 1500 Forest Glen Rd.
 Silver Spring, MD 20910
 NICU Beds:32
 Neonatologists:6
+Neonatologists names: Margaret Chou; Alan Goldberg; Mary-Lenore Keszler; Sharon Kiernan; Marilea Miller; Steven Wyner
 
 ST. JOSEPH MEDICAL CENTER 
 7620 York Ra.
 Towson, MD 21204
 NICU Beds:10
 Neonatologists:2
+Neonatologists names: Marilyn Bennett; Michael Langbaum
 
 BETH ISRAEL HOSPITAL
 330 Brookline Ave.
@@ -2824,14 +2847,15 @@ BOSTON CITY HOSPITAL
 Boston, MA 02118
 NICU Beds:19
 Neonatologists:4
+Neonatologists names: Charles Anderson; Elizabeth Brown; Alan Fujii; Mark Mirochnick
 
 BOSTON PERINATAL CENTER 
-FLOATING HOSPITAL FOR CHILDREN
-AT NEW ENGLAND MEDICAL CENTER
+FLOATING HOSPITAL FOR CHILDREN AT NEW ENGLAND MEDICAL CENTER
 Box 44 NEMC 750 Washington St.
 AL Boston, MA 02111
 NICU Beds:37
 Neonatologists:10
+Neonatologists names: Diana Biacnchi; Mary Backwell; Cynthia Cole; John Fiascone; Ivan Frantaz; Karen Harvey-Wilkes; Laurie Konowitz; Heber Nielsen; Kevin Petit; Barbara Shephard
 
 BRIGHAM AND WOMENS HOSPITAL
 75 Francis St,
