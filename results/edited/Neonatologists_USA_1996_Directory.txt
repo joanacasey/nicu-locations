@@ -2869,37 +2869,42 @@ CHILDREN’S HOSPITAL
 Boston, MA 02115
 NICU Beds:16
 Neonatologists:26
+Neonatologists names: John Cloherty; William Cochran; Thomas Diacovo; Eric Eichenwald; Kimberlee Fish; James Gray; Michael Hinkes; Kenneth Huttner; Stella Kourembanas; Janet Scott Lloyd; Karen Mc Almon; Richard Parad; William Powers; DeWayne Pursley; Douglas Richardson; Steven Ringer; Gary Silverman; Charles Simmons; Evan Snyder; Ann Stark; Jane Stewart; Jeffrey Stolz; Yao Sun; Miles Tsuji; Linda Van Marter; Richard Wilker
 
-MASSACHUSETTES GENERAL
-HOSPITAL - FOUNDERS 4
+MASSACHUSETTES GENERAL HOSPITAL - FOUNDERS 4
 32 Fruit St.
 Boston, MA 02114
 NICU Beds:22
 Neonatologists:8
+Neonatologists names: Elizabeth Catlin; Michael Cotten; Jonathan Cronin; Robert Insoft; Ronald Pye; Jesse Roberts; Lucienne Sanchez; David Todres
 
 ST. ELIZABETH'S MEDICAL CENTER
 736 Cambridge St.
 Boston, MA 02135
 NICU Beds:20
 Neonatologists:5
+Neonatologists names: James Canfield; George Cassady; Joseph Jr. Kennedy; Sunita Periera; Pamela Tewarson
 
 BROCKTON HOSPITAL 
 680 Centre St.
 Brockton, MA 02402-3395
 NICU Beds:8
 Neonatologists:1
+Neonatologists names: James Thorp
 
 MOUNT AUBURN HOSPITAL 
 330 Mount Auburn St.
 Cambridge, MA 02238
 NICU Beds:7
 Neonatologists:2
+Neonatologists names: Charles Cotten; Ronald Pye
 
 EMERSON HOSPITAL 
 Old Rd. to Nine Acre Corner
 Concord, MA 01742
 NICU Beds:6
 Neonatologists:1
+Neonatologists names: Nana Mc Mahon
 
 METROWEST MEDICAL CENTER
 Chairman, Dept of Pediatrics
@@ -2907,24 +2912,28 @@ Chairman, Dept of Pediatrics
 Framingham, MA 01701
 NICU Beds:10
 Neonatologists:1
+Neonatologists names: Kishor Mehta
 
 NEWTON-WELLESLEY HOSPITAL
 2014 Washington St.
 Nawton, MA 02162
 NICU Beds:12
 Neonatologists:2
+Neonatologists names: Janet Lloyd; Richard Wilker
 
 NORTH SHORE MEDICAL CENTER 
 81 Highland Ave.
 Salem, MA 01970
 NICU Beds:12
 Neonatologists:8
+Neonatologists names: Ralph Aarons; Timothy Baba; Cynthia Cole; Nicholas Guerina; Karen Harvey-Wilkes; Simon Michael; Barbara Shephard; Robert Vosatka
 
 SOUTH SHORE HOSPITAL
 55 Fogg Rd.
 South Weymouth, MA 0219
 NICU Beds:9
 Neonatologists:2
+Neonatologists names: Patricia DeGiulio; Brenda Troche
 
 BAYSTATE MEDICAL CENTER 
 Newborn Medicine
@@ -2932,25 +2941,28 @@ Newborn Medicine
 Springfield, MA 01199
 NICU Beds:55
 Neonatoloalsts:6
+Neonatologists names: Thomas Campfield; Barbara Kelly; Kathleen Meyer; Gary Rockwell; Robert Rothstein; Bhavesh Shah
 
 GOOD SAMARITAN MEDICAL CENTER
-909 Sumner St. “
+909 Sumner St.
 Stoughton, MA 02072
 NICU Beds:10
 Neonatologists:2
+Neonatologists names: Laurie Konowitz; Andrew Magno
 
-WINCHESTER HOSPITAL,
-41 Highland St,
+WINCHESTER HOSPITAL
+41 Highland St.
 Winchester, MA 01890
 NICU Beds:8
 Neonatologists:2
+Neonatologists names: Karen McAlmon; William Powers
 
-MEDICAL CENTER OF CENTRAL 
-MASSACHUSETTS
+MEDICAL CENTER OF CENTRAL MASSACHUSETTS
 119 Belmont St.
 Worcester, MA 01605
 NICU Beds:34
 Neonatologists:5
+Neonatologists names: Francis Bednarek; Braden Griffin; James Pellegrini; Joel Weiner; Stuart Weisberger
 
 ST. VINCENT HOSPITAL
 25 Winthrop St,
@@ -2960,189 +2972,190 @@ Neonatologists:
 Refer to Medical Center of Central
 Massachusetts
 
-UNIVERSITY OF MICHIGAN MEDICAL 
-CENTER
+UNIVERSITY OF MICHIGAN MEDICAL CENTER
 Box 0254, F5790 Mott
 200 E. Hospital Dr.
-Ann Arbor, Mil 48109-0254
+Ann Arbor, MI 48109-0254
 NICU Beds:38
 Neonatologists:7
+Neonatologists names: John Barks; Mary Ellen Bozynski; Steven Donn; Margaret Everett; Roger Faix; Dietrich Roloff; Robert Shumacher
 
-OAKWOOD HOSPITAL AND MEDICAL 
-CENTER - DEARBORN
-18101 Oakwood Bivd.
-Dearborn, Mi 48123
+OAKWOOD HOSPITAL AND MEDICAL CENTER - DEARBORN
+18101 Oakwood Blvd.
+Dearborn, MI 48123
 NICU Beds:20
 Neonatologists:5
+Neonatologists names: Derek Bair; Joanna Beachy; Frederick Lueder; Thomas Malone; Krystyna Pasterska
 
-CHILDREN'S HOSPITAL OF
-MICHIGAN
+CHILDREN'S HOSPITAL OF MICHIGAN
 3901 Beaubien Blvd.
 Detroit, MI 48201
 NICU Beds:42
 Neonatologists:8
+Neonatologists names: Mary Bedard; Virginia Delaney-Black; Nadya Kazzi; Ganesh Konduri; Winston Koo; Deborah May; Enrique Ostrea; Seetha Shankaran
 
 DETROIT RIVERVIEW HOSPITAL 
 7733 E. Jefferson Ave.
 Detroit, MI 48215
-Director Of Neonatology:
 NICU Beds:15
 Neonatologists:5
+Neonatologists names: Laura Decastor; Gerald Katzman; Martin Nwankwo; Ali Rabbani; Fatma Yehia
 
 GRACE HOSPITAL 
 6071 W. Outer Dr.
-Detroit, ME. 48235
+Detroit, MI 48235
 NICU Beds:25
 Neonatologists:3
+Neonatologists names: Nestor Ilagan; Keh-Chyang Liang; Sophie Womack
 
 HENRY FORD HOSPITAL 
 Division of Neonatology, I-3
 2799 W. Grand Blvd.
-Detroit, MI. 48202
+Detroit, MI 48202
 NICU Beds:31
 Neonatologists:6
+Neonatologists names: Rajendra Desai; Alaa Eldemerdash; Sudhakar Ezhuthachan, Savitri Kumar; Homer Ryan; E. Vijaykumaran
 
 HUTZEL HOSPITAL
 4707 St. Antoine Blvd.
-Detroit, Mi 48201
+Detroit, MI 48201
 NICU Beds:36
 Neonatologists:
 Refer to Children's Hospital of Michigan
 
 SINAI HOSPITAL 
 6767 W. Outer Dr.
-Detroit, Mi. 48235-2899
+Detroit, MI 48235-2899
 NICU Beds:20
 Neonatologists:5
+Neonatologists names: Gail Abraham; Myrna Deleon; Samina Furhad; Thomas Mathew; Elliot Samet
 
-ST. JOHN HOSPITAL & MEDICAL 
-CENTER
+ST. JOHN HOSPITAL & MEDICAL CENTER
 22101 Moross Rd.
-Datroit, ME 48236
+Detroit, MI 48236
 NICU Beds:30
 Neonatologists:7
+Neonatologists names: John Adams; Renato Casabar; Maria Duenas; Bahman Mehdizadeh; Deepak Patel; Ali Rabbani; Nicholas Relich
 
 HURLEY MEDICAL CENTER 
 One Hurley Plaza, 332-3W
-Flint, Mi 48503
+Flint, MI 48503
 NICU Beds:44
 Neonatologists:6
+Neonatologists names: Danish Alamy; Epifania Aranas; Raymond Chan; Brian Nolan; Aladdin Rahman; Roberto Villegas
 
-BLODGETT MEMORIAL MEDICAL 
-CENTER
+BLODGETT MEMORIAL MEDICAL CENTER
 1840 Wealthy S.E.
 Grand Rapids, MI 49506
 NICU Beds:15
 Neonatologists:2
+Neonatologists names: Alice Andrews; Charles Winslow
 
-DE VOS CHILDREN'S HOSPITAL AT 
-BUTTERWORTH
+DE VOS CHILDREN'S HOSPITAL AT BUTTERWORTH
 400 Michigan, N.E.
-Grand Rapids, Ml. 49503
+Grand Rapids, MI 49503
 NICU Beds:72
 Neonatologists:6
+Neonatologists names: Ed Beaumont; Alan Jones; Jean Khawam; Craig Kinney; Leonard Radecki; Thomas Shaw
 
 BRONSON METHODIST HOSPITAL
 252 E. Lovell St. 
 Kalamazoo, MI 49007-5364
 NICU Beds:42
 Neonatologists:5
+Neonatologists names: John Hartline; Gerald Purdy; William Rimmke; Samuel Sefton; Joan Sharda
 
 SPARROW HOSPITAL
 P.O. Box 30480
 41215 E. Michigan
-Lansing, Ml. 48909-7980
+Lansing, MI 48909-7980
 NICU Beds:52
 Neonatologists:5
+Neonatologists names: Maged Farid; Padmani Karna; John Lorenz; John O'Bell; Said Omar
 
 MARQUETTE GENERAL HOSPITAL 
 420 W. Magnetic
 Marquette, MI 49855
 NICU Beds:10
 Neonatologists:2
+Neonatologists names: Cleoff Chavez; Ann Pillote
 
 NORTHERN MICHIGAN HOSPITAL
 560 W. Mitchell 
 Petoskey, MI 49770
 NICU Beds:12
 Neonatologists:1
+Neonatologists names: David Sciamanna
 
 NORTH OAKLAND MEDICAL CENTF
 461 W. Huron St.
-Pontiac, Ml 48341
+Pontiac, MI 48341
 NICU Beds:30
 Neonatologists:2
+Neonatologists names: Narasingrao Pampati; Mona Reveri
 
 ST. JOSEPH MERCY HOSPITAL
 900 Woodward Ave. - MB#10
-Pontiac, Ml 48341-2985
+Pontiac, MI 48341-2985
 NICU Beds:13
 Neonatologists:4
+Neonatologists names: Rajendra Desai; Sudhakar Ezhuthachan; Savitri Kumar; Homer Ryan
 
 CRITTENTON HOSPITAL
 1101 W. University Dr.
-Rochester, Ml 48307-1834
+Rochester, MI 48307-1834
 NICU Beds:8
 Neonatologists:1
+Neonatologists names: Kanamarlapudi Rao
 
 WILLIAM BEAUMONT HOSPITAL
 601 W, Thirteen Mile Rd.
 Royal Oak, MI 48073-6769
 NICU Bads:28
 Neonatologists:6
+Neonatologists names: Daniel Batton; Mitchell DeJonge; David DeWitte; Judith Klarr; Jeffrey Maisels; Cynthia Pryce
 
 SAGINAW GENERAL HOSPITAL
 1447 N. Harrison St.
 Saginaw, MI 48602
 NICU Beds:45
 Neonatologists:4
+Neonatologists names: Zaid Alrawi; Jerry Evans; Khawar Moshini; Chai Soontharotoke
 
 PROVIDENCE HOSPITAL 
 16001 W. Nine Mile Rd.
 Southfield, MI 48037
 NICU Beds: 14
 Neonatologists:3
+Neonatologists names: Rima Dajani; Betty Go; Shahid Khan
 
 MUNSON MEDICAL CENTER
 6th St. & Madison Ave.
 Traverse City, MI 49684
 NICU Beds:12
 Neonalologists:1
+Neonatologists names: Mary Kokosky
 
-WILLIAM BEAUMONT HOSPITAL 
-TROY
+WILLIAM BEAUMONT HOSPITAL TROY
 44201 Dequindre Rd.
 Troy, MI 48098
 NICU Beds:3
 Neonatologists:1
+Neonatologists names: Karen Hufnagle
 
-### End of editing ###
-
-OAKWOOD HOSPITAL ANNAPOLIS
-CENTER - WAYNE
+OAKWOOD HOSPITAL ANNAPOLIS CENTER - WAYNE
 33155 Annapolis Ave.
 Wayne, MI 48184
-Director Of Neonatology:
-Derek K. Bair, M.D.
-Office Phone: {er eh ass
-NICU Phone: (313)467-4211
 NICU Beds:10
 Neonatologists:
-Refer to Oakwood Hospital & Medical
-Center - Dearborn
-DULUTH, MN
+Refer to Oakwood Hospital & Medical Center - Dearborn
+
 ST. MARY'S MEDICAL CENTER
 407 E. Third St.
 Duluth, MN 55805
-Director Of Neonatology:
-Sao- Young Pj, BD.
-
-Office Phone: (248)726-4533
-Office Fax: — (218)725-3030
-NIGU Phone: (218)726-4601
-NICU Fax: — (218)725-7384
 NICU Beds:25
-Neonatologists:
+Neonatologists:3
+Neonatologists names: Martha Aas; Roderick
 
 AAS, MARTHA A.
 
