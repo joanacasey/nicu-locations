@@ -2161,124 +2161,136 @@ Neonatologists names: Rose Jaucian; Nestor Ramirez
 ST. FRANCIS HOSPITAL & HEALTH CENTER
 1600 Albany St,
 Beach Grove, IN 46107
-Director Of Neonatology:
 NICU Beds:14
 Neonatologists:3
-Neonatologists names:
+Neonatologists names: Girdhar Ahuja; Rory Peppard; Gregory Sokol
 
-ST. MARY'S MEDICAL CENTER OF 
-EVANSVILLE
+ST. MARY'S MEDICAL CENTER OF EVANSVILLE
 3700 Washington Ava.
 Evansville, IN 47750
 NICU Beds:28
 Neonatologists:4
+Neonatologists names: Bernardo Arnaez; Maria Del Rio; Miles Grant; Charles MacDonald
 
 WELBORN BAPTIST HOSPITAL 
 401 S.E. 6th St.
 Evansville, IN 47713
 NICU Beds:18
 Neonatologists:3
+Neonatologists names: James Hansen; Zahia Hassan; R. Meibalane
 
 LUTHERAN HOSPITAL
 7950 W. Jefferson
 Fort Wayne, IN 46804
 NICU Beds:22
 Neonalologists:1
+Neonatologists names: Taimin Chen
 
-PARKVIEW MEMORIAL HOSPITAL t-*
+PARKVIEW MEMORIAL HOSPITAL
 2200 Randallia Dr.
 Fort Wayne, IN 46805
 NICU Bads:30
 Neonatologists:3
+Neonatologists names: Ihor Bilyk; William Lewis; Joel Secrest
 
 METHODIST HOSPITAL 
 600 Grant St.
 Gary, IN 46402
 NICU Beds:26
 Neanatologits:2
+Neonatologists names: Catherine McDermott; Cholemari Sridhar
 
-SAINT MARGARET MERCY
-HEALTHCARE CENTERS
+SAINT MARGARET MERCY HEALTHCARE CENTERS
 5454 Hohman Ave.
 Hammond, IN 46320
 NICU Beds:16
 Neonatologists:3
+Neonatologists names: Sodsai Jaiwatana; Mely Tan; Anuradha Tiruvury
 
-INDIANA UNIVERSITY MEDICAL 
-CENTER
-James Whitcomb Riley Hospital for Chitdr
+INDIANA UNIVERSITY MEDICAL CENTER
+James Whitcomb Riley Hospital for Children
 702 Barnhill Dr.
 Indianapolis, IN 46262-5210
 NICU Beds:77
 Neonatologists:13
+Neonatologists names: David Boyle; Wade Clapp; Scott Denne; William Engle; David Hertz; Patricia Keener; James Lemons; Edward Liechty; Seth Malin; Rory Peppard; Richard Schreiner; Gregory Sokol; Mervin Yoder
 
 METHODIST HOSPITAL OF INDIANA 
 1-65 & 21st St.
 Indianapolis, IN 46202
 NICU Beds:27
 Neonatologists:3
+Neonatologists names: Howard Harris; John Warehman; Ina Whitman
 
 ST. VINCENT HOSPITAL 
 2001 W, 86th St.
 Indianapolis, IN 46260
 NICU Beds:21
 Neonatologists:5
+Neonatologists names: Niceta Bradburn; Deborah Franzek; Mindy Hendrixson; Anne Marnocha; Kem Templeton
 
-WOMEN'S HOSPITAL OF 
-INDIANAPOLIS
+WOMEN'S HOSPITAL OF INDIANAPOLIS
 8111 Township Line Rd.
 Indianapolls, IN 46260
 NICU Beds:20
 Neonatologists:2
+Neonatologists names: Lydia Abad; Betty Lou Walsman
 
 LAFAYETTE HOME HOSPITAL 
 2400 South St.
 Lafayette, IN 47905
 NICU Beds:12
 Neonatologists:3
+Neonatologists names: Mir Basir; Barbara Bourland; Rosario Chua
 
 BALL MEMORIAL HOSPITAL
 2401 University Ave.
 Muncie, IN 47303
 NICU Beds:16
 Neonatologists:2
+Neonatologists names: Thomas Kundenreich; Donna Wilkins
 
 MUNSTER COMMUNITY HOSPITAL
 901 MacArthur Blvd.
 Munster, IN 46321
 NICU Beds:15
 Neonatoilogists:3
+Neonatologists names: Ismail Abbasi; Wichest Boonyapredee; Kongkiet Thaeramanophab
 
-MEMORIAL HOSPITAL OF SOUTH 
-BEND
+MEMORIAL HOSPITAL OF SOUTH BEND
 615N. Michigan St.
 South Bend, IN 46601-1033
 NICU Beds:36
 Neonatologists:4
+Neonatologists names: Patrick Campbell; Tyra Gaylord; Olufemi Okanlami; Robert White
 
 PORTER MEMORIAL HOSPITAL
 814 La Porte Ave.
 Valparaiso, IN 46383
 NICU Beds:25
 Neonatologists:1
+Neonatologists names: Ann Hilmo
 
 GENESIS MEDICAL CENTER 
 1227 E. Rusholme St,
 Davenport, IA 52803
 NICU Beds:12
 Neonatologists:2
+Neonatologists names: Venkatesh Gurantla; Sridhar Prasad
 
 BLANK CHILDREN'S HOSPITAL 
 1200 Pleasant St.
 Des Moines, IA 50309
 NICU Beds:32
 Neonatologists:5
+Neonatologists names: Holley Bedega; Susan Harrell; Bradley Riley; Robert Shaw; Joel Stenzel
 
 MERCY HOSPITAL MEDICAL CENTE
 Sixth & University Ave.
 Des Moines, IA 50314
 NICU Beds:20
 Neonatologists:3
+Neonatologists names: Vipinchandra Bhavsar; Saheb Sahu; Theresa Wahlig
 
 UNIVERSITY OF IOWA HOSPITAL 
 Department of Pediatrics
@@ -2286,59 +2298,65 @@ Department of Pediatrics
 Iowa City, IA 52242
 NICU Beds:41
 Neonatologists:9
+Neonatologists names: Michael Acarregui; Edward Bell; Herman Hein; Jonathan Klein; Gail McGuinness; Frank Morriss Jr. Jeffrey Segar; John Widness; Ekard Ziegler 
 
-ST. LUKE'S REGIONAL MEDICAL 
-CENTER
+ST. LUKE'S REGIONAL MEDICAL CENTER
 2720 Stone Park Blvd,
 Stoux City, IA 51104
 NICU Beds:24
 Neonatologists:1
+Neonatologists names: Raul Cuestas
 
 COVENANT MEDICAL CENTER 
 3421 W, Ninth St.
 Waterloo, lA 50702
 NICU Beds: 10
 Neonatologists:1
+Neonatologists names: Mir Waziri
 
 UNIVERSITY OF KANSAS 
 3901 Rainbow Blvd.
 Kansas City, KS 66160-7330
 NICU Beds:26
 Neonatologists:3
-OVERLAND PARK REGIONAL MEDICAL 
-CENTER
+Neonatologists names: Becky Rogers; Michael Sherman; Kathleen Weatherstone
+
+OVERLAND PARK REGIONAL MEDICAL CENTER
 10500 Quivira Rd.
 Overland Park, KS: 66215
 NICU Beds:28
 Neonatologists:3
+Neonatologists names: Becky Rogers; Michael Sherman; Kathleen Weatherstone
 
 STORMONT-VAIL MEDICAL CENTER
 1500 S.W. 10th St.
 Topeka, KS 66604-1353
 NICU Beds:24
 Neonatologists:2
+Neonatologists names: Jose Gierbolini; Robert Sidlinger 
 
-ST. FRANCIS REGIONAL MEDICAL 
-CENTER
+ST. FRANCIS REGIONAL MEDICAL CENTER
 929 N. Francis St.
 Wichita, KS 67214
 NICU Beds:30
 Neonatologists:4
+Neonatologists names: Awad Khalid; Juan Longhi; Eduardo Ostero; Cynthia Strand-Smart
 
 ST. JOSEPH MEDICAL CENTER 
 3600 E, Harry St.
 Wichita, KS 67218
 NICU Beds:12
 Neonatologists:1
+Neonatologists names: Howard Whiteside 
 
 WESLEY MEDICAL CENTER
 550 N. Hillside
 Wichita, KS 67214
 NICU Beds:54
 Neonatologists:7
+Neonatologists names: Barry Bloom; Curtis Dorn; Carolyn johnson; Susan Laudert; Russell Nelson; Randy Reed; Yeai Roan
 
-KING'S DAUGHTERS! MEDICAL
-CENTER
+KING'S DAUGHTERS! MEDICAL CENTER
 2201 Lexington Ave.
 Ashland, KY 41104
 NICU Beds:8
@@ -2372,8 +2390,7 @@ Lexington, KY 40536
 NICU Beds:50
 Neonatologists:4
 
-AUDUBON REGIONAL MEDICAL
-CENTER
+AUDUBON REGIONAL MEDICAL CENTER
 NICU
 One Audobon Plaza Dr.
 Louisville, KY 40217
@@ -2385,8 +2402,7 @@ BAPTIST HOSPITAL EAST
 Louisville, KY 40207
 NICU Beds:6
 Neonatologists:
-Refer to University of Louisville Schoo!
-of Medicine
+Refer to University of Louisville Schoo of Medicine
 
 KOSAIR CHILDREN'S HOSPITAL
 231 E. Chestnut St.
