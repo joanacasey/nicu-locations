@@ -1,248 +1,85 @@
-| ANCHORAGE, AK
-i. PROVIDENCE ALASKA MEDICAL CENTER
-pi $200 Providence Dr., Pouch 196604
-Anchorage, AK $9519-6604
-NICU Medical Director: Lily J. Lou, MD .
-5 {P}: (907)563-3026; (F): (807)562-6445
-: Email: Lilyiou@mindspring.com
-NICU (P): (907)212-3614; NICU (F): (907)212-4896
-i Level iIIB; NICU Beds: 50
-‘ Neonatologists:
-AVILA, EMILIO
-| JACOB, JACK
-| JOHNSON, ERIC H.
-| JOHNSON, MARY ALICE
-i KESLER, KENNETH R.
-LOU, LILY
-RIDER, EVELYN
-f Updated: 9/10/2010 ,
-ALABASTER, AL
-SHELBY BAPTIST MEDICAL CENTER ,
-1000 First St. N. |
-P.O. Box 488 |
-Alabaster, AL 35007-0488 |
-NICU Medica! Director: Rees Oliver, MD |
-(P): (205)896-2245; (F): (205)996-2254
-Emall: rollver@peds.uab.edu
-: Director of NICU High Risk Follow-Up Clinic:
-Refer to Newborn FU Clinic @ Children's Hospital
-NICU (P): (205)620-7059; NICU (F): (205)620-7058
-Level [IIB; NICU Beds: 10 }
-4 Neonatologists:
-fF Refar to Neonatologists Group of University of |
-, Alabama Hospital/Childran's Hospital of Alabama,
-Blimlngham, AL }
-: Updated: 4/6/2011
-BESSEMER, AL |
-| UAB MEDICAL WEST
+PROVIDENCE ALASKA MEDICAL CENTER
+3200 Providence Dr., Pouch 196604
+Anchorage, AK 99519-6604
+Level III; NICU Beds: 50
+Neonatologists: 7
+Neonatologists names: Emilio Avila; Jack Jacob; Eric Johnson; Mary Alice Johnson; Kenneth Kesler; Lily Lou; Evelyn Rider
+
+SHELBY BAPTIST MEDICAL CENTER
+1000 First St. N.
+P.O. Box 488
+Alabaster, AL 35007-0488
+Level III; NICU Beds: 10
+Neonatologists: 
+Refer to Neonatologists Group of University of Alabama Hospital/Children's Hospital of Alabama, Birmingham, AL
+
+UAB MEDICAL WEST
 995 9th Ave., SW
 Bessemer, AL 35022
-NICU Medical Director: Virginia Karle, MD
-(P): (205)996-2245:; (F): (205)996-2254
-Emalt: gkarle@peds,vab.edu
-NICU (P): (205)484-7148; NICU (F): (205)481-7491
-Level fA; NICU Beds: 4
-Neonatologists: |
-Reier to Neonatologists Group of University of |
-Alabama Hospltal/Children's Hospital of Alabama,
-Birmingham, AL }
-: Updated: 4/8/2014
-BIRMINGHAM, AL, |
-: BROOKWOOD MEDICAL CENTER
-: 2010 Brookwood Medical Center Dr.
+Level II; NICU Beds: 4
+Neonatologists:
+Refer to Neonatologists Group of University of Alabama Hospital/Children's Hospital of Alabama, Birmingham, AL
+
+BROOKWOOD MEDICAL CENTER
+2010 Brookwood Medical Center Dr.
 Birmingham, AL 35209
-: NICU Medicai Director: Vick DiCarlo, MD .
-|; (P): (205)877-5381; (F}: (205)877-5395 f
-i NICU (P): (205)877-5370; NICU (F): (205)877-5125
-| Level 1B; NICU Beds; 25
-i Neonatologists: {
-i BI CARLO, VICK S.
-i MENA, WAHIB i
-I.
-
-STRANGE, MARTHA J.
-
-Updated: 4/5/2011
+Level III; NICU Beds: 25
+Neonatologists: 3
+Neonatologists names: Vick Carlo; Wahib Mena; Martha Strange
 
 COOPER GREEN MERCY HOSPITAL
-
 1515 Sixth Ave.
-
-Birmingham, AL. 35233
-
-NICU Medical Director: Namasivayam
-
-Ambalavanan, MO
-
-(P); (205)934-4680; (F): (205)934-3100
-
-Email: ambal@uab.edu
-
-NICU (P): (205)930-3575
-
-Level IIIA; NICU Beds: 4
-
-Neonatolagists:
-Refer to Neonatalogists Group of University of
-Alabama Hospital/Chitdren's Hospltal of Alabama,
-Birmingham, AL
-
-Updated: 3/8/2011
+Birmingham, AL 35233
+Level III; NICU Beds: 4
+Neonatologists:
+Refer to Neonatalogists Group of University of Alabama Hospital/Children's Hospital of Alabama, Birmingham, AL
 
 PRINCETON BAPTIST MEDICAL CENTER
-
-201 Princeton Ave. $.W.
-
+201 Princeton Ave. S.W.
 Birmingham, AL 35211
-
-NICU Medica! Director: Virginia Karle, MD
-
-(P): (205)996-2245; (F}: (205)996-2254
-
-Email: gkarle@peds,uab,edu
-
-NICU (P): (205)783-3260; NICU (F): {205)783-7252
-
-Level IIIB; NICU Beds: 12
-
-Neonatolcglsts:
-Refer to Neonatolegists Group of University of
-Alabama Hospital/Children's Hospital of Alabama,
-Birmingham, AL
-
-Updated: 4/5/2011
+Level III; NICU Beds: 12
+Neonatologists:
+Refer to Neonatolegists Group of University of Alabama Hospital/Children's Hospital of Alabama, Birmingham, AL
 
 ST. VINCENT'S EAST
-
 50 Medical Park Dr. E.
-
 Birmingham, AL 35235
-
-NICU Medical Director: Virginta A. Karle, MD
-
-(P): (205)986-2245; (F): (205)}996-2254
-
-Email: gkarle@peds.uab.edu
-
-NICU (P): (205)838-3600; NICU (F): (205)838-3969
-
-Level HIA; NICU Beds; 8
-
-Neonatolog!sts:
-Refer to Neonatologists Group of University of
-Alabama Hospital/Chitdren's Hospital of Alabama,
-Birmingham, AL
-
-Updatad: 4/5/201 f
+Level III; NICU Beds: 8
+Neonatologists:
+Refer to Neonatologists Group of University of Alabama Hospital/Chitdren's Hospital of Alabama, Birmingham, AL
 
 ST. VINCENT'S HOSPITAL
-
 2660 10th Ave. S., Suite 636
-
 Birmingham, AL 35205
+Level III; NICU Beds: 23
+Neonatologists: 2
+Neonatologists names: Terry Bierd; Roger Dean Bruce
 
-NICU Medica! Director: R. Dean Bruce, MD
-
-(P): (205)930-2220; (F): (205)930-2223
-
-Email: newborncare @stv.org
-
-NICU {P): (205)939-7348; NICU (F): (205)930-2224 |
-
-Level JHB; NICU Beds: 23
-
+TRINITY MEDICAL CENTER
+800 Montclair Rd.
+Birmingham, AL 35213
+Level III; NICU Beds: 16
 Neonatologists:
-BIERD, TERRY M.
-BRUCE, ROGER DEAN 1
+Refer to Neonatologists Group of University of Alabama Hospital/Children's Hospital of Alabama, Birmingham, AL
 
-Updated: 9/10/2010 .
-
-TRINITY MEDICAL CENTER |
-
-800 Montelair Rd. |
-
-Birmingham, AL 35213 '
-
-NICU Medical Director: Rees Otiver, MD |
-
-(P): (205)996-2245; (F): (205)996-2254 |
-
-Email: rollver@peds,uab,edu :
-
-Director of NICU High Risk Follow-Up Cllnic:
-
-3
-
-Refer to Newborn FU Clinic @ Children's Hospital
-NICU (P): (205)592-1451; NICU (F): (205)592-5001
-Level IIB; NICU Beds: 16
-Neonatologists:
-Refer io Neonatologists Group of University of
-Alabama Hospital/Children's Hospital of Alabama,
-Birmingham, AL
-Updated: 4/5/2017
-*UNIVERSITY OF ALABAMA AT BIRMINGHAM
-HOSPITAL
+UNIVERSITY OF ALABAMA AT BIRMINGHAM HOSPITAL
 CHILDREN'S HOSPITAL OF ALABAMA
 1700 6th Ave. South
-Women and Infanis Center 9380
+Women and Infants Center 9380
 Birmingham, AL 35249
-University Affiliation: University of Alabama at
-Birmington
-Division Chief: Waldemar A. Carlo, MD
-(P): (205)934-4680; (F}: (205)934-3100
-Email: wearlo@peds,uab.edu
-Training Program Director; Namasivayam
-Ambalavanan, MD
-(P}: (205)934-4680; (F): (205)934-3100
-Email: nambalavanan@peds.uab.edu
-NICU Medical Director: Carl Coghill, MD
-Rune Foms, MD
-(P): (205)934-4680; (F}: (205}934-3100
-Email: ccoghill@peds.uab.edu
-rtoms @peds.uab,edu
-Director of NICU High Risk Follow-Up Clinic:
-Ada Myrlam Peralta-Carcelen
-Email: mperatta@ peds,uab.edu
-NICU (P): (205)934-7310
-(205)939-9480; NICU (F): (205)934-7313 :
-(205)939-9948
-Level ING; NICU Beds: 175
-Neonatolagists:
-AMBALAVANAN, NAMASIVAYAM
-BLACK, ALLISON
-CARLO, WALDEMAR A.
-COGHILL, If, CARL H.
-DIMMITT, REED A.
-EL-FERZL, GEORGE
-KARLE, VIRGINIA ANNE
-OLIVER, REES
-PHILIPS, Hl, JOSEPH B.
-RANDOLPH, DAVID
-SIMMS, BRIAN
-SOLTAU, THOMAS
-ST. JOHN, ELAINE
-TOMS, RUNE
-Updated: 4/5/2011
-HUNTSVILLE, AL
+Level III; NICU Beds: 175
+Neonatolagists: 14
+Neonatologists names: Namasivayam Ambalavanan; Allison Black; Waldemar Carlo; Carl Coghill; Reed Dimmit; George El-Ferzli; Virginia Anne Karle; Rees Oliver; Joseph Philips III; David Randolph; Brian Simms; Thomas Soltau; Elaine St. John; Rune Toms 
+
 HUNTSVILLE HOSPITAL
 Women’s and Children's
 101 Sivley Rd.
 Huntsville, AL 35801
-NICU Medical Director: Meyer E. Dworsky, MD
-(P): (256)536-9587; (F): (256)536-9588
-NICU (P): (256}265-7317; NICU {F): (256)265-7320
-Level IIIB; NICU Beds: 45
-Neonatologists:
-DAVISON, THOMAS H.
+Level III; NICU Beds: 45
+Neonatologists: 4
+Neonatologists names: Thomas Davison; Meyer Dworsky; Lee Morris; Zuzana Novak
 
-}
-; PWORSKY, MEYER E.
-MORRIS, LEE D,
-NOVAK, ZUZANA E. ,
-Updated: 4/5/2011 }
-"MOBILE, AL |
-; USA CHILDREN'S & WOMEN'S HOSPITAL
+USA CHILDREN'S & WOMEN'S HOSPITAL
 \ 4700 Center St.
 Mobile, AL 36604-3391
 } NICU Medica! Director: Fabian G. Eyal, MD
