@@ -3376,7 +3376,7 @@ ST. LOUIS UNIVERSITY
 1465 S. Grand Blvd.
 St. Louis, MO 63104
 NICU Beds:45
-Neonatologists:
+Neonatologists: 8
 Neonatologists names: Barbara Cohlan; Robert Fleming; Claire Juzwicki; William Keenan; Gregory Mantych; Akhiko Noguchi; Farouk; Suzanne Toce
 
 SAINT MARYS HEALTH CENTER
@@ -3391,7 +3391,7 @@ ST. JOHN'S MERCY MEDICAL CENTER
 621 S. New Ballas Rd., #2016
 St. Louis, MO 63141
 NICU Beds:35
-Neonatologists:
+Neonatologists: 6
 Neonatologists names: Jay Brenner; William Chao; Gary Dreyer; Kenneth Klesh; Michael Maurer Jr.; Edward Schwarz
 
 ST. LOUIS CHILDREN'S HOSPITAL
@@ -3485,7 +3485,7 @@ ELLIOT HOSPITAL
 One Elliot Way
 Manchester, NH 03103
 NICU Beds:17
-Neonatologists:
+Neonatologists: 2
 Neonatologists names: Ernest Beale; Paul Winchester 
 
 SOUTHERN NEW HAMPSHIRE
@@ -3493,104 +3493,48 @@ Regional Medical Center
 8 Prospect St/P.O. Box 2014
 Nashua, NH 03061
 NICU Beds:17
-Neonatologists:
+Neonatologists: 2
 Neonatologists names: Valerie Atkins; James Hagadorn
 
-ATLANTIC CITY, NJ
-ATLANTIC CITY MEDICAL CENTER |
-, 1925 Pacific Ave, ‘
-: Aflantic Cily, Nu 08404
-7 Director Of Neonatology:
-. Apolo C. Maglalang, M.D.
-; Office Phone: beeiat gous
-; NICU Phone: (609}441-8009
+ATLANTIC CITY MEDICAL CENTER
+1925 Pacific Ave.
+Atlantic City, NJ 08401
 5 NICU Beds:13
-Neonatologists:
-> CELESTIAL, ROMMEL
-/ CRAWFORD, CAROLYN S.
-\ HADGU, PIETROS
-; LOCKE, ROBERT R.
-. MAGLALANG, APOLO C,
-; WEEKS, JAMES H.
-} CAMDEN, NJ
-} CHILDREN'S REGIONAL HOSPITAL,
-AT COOPER HOSPITAL wv
-: University Medical Center
-“| 1 Cooper Plaza, Sarah Cooper Bldg.
-> Camden, NJ 08403
-° Director Of Neonatology:
-. Gary E. Stahl, M.D.
-; Office Phone: Coaedeaeor
-. Offica Fax: (609)342-8007
-: NICU Phone: Cossaaarae
-NICU Fax: — (609)342.6736
-} NICU Beds:32
-Neonatologists:
-y CHANG, GORDON
-’ COURTNEY, SHERRY E.
-: IMAIZUMI, SONIA O.
-: RAZI, NOSRAT
-\ SASLOW, JUDY G,
-4 STAHL, GARY E.
-} OUR LADY OF LOURDES MEDICAL
-CENTER wv
-3 1600 Haddon Ave.
-Camden, NJ 08103
-, Director Of Neonatology:
-. Margarot Fernandes D'Souza, M.D.
-. Office Phone: (609)757-3827
-2 Office Fax: (609)365-7808
-. NICU Phone: 9 757-3988
-; NICU Fax: 609)365-7868
-NICU Beds:18
-: Neonatologists:
-; BEZ, MICHELLE
-‘ D'SOUZA, MARGARET FERNANDES
-: ESCAREAL, MYRNA
-. FABIA, CANDIDA M.
-: FIEDLER, VICKY
-MOJICA, CORNELIO
-} MOLINA, LETICIA
-‘ RAMDIAL, HORACE
-FREEHOLD, NJ
-CENTRASTATE MEDICAL CENTER ,
-s 901 W. Main St. .
-: Freehold, NJ 07728
-' Director Of Neonatology:
-Anjali Verma, M.D,
-‘ Office Phone: poateednors
-‘ NICU Phone: (808)294-2879
-. NICU Beds:9
-Neonatologists:
-FRANCE, JEFFREY
-’ VERMA, ANJALI
+Neonatologists: 6
+Neonatologists names: Rommel Celestial; Carolyn Crawford; Pietros Hadgu; Robert Locke; Apolo Maglalang; James Weeks
 
-HACKENSACK, Nd
+CHILDREN'S REGIONAL HOSPITAL AT COOPER HOSPITAL
+University Medical Center
+1 Cooper Plaza, Sarah Cooper Bldg.
+Camden, NJ 08103
+NICU Beds:32
+Neonatologists: 6
+Neonatologists names: Gordon Chang; Sherry Courtney; Sonia Imaizumi; Nosrat Razi; Judy Saslow; Gary Stahl
+
+OUR LADY OF LOURDES MEDICAL CENTER
+1600 Haddon Ave.
+Camden, NJ 08103
+NICU Beds:18
+Neonatologists: 8
+Neonatologists names: Michelle Bez; Margaret Fernandes D'Souza; Myrna Escareal; Candida Fabia; Vicky Fieldler; Cornelio Mojica; Leticia Molina; Horace Ramdial
+
+CENTRASTATE MEDICAL CENTER
+901 W. Main St.
+Freehold, NJ 07728
+NICU Beds:9
+Neonatologists: 2
+Neonatologists names: Jeffrey France; Anjali Verma
+
 HACKENSACK MEDICAL CENTER
-30 Prospect Ave. “
+30 Prospect Ave.
 Hackensack, NJ 07601
-Director Of Neonatology:
-Harold Perl, M.D.
-Office Phone: os! )996-5362
-Office Fax: (201)996-0754
-NICU Phone: (201)996-4936
-NICU Fax: —(201)996-2614
 NICU Beds:17
-Neonatologists:
-CHHABRA, RAKESH
-FLORES, RAMON
-JOHNSON, TERRY D.
-PERL, HAROLD
-SILVER, ELLEN S.
-JERSEY CITY, NJ
-JERSEY CITY MEDICAL CENTER , -
-50 Baldwin Ave. ‘
-Jersey Clly, NJ. 07304
-Director Of Neonatology:
-Oradee Chandavasu, M.D.
-Office Phone: (201)915-2455
-Office Fax:  (201)915-2459
-NICU Phone: (201}915-2330
+Neonatologists: 5
+Neonatologists names: Rakesh Chhabra; Ramon Flores; Terry Johnson; Harold Perl; Ellen Silver
+
+JERSEY CITY MEDICAL CENTER
+50 Baldwin Ave.
+Jersey City, NJ 07304
 NICU Beds:50
 Neonatologists:
 ALSHEIKH, SUHAIL N.
