@@ -3697,168 +3697,73 @@ Hobbs, NM 88240
 NICU Beds:5
 Neonatologists:
 
-ALBANY, NY
 ALBANY MEDICAL CENTER HOSPITAL
-Mail Code A-104 ~
+Mail Code A-104
 47 New Scotland Ave.
 Albany, NY 12208
-Director Of Neonatology:
-Michael J. Horgan, M.D.
-Division Chief:
-Michaal J. Horgan, M.D.
-Director of Training Program;
-foagulr M.D. Pinheiro, M.D.
-Office Phone: (518)262-6786
-Office Fax: (518)262-5861
-NICU Phone: (618)262-4016
-NICU Fax: — (518)262-4280
 NICU Beds:50
-Neonatologists:
-FISHER, MARILYN A,
-GEIS, ALLAN W.
-HORGAN, MICHAEL J.
-OCHOA, LUIS F,
-PINHEIRO, JOAQUIM M.B.
-RISEMBERG, HERMAN M.
-ST. PETER'S HOSPITAL,-
+Neonatologists:6
+Neonatologists names: Marilyn Fisher; Allan Geis; Michael Horgan; Luis Ochoa; Joaquim Pinherio; Herman Risemberg
+
+ST. PETER'S HOSPITAL
 315 S. Manning Blvd,
 Albany, NY 12208
-Director Of Neonatology:
-Albert Bartoletti, M.D.
-NICU Phone: Prasded-tose
-NICU Fax: = (548)454-1934
 NICU Beds:10
-Neonatologists:
-BARTOLETTI, ALBERT L.
-NARKEWICZ, KAREN
-PERLMAN, MARC B.
-BRICK, NY
+Neonatologists:3
+Neonatologists names: Albert Bartoletti; Karen Narkewicz; Marc Perlman
+
 MEDICAL CENTER OF OCEAN COUNTY
 425 Jack Martin Blvd. ed
 Brick, NY 08724
-Director Of Neonatology:
-Uma Sundaram, M.D.
-Office Phone: (908)974-2834
-Office Fax: —(908)974-2843
-NICU Phone: (908)840-3305
 NICU Beds: 10
-Neonatologists:
-SUNDARAM, UMA
-BRONX, NY
-BRONX MUNICIPAL HOSPITAL
-CENTER
-Pelham Pky, & Eastchester Rd.
+Neonatologists: 1
+Neonatologists names: Uma Sundaram
+
+BRONX MUNICIPAL HOSPITAL CENTER
+Pelham Pky. & Eastchester Rd.
 Bronx, NY 10461
-Director Of Neonatology:
-Barbara Russell, D.O.
-Office Phone: (i 918-6653
-Office Fax: — (718)918-6958
-NICU Phone: (718)918-6375
 NICU Beds:26
 Neonatologists:
-Refer to Weiler Hospital/Montefiore
-Medical Center
-BRONX-LE8ANON HOSPITAL CENTER
+Refer to Weiler Hospital/Montefiore Medical Center
+
+
+BRONX-LEBANON HOSPITAL CENTER
 1650 Grand Concourse Pas
 Bronx, NY 10457
-Director Of Neonatology:
-Jing Ja Yoon, M.D.
-Office Phona: (718)518-5790
-Office Fax: (718)518-5296
-NICU Phone: (718)518-5601
-NICU Fax; —(718)716-8244
 NICU Beds:40
-Neonatologists:
-CHECOLA, ROBERT T,
-HAND, IVAN L
-164
+Neonatologists: 5
+Neonatologists names: Robert Checola; Ivan Hand; Kim Mae-Hee; Lawrence Noble; Jing Yoon
 
-KIM, MAE-HEE
-
-NOBLE, LAWRENCE M.
-
-YOON, JING J.
-LINCOLN MEDICAL 8& MENTAL | ..
-HEALTH CENTER .
+LINCOLN MEDICAL 8& MENTAL HEALTH CENTER
 234 E. 149th St.
 Bronx, NY 104514
-Director Of Neonatology:
-
-Ben K, Rajegowda, M.D.
-Office Phone: ae 579-5360
-Office Fax:  (718)579-4700
-NICU Phone: (718)579-5030
 NICU Beds:28
-Neonatologists:
+Neonatologists: 5
+Neonatologists names: Debasis Kanijilal; Rasila Lala; Anasuya Nagaraj; Zehra Panjavani; Ben Rajegowda
 
-KANJILAL, DEBASIS
-LALA, RASILA V.
-NAGARAJ, ANASUYA
-PANJAVANI, ZEHRA F.K.
-RAJEGOWDA, BEN K,
 NORTH CENTRAL BRONX HOSPITAL
 3424 Kossuth Ave.
 Bronx, NY 10467
-Director Of Neonatology.
-
-Deborah E, Campbell, M.D,
-Office Phone: (718)519-3820
-Office Fax: (718)519-4713
-NICU Phone: (718)519-3836
-NICU Fax: 718)519-4713
 NICU Beds:18
 Neonatologists:
+Refer to Weiler Hospital/Montefiore Medical Genter
 
-Refer to Weiler Hospital/Montefiore
-Medical Genter
-
-WEILER HOSPITAL/MONTEFIORE
-MEDICAL CENTER ‘
+WEILER HOSPITAL/MONTEFIORE MEDICAL CENTER ‘
 Albert Einstein College of Medicine
 1825 Eastchester Rd., Rm. 725
-
 Bronx, NY 10461
-
-Director Of Neonatology:
-
-Carlos Vega-Rich, M.D.
-Division Chief:
-
-Deborah E, Campbell, M.D.
-Director of Training Program:
-
-Paiip Roth, M.D., Ph.D,
-
-Office Phone: (7 18)904-4105
-Office Fax: (718)904-2659
-NICU Phone: (718)904-4032
-NICU Fax: — (718)904-2659
 NiCU Beds:26
-Neonatologists:
-BRION, LUC P.
-CAMPBELL, DEBORAH E.
-REINERSMAN, GERALD T.
-RIOS, ANGEL
-ROSEN, ORNA
-ROTH, PHILIP
-RUSSELL, BARBARA
-VEGA-RICH, CARLOS R.
-BROOKLYN, NY
-BROOKDALE HOSPITAL MEDICAL“
-CENTER
+Neonatologists:8
+Neonatologists names: Luc Brion; Deborah Campbell; Gerald Reinersman; Angel Rios; Orna Rosen; Philip Roth; Barbarba Russell; Carlos Vega-Rich
+
+BROOKDALE HOSPITAL MEDICAL CENTER
 Linden Blvd. at Brookdale Plaza
 Brooklyn, NY 11212
-Director Of Neonatology:
-Myron M. Sokal, M.D.
-Office Phone: (718)240-6629
-Office Fax: ea bes08
-NICU Phone: (718)240-6305
 NICU Beds:32
-Neonatologists:
-ANNAVAJJHALLA, DURGA
-KIM, M. ROGER
-SHRIVASTAVA, BRANDA
-SOKAL, MYRON M.
+Neonatologists: 4
+Neonatologists names: Durga Annavajjhalla; Roger Kim; Branda Shrivastava; Myron Sokal
+
+########PDF PAGE 168##########
 
 BROOKLYN HOSPITAL CENTER
 121 De Kalb Ave. 4
