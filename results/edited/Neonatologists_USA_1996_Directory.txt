@@ -2969,8 +2969,7 @@ ST. VINCENT HOSPITAL
 Worcester, MA 01604
 NICU Beds:10
 Neonatologists:
-Refer to Medical Center of Central
-Massachusetts
+Refer to Medical Center of Central Massachusetts
 
 UNIVERSITY OF MICHIGAN MEDICAL CENTER
 Box 0254, F5790 Mott
@@ -3155,868 +3154,347 @@ ST. MARY'S MEDICAL CENTER
 Duluth, MN 55805
 NICU Beds:25
 Neonatologists:3
-Neonatologists names: Martha Aas; Roderick
+Neonatologists names: Martha Aas; Roderick Krueger; Soo-Young Pi
 
-AAS, MARTHA A.
-
-KRUEGER, RODERICK W.
-
-Pi, SOO- YOUNG
-MINNEAPOLIS, MN
 HENNEPIN COUNTY MEDICAL CENTER
 701 Park Ave., S. ye
 Minneapolis, MN 55415
-Director Of Neonatology:
-
-Ralf R. Engel, M.D.
-
-Office Phone: i ednoiae
-Office Fax: — (612)347-2438
-NIGU Phone: (642)347-2955
-NICU Fax: — (612)347-4141
 NICU Beds:25
-Neonatologists:
-CIFUENTES, RAUL F.
-ENGEL, ROLF R,
-FISHER, DAVID E.
-LUSSKY, RICHARD C,
-148
+Neonatologists: 4
+Neonatologists names: Paul Cifuentes; Rolf Engel; David Fisher; Richard Lussky 
 
-MINNEAPOLIS CHILDREN'S MEDICAL _~-
-CENTER
+MINNEAPOLIS CHILDREN'S MEDICAL CENTER
 2625 Chicago Ave., S.
 Minneapolis, MN 55404
-Diveclor Of Neonatology:
-John J. Fangman, M.D., Ph. D.
-Offica eo 843-6475
-Office Fax: (612)8 43-6983
-NICU Phone: (612)813-6295
-NICU Fax: — (612)813-6949
 NICU Beds:30
-Neonatologists:
-BRASEL, DAVID E,
-COUSER, ROBERT J.
-FANGMAN, JOHN J.
-FERRARA, T. BRUCE
-HOEKSTRA, RONALD E.
-HUSTEAD, VIRGINIA A,
-LANORUM, BONNIE G.
-MAYNARD, ROY C.
-NELSON, ANDREW J.
-PAYNE, NATHANIEL R,
-UNIVERSITY OF MINNESOTA \”
-HOSPITAL AND CLINIC
+Neonatologists: 10
+Neonatologists names: David Brasel; Robert Couser; John Fangman; Bruce Ferrara; Ronald Hoekstra; Virginia Hustead; Bonnie Landrum; Roy Maynard; Andrew Nelson; Nathaniel Payne
+
+UNIVERSITY OF MINNESOTA HOSPITAL AND CLINIC
 420 Delaware St., S.E./Box 39
 Minneapolis, MN 55455
-Director Of Neonatology:
-Cathetine Bendel, M.D.
-Division Chief;
-Dana &. Johnson, M.D., PhD.
-Director of Training Program.
-Michael K. Georgioll, M.D.
-Office Phone: (612)626-0644
-Office Fax: (612)624-8176
-NICU Phone: B1ab ro fone
-NICU Fax: — (612)672-7625
 NICU Beds:30
-Neonatologists:
-ANGEL, CATHRYN
-BENDEL, CATHERINE M.
-GEORGIEFF, MICHAEL K.
-GUIANG, SIXTO F.
-JOHNSON, DANA E.
-THOMPSON, THEODORE R.
-ROBBINSDALE, MN
-NORTH MEMORIAL MEDICAL CENTER .”
+Neonatologists: 6 
+Neonatologists names: Cathryn Angel; Catherine Bendel; Michael Georgieff; Sixto Guiang; Dana Johnson; Theodore Thompson
+
+NORTH MEMORIAL MEDICAL CENTER
 3300 Oakdale Ave., N.
 Robbinsdale, MN 55422
-Director Of Neonatology:
-Diane J. Camp, M.D.
-Office Phone: (612)520-5950
-Office Fax: {ei3 520-4138
-NICU Phone: (612)520-5580
-NICU Fax: (612)520-14114
 NICU Bads:26
-Neonatologists:
-CAMP, DIANE J.
-FLETCHER, GARTH E
-ROCHESTER, MN
-MAYO CLINIC ROCHESTER “
+Neonatologists: 2
+Neonatologists names: Diane Camp; Garth Fletcher
+
+MAYO CLINIC ROCHESTER
 Rochester Methodist Hospital
 200 First St., S.W.
 Rochester, MN 55905
-Director Of Neonatology:
-Roheort V. Johnson, M.D.
-Office Phono: (507)284-8772
-Office Fax: Cortoee Boa
-NICU Phone: (507)255-5226
-NICU Fax: —(607}284-9744
 NICU Beds:30
-Neonatologists:
-ASAY, GARTH F.
-DERLETH, DOUGLAS P.
-JOHNSON, ROBERT V.
-KLEINBERG, FREDRIC
-
-MINNESOTA
+Neonatologists: 4 
+Neonatologists names: Garth Asay; Douglas Derleth; Robert JOhnson; Fredric Kleinberg
 
 ROCHESTER METHODIST HOSPITAL
 201 W. Center St.
-
 Rochester, MN 55902
-
-Director Of Neonatology:
-
-Robert V. Johnson, M.D.
-NICU Phone: (§07)266-7890
 NICU Beds:12
 Neonatologists:
-
 Refer to Mayo Clinic, Rochester
-ST. MARY'S HOSPITAL
 
+ST. MARY'S HOSPITAL
 4216 Second St, S.W.
 Rochester, MN 65902
-
-Director Of Neonatology:
-
-Robert V, Johnson, M.D.
-NICU Phone: (507)255-5226
 NICU Beds:18
 Neonatologists:
-
 Refer to Mayo Clinic, Rochester
-ST. CLOUD, MN
 
-ST, CLOUD HOSPITAL “
+ST, CLOUD HOSPITAL 
 1406 Sixth Ave,, N.
-
 St. Cloud, MN 56303
-
-Director Of Neonatology:
-
-Norman .. Virnig, M.D.
-Office Phone: (612)255-5781
-Office Fax: et 656-7071
-NICU Phone: (612)255-5746
 NICU Beds:15
-Neonatologists:
+Neonatologists: 3
+Neonatologists names: Gregory Franklin; Tracey Thompson; Norman Virnig
 
-FRANKLIN, GREGORY A.
-THOMPSON, TRACEY 8B.
-VIRNIG, NORMAN L.
-ST. PAUL, MN
-CHILDREN'S HEALTH CARE - ST.”
-PAUL
+CHILDREN'S HEALTH CARE - ST. PAUL
 345 N. Smith Ave.
 St. Paul, MN 65102
-Director Of Neonatology:
-
-J. Michael Coleman, M.D.
-Office Phone: BOTT?
-Office Fax; (612)220-7777
-NICU Phone: (612)220-6210
-NICU Fax:  (612)220-7777
 NICU Beds:35
-Neonatolog|sts:
+Neonatologists: 6
+Neonatologists names: Michael Coleman; Raye-Ann DeRegnier; Catherine Gatto; Sixto Guiang; Erik Hagen; Mark Mammel
 
-COLEMAN, J. MICHAEL
-
-deREGNIER, RAYE-ANN O.
-
-GATTO, CATHERINE W.
-
-GUIANG, Ili, SIXTO F.
-
-HAGEN, ERIK A.
-
-MAMMEL, MARK C.
-
-ST. PAUL-RAMSEY MEDICAL CENTEI
+ST. PAUL-RAMSEY MEDICAL CENTER
 640 Jackson St.
-
 St. Paul, MN 55104
-
-Director Of Neonatology:
-
-Catherine W, Gatto, M.D.
-Office Phone: (612)221-3695
-NICU Phone: (612)221-3575
 NICU Beds:25
 Neonatologists:
-
-Rela to Children's Health Care - St.
-au
+Refer to Children's Health Care - St. Paul 
 
 HATTIESBURG, MS
 FORREST GENERAL HOSPITAL vw
 6051 Highway 49 S.
 Hattiesburg MS 39404
-Director O Neonatology:
-
-Clinton B. White, M.D.
-Office Phone: (601)288-3440
-Office Fax: (601)288-3406
-NICU Phone: (601)288-3400
-NICU Fax: (601)288-3406
 NICU Beds:18
-Neonatologists:
+Neonatologists: 1
+Neonatologists names: Clinton White
 
-WHITE, CLINTON 8.
-JACKSON, MS
 METHODIST MEDICAL CENTER
 41850 Chadwick Dr.
 Jackson, MS 39204
-Director Of Neonatotogy:
-
-John &. Rawson, M.D.
-Office Phone: (601 che 370
-Office Fax:  (601)376-2872
-NICU Phone: Bo N3762872
-NICU Fax: 601)376-2872
 NICU Beds:11
 Neonatologists:
+Refer to Mississippi Baptist Medical Center
 
-Refer to Mississippi Baptist Medical
-Center
-
-MISSISSIPPI BAPTIST MEDICAL
-CENTER
-
+MISSISSIPPI BAPTIST MEDICAL CENTER
 1225 N. State St.
-
 Jackson, MS 39202
-
-Director Of Neonatology:
-
-Charies A. Friedman, M.D.
-Office Phone: Bot era. 1422
-Office Fax: (601)973-1522
-NICU Phone: (601)968-1076
-NICU Fax: (601)973-1522
 NICU Beds:15
-Neonatologists:
+Neonatologists: 5
+Neonatologists names: Charle Friedman; Carold Miller; John Rawson; Kenny Robbins; David Temple
 
-FRIEDMAN, CHARLES A.
-MILLER, CAROLD J,
-RAWSON, JOHN E.
-ROBBINS, KENNY K.
-TEMPLE, DAVID M.
 RIVER OAKS EAST HOSPITAL
 4026 N. Siowwood Dr.
 Jackson, MS 39208
-Director Of Neonatology,
-Charlos S. Knight, M.D.
-Office Phone: (601)981-2702
-. Office Fax: ‘B01 936-4666
-NICU Phone: (601)932-8000
-R NICU Fax: (601)936-4666
 NICU Beds:20
-Neonatologists:
+Neonatologists: 4
+Neonatologists names: Mitzo Ferguson; Charles Knight; Lisa Washburn; David Wender
 
-FERGUSON, MITZI G.
-
-KNIGHT, CHARLES S.
-
-WASHBURN, LISA K.
-
-WENDER, DAVID F.
-
-UNIVERSITY OF MISSISSIPP!
-MEDICAL CENTER
+UNIVERSITY OF MISSISSIPPI MEDICAL CENTER
 Newborn Medicine Division
 2500 N, Siate St.
 Jackson, MS 39216-4505
-Director Of Neonatology:
-
-Philip G. Rhodes, M.D.
-Division Chief:
-
-Philip G. Rhodes, M.D.
-Director of Training Progam:
-
-Palip G. Rhodes, M.D.
-Office Phone: (ee 984-2425
-Olfice Fax: (601)984-5266
-NICU Phone: (601)984-2425
-NICU Fax:  (601)984-5266
 NiCU Beds:60
-Neonatologists:
+Neonatologists:5
+Neonatologists names: Chrsitina Glick; Glen Graves; Michael LeBlanc; Daksha Patel; Philip Rhodes 
 
-149
-
-GLICK, CHRISTINA
-
-GRAVES, GLEN R.
-
-LeBLANC, MICHAEL L.
-
-PATEL, DAKSHA M.
-
-RHODES, PHILIP G.
-KESSLER A.F.B., MS
-KESSLER AIR FORCE BASE “
-HOSPITAL
+KESSLER AIR FORCE BASE HOSPITAL
 301 Fisher St. /SGOC
 Kessler A.F.B., MS 39534
-Director Of Neonatology:
-
-Bradley B. Stancombe, M.D.
-
-Office Phone: (601)377-6620
-Office Fax:  (601)377-6304
-NICU Phone: (604)377-6229
-NICU Fax; (601)377-6650
 NICU Beds:16
-Neonatologists:
+Neonatologists:2
+Neonatologists names: Michael Parkanka; Bradley Stancombe
 
-PARANKA, MICHAEL S.
-
-STANCOMBE, BRADLEY B.
-
-TUPELO, MS
-
-NORTH MISSISSIPP!] MEDICAL
-CENTER co.
+NORTH MISSISSIPPI MEDICAL CENTER
 Women's Hospital
-
 600 Eason Blvd.
-
 Tupelo, MS 38801
-
-Director Of Neonatology:
-
-John H. Nading, M.D.
-Office Phone: oot ed 4006
-Office Fax: (601)841-4906
-NICU Phone: (eo ya4t 3738
-NICU Fax;  (601)841-3739
 NICU Beds:21
-Neonatologists:
+Neonatologists: 1
+Neonatologists names: John Nading
 
-NADING, JOHN H.
-COLUMBIA, MO
-CHILDREN'S HOSPITAL AT
-UNIVERSITY OF MISSOURI“
+CHILDREN'S HOSPITAL AT UNIVERSITY OF MISSOURI
 Hospital and Clinics
 One Hospital Dr.
-
 Columbia, MO 65212
-Director Of Neonatology:
-
-Flizabeth J.P. James, M.D,
-Division Chief:
-
-Elizabeth J.P. James, M.D,
-Director of Tralining Program:
-
-Elizabeth J.P; James, M.D.
-Office Phone: (314)882-7919
-Office Fax: 31488 3162
-NICU Phone: (314)882-3162
-NICU Fax: (314)884-5190
 NICU Beds:42
-Neonatologists:
-ALTEMEIER, WILLIAM A.
-CLARK, FRANK I.
-HILLMAN, LAURA S$
-JAMES, ELIZABETH J.P,
-O'CONNOR, TIMOTHY A.
-FLORISSANT, MO
-CHRISTIAN HOSPITAL NE-NW, NY
-DIVISON y
-1225 Graham Rd. .
-Florissant, MO 63031
-Director Of Neonatology:
-Karen M. Wickline, M.D.
-Office Phone: 3 ees 8470
-NICU Phone: (314)953-6470
-NICU Fax: 314)953-6930
-NICU Beds:6
-Neonatologists:
-CHIODINI, BARBARA A.M.
-WICKLINE, KAREN M.
+Neonatologists: 5
+Neonatologists names: William Altemier; Frank Clark; Laura Hillman; Elizabeth James; Timothy O'Connor
 
-JOPLIN, MO
-FREEMAN HOSPITAL \,
-} 4102 W, 32nd St. ;
-. Joplin, MO 64804
-; Director Of Neonatology:
-Michael A. Porte, M.D,
-. Office Phone: (417)625-3740
-; Office Fax: (417)659-3609
-\ NICU Phone: (447}625-3740
-j NICU Fax: (417}659-3609
-nN NICU Beds: 10
-; Neonatologists:
-PORTE, MICHAEL A,
-5 SCHROEDER, ROBERT E.
-; KANSAS CITY, MO
-BAPTIST MEDICAL CENTER ,/
+CHRISTIAN HOSPITAL NE-NW, NV DIVISON
+1225 Graham Rd.
+Florissant, MO 63031
+NICU Beds:6
+Neonatologists: 2 
+Neonatologists names: Barbra Chiodini; Karen Wickline 
+
+FREEMAN HOSPITAL
+4102 W, 32nd St
+Joplin, MO 64804
+NICU Beds: 10
+Neonatologists: 2 
+Neonatologists names: Michael Porte; Robert Schroeder 
+
+BAPTIST MEDICAL CENTER
 6601 Rackhili Rd.
-F Kansas City, MO 64131
-Director Of Neonatology:
-Wiliam H. Topper, M.D,
-’ Office Phone: 816)276-3213
-\ Office Fax: B iekezeez04
-° NICU Phone: (816)926-2200
-. NiCU Fax: (816)926-2260
-: NiCU Beds:6
-Neonatologists:
-; BALBUS, MICHAEL
-‘ GRATNY, LINDA
-TOPPER, WILLIAM H.
-: CHILDREN'S MERCY HOSPITAL .“
-: 2401 Gillham Rd.
+Kansas City, MO 64131
+NiCU Beds:6
+Neonatologists: 3 
+Neonatologists names: Michael Balbus; Linda Gratny; William Topper
+
+CHILDREN'S MERCY HOSPITAL
+2401 Gillham Rd.
 Kansas City, MO 64108-9898
-: Director Of Neonatology:
-. Howard W. Kilbride, M.D.
-3 Division Chief:
-Howard W. Kilbride, M.D.
-: Director of Training Program:
-/ Willlam E. Truog, M.D.
-" Office Phone: (816)234-3596
-é Office Fax: (816)234-3590
-. . NiCU Phone: (6}204 3300
-: NICU Fax: (816)471-5329
-; NICU Beds:40
-; Neonatologists:
-BRAUN, WILLIAM J.
-‘ HALL, FREDERICK K.
-, HALL, ROBERT T,
-: KILBRIDE, HOWARD W.
-KINNEY, JANET S.
-PETTETT, GARY
-: SHEEHAN, MICHAEL B.
-THIBEAULT, DONALD W,
-: TRUOG, WILLIAM E.
-: MENORAH MEDICAL CENTER
+NICU Beds:40
+Neonatologists: 9 
+Neonatologists names: William Braun; Frederick Hall; Robert Hall; Howard Kilbride; Janet Kinney; Gary Pettett; Michael Sheehan; Donald Thibueault; William Truog 
+
+MENORAH MEDICAL CENTER
 4949 Rockhill Rd.
-, Kansas City, MO 64110
-Director Of Neonatology:
-: William H. Topper, 4.0.
-: Office Phone: (816)276-4518
-, Office Fax: (816)276-4387
-5 NICU Phone: (816)276-84314
+Kansas City, MO 64110
 NICU Beds:8
 Neonatologists:
-‘ Refer to Research Medical Center
+Neonatologists names: 
+Refer to Research Medical Center
+
 RESEARCH MEDICAL CENTER
 p 2316 E. Meyer Blvd.
 Kansas City, MO 64132
-) Director Of Neonatology:
-William H. Topper, M.D.
-, : Office Phone: (816)276-4518
-‘ Office Fax: (816)276-4387
-; NICU Phone: (816)276-3290
-» NICU Fax: (816)276-3292
-‘ : NICU Beds:17
-' i Neonatologists:
-; : BALBUS, MICHAEL W.
+NICU Beds:17
+Neonatologists: 3 
+Neonatologists names: Michael Balbus; Linda Gratny; William Topper
 
-GRATNY, LINDA L.
-TOPPER, WILLIAM H.
-ST. JOSEPH HEALTH CENTER +“
+ST. JOSEPH HEALTH CENTER
 1000 Carondelet Dr.
 Kansas City, MO 64114
-Director Of Neonatology:
-
-Robert T. Hall, M.D,
-
-Office Phone: (816)942-8644
-
-Office Fax: (816)942-7066
-
-NICU Phone: (816)943-2394
-
 NICU Beds:6
-
-Neonatologists:
-
+Neonatologists: 1
+Neonatologists names: Robert Stein
 Refer to Children’s Mercy Hospital
-STEIN, ROBERT T. ;
 
-ST. LUKE'S HOSPITAL”
-
+ST. LUKE'S HOSPITAL
 4400 Wornall
-
 Kansas City, MO 64111
-
-Director Of Neonatology:
-
-John C. Callenbach, M.D.
-Office Phone: (816)932-2493
-Office Fax: (816)932-6139
-NICU Phone: (816)932-2007
 NICU Beds:48
 Neonatologists:
-
+Neonatologists names: 
 ANDERSON, JOHN V.
 CALLENBACH, JOHN C,
 CLAFLIN, KATHERINE S.
 HEIMES, BRIAN J.
 SHAFFER, STANLEY G.
+
 TRUMAN MEDICAL CENTER
 2301 Holmes St.
 Kansas City, MO 64108
-Director Of Neonatology:
-
-Gary Pettett, M.D.
-
-Office Phone: (816)234-3594
-Office Fax: (816)234-3590
-NICU Phone: (816)556-3415
 NICU Beds:26
-
 Neonatologists:
-
 Refer to Children's Mercy Hospital
-SPRINGFIELD, MO
 
-COX MEDICAL CENTER SOUTH ,/
+COX MEDICAL CENTER SOUTH
 3801 S, National
-
 Springfield, MO 65807
-
-Director Of Neonatology:
-
-Nancy H, Ceaser, M.D.
-Office Phone: (417)885-6184
-Office Fax: (417)885-4608
-NICU Phone: a1 heBe e076
-NICU Fax: 417)885-6976
 NICU Beds:52
-Neonatologists:
+Neonatologists: 4 
+Neonatologists names: Nancy Ceaser; Jospeh Eccher; Sarah Kuhlman; Colleen Rose
 
-CEASER, NANCY H.
-ECCHER, JOSEPH M.
-KUHLMAN, SARAH
-ROSE, COLLEEN L.
-ST. JOHN'S REGIONAL HEALTH ,”
-CENTER
+ST. JOHN'S REGIONAL HEALTH CENTER
 4235 E. Cherokee
 Springfield, MO 65804
-Director Of Neonatology:
-
-Melinda R. Slack, M.D.
-Office Phone: (417)885-3219
-Office Fax: eae 5003
-NICU Phone: (417)885-3303
-NICU Fax: (417)888-7850
 NICU Beds:24
-Neonatologists:
+Neonatologists: 4
+Neonatologists names: Karlyle Christian-Ritter; Mary Laird; George Marsh Jr.; Melinda Slack
 
-CHRISTIAN-RITTER, KARLYLE K.
-LAIRD, MARY R,
-MARSH, JR., GEORGE A.
-SLACK, MELINDA
-
-150
-
-ST, LOUIS, MO
-CARDINAL GLENNON CHILDREN'S i”
-HOSPITAL
+CARDINAL GLENNON CHILDREN'S HOSPITAL
 ST. LOUIS UNIVERSITY
 1465 S. Grand Blvd.
 St. Louis, MO 63104
-Director Of Neonatology:
-William J. Keenan, M.D.
-Divislon Chief:
-William J. Keenan, M.D,
-Director of Training Program:
-William J. Keenan, M.D.
-Office Phone: Set 7-5642
-Office Fax: (314)268-6410
-NICU Phone: (314}577-5634
-NICU Fax: (314)268-6774
 NICU Beds:45
 Neonatologists:
-COHLAN, BARBARA A.
-FLEMING, ROBERT E.
-JUZWICKI, CLAIRE C.
-KEENAN, WILLIAM J.
-MANTYCH, GREGORY J.
-NOGUCHI, AKHIKO
-SADIQ, H. FAROUK
-TOCE, SUZANNE S.
+Neonatologists names: Barbara Cohlan; Robert Fleming; Claire Juzwicki; William Keenan; Gregory Mantych; Akhiko Noguchi; Farouk; Suzanne Toce
+
 SAINT MARYS HEALTH CENTER
 ST. LOUIS UNIVERSITY
 6420 Clayton Rd.
 St. Louis, MO 63117
-Director Of Neonatalogy:
-Barbara A. Cohian, M.D.
-Office Phone: (314}768-8731
-NICU Phone: (314)768-8702
 NICU Beds:26
 Neonatologists:
-Refer to Cardinal Glennon Children's
-Hospital St. Louis University
-ST. JOHN'S MERCY MEDICAL ;-
-CENTER
+Refer to Cardinal Glennon Children's Hospital St. Louis University
+
+ST. JOHN'S MERCY MEDICAL CENTER
 621 S. New Ballas Rd., #2016
 St. Louis, MO 63141
-Director Of Neonatology:
-Michael Maurer, Jr, M.D.
-Office Phone: (314)569-6153
-Office Fax: te ateeo.e480
-NICU Phone: (314}569-6450
-NICU Fax:  (314)569-6647
 NICU Beds:35
 Neonatologists:
-BRENNER, JAY A.
-CHAO, WILLIAM T.
-DREYER, GARY L.
-KLESH, KENNETH W.
-MAURER, JR., M@. MICHAEL
-SCHWARZ, EDWARD H.
-ST. LOUIS CHILDREN'S HOSPITAL 4°
+Neonatologists names: Jay Brenner; William Chao; Gary Dreyer; Kenneth Klesh; Michael Maurer Jr.; Edward Schwarz
+
+ST. LOUIS CHILDREN'S HOSPITAL
 One Children's Place
 St. Louis, MO 63110
-Director Of Neonatology:
-F, Sessions Cole, M.D.
-Division Chief:
-F. Sessions Cole, M.D.
-Director of Training Program:
-Peter M. Haney, M.D.
-Office Phone: (314)454-6148
-Office Fax: (314)464-4633
-NICU Phone: (314)464-6037
-NICU Fax: (314)454-2087
 NiCU Beds:62
-Neonatologists:
-AUGUST, ANNA M.
-COLE, F. SESSIONS
-CROSSMAN, MICHAEL
-DAWSON, JEFFREY G.
-DOWNEY, JOAN
-FANT, MICHAEL E.
-HACKETT, BRIAN P.
-HAMVAS, AARON
+Neonatologists: 13 
+Neonatologists names: Anna august; Sessions COle; Michael Crossman; Jeffrey Dawson; Joan Downey; Michael Fant; Brian Hacktett; Aaron Hamvas; Peter Haney; Sherrie Hauft; Joanie Rosenbaum; Bradley Thach; Karen Wickline
 
-HANEY, PETER M,
-HAUFT, SHERRIE M.
-ROSENBAUM, JOANIE L.
-THACH, BRADLEY T.
-WICKLINE, KAREN M.
-ST. LOUIS REGIONAL MEDICAL
-CENTER
+ST. LOUIS REGIONAL MEDICAL CENTER
 5535 Delmar Bivd.
 St. Louis, MO 63112
-Director Of Neonatology:
-Corinne A. Walentik, M.D.
-Office Phone: (314)879-6288
-Office Fax: (314)879-6404
-NICU Phone: (314)879-6336
 NICU Beds:26
-Neonatologists:
-KOENIG, JOEL 8S.
-MENON, P. ARAVINDAKSHA
-SULLIVAN, SHANNON J.
-WAHIDI, NASREEN
-WALENTIK, CORINNE A.
-BILLINGS, MT
-ST. VINCENT HOSPITAL & HEALTH
-CENTER
+Neonatologists: 5
+Neonatologists names: Joel Koenig; Aravindaksha Menon; Shannon Sullivan; Nasreen; Corinne Walentik 
+
+ST. VINCENT HOSPITAL & HEALTH CENTER
 1233 N. 30th St.
 P.O, Box 35200
 Billings, MT 59107
-Director Of Neonatology:
-Kathleen Stevens, M.D.
-Office Phone: (406)657-7075
-Office Fax: aos)
-NICU Phone: (406)657-7076
 NICU Beds:20
-Neonatologists:
-LANDES, RICHARD D,
-STEVENS, KATHLEEN
-GREAT FALLS, MT
-MONTANA DEACONESS MEDICAL
-CENTER
+Neonatologists: 2
+Neonatologists names: Richard Landes; Kathleen Stevens
+
+MONTANA DEACONESS MEDICAL CENTER
 4101 26th St, S.
 Great Falls, MT 59405
-Director Of Neonatology:
-Ronald W. Coen, M.D.
-Office Phone: (406)455-5328
-NICU Phone: (406)455-5315
-NICU Fax: (406)455-4988
 NICU Beds:14
-Neonatologists:
-COEN, RONALD W.
-LINCOLN, NE
-ST, ELIZABETH HOSPITAL -/
+Neonatologists: 1
+Neonatologists names: Ronald Coen
+
+ST. ELIZABETH HOSPITAL
 555 S. 70th St.
 Lincoln, NE 68510
-Director Of Neonatology:
-Lawrence C. Bausch, M.D.
-Office Phone: (r0os409.0087
-Office Fax: (402}489-6037
-NICU Phone: pierre ee
-NICU Fax: (402)489-6037
 NICU Beds:15
-Neonatologists:
-BAUSCH, LAWRENCE C,
-CHERNG, WEN S.
+Neonatologists: 2
+Neonatologists names: Lawrence Bausch; Wen Cherng 
 
-OMAHA, NE
-CHILDREN'S HOSPITAL Y
-eopaha NE ay 14
-
-7 maha,
-
-Director oF Neonatology:
-
-John J. Esstinger, M.D.
-Office Phone: rossse0-3683
-Office Fax: (402)390-3693
-NICU Phone: (402)390-5472
+CHILDREN'S HOSPITAL
+8301 Dodge St.
+Omaha NE 68114
 NICU Beds:30
-Neonatologists:
+Neonatologists: 4
+Neonatologists names: John Esslinger; John Jirka; Howard Needelman; Thomas Seidel
 
-ESSLINGER, JOHN J.
-Jl ' .
-NEEDELMAN, HOWARD W.
-SEIDEL, THOMAS W.
 ST. JOSEPH'S
-HOSPITAL/CREIGHTON UNIVERS!’
-om i SNE 38131
-maha,
-Director Of Neonatology:
-‘aul D. Goodrich, M.D.
-Office Phone: (402)559-6750
-17 NICU Phone: (402)449-4105
-NICU Fax: \19s}449.523°
+HOSPITAL/CREIGHTON UNIVERSITY
+601 N. 30th St.
+Omaha, NE 68114
 Nicu Beds:16
-eonatologists:
-Refer to University of Nebraska Medi
-Center
-UNIVERSITY OF NEBRASKA MEDI
-CENTER
-600 °. ‘ond St.
-maha, NE 68198
-Director OF Neonatology:
-
-‘aul D, Goodrich, M.D.
-Office Phone: tA03 §59-9289
-Office Fax: (402)559-7341
-NICU Phone: pre 559-4442
-
-Vv NICU Fax:  (402)559-8685
-NICU Beds:34
 Neonatologists:
-BOLAM, DAVID L.
-DICKEY, LORRANE
-GOODRICH, PAUL D,
-WILLETT, LYNNE D.
-ZACH, TERENCE L.
-LAS VEGAS, NV
+Refer to University of Nebraska Medical Center
+
+UNIVERSITY OF NEBRASKA MEDICAL CENTER
+600 S. 42nd St.
+Omaha, NE 68198
+NICU Beds:34
+Neonatologists: 5 
+Neonatologists names: David Bolam; Lorrane Dickey; Paul Goodrich; Lynne Willett; Terence Zach
+
 SUNRISE CHILDREN'S HOSPITAL
 P.O, Box 98530
 3186 Maryland Pky.
 Las Vegas, NV 89109
-Diredicr of Neonatology:
-
-ohn P. Kurtinski, M.D.
-Oflice Fax: (702)733-6807
-
-ice Fax: 1733-65
-NiCU Phone: troatr3 1.8540
 NiCU Beds:38
-Neonalologists:
+Neonalologists: 5
+Neonatologists names: Donald Buchanan; Ikpe Ekpoudia; Barry Halpern; John Kurlinski; Raphael Zenteno
 
-BUCHANAN, DONALD E,
-
-EKPOUDIA, {KPE
-
-HALPERN, BARRY
-
-KURLINSKI, JOHN P.
-
-ZENTENO, RAPHAEL A.
-UNIVERSITY MEDICAL CENTER OF
-SOUTHERN NEVADA
+UNIVERSITY MEDICAL CENTER OF SOUTHERN NEVADA
 41800 W. Charleston Blvd.
-
 Las Vegas, NV 89102
-Director OE Neonatoogy MD
-ang Sun "Sean" Ahn, M.D.
-ore Fone: aes att
-ice Fax: -
-NICU Phone: (799)383.2443
 NICU Beds:28
-Neonatoilogists:
-ABDULLA, FAROOQ
-AHN, SANG SUN Sean"
+Neonatoilogists: 5
+Neonatologists names: Farooq Abdulla; Sang Sun "Sean" Ahin; Bernard Feldman; Benjamin Hart; Mark Kaneta 
 
-FELDMAN, BERNARD H.
-HART, BENJAMIN
-KANETA, MARK K.
-RENO, NV
-ST. MARY'S REGIONAL MEDICA!
-CENTER .
+ST. MARY'S REGIONAL MEDICAL CENTER
 235 W. Sth St.
 Reno, NV 89520
-Director Of Neonatology:
-Stephen R, Missall, M.D,
-Office Phone: (702)786-0717
-Office Fax: (702)786-5305
-NICU Phone: (702)789-3061
-NICU Fax: (702)789-3642
 NICU Beds: 16
-Neat ologisis:
-MISSALL, STEPHEN R,
-TY MONIBI, ALI
-POKROY, MICHAEL
-YUP, GARY
-LEBAN NH
-DARTMOUTH-HITCHCOCK MEDIL
-CENTER
+Neonatologists: 4 
+Neonatologists names: Stephen Missall; Ali Monibi; Michael Pokroy; Gary Yup
+
+DARTMOUTH-HITCHCOCK MEDICAL CENTER
 One Medical Center Dr.
 Lebanon, NH 03756-0001
-cal Director Of Neonatology:
-Judith Frank, M.D.
-Division Chief:
-Judith Frank, M.D.
-CAL,“ Director of Training Program:
-Robert A, Darnall, M.D,
-Office Phone: (603)650-5465
-Office Fax: (603)650-5458
-NICU Phone: (eostes0.ca08
-NICU Fax: 603)650-6898
 NICU Beds:31
-Neonatologists:
-ATKINS, VALERIE A.
-BROOKS, JOHN G.
-DARNALL, ROBERT A.
-EDWARDS, WILLIAM H.
-FRANK, JUDITH E,
-HAGADORN, JAMES R.
-LITTLE, GEORGE A.
-RHODES, TORUNN T.
-MANCHESTER, NH
-, ELLIOT HOSPITAL “
-’ One Elliot Way
+Neonatologists: 8
+Neonatologists names: Valerie Atkins; John Brooks; Robert Darnall; William Edwards; Judith Frank; James Hagadorn; George Little; Torunn Rhodes 
+
+ELLIOT HOSPITAL
+One Elliot Way
 Manchester, NH 03103
-Director Of Neonatology:
-Ernest F. Beale, M.D.
-Office Phone: (30306984900
-NICU Phone: (603)628-4360
 NICU Beds:17
 Neonatologists:
-BEALE, ERNEST F.
-WINCHESTER, PAUL D.
-NASHUA, NH
-SOUTHERN NEW HAMPSHIRE +
+Neonatologists names: Ernest Beale; Paul Winchester 
+
+SOUTHERN NEW HAMPSHIRE
 Regional Medical Center
 8 Prospect St/P.O. Box 2014
-= Nashua, NH 03061
-’ Director Of Neonatology:
-James f, Hagadorn, M.D.
-Office Phone: Boater eos
-NICU Phone: (603)577-2565
+Nashua, NH 03061
 NICU Beds:17
 Neonatologists:
-ATKINS, VALERIE A,
-HAGADORN, JAMES I.
+Neonatologists names: Valerie Atkins; James Hagadorn
 
 ATLANTIC CITY, NJ
 ATLANTIC CITY MEDICAL CENTER |
