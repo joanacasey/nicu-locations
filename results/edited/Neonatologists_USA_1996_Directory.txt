@@ -3763,1874 +3763,730 @@ NICU Beds:32
 Neonatologists: 4
 Neonatologists names: Durga Annavajjhalla; Roger Kim; Branda Shrivastava; Myron Sokal
 
-########PDF PAGE 168##########
-
 BROOKLYN HOSPITAL CENTER
 121 De Kalb Ave. 4
 Brooklyn, NY 11204
-Director Of Neonatology:
-Meenakshi R. Gulrajani_ M.D.
-Office Phone: (718)250-8525
-Office Fax: (7 A8}o0-8¢00
-NICU Phone: (718)250-8500
 NICU Beds:36
-Necnatologists:
-COHEN, LOURDES
-CONCEPCION, LUZMINDA B.
-FINEZA, BELEN A,
-GULRAJANI, MEENAKSHI R.
-LeBLANC, PATRICK E.
-VIOLARIS, KIMON
-CHILDREN'S MEDICAL CENTER OF ,
-BROOKLYN
-UNIVERSITY HOSPITAL OF BROOKLY
+Necnatologists:6
+Neonatologists names: Cohen Loudres; Luzminda Concepcion; Belen Fineza; Meenakshi Gulrajani; Patrick LeBlanc; Kimon Violaris 
+
+CHILDREN'S MEDICAL CENTER OF BROOKLYN
+UNIVERSITY HOSPITAL OF BROOKLYN
 KINGS COUNTY HOSPITAL CENTER
 450 Clarkson Ave., Box 49
 Brooklyn, NY 11203
-Director Of Neonatology:
-Leonard Glass, M.D.
-Division Chief:
-Leonard Glass, M.D.
-Director of Training Program:
-Leonard Glass, M.D.
-Office Phone: (7 18)270-1625
-Office Fax: {718)270-1985
-NICU Phone: (718)270-2608
 NICU Beds:55
-Neonatologists:
-GLASS, LEONARD
-KRAVATH, RICHARD E.
-LAUNGANI, SHEELA G.
-PIECUCH, STEVEN W.
-RUDOLPH, NATHAN
-VALENCIA, GLORIA B.
-YAO, ALICE C.
-CONEY ISLAND HOSPITAL /
+Neonatologists:7
+Neonatologists names: Leonard Glass; Richard Kravath; Sheela Laungani; Steven Piecuch; Nathan Rudolph; Gloria Valencia; Alice Yao
+
+CONEY ISLAND HOSPITAL
 2601 Ocean Pky.
 Brooklyn, NY 14235
-Director Of Neonatology:
-Jerry Watman, M.D.
-Office Phone: rBeiears
-Office Fax: (718)615-4173
-NICU Phone: raseleatrs
-NICU Fax:  (718)615-4173
 NICU Beds:12
-Neonatologists:
-TAN, ALBERTO
-WATMAN, JERRY
-INTERFAITH MEDICAL CENTER \/
+Neonatologists: 2
+Neonatologists names: Alberto Tan; Jerry Watman
+
+INTERFAITH MEDICAL CENTER
 1545 Atlantic Ave.
 Brooklyn, NY 41243
-Director Of Neonatology:
-Kiran Vohra, M.D.
-Office Phone: {Ft Sye04. 6396
-Office Fax: (718)604-6330
-NICU Phone: rB\eos-e720
-NICU Fax: — (718)604-6726
 NICU Beds:45
-Neonatologists:
-DAPUL, GENER M.
-DINCSOY, MEHMET Y.
-KARSDON, JEFFREY
-VOHRA, KIRAN
+Neonatologists: 4
+Neonatologists names: Gener Dapul; Mehmet Dincsoy; Jeffrey Karsdon; Kiran Vohra
+
 LONG ISLAND COLLEGE HOSPITAL
 340 Henry St. vA
 Brooklyn, NY 11201
-Director Of Neonatology:
-Aruna d. Parekh, M.D.
-Office Phone: (718)780- 1025
-Office Fax: (7 48)780-2989
-NICU Phone: (718)780-1116
 NICU Beds: 42
-Neonatologists:
-KOENIG, EL!
+Neonatologists: 3
+Neonatologists names: Eli Koenig; Aruna Parekh; Sanjivan Patel
 
-PAREKH, ARUNA J.
-
-PATEL, SANJVAN V.
 MAIMONIDES MEDICAL CENTER
 4802 Tenth Ave. v
 Brooklyn, NY 11219
-Director Of Neonatology:
-
-Francis B. Mimouni, M.D.
-Office Phone: (718)283-8841
-Office Fax: (718)283-6268
-NICU Phone: ty 1Bsob8 beee
-NICU Fax: 718)283-6268
 NICU Beds:28
-Neonatologists:
-
-BAINBRIDGE, RONALD R.
-
-MEHTA, RAJEEV
-
-MIMOUNI, FRANCIS B.
-
-RAO, VARADA
-
-7
+Neonatologists:4
+Neonatologists names: Ronald Bainbridge; Rajeev Mehta; Francis Mimouni; Varada Rao
 
 NEW YORK METHODIST HOSPITAL
-(N 506 Sixth St. Vv
-
+506 Sixth St.
 Brooklyn, NY 11215
-
-Director Of Neonatology:
-
-Madhu Gudavalli, M.D.
-
-Office Phone: (718)780-3261
-
-Office Fax: (718}780-3268
-
-NICU Phone: (718)780-3727
-
-NICU Fax: = (718)780-3266
-
 NiCU Beds:8
+Neonatologists: 2
+Neonatologists names: Madhu Gudavalli; Khaja Raziuddin
 
-Neonatologists:
-
-GUDAVALLI, MADHU
-
-RAZIUDDIN, KHAJA
 WOODHULL MEDICAL CENTER
 760 Broadway JZ
 Brooklyn, NY 11206
-Director Of Neonatology:
-
-Frantz E. Brea, M.D.
-Office Phone: (718)963-8184
-Office Fax: (718)963-7903
-NICU Phone: (718)963-5705
-NICU Fax: (718)963-7972
 NICU Beds:12
+Neonatologists: 2
+Neonatologists names: Carl Barberis; Frantz Brea
 
-’  Neonatofogists:
-BARBERIS, CARL L,
-BREA, FRANTZ E.
-WYKOFF HEIGHTS HOSPITAL /
+WYKOFF HEIGHTS HOSPITAL
 374 Stockholm St.
 Brooklyn, NY 11237
-Director Of Neonatology:
-Bruce D. Ackerman, M.D.
-Office Phone: (718)963-7274
-Office Fax: (718)486-4229
-NiCU Phone: (718)486-4411
 NICU Beds:12
-Neonatologists:
-ACKERMAN, BRUCE D,
-BUFFALO, NY
+Neonatologists: 1
+Neonatologists names: Bruce Ackerman
+
 CHILDREN'S HOSPITAL OF BUFFALO
-219 Bryant St. \
+219 Bryant St.
 Buffalo, NY 14222
-Director Of Neonatology:
-Mark L. Hudak, M.D,
-Division Chief:
-
-Frederick C. Morin, M.D,
-Director of Training Program:
-
-Corinne L, Leach, M.D.
-Office Phone: Ueerarode
-Office Fax: (718)878-7945
-NICU Phone: (716)878-7673
-NICU Fax: — (716)878-7945
 NICU Beds:74
-Neonatologists:
+Neonatologists: 12
+Neonatologists names: George Albert; Vivian Carrion; James Cummings; Edmund Egan; Mark Hudak; Corinne Leach; Frederick Morin; Riley Thomas; Alan Shotkin; Kamal Singhal; Robin Steinhorn; Ralph Wynn
 
-ALBERT, GEORGE P.
-
-CARRION, VIVIAN
-
-CUMMINGS, JAMES J.
-
-EGAN, EDMUND
-
-HUDAK, MARK L.
-
-LEACH, CORINNE L.
-
-MORIN, FREDERICK C.
-
-155
-
-RILEY, THOMAS
-SHOTKIN, ALAN
-SINGHAL, KAMAL
-STEINHORN, ROBIN H.
-WYNN, RALPH
-MERCY HOSPITAL \~
+MERCY HOSPITAL
 565 Abbott Rd.
 Buffalo, NY 14220
-Director Of Neonatology:
-Tai-Soon Choi, M.D.
-Office Phone: (716)828-2572
-Office Fax: (716)828-2701
-NICU Phone: (716)828-2627
 NICU Beds:8
-Neonatologists:
+Neonatologists: 1 
+Neonatologists names: Talsoon Choi
 
-CHOI, TALSOON
 SISTER'S OF CHARITY HOSPITAL
-2157 Main St. “
+2157 Main St.
 Buffalo, NY 14214
-Director Of Neonatology:
-
-John E. Yount, M.D.
-Office Phone: i 6)862-2206
-Office Fax: riesposayi0
-NIGU Phone: (716)862-2710
-NICU Fax: —(716)862-1881
 NICU Beds:12
-Neonatologists:
+Neonatologists: 2 
+Neonatologists names: George Albert; John Yount
 
-ALBERT, GEORGE
-
-YOUNT, JOHN E,
-
-EAST MEADOW, NY
 NASSAU COUNTY MEDICAL CENTEF
 2201 Hempstead Turnpike
 East Meadow, NY 11954
-Director Of Neonatology:
-Harriet S. Boxer, M.D.
-Office Phone: (616)572-3319
-Office Fax: eles aot
-NICU Phone: (516)572-3318
-NICU Fax: —_(516)572-6110
 NICU Beds:28
-Neonatologists: .
+Neonatologists: 4
+Neonatologists names: Harriet Boxer; Swarna Devarajan; Chetna Kothari; Ammukutty Paulose 
 
-BOXER, HARRIET S. .
-
-DEVARAJAN, SWARNA
-
-KOTHARI, CHETNA A.
-
-PAULOSE, AMMUKUTTY
-ELMHURST, NY
 ST. JOHN'S QUEENS HOSPITAL
 90-02 Queens Blvd. vv
 Elmhurst, NY 11373
-Director Of Neonatology:
+NICU Beds: 72
+Neonatologlists: 2 
+Neonatologists names: Edmund Diello; Paul Jean-Charles 
 
-Edmund Diletio, M.D
-Office shone, Seeder tooo
-NICU Phone:-{218)457-1300
-NICU Bedd72 }
-Neonatologlists: :
-
-/ DILELLO, EDMUND J.
-
-, JEAN-CHARLES, PAUL
-ELMIRA, NY
 ARNOT OGDEN MEDICAL CENTER
-600 Roe Ave. \
+600 Roe Ave.
 Elmira, NY 14905
-Director Of Neonatology:
-
-Willard V. Helmuth, M.D.
-Office Phone: (607)737-4543
-Office Fax: (607)737-7774
-NICU Phone: (607}737-4223
-NICU Fax: —(607)737-7774
 NICU Beds:18
-Neonatologists:
+Neonatologists: 3 
+Neonatologists names: Willard Helmuth; Eileen Reardon; Ira Wertheimer
 
-HELMUTH, WILLARD V.
-REARDON, EILEEN M.
-WERTHEIMER, IRA S.
+ELMHURST HOSPITAL CENTER
+79-01 Broadway v
+Flushing, NY 11373
+NICU Beds:30
+Neonatologists: 5 
+Neonatologists names: Darius Antia; Feliciano Emerlino; Meenakshi Jhaveri; Debasis Kanjilal; Roland Tayaba
 
-, FLUSHING, NY
-: ELMHURST HOSPITAL CENTER ,
-‘ 79-01 Broadway v
-: Flushing, NY 11373
-i Director Of Neonatology:
-Meenakshi K. Jhaveri, M.D,
-; Office Phone: (718)334-2994
-Office Fax: (718)334-2862
-‘ NICU Phone: (718)334-2995
-; NICU Beds:30
-) Neonatologists:
-ANTIA, DARIUS E.
-\ EMERLINO, FELICIANO
-; JHAVERI, MEENAKSHI K,
-KANJILAL, DEBASIS
-; TAYABA, ROLAND
-FLUSHING HOSPITAL MEDICAL
-CENTER v
-45th Ave. at Parsons Bivd,
-‘ Flushing, NY 11355
-Director Of Neanatology:
-‘ Adolfo Grieg, D.O.
-: Ofilce Phone: ith ett
-Office Fax: (718)670-3031
-; NICU Phone: (718)670-5363
-; NICU Bads:24
-Neonatologists:
-‘ GRIEG, ADOLFO
-, RAPAPORT, SUSANA
-‘ NEW YORK HOSPITAL MEDICAL
-; CENTER OF QUEENS va
-‘ 56-45 Main St.
-y Flushing, NY 11355
-: Director Of Neonatology:
-. Bajrang L. Agatwal, M.D.
-3 Office Phone: (ie 670-1033
-Office Fax: — (718)4G60-1161
-3 NICU Phone: (718)670-1356
-‘ NICU Beds:8
-n Neonatologists:
-; AGARWAL, BAJRANG L.
-. PAZOS, JEAN
-. HUNTINGTON, NY
-\ HUNTINGTON HOSPITAL
-; 270 Park Ave, 4
-, Huntington, NY 11743
-} Director Of Neonatology:
-, Salvatore J. Caravella, M.D.
-Office Phone: (oregon toes
-Office Fax: (516)423-0668
-: NICU Phone: (516)351-2347
-: NICU Beds:8
-. Neonalologists:
-CARAVELLA, SALVATORE J,
-JAMAICA, NY
+FLUSHING HOSPITAL MEDICAL CENTER
+45th Ave. at Parsons Bivd
+Flushing, NY 11355
+NICU Bads:24
+Neonatologists: 2 
+Neonatologists names: Adolfo Grieg; Susana Rapaport 
+
+NEW YORK HOSPITAL MEDICAL CENTER OF QUEENS
+56-45 Main St.
+Flushing, NY 11355
+NICU Beds:8
+Neonatologists: 2 
+Neonatologists names: Bajrang Agarwal; Jean Pazos 
+
+HUNTINGTON HOSPITAL
+270 Park Ave. 
+Huntington, NY 11743
+NICU Beds:8
+Neonalologists:1
+Neonatologists names: Salvatore Caravella
+
 QUEENS HOSPITAL CENTER
-: 82-68 164th St. ¥
-. Jamaica, NY 14432
-, ; Director Of Neonatology:
-: Sook Ja Chol, M.D.
-: Office Phone; a Rereeytt
-' Office Fax: _(718)883-6106
-NICU Phone: (718)883-3939
-; NicU Beds: 17
-Neonatologists:
-. CHOI, SOOK JA.
-: CHOWDHARI, ANTONINA
-MEDINA, GENARA
-» VIRAY, JOSE
+82-68 164th St.
+Jamaica, NY 14432
+NicU Beds: 17
+Neonatologists:4
+Neonatologists names: Sook Choi; Antonia Chowdhari; Genara Medina; Jose Viray
 
-JOHNSON CITY, NY
-UNITED HEALTH SERVICES
-HOSPITAL
+UNITED HEALTH SERVICES HOSPITAL
 Witson Memorial Regional Medical Center
 P.O, Box 540, 33-57 Harrison St.
 Johnson City, NY 13790
-Director Of Neonatology:
-Rajesh J. Dave’, M.D.
-
-Office Phone: (607)763-6690
-Office Fax: (607)763-6789
-NICU Phone: (607)763-6661
-NICU Fax: (607)763-6789
 NICU Beds:14
-Neonatologists:
+Neonatologists: 3 
+Neonatologists names: Rajesh Dave; Lee Musrovitz; Sriram Musrovitz
 
-DAVE' RAJESH J.
-
-MUSROVITZ, LEE A.
-
-NIRGUDKAR, SRIRAM D.
-MANHASSET, NY
-NORTH SHORE UNIVERSITY 17
-HOSPITAL
+NORTH SHORE UNIVERSITY HOSPITAL
 300 Community Dr.
 Manhasset, NY 11030
-Director Of Neonatology:
-
-Rila G. Harper, M.D.
-
-Division Chief:
-
-Rila G. Harper, M.D.
-
-Director of Training Program:
-
-Rita G. Harper, M.D.
-
-Offica Phone: (516)562-4665
-Office Fax: (516)562-4516
-NICU Phone: (616)562-4465
-NICU Fax: (516)562-4616
 NICU Beds:50
-Neonatologists:
-ALLEN, LESLIE
-BUCKWALD, SHARON
-HARPER, RITA G,
-LAKHANI, MUMTAZ
-LEVINE, GAIL
-ORNER, SHOSHANA
-SCHLESSEL, JERROLD S.
-SIA, CONCEPCION G.
-SPINAZZOLA-KINNEY, REGINA M.
-MINEOLA, NY
-WINTHROP-UNIVERSITY HOSPITAL \~
+Neonatologists: 9
+Neonatologists names: Leslie Allen; Sharon Buckwald; Rita Harper; Mumtaz Lakhani; Gail Levine; Shoshana Orner; Jerrold Schlessel; Concepcion Sia; Regina Spinazzola-Kinney
+
+WINTHROP-UNIVERSITY HOSPITAL
 259 First St.
 Mineola, NY 11507
-Director Of Neonatology:
-
-Jonathan M. Davis, M.D,
-Office Phone: (516)663-3853
-Office Fax: (5 16)663-8955
-NICU Phona: {i 663-2406
 NICU Beds:28
-Neonatologicts:
+Neonatologicts: 7 
+Neonatologists names: Renu Aggarwal; Jonathan Davis; Daniel Hirsch; Teofilita Isaacson; Carolyn Robbins; Paul Twist; Leslie Wolkoff
 
-AGGARWAL, RENU
-
-DAVIS, JONATHAN M.
-
-HIRSCH, DANIEL S,
-
-ISAACSON, TEOFILITA L.
-
-ROBBINS, CAROLYN G.
-
-TWIST, PAUL F,
-
-WOLKOFF, LESLIE 1.
-MOUNT KISCO, NY
-NORTHERN WESTCHESTER HOSPITAL
-CENTER 4
+NORTHERN WESTCHESTER HOSPITAL CENTER
 4060 E. Main St.
 Mount Kisco, NY 40549
-Director Of Neonatology:
-
-Jolin R. "Rick" Statlord, Jr, M.D,
-Office Phone: Old 666-1272
-Office Fax: (914)666-1444
-NiGU Phone: (914)666-1068
-NiCU Fax: (914)666-1444
 NICU Beds:6
-Neonatologisis:
+Neonatologists: 2
+Neonatologists names: Mazen Khalifeh; John Stafford
 
-156
-
-KHALIFEH, MAZEN T.
-STAFFORD, JOHN R. "RICK"
-NEW HYDE PARK, NY
-SCHNEIDER CHILDREN'S HOSPITAL __.
-Long Island Jewish Medical Center '
+SCHNEIDER CHILDREN'S HOSPITAL
+Long Island Jewish Medical Center 
 270-05 76th Ave,
 New Hyde Park, NY 11040
-Director Of Neonatology:
-Philip J, Lipsitz, M.D.
-Division Chief:
-Philip J. Lipsitz, M.D.
-Director of Training Program:
-Philip J, Lipsitz, M.D.
-Olfice Phone: ie 470-3440
-Office Fax: (718)347-3850
-NICU Phone: (718)470-3380
-NICU Fax: (718)347-3850
 NICU Beds:44
-Neonatologists:
-AHARON, ALBERT
-DAVIDSON, DENNIS
-GOLDMAN, HERBERT |.
-KING, KATHERINE C,
-KOPPEL, ROBERT I.
-LIPSITZ, PHILIP
-STEELE, ANDREW M,
-NEW YORK, NY
-BABIES AND CHILDREN'S HOSPITAL v’
-OF NEW YORK
+Neonatologists: 7 
+Neonatologists names: Albert Aharon; Dennis Davidson; Herbert Goldman; Katherine King; Robert Koppel; Philip Lipsitz; Andrew Steele
+
+BABIES AND CHILDREN'S HOSPITAL OF NEW YORK
 Columbia Presbyterlan Medical Center
 3959 Broadway, BHN-1201
 New York, NY 10032
-Director Of Neonatology:
-Karl Schulze, M.D.
-Division Chief:
-Karl Schuize, M.D.
-Director of Training Program:
-Kart Schulze, M.D.
-Office Phone: (212)305-8500
-Office Fax: (212)305-8796
-NICU Phone: (212)305-6561
-NICU Fax: — (212)305-8796
 NICU Beds:37
-Neonatologists:
-AKITA, FRANCIS
-DRISCOLL, JOHN M.
-KASHYAP, SUDHA
-MARRON-CORWIN, MARY
-PELEGANO, JAMES F.
-REGAN, JOAN
-ROSEN, TOVE
-SAHNI, RAKESH
-SANOCKA, ULANA
-SCHULZE, KARL
-STARK, RAYMOND
-TOWERS, HELEN
+Neonatologists: 12 
+Neonatologists names: Francis Akita; John Driscoll; Sudha Kashyap; Mary Marron-Corwin; James Pelegano; Joan Regan; Tove Rosen; Rakesh Sahni; Ulana Sanocka; Karl Schulze; Raymond Stark; Helen Towers
+
 BELLEVUE HOSPITAL CENTER
 First Ave. & 27th St.
 New York, NY 10016
-Direclor Of Neonalotogy:
-Karen D. Heandtieks-Munoz, M.D.,.MPH
-Division Chief:
-Karen D, Hendricks-Munoz, M.D, MPH
-Director of Training Program:
-Karen D, Hendricks-Munoz, M.D., MPH
-Office Phonsa: (212)263-7477
-Office Fax:  (212)263-8172
-NICU Phone: (212}561-3776
-NICU Fax: — (242)263-8172
 NICU Beds:25
-Neonatologists: ;
-Refer to New York University Medical
-Center
+Neonatologists:
+Refer to New York University Medical Center
 
-BETH ISRAEL MEDICAL CENTER ,
-First Ave. & 16th St. v
+BETH ISRAEL MEDICAL CENTER
+First Ave. & 16th St.
 New York, NY 10003
-Director Of Neonatology:
-Slephen R. Kandall, MD,
-Office Phone: (212)420-4170
-Office Fax: (5 19)420.2044
-NICU Phone: (212}420-2944
 NICU Beds:31
-Neonatologists:
-DOBERCZAK, TATIANA M.
-JENKINS, KENDALL
-JHAVERI, RAMESH
-KANDALL, STEPHEN R.
-PERROTTA, LUCILLE A.
-TELSEY, AIMEE M. .
-TOPSIS, JULIE
+Neonatologists: 7 
+Neonatologists names: Tatiana Doberczak; Kendall Jenkins; Ramesh Jhaveri; Stephen Kandall; Lucille Perrotta; Aimee Telsey; Julie Topsis
 
-HARLEM HOSPITAL CENTER ;
-
+HARLEM HOSPITAL CENTER
 506 Lenox Ave. Vv
-
 New York, NY 10037
-
-Director Of Neonatology:
-
-David Bateman, M.D,
-
-Offica Phone: Oi2o30-1920
-Office Fax: (212)939-1920
-NICU Phone: (212)939-4850
 NICU Beds:25
-Neonatologists:
-BATEMAN, DAVID A.
-HANSEN, CATHERINE
-KOFINAS, MARIA
-MOREAU, HARRY
-SCHNEIDERMAN, ROY
+Neonatologists: 5 
+Neonatologists names: David Bateman; Catherine Hansen; Maria Kofinas; Harry Moreau; Roy Schneiderman
+
 METROPOLITAN HOSPITAL CENTE
 New York Medical College
 1901 First Ave.
 New York, NY 10029
-Director Of Neonatology:
-
-Pratibha A. Ankola, M.D.
-Office Phone: (212}230-6228
-Office Fax: (2412)230-8450
-NICU Phone: (212)230-6205
 NICU Beds:26
-Neonatologists:
+Neonatologists: 3 
+Neonatologists names: Pratibha Ankola; Dominque Jean'Basptiste; Ajfar Shabbir 
 
-ANKOLA, PRATIBHA A.
-JEAN-BAPTISTE, DOMINQUE
-SHABBIR, AJFAR
 MOUNT SINAI MEDICAL CENTER
-Division of Newborn Medicine v
+Division of Newborn Medicine
 One Gusiave L. Levy Place, Box 1513
 New York, NY 10029-6574
-Director Of Neonatology:
-fan R. Holzman, M.D.
-Division Chief:
-fan R, Holzman, M.D.
-Director of Training Program:
-fan R. Holzman, M.D.
-Office Phone: (212)241-5446
-Office Fax: (212)534-5207
-NICU Phone: (212}241-5517
 NICU Beds:35
-Neonatologists:
-GREEN, ROBERT S.
-HOLZMAN, IAN R.
-LASKER, MICHELLE R,
-NAGOURNEY, BETH ANN
-REICHLIN, AMY
-WEDGWOOD, JOSIAH F.
-WEINTRAUB, ANDREA
+Neonatologists: 7 
+Neonatologists names: Robert Green; Ian Holzman; Michelle Lasker; Michelle Lasker; Ben Ann Nagourney; Amy Reichlin; Josiah Wedgwood; Andrea Weintraub
 
-NEW YORK HOSPITAL |Z
+NEW YORK HOSPITAL
 525 E. 68th St.
 New York, NY 10021
-Director Of Neonatology:
-Peter A.M. Auld, M.D,
-Division Chief:
-Peter A.M. Auld, M.D.
-Director of Training Program:
-Peter A.M, Auid, M.D,
-Office Phone: eR Uetats
-Office Fax: (212)746-8605
-NICU Phone: (212)746-5295
 NICU Beds:62
-Neonatologists:
-AULD, PETER A.M.
-BASKA, FRAN J.
-BOWEN, WINSLADE
-CROWLEY, KATHRYN A,
-FRAYER, WILLIAM W.
-JAIN, AJEY
-KRAUSS, ALFRED N.
-LEE, MODESTUS
-NESIN, MIRJANA
-NOBLE, LAWRENCE
-NEW YORK UNIVERSITY MEDICAL
-CENTER/TISCH HOSPITAL
+Neonatologists: 10 
+Neonatologists names: Peter Auld; Fran Baska; Windlade Bowen; Kathryn Crowley; William Frayer; Ajey Jain; Alfred Krauss; Modestus Lee; Mirjana Nesin; Lawrence Noble 
+
+NEW YORK UNIVERSITY MEDICAL CENTER/TISCH HOSPITAL
 Bellevue Hospital Center
 550 First Ave.
 New York, NY 10016
-Director Of Neonatology:
-Karen D, Hendricks-Munoz, M.D.,
-Division Chief:
-Karen 2. Hendricks-Munoz, M.D.,
-=R Director of Training Program:
-- f Karen D. Hendricks-Munoz, M.0.,
-Office Phone: (212)263-7477
-Office Fax: (212)263-8172
-NICU Phone: (212)263-5790
-NICU Fax; = (212)263-8172
 NICU Beds:42
 Neonatologists:
-CAPRIO, MARTHA C.
-HENDRICKS-MUNOZ, KAREN
-HIGGINS, ROSEMARY D.
-KIM, YANG S.
-SANDERS, RAYMOND J.
-SHUKLA, HARI K.
-WASSERMAN, RAND} S.
-YELLIN, PAUL B.
-/
-; PRESBYTERIAN HOSPITAL IN THE
-CITY OF NEW YORK
+Neonatologists names: Martha Caprio; Karen Hendricks-Munoz; Rosemary Higgins; Yang Kim; Raymond Sanders; Hari Shukla; Rand Wasserman; Paul Yellin
+
+PRESBYTERIAN HOSPITAL IN THE CITY OF NEW YORK
 5141 Broadway
 New York, NY 10034
-Director Of Neonatology:
-Mary-Joan Marron-Corwin, M.D.
-Office Phone: eiposneqa:
-Office Fax: arteaeet
-NICU Phone: (212)932-5268
+NICU Beds: 0 
 Neonatologists:
-Refer to Babies and Children Hospital
-New York
+Refer to Babies and Children Hospital New York
+
 ST. LUKE'S/ROOSEVELT HOSPITAL
-1000 Tenth Ave. Vv
+1000 Tenth Ave.
 New York, NY 10019
-Director Of Neonatology:
-Farrokh Shahrivar, M.D.
-Office Phone: Paptaetets
-Office Fax: (212}523-8307
-NICU Phone: (212}523-7953
-NICU Fax: = (212)523-7133
 NICU Beds:40
 Neonatologists:
-ATAKENT, YUCEL S.
-BHATTACHARYA, SUNITA
-CALABIO, RAFAELA Z.
-KLEIN, JANICE F.
-PALEY, CHARLES W.
-SHAHRIVAR, FARROKH
-157
+Neonatologists names: Yucel Atakent; Sunita Bhattacharya; Rafaela Calabio; Janice Klein; Charles Paley; Farrokh Shahrivar 
 
-ST. VINCENT'S HOSPITAL OF NEv
-YORK
+ST. VINCENT'S HOSPITAL OF NEW YORK
 153 W. 11th St.
-New York, NY 10014 ;
-Director Of Neonatology:
-Rita H. Fischer, M.D,
-Office Phone: Breodsoea
-- Office Fax: (212)604-2254
-NICU Phone: (212)604-8630
-NiCU Beds:25
-Neonatologists:
-CALABIO, RAFAELA
-COHEN-ADDAD, NICOLE E,
-FISCHER, RITA H.
-SANOCKA, ULANA M.
+New York, NY 10014
+NICU Beds:25
+Neonatologists: 4 
+Neonatologists names: Rafaela Calabio; Nicole Cohen-Addad; Rita Fischer; Ulana Sanocka
+
 TISCH HOSPITAL
 560 First Ave., Rm 576
 New York, NY 10016
-Director Of Neonatology:
-Delores A, Danilowicz, M.D,
-Division Chief:
-Karen Hendricks-Munoz, M.D.
-Director of Training Program:
-Karen Hendricks-Munoz, M.D,
-/ Office Phone: 2)263-5656
-\ Office Fax: (242}263-8534
-NICU Phone: (212)263-5790
-NICU Fax:  (212)263-8172
+NICU Beds: 0
 Neonatologists:
-Refer io New York University Medi
-MPH Center
-MPH NISKAYUNA, NY
-MPH
-BELLEVUE HOSPITAL CENTER ,
-2210 Troy Rd. v
+Refer io New York University Medicak Center
+
+BELLEVUE HOSPITAL CENTER
+2210 Troy Rd.
 Niskayuna, NY 12309-4792
-Director Of Neonatology:
-Maria D. Fort, M.D,
-Office Phone: (518)346-9535
-Office Fax: tei a\sae-ce68
-NICU Phone: Biasanoece
-NICU Fax:  (518)346-9406
 NICU Beds:10
 Neonatologists:
 FORT, MARIA D.
 PRATT, STEPHEN R.
-POUGHKEEPSIE, NY
+
 VASSAR BROTHERS HOSPITAL
-Reade Place ?
-Poughkeepsie, NY 12604 ,
-Director Of Neonatology:
-Stephen J, Kovacs, M.D.
-Office Phone: oiaany.s120
-Office Fax: (914)437-3120
-NICU Phone: (914)431-5677
-of NICU Fax: (914)437-3181
+Reade Place
+Poughkeepsie, NY 12604
 NICU Beds:15
-Neonatologists:
-DE JULIO, DAVID M.
-LL KOVACS, STEPHEN J.
-/ TRIEGEL, JOHANNA K.
-ROCHESTER, NY
-GENESEE HOSPITAL ,
+Neonatologists: 3 
+Neonatologists names: David DeJulio; Steohen Kovacs; Johanna Triegel
+
+GENESEE HOSPITAL
 224 Alexander St. ,
 Rochester, NY 14607
-Director Of Neonatology:
-_C, Mohini Mehra, M.D.
-Office Phone: Ce eee 2288
-NICU Phone: (716}263-5292
 NICU Beds:9
-Neonatologists:
-MEHRA, C,. MOHINI
+Neonatologists: 1 
+Neonatologists names: Mohini Mehra 
 
-‘ ROCHESTER GENERAL HOSPITAL
-i 1425 Portland Ave.
+ROCHESTER GENERAL HOSPITAL
+1425 Portland Ave.
 Rochester, NY 14624
-: Director Of Np onatology:
-James W. Kandi LD.
-} Office Phone: (716)338-4028
-Office Fax: —(716)336-3929
-\ NICU Phone: (716)338-4567
-, NICU Fax: — (716)339-4035
-4 NICU Beds:12
-j Neonatologlsts:
-. Refer lo University of Rochester Medicat
-5 Center, Strong Children's Medical Cent
-\
-; UNIVERSITY OF ROCHESTER ,”
-MEDICAL CENTER
-; strong Children's Medical Center
-601 Elmwood Ave., Box 651
-; Rochester, NY 14642
-Director Of Neonatology:
-Date L, Phelps, MD.
-7 Division Chief:
-Dale L, Phelps, M.D.
-: Director of Training Program:
-Dale L. Phelps, M.D.
-. Office Phone: (716)275-2972
-‘ Offlca Fax: —(716)461-3614
-. NICU Phone: (716)275-2267
-: NICU Fax: {716)461-3614
-. NiCU Beds:52
-5 Neonatologists:
-CHESS, PATRICIA R.
-: D'ANGIO, CARL T.
-‘ GUILLET, RONNIE
-: KENDIG, JAMES W.
-: : LAWRENCE, RUTH A,
-. MANISCALCO, WILLIAM M.
-. MYERS, GARY J.
-. PHELPS, DALE L. KING
-} PRYHUBER, GLORIA S.
-RYAN, RITA M.
-\ SINKIN, ROBERT A.
-, SWANTZ, ROBERT J.
-’ STATEN ISLAND, NY
-; ST. VINCENT'S MEDICAL CENTER
-: OF RICHMOND va
-, : 355 Bard Ave.
-\ : Staten island, NY 10340
-. : Director Of Neonatology:
-. : Anantham Harin, M.D.
-} Office Phone: (718)876-4637
-; Office Fax: (718)876-2739
-: NICU Phone: (718)876-4310
-NICU. Fax: — (718)876-2739
-NICU Beds:18
-: Neonatologists:
-. HARIN, ANANTHAM
-SIRACUSE, JEFFREY F.
-STATEN ISLAND UNIVERSITY ;
-. : HOSPITAL ea
-: 476 Seaview Ave.
-Staten Island, NY 10305
-‘ Director Of Neonatology:
-Jose L. Rementerla, M.D.
-: Office Phone: Hesoe.e/eG
-’ NiCU Phone: (718)226-9798
-\ NICU Beds:6
-é : Neonatotogists:
-5 BANZON, FELIPE T.
-: REMENTERIA, JOSE L.,
-SAHDEV, SHASHI
-t =
+NICU Beds:12
+Neonatologlsts:
+Refer lo University of Rochester Medical Center, Strong Children's Medical Center
 
-STONY BROOK, NY
-UNIVERSITY MEDICAL CENTER \%
+UNIVERSITY OF ROCHESTER MEDICAL CENTER
+Strong Children's Medical Center
+601 Elmwood Ave., Box 651
+Rochester, NY 14642
+NiCU Beds:52
+Neonatologists:12 
+Neonatologists names: Patricia Chess; Carl D'Angio; Ronnie Guillet; James Kendig; Ruth Lawrence; William Maniscalco; Gary Myers; Dale Phelps; Gloria Pryhuber; Rita Ryan; Robert Sinkin; Robert Swantz
+
+ST. VINCENT'S MEDICAL CENTER OF RICHMOND
+355 Bard Ave.
+Staten island, NY 10340
+NICU Beds:18
+Neonatologists:2
+Neonatologists names: Anantham Harin; Jeffrey Siracuse
+
+STATEN ISLAND UNIVERSITY HOSPITAL 
+476 Seaview Ave.
+Staten Island, NY 10305
+NICU Beds:6
+Neonatotogists: 3 
+Neonatologists names: Felipe Banzon; Jose Rementeria; Shashi Sahdev
+
+UNIVERSITY MEDICAL CENTER
 STONY BROOK
 Department of Pediatrics, HSC, T-114
 Stony Brock, NY 11794-8111
-Director Of Neonatology:
-Leonard |, Kleinman, M.D.
-Division Chief:
-Leonard |. Kleinman, M.D.
-Director of Training Program:
-Leonard |, Kleinman, M.D.
-Office Phone: (616)444-7653
-Office Fax: (516)444-8968
-NICU Phone: (516)444-2004
 NICU Beds:40
-Neonatolonists:
-BROWNE, LYLE E,
-DE CRISTOFARO, JOSEPH D.
-KLEINMAN, LEONARD 1.
-LaGAMMA, EDMUND F.
-PARTON, LANCE A.
-SYRACUSE, NY
-CROUSE IRVING MEMORIAL i
-HOSPITAL
+Neonatolonists: 5 
+Neonatologists names: Lyle Browne; Jseph De Cristofaro; Leonard Kleinman; Edmund LaGamma; Lance Parton
+
+CROUSE IRVING MEMORIAL HOSPITAL
 736 Irving Ave.
-pyracuse, NY 143210
-Director Of Neonatology:
-Steven Gross, M.D.
-Office Phone: a etieteed
-Office Fax: (315)470-2923
-NICU Phone: (315)470-7577
+Syracuse, NY 143210
 NICU Beds:60
-Neonatologists:
-ALVARADO, MARTIZA K.
-BIFANO, ELLEN M.
-CURRAN, JR., THOMAS R,
-GROSS, STEVEN J.
-HAKANSON, DAVID O,
-HINGRE, ROBERT V.
-MARR, BONNIE L.
-UTICA, NY
-ST, LUKE'S MEMORIAL HOSPITAL /
+Neonatologists: 7 
+Neonatologists names: Martiza Alvarado; Ellen Bifano; Thomas Curran Jr; Steven Gross; David Hakanson;  Robert Hingre; Bonnie Marr
+
+ST, LUKE'S MEMORIAL HOSPITAL
 P.O. Box 479
 Utica, NY 13503
-Director Of Neonalology:
-
-M. Ananda Siriwardena, M.D.
-Office Phone: Ct eee eet
-NIGU Phone; (315)798-6048
 NICU Beds:10
-Neonatologists:
+Neonatologists: 2 
+Neonatologists names: Adam Cutler; Ananda Siriwardena 
 
-CUTLER, ADAM
-
-SIRIWARDENA, M. ANANDA
-VALHALLA, NY
-WESTCHESTER MEDICAL CENTER /
-Regional Neonatal 1.C.U. ‘
+WESTCHESTER MEDICAL CENTER
+Regional Neonatal I.C.U.
 Vathalla, NY 10595
-Director Of Neonatology:
-
-Harry S. Dweck, MD,
-Division Chief:
-
-Hatry S. Dweck, M.D.
-Director of Training Program:
-
-Hany S. Dweck, M.D.
-
-Office Phone: (914)285-8558
-Office Fax; (914)285-1488
-NICU Phone: (914)285-8685
-NICU Fax: (914}285-1005
 NICU Beds:30
-Neonatologists:
+Neonatologists:4 
+Neonatologists names: Harry Dweck; Lilian Gonzalez; Sarvesh Nigam; Mario Reale
 
-DWECK, HARRY 8.
-
-GONZALEZ, LILIAN
-
-NIGAM, SARVESH K.
-
-REALE, MARIO R.
-
-158
-
-WATERTOWN, NY
-SAMARITAN MEDICAL CENTER,
-830 Washington St. “
+SAMARITAN MEDICAL CENTER
+830 Washington St.
 Watertown, NY 13601
-Director Of Neonatology:
-Karl J. Komar, M.D.
-Office Phone: 4 eee dog
-NICU Phone: (315)785-4126
 NICU Beds:6
-Neonatclogists:
-HELMUTH, WILLARD
-KOMAR, KARL J.
-WESTISLIP, NY
-GOOD SAMARITAN HOSPITAL,
-1000 Montauk Hwy,
+Neonatologists:2 
+Neonatologists names: Willard Helmuth; Karl Komar 
+
+GOOD SAMARITAN HOSPITAL
+1000 Montauk Hwy. 
 West Islip, NY 11795
-Director Of Neonatology:
-Prabhu Mehta, M.D.
-Office Phone: ieee 161
-Office Fax: (516)376-3676
-NICU Phone: (616)376-4087
 NICU Beds:15
-Neonatelogists:
-BODAPATI, HANUMANTHARAO
-MARQUIS, BELINDA
-MEHTA, PRABHU N,
-MEHTA, TARAL
-WILLIAMSVILLE, NY
-MILLARD FILLMORE SUBURBAN
-HOSPITAL 4
+Neonatelogists:4
+Neonatologists names: Hanumantharao Bodapati; Belinda Marquis; Prabhu Mehta; Taral Mehta
+
+MILLARD FILLMORE SUBURBAN HOSPITAL
 1540 Maple Rd.
 Willlamsville, NY 14224
-Director Of Naonatology:
-Relph J, Wyan, M.D.
-Office Phone: (716)636-6538
-Office Fax: — (716)688-3486
-NICU Phone; (716)688-3230
-NICU Fax: — (716)688-3486
 NICU Beds:24
-Neonatologisis:
-WYNN, RALPH J.
-ASHEVILLE, NC
-MEMORIAL MISSION MEDICAL \
-CENTER .
-304 Doctors Bidg.
+Neonatologists: 1
+Neonatologists names: Ralph Wynn
+
+MEMORIAL MISSION MEDICAL CENTER
+304 Doctors Bldg.
 Asheville, NC 28801
-Director Of Neonatology:
-Charles Yoder, M.D.
-Office Phone: (704)253-1998
-Office Fax: (704)252-9154
-NICU Phone: (704)255-6232
-NICU Fax: 704)255-6276
 NICU Beds:35
-Neonatotogists:
-DALTON, STAN
-LITZENBERGER, DREW
-YODER, CHARLES
+Neonatotogists: 3 
+Neonatologists names: Stan Dalton; Drew Litzenberger; Charles Yoder
 
-BETH ISRAEL %
-First Ave. & 16
-New York, N \
-Director Of © ‘
-Steph %
-Office P' en
-Office ” aN
-NICV’ p
-Nic “,
-Ne
-wd
-. 2966-6378
-rele)
-_uatologisis:
+UNIVERSITY OF NORTH CAROLINA HOSPITALS
+4018 UNC Hospitals
+Chapel Hill, NC 27599
+NICU Beds:
+Neonatologists:7
+Neonatologists names: Carl Bose; Joseph D'Ercole; Ernest Kraybill; Edward Lawson; Wayne Price; Alan Stiles; Kathleen Veness-Meehan
 
-BOSE, CARL L.
-
-D'ERCOLE, JOSEPH
-
-KRAYBILL, ERNEST N.
-
-LAWSON, EDWARD E,
-
-PRICE, WAYNE A,
-
-STILES, ALAN D.
-
-VENESS-MEEHAN, KATHLEEN A.
-CHARLOTTE, NC
-CAROLINAS MEDICAL CENTER /
-P.O, Box 32861 \
+CAROLINAS MEDICAL CENTER
+P.O, Box 32861
 Charlotte, NC 28232
-Director Of Neonatology:
-
-Mary Anne Rathbun, M.D.
-Office Phone: (704)355-3156
-Office Fax: (704)335-5429
-NICU Phone: (704)355-3000
 NICU Beds:51
-Neonatologists:
+Neonatologists: 9 
+Neonatologists names: Andrew Davey; Paul Engstrom; David Fischer; Docia Hickey; Thomas Kueser; Patricia Neal; James Parke; Mary Rathbun; Valya Visser
 
-DAVEY, ANDREW M.
-
-ENGSTROM, PAUL C,
-
-FISHER, DAVID G.
-
-HICKEY, DOCIA E.
-
-KUESER, THOMAS J.
-
-NEAL, PATRICIA
-
-PARKE, JAMES C.
-
-RATHBUN, MARY A.
-
-VISSER, VALYA E.
-PRESBYTERIAN HEMBY CHILDREN‘
-HOSPITAL ,
+PRESBYTERIAN HEMBY CHILDREN HOSPITAL
 200 Hawthorne Lane
 P.O. Box 33649
 Charlotte, NC 28233-3549
-Director Of Neonatology:
-
-Joseph L. Brady, Jr, M.D.
-Office Phone: (704)384-4010
-Office Fax: (704)384-5612
-NICU Phone: (704}384-4944
-NICU Fax: — (704)384-5612
 NICU Beds:16
-Neonatologists:
+Neonatologists:4 
+Neonatologists names: Joseph Brady; Allen Cherer; Rogers Howell; Jay Kothadia 
 
-BRADY, JOSEPH L.
-
-CHERER, ALLEN J.
-
-HOWELL, ROGERS G.,
-
-KOTHADIA, JAY M.
-
-DURHAM, NC
-
-DUKE UNIVERSITY MEDICAL CENTE!
-Box 3179 \
+DUKE UNIVERSITY MEDICAL CENTER 
+Box 3179
 Durham, NC 27710
-
-Director Of Neonatology:
-
-Richard L. Auten, M.D.
-Division Chief:
-
-David T. Tanaka, M.D.
-Director of Training Program:
-
-David Tanaka, M.D.
-
-Office Phone: (919)681-6024
-Office Fax: (919)681-6065
-NICU Phone: (919)681-5551
-NICU Fax: (918)681-7770
 NICU Beds:34
-Neonatologists:
-AUTEN, RICHARD L.
-GOLDSTEIN, RICKI F,
-IAFOLLA, AYNE KIMBERLY
-ROSENBLUM, DENNIS A.
-TANAKA, DAVID T.
+Neonatologists: 5
+Neonatologists names: Richard Auten; Ricki Goldstein; Ayne Kimberly Iafolla; Dennis Rosenblum; David Tanaka
+
 DURHAM REGIONAL HOSPITAL
 3643 N, Roxboro Rd.
 Durham, NC 27704-2763
-Director Of Neonatology:
-
-A, Kimberly lafolla, M.D.
-Office Phone: (919)470-4225
-Office Fax: tBeha7o-4e3e
-NICU Phone: (919)470-4230
-NICU Fax: (919)470-7368
 NICU Beds:42
 Neonatologists:
+Refer to Duke University Medical Center
 
-Refer to Duke University Medical Cente:
-FAYETTEVILLE, NC
-
-CAPE FEAR VALLEY MEDICAL /
-CENTER \
-
+CAPE FEAR VALLEY MEDICAL CENTER
 P.O. Box 2000
+1638 Owen Dr.
+Fayetteville, NC 28302
+NICU Beds:35
+Neonatologists:4
+Neonatologists names: Jan Carter; Thomas Ciszek; Keith Gallaher; William Lowe
 
-41638 Owen Dr.
-
-Fayetteville, NC 28302-2000
-
-Director Of Neonatology:
-
-Thomas A. Ciszek, M.D.
-Office Phone: (910)609-6762
-NICU Phone: (910)609-6751
-NICU Fax: (910)609-7696
-
-S NICU Beds:35
-vA Neonatologists:
-CARTER, JAN M.
-CISZEK, THOMAS A.
-GALLAHER, KEITH J.
-LOWE, WILLIAM W.
-GREENSBORO, NC
-WESLEY LONG COMMUNITY HOSP1
+WESLEY LONG COMMUNITY HOSPITAL
 P.O, Box 2747
 Greensboro, NC 27402
-Director Of Neonatology:
-
-James A. Pascale, M.D,
-Office Phone: (910)854-6115
-NICU Phones: (910)854-6351
 NICU Beds:8
-Neonatologists:
+Neonatologists:2
+Neonatologists names: James Pascale; Yui-Lin Tang
 
-PASCALE, JAMES A.
-TANG, YUI-LIN
-WOMEN'S HOSPITAL OF GREENSBC
+WOMEN'S HOSPITAL OF GREENSBORO
 801 Green Valley Rd.
 Greensboro, NC 27408
-Director Of Neonatology:
-
-J, Laurence Ransom, M.D.
-Office Phone: (910)574-6508
-Office Fax: (910)574-6502
-NICU Phone: (910)574-6561
-NICU Fax: (910)574-6502
 NICU Beds:24
-Neonatologists:
+Neonatologists:4
+Neonatologists names: Rita Carlos; Andrew Davey; Laurence Ransom; McCrae Smith
 
-CARLOS, RITA Q.
-159
-
-DAVEY, ANDREW M,
-RANSOM, J. LAURENCE
-SMITH, McCRAE S.
-
-R GREENVILLE, NC
-PITT COUNTY MEMORIAL HOSPIT’
-Universily Medical Center of Eastern —
-2100 Stantonsburg Rd,, P.O. Box 607°
+PITT COUNTY MEMORIAL HOSPITAL
+Universily Medical Center of Eastern
+2100 Stantonsburg Rd. 
 Greenville, NC 27835-6028
-Director Of Neonatology:
-
-Arthur E. Kopelman, M.D,
-Division Chief:
-Arthur E. Kopelman, M.D.
-Director of Training Program:
-Oommen P, Mathew, M.D,
-Office Phone: (919)816-4787
-Office Fax: er aye Ie 4078
-NICU Phone: (919}816-4378
 NICU Beds:40
-Neonatologists:
-ENGELKE, STEPHEN C,
-KOPELMAN, ARTHUR E.
-MATHEW, OOMMEN P.
-MEETZE, WILLIAM H.
-ROBERTSON, ALEXANDER F.
-WIMMER, JR, JOHN E,
-HICKORY, NG
-FRYE REGIONAL MEDICAL CENT”
-420 N. Center St. v
+Neonatologists:6 
+Neonatologists names: Stephen Engelke; Arthur Kopelman; Oommen Mathew; Alexander Robertson; John Wimmer Jr.
+
+FRYE REGIONAL MEDICAL CENTER
+420 N. Center St. 
 Hickory, NC 28601
-Director Of Neonatology:
-
-| Samuel D, Wellman, M.D.
-
-f Office Phone: (704)345-0877
-NICU Phone: (704)324-3231
 NICU Beds:8
-Neonatologists:
+Neonatologists:1
+Neonatologists names: Samuel Wellman
 
-WELLMAN, SAMUEL D.
-MARION, NC
-MCDOWELL HOSPITAL 1.”
-. P,O, Box 730
+MCDOWELL HOSPITAL
+P.O. Box 730
 Marion, NC 28752
-Director Of Neonatology:
-Shamshad Ali, M.D.
-Office Phone: (704)652-6387
-Office Fax: (704)652-5730
-NICU Phone: (704)659-5323
-NICU Fax: , {704)652-1626
 NICU Beds:10
-Neonatologisls:
-ALi, SHAMSHAD
-RALEIGH, NC
-TAL REXHOSPITAL _ 7
-; 4420 Lake Boone Trail
+Neonatologists: 1 
+Neonatologists names: Shamshad Ali
+
+REX HOSPITAL
+4420 Lake Boone Trail
 Raleigh, NC 27607
-Director Of Neonatology:
-James D, Thullen, M.D.
-Office Phone: (919)783-3189
-NICU Phone: (919)783-3003
 NICU Beds:8
 Neonatolagists:
 Refer to Wake Medical Center
-WAKE MEDICAL CENTER \/
-IRO 3000 New Bern Ave. ‘
-v Raleigh, NC 27610
-Director Of Neonatology:
-Ross lL. Vaughan, M.D.
-Office Phone: (919)250-8545
-Office Fax: (o1toe0-0466
-NICU Phone: (919)250-8466
-NICU Fax: (919)250-7749
-' NICU Beds:28
+
+WAKE MEDICAL CENTER
+3000 New Bern Ave.
+Raleigh, NC 27610
+NICU Beds:28
+Neonatologists: 4 
+Neonatologists names: Laurie Dunnn; James Thullen; Ross Vaughan; Thomas Young
+
+NEW HANOVER REGIONAL MEDICAL CENTER
+P.O. Box 8000
+Wilmington, NC 28402-9000
+NICU Beds:29
+Neonatologisis: 3 
+Neonatologists names:  Noel-John Carrasco; Elizabeth Leistikow; Robert McArtor
+
+FORSYTH MEMORIAL HOSPITAL
+3333 Silas Creek Pky.
+Winston-Salem, NC 27103
+NICU Beds:36
 Neonatologists:
-DUNN, LAURIE L. .
-THULLEN, JAMES D,
+Refer to North Carolina Baplist Hospital
 
-> VAUGHAN, ROSS L.,
-YOUNG, THOMAS E.
-WILMINGTON, NC
-‘ NEW HANOVER REGIONAL MEDICAL
-; CENTER 7
-Pa P.O. Box 8000 .
-; Wilmington, NC 28402-9000
-} Director Of Neonatology:
-5 Rohert D. MeAttor, M.D.
-} Office Phone: (910)343-2175
-Office Fax: — (910)343-7390
-) NICU Phane: (910)343-7391
-. NICU Fax: — (910)343-7390
-‘ NICU Beds:29
-, Neonatologisis:
-. CARRASCO, NOEL-JOHN M.
-, LEISTIKOW, ELIZABETH A.
-. MC ARTOR, ROBERT D.
-. WINSTON-SALEM, NC
-\ FORSYTH MEMORIAL HOSPITAL
-; 3333 Silas Creek Pky.
-. Winston-Salem, NC 27103
-; Director Of Neonatology:
-Robert G. Dillard, M.D.
-: Office Phone: (910)7 18-5227
-Office Fax:  (910)718-9266
-: NICU Phone: (910)718-3160
-, NICU Fax; — (910)718-9266
-: NICU Beds:36
-‘ : Neonatologists:
-. ‘ Refer to North Carolina Baplist Hospital
-: NORTH CAROLINA BAPTIST \/
-HOSPITAL
-. : Medical Center Blvd.
-} Winston-Salem, NC 274157
+NORTH CAROLINA BAPTIST HOSPITAL
+Medical Center Blvd.
+Winston-Salem, NC 274157
 Director Of Neonatology:
-: Steven M. Block, M.D,
-‘ : Division Chief:
-\ Robert G. Dillard, M.D,
-/ : Director of Training Program:
-, Steven M. Block, M.D.
-} Office Phone: (910)716-2528
-Office Fax: foloyriea7e4
-: : NICU Phone; (910)716-4784
-: : NICU Fax: — (910)716-6308
-5 NICU Beds:35
-‘ Neonatologists:
-: ASCHNER, JUDY L.
-: : BERRY, DAVID D.
-: BLOCK, STEVEN M,
-: : DILLARD, ROBERT G.
-NICHOLS, VIRGINIA G,
-: O'SHEA, T. MICHAEL
-‘ PORCELLE PETER J.
-‘ i BISMARCK, ND
-MEDCENTER ONE  y
-: 300 N, 7th St.
-: Bismarck, ND 58502
-\ : Direclar Of Neonalology:
-Thomas A, Wilson, M.D,
-‘ NICU Phone: (701)224-6580
-; NICU Beds:10
-; : Neonatologists:
-: : WILSON, THOMAS A,
-a Ba
+NICU Beds:35
+Neonatologists:7
+Neonatologists names: Judy Aschner; David Berry; Steven Block; Robert Dillard; Virginia Nichols; Michael O'Shea; Peter Porcelli
 
-ST, ALEXIUS MEDICAL CENTER ,
-900 E. Broadway “
+MEDCENTER ONE
+300 N, 7th St.
+Bismarck, ND 58502
+NICU Beds:10
+Neonatologists: 1 
+Neonatologists names: Thomas Wilson
+
+ST, ALEXIUS MEDICAL CENTER
+900 E. Broadway
 Bismarck, ND 58504
-
-Director Of Neonalology:
-
-Charles B. Severn, M.D., Ph, D,
-Office Phone: (704)224-7655
-Office Fax: (701)221-8272
-NICU Phone: (701)224-7660
-NICU Fax: — (701)224-9272
 NICU Beds:24
-Neonatologists:
-
-GAYED, ATEF M.
-
-SEVERN, CHARLES B,
-
-WILSON, THOMAS A,
-
-FARGO, ND
+Neonatologists: 3
+Neonatologists names: Atef Gayed; Charles Severn; Thomas Wilson
 
 CHILDREN'S HOSPITAL MERITCARE
 720 Fourth St, N, wv
 Fargo, ND 58122
-
-Director Of Neonalolagy:
-
-Craig T. Shoemaker, M.D.
-Office Phone: (701)234-5997
-NICU Phone: (704)234-5586
-NICU Fax: — (701)234-7194
 NICU Bads:24
-Neonatologists:
+Neonatologists: 5 
+Neonatologists names: Indu Agarwal; Carlos Ahumada; Stephen Nelson; William Rosen; Craig Shoemaker
 
-AGARWAL, INDU
-AHUMADA, CARLOS A,
-NELSON, STEPHEN N.
-ROSEN, WILLIAM C.
-SHOEMAKER, CRAIG T.
-MINOT, ND
 TRINITY MEDICAL CENTER
 1 Burdick Expy. W.
 Minot, ND 58702-5020
-Director Of Neonatology:
-Roger L.. Allen, M.D.
-Office Phone: (701)857-5413
-Office Fax: — (701)857-5089
-NICU Phone: (701}857-5349
-NICU Fax: — (701}857-5389
 NICU Beds:10
-Neonatologists:
-ALLEN, ROGER L,
-AKRON, OH
-CHILDREN'S HOSPITAL MEDICAL
-CENTER OF AKRON Vo
+Neonatologists: 1 
+Neonatologists names: Roger Allen
+
+CHILDREN'S HOSPITAL MEDICAL CENTER OF AKRON
 1 Perkins Square
 Akron, OH 44308
-Director Of Neonatology:
-
-John H, Voliman, M.D.
-Office Phone: (216)379-8350
-NICU Phone: (216)379-8352
 NICU Beds:59
-Neonatologists:
+Neonatologists: 6 
+Neonatologists names: Gary Benfield; Harriet Feick; Anand Kantak; Franklin Kokomoor; Thomas Lin; John Vollman
 
-BENFIELD, D.GARY
-FEICK, HARRIET J.
-KANTAK, ANAND DO,
-KOKOMOOR, FRANKLIN W.
-LIN, THOMAS
-VOLLMAN, JOHN H.
-CANTON, OH
-AULTMAN HOSPITAL \/
+AULTMAN HOSPITAL
 2600 Sixth St. S.W.
 Canton, OH 44710
-Director OF Neonatology:
-
-Martha W. Mayoon, M.D.
-Offica Phone: oieaan Jans
-NICU Phone: (216)438-7433
 NICU Beds: 16
-Neonatologists:
-
-HECK, LOUIS J.
-
-MAGOON, MARTHA W,
-
-OLOYA, RICHARD ©. °
-6
+Neonatologists:3 
+Neonatologists names: Louis Heck; Martha Magoon; Richard Oloya
 
 TIMKEN MERCY MEDICAL CENTER
-1320 Timken Mercy Dr. NLW, vv
+1320 Timken Mercy Dr. N.W.
 Canton, OH 44708
-Director Of Neonatology:
-Affan Alwan, M.D.
-Office Phone: (216)833-4400
-NICU Phone: eiendso-ose
-NICU Fax: — (216)430-0945
 NICU Bads:42
-Neonatologists:
-ALWAN, AFFAN
-BETKERUR, MANGALA V.
-CINCINNATI, OH
+Neonatologists: 2 
+Neonatologists names: Affan Alwan; Mangala Betkerur
+
 BETHESDA HOSPITAL
 619 Oak St.
 Cincinnati, OH 45206
-Director Of Neonatology:
-John H. Reuler, M.D.
-Office Phone: (613)569-6210
-Office Fax: (613}660.609
-NICU Phone: (613)569-6065
-NICU Fax: — (513)569-6209
 NICU Beds;29
-Neonatologists:
-CHADHA, NAIYER
-REUTER, JOHN H.
+Neonatologists: 2 
+Neonatologists names: Naiyer Chadha; John Reuter
+
 BETHESDA NORTH HOSPITAL
 10500 Montgomery Rd.
 Cincinnati, OH 45242
-Director Of Neonalology:
-Jolin H. Reuter, a p.
-Offica Phone: r Sepeea09
-Office Fax: — (613)569-6209
-NICU Phone: (513)569-6065
-NICU Fax: §13)669-6209
 NICU Beds:7
 Neonatologists:
 Refer to Bethesda Hospital
-CHILDREN'S HOSPITAL MEDICAL.”
-CENTER :
+
+CHILDREN'S HOSPITAL MEDICAL CENTER
 3333 Burnet Ave,
 Cincinnati, OH 45229-3039
-Diractor Of Neonatology:
-Reginald C. Tsang, M.D,
-. Division Chief:
-Reginald C. Tsang, M.D.
-Director of Training Program:
-Ward R. Rice, M.0,
-Office Phone: (51 aeeaoase
-Office Fax; (513)558-7770
-NICU Phone: (513)559-4466
-NICU Fax: — (513)559-8125
 NICU Beds:55
-Neonatologists:
-BALLARD, JEANNE
-CHADHA, NAIYER
-DONOVAN, EDWARD F.
-GREENBERG, JAMES
-HOATH, STEVEN
-JOINER, CLINTON
-KALLAPUR, SUHAS
-KOTAGAL, UMA
-KUAN, LISA
-LIGHT, IRWIN
-PERLSTEIN, PAUL H.
-REUTER, JOHN
-RICE, WARD R.
-STEICHEN, JEAN
-TSANG, REGINALD C.
-WARNER, BARBARA B.
-WHITSETT, JEFFREY
-WISPE, JONATHAN R.
+Neonatologists:18 
+Neonatologists names: Jeanne Ballard; Naiyer Chadha; Edward Donovan; James Greenberg; Steven Hoath; James Greenberg; Clinton Joiner; Suhas Kallapur; Uma Kotagal; Lisa Kuan; Irwin Light; Paul Perlstein; John Reuter; Ward Rice; Jean Steichen; Reginald Tsang; Barbara Warner; Jeffrey Whitsett; Jonathan Wispe
 
 GOOD SAMARITAN HOSPITAL
-375 Dixmyth Ave, v
+375 Dixmyth Ave.
 Cincinnati, OH 45220
-
-Director Of Neonatology:
-
-Horatio S, Falcigl M.D.
-Office Phone: (513)872-4013
-Office Fax: (513)872-2941
-NICU Phone: (513)872-2627
-NICU Fax: — (613)872-2941
 NICU Beds:36
-Neonatologists:
+Neonatologists: 5 
+Neonatologists names: Horatio Falciglia; Nikki Kosmetatos; David Levine; Robert Lipp; Kathy Wedig
 
-FALCIGLIA, HORATIO S.
-
-KOSMETATOS, NIKKI
-
-LEVINE, DAVID H,
-
-LIPP, ROBERT
-
-WEDIG, KATHY E.
 UNIVERSITY OF CINCINNATI
 P.O. Box 670541
 Cincinnati, OH 45267-0541
-Director Of Neonatology:
-
-Reginaid C, Tsang, M.D.
-Division Chief:
-
-Reginald C. Tsang, M.D.
-Direcior of Training Program:
-
-Ward R. Rice, M.D.
-
-Office Phone: (513)558-0643
-Office Fax: iB 558-7770
-NICU Phone: (513)558-4901
-NICU Fax: — (543)55B-7063
 NICU Beds:50
 Neonatologists:
-Refer to Children's Hospital Medical
-Center
-CLEVELAND, OH
+Refer to Children's Hospital Medical Center
+
 FAIRVIEW GENERAL HOSPITAL
 18101 Lorain Ave.
 Cleveland, OH 44111
-Director Of Neonatology:
-Lawrence D, Lilien, M.D.
-Office Phone: (216)476-7157
-Office Fax: 5 169476-7 157
-NICU Phone: (216)476-7157
-NICU Fax: — (216)476-4073
 NICU Beds:17
-Neonatologists:
+Neonatologists:2
+Neonatologists names: Babu Achanti; Lawrence Lilien
 
-ACHANTI, BABU R.
-
-LILIEN, LAWRENCE D,
 METROHEALTH MEDICAL CENTER
-2500 Metrohealth Dr. v
+2500 Metrohealth Dr.
 Cleveland, OH 44109
-Director Of Neonatology:
-
-John J. Moore, M.D.
-Division Chief:
-
-John J, Moore, M.D.
-Director of Training Program:
-John J. Moore, M.D.
-Office Phone: (216)459-5804
-Office Fax: (216)459-3252
-NICU Phone: rare
-NICU Fax: 216)459-4219
-
 NICU Beds:40
-Neonatologists;
-
-BAIRD, TERRY M,
-
-BENIS, ROBIN C,
-
-COLLIN, MARC F.
-
-DOTHEY, CHANTEL
-
-KASIK, JOHN W,
-
-MOORE, JOHN J.
+Neonatologists:6
+Neonatologists names: Terry Baird; Robin Benis; Marc Colllin; Chantel Dothey; John Kasik; John Moore
 
 MT, SINAI MEDICAL CENTER Vv
 One Mt. Sinai Dr.
-
 Cleveland, OH 44106
-
-Director Of Neonatology:
-
-Jeffrey Schwersenski, M.D.
-Office Phone: (216)421-6992
-Office Fax: Bleaateree
-NICU Phone; (216)421-5706
-NICU Fax: (246)421-4228
 NICU Beds:18
-Neonatologists:
+Neonatologists: 2 
+Neonatologists names: Douglas Powell; Jeffrey Schwesenski
 
-POWELL, DOUGLAS P.,
-SCHWERSENSKI, JEFFREY
-RAINBOW BABIES & CHILDREN'S
-HOSPITAL wv
+RAINBOW BABIES & CHILDREN'S HOSPITAL
 Division of Neonatology
 11100 Euclid Ave.
 Cleveland, OH 44106-6010
-Director Of Neonatology:
-
-Avroy A. Fanaroff, M.D.
-Division Chief:
-
-Avroy A. Fanaroff, M.D.
-Director of Training Program:
-
-Richard J. Martin, M.D.
-
-Office Phone: (216)844-3387
-Office Fax: (216)844-3380
-NICU Phone: (216)844-1922
-NICU Fax: (216)844-5629
 NICU Beds:38
-Neonatologists:
-AUCOTT, SUSAN W.
-BALEY, JILL E,
-BEARER, CYNTHIA F.
-FANAROFF, AVROY A.
-HACK, MAUREEN
-KALHAN, SATISH C,
-MARTIN, RICHARD J.
-MILLER, MARTHA J.
-STORK, EILEEN K.
-WALSH-SUKYS, MICHELE C,
-COLUMBUS, OH
-COLUMBUS CHILDREN'S HOSPITAI
-700 Chitdren's Dr. : V
+Neonatologists: 10
+Neonatologists names: Susan Aucott; Jill Baley; Cynthia Bearer; Avroy Fanaroff; Maureen Hack; Satish Kalhan; Richard Martin; Martha Miller; Eileen Stork; Michele Walsh-Sukys
+
+COLUMBUS CHILDREN'S HOSPITAL
+700 Chitdren's Dr.
 Columbus, OH 43205
-Director Of Neonatology:
-
-James A. Menke, M.D.
-Division Chief:
-
-James A. Menke, M.D.
-Director of Training Progam:
-
-/ James A. Menke, M.D.
-Office Phone: (614)722-4530
-Office Fax: (614)722-4565
-NICU Phone: (614)722-4650
 NICU Beds:45
+Neonatologists:9
+Neonatologists names: Leandro Cordero; Thomas Hansen; Richard McClead; James Menke; Randy Miller; Craig Nankervis; Philip Nowicki; Ellen Rosenberg; John Seguin
 
-. Neonatologists:
-CORDERO, LEANDRO
-HANSEN, THOMAS N,
-MC CLEAD, RICHARD E,
-MENKE, JAMES A.
-MILLER, RANDY R.
-NANKERVIS, CRAIG A.
-NOWICKI, PHILIP T.
-ROSENBERG, ELLEN M.
-SEGUIN, JOHN H.
-
-GRANT MEDICAL CENTER +7
+GRANT MEDICAL CENTER
 111 S. Grant Ave.
-
 Columbus, OH 43215
-
-Director Of Neonatology:
-
-Craig W. Anderson, M.D.
-Office Phone: Bidlstt ace
-Office Fax: (614)341-6497
-NICU Phone: (614)461-3221
 NICU Beds:18
-Neonatologists:
+Neonatologists:5 
+Neonatologists names: Craig Anderson; Sara Corriveau; James Holcomb; John Hostler; Tamisha Samiec
 
-ANDERSON, CRAIG W.
-CORRIVEAU, SARA
-HOLCOMB, JAMES W,
-HOSTLER, JOHN A.
-SAMIEC, TAMISHA p.
-61
-
-MOUNT CARMEL MEDICAL CEN\.
+MOUNT CARMEL MEDICAL CENTER
 793 W. State St.
-
-Columbus, OH 43215
-
-Director Of Neonatology:
-
-Craig W. Anderson, M.D.
-Office Phone: (614)461-3683
-Office Fax: tetaieehae)
-NICU Phone: (614)461-3221
+Columbus, OH 43215 
 NICU Beds:15
 Neonatologists:
 Refer to Grant Medical Center
-OHIO STATE UNIVERSITY HOSP”
+
+OHIO STATE UNIVERSITY HOSPITAL
 410 W. 10th Ave., Doan Hall N-14&
 Columbus, OH 43210-1228
-Director Of Neonatology:
-
-Leandro Cordero, M.D.
-Office Phone: (614)293-8680
-Office Fax: (614)293-4996
-NICU Phone: (614)293-8693
 NiCU Beds:35
 Neonatologists:
-Refer to Columbus Children's Hosp.
-RIVERSIDE METHODIST HOSPIT. ..
+Refer to Columbus Children's Hospital
+
+RIVERSIDE METHODIST HOSPITAL
 3535 Olentangy River Rd,
 Columbus, OH 43214
-Director Of Neonatology:
-
-Patrick M. Wall, M.D.
-
-Office Phone: eta 566-4731
-Office Fax: (614)566-4053
-NICU Phone: (614)586-5366
 NICU Beds:24
-Neonatologists:
-DAVIS, MARGARET ‘
-HANSEN, NANCY B,
-SNYDER, GARY E,
-WALL, PATRICK M.
-WALLENBROCK, MARK A.
-DAYTON, OH
+Neonatologists:5
+Neonatologists names: Margaret Davis; Nancy Hansen; Gary Snyder; Patrick Wall; Mark Wallenbrock
+
 CHILDREN’S MEDICAL CENTER
-L One Children's Plaza 4
+One Children's Plaza
 Dayton, OH 45404
-Director Of Neonatology:
-Jeffrey T. Pietz, M.D.
-Office Phone: (513)226-8414
-Office Fax: (513)463-5446
-NICU Phone: i213 226-8415
-NICU Fax: 513)463-5436
 NICU Beds:35
-Neonatologists:
-GRANGER, DON T.
-GUTTENBERG, NEAL A.
-LOUGHEAD, JEFFREY L.
-PIETZ, JEFFREY T.
+Neonatologists: 4 
+Neonatologists names: Don granger; Neal Guttenberg; Jeffrey Loughead; Jeffrey Pietz
+
 MIAMI VALLEY HOSPITAL
-One Wyoming St. f
+One Wyoming St.
 Dayton, OH 45409
-Director Of Neonatology:
-Neit M. Kantor, D.O,
-Office Phone: eraaa notes
-Office Fax: (513)341-8151
-NICU Phone: te1sbopecoee
-NICU Fax: (513)220-2651
 NICU Beds:49
-Neonatologists:
-BELCASTRO, MARC
-HERITAGE, C, KIRBY
-KANTOR, NEIL M.
-MC CARROLL, CONNIE J.
+Neonatologists:4
+Neonatologists names: Marc Belcastro; Kirby Heritage; Neil Kantor; Connie McCarroll
 
-mm EUCLID, OH
-MERIDIA EUCLID HOSPITAL ,/
+MERIDIA EUCLID HOSPITAL
 18901 Lake Shore Blvd.
-Euctid, OH 44119
-; Director Of Neonatotogy:
-William 1, Zain, M.D.
-Office Phone: oie 692-8920
-; Office Fax: (216)481-1885
-. NICU Phone: (216)692-8635
-; NICU Fax: — (216)481-9145
-. NICU Beds:6
-; Nepaatolagists:
--, ZAIA, WILLIAM 1.
-; LIMA, OH
-. ST. RITA'S HOSPITAL MEDICAL 4
-j CENTER
-730 W. Market St.
-} Lima, OH 45801-4667
-17 Director Of Neonatology:
-: Vincent Romero, M.D,
-§ Office Phone: er cet
-af NICU Phone: (419)226-9065
-: NICU Beds:16
-Neonatologists:
-ROMERO, VINCENT W.
-: MAYFIELD HEIGHTS, OH
-7 MERIDIA HILLCREST HOSPITAL
-, 6780 Mayfield Rd.
-4 Mayfield Helghts, OH 44424
-Director Of Neonatology:
-i Avory A. Fanatoff, M.D.
-Office Phone: (216)449-4144
-5 Office Fax: (216)449-4600
-‘ NICU Phone: (216)449-4144
-. NICU Beds:14
-? : Neenatologists:
-, Refer fo Rainbow Babies & Children's
-3 Hospital
-é PAINESVILLE, OH
-: LAKE HOSPITAL SYSTEM \/
-pashington At Liberty
-; Palnesville, OH 44077
-§ Director OF Neonatology:
-: ; Prem t. Mehandra, M.D.
-‘ Office Phone: (246)354-1874
-: Office Fax: —(216)354-1848
-NICU Phono: (216)354-1618
-. NICU Fax: — (216)354.1932
-: NICU Beds:G
-Neonatologisls:
-: MEHANDRU, PREM L.
-SPRINGFIELD, OH
-: COMMUNITY HOSPITAL. ,”
-Box 1228
-\ Springtiold, OH 46501
-Director Of Neonatology:
-} Don T. eranaal, M.D,
-‘ Office Phone: (513)328-9256
-' Office Fax: — (643)528-.9258
-4 NICU Phone: (513)328-9271
-\ NICU Fax: — (543)328-9258
-: NICU Beds:
-Neonatologlats:
-i GRANGER, DON 7.
-GUTTENBERG, NEI.
-5 : LOUGHEAD, JEFFREY
-i PIETZ, JEFFREY
+Euclid, OH 44119
+NICU Beds:6
+Neonatologists:1
+Neonatologists names: William Zaia
 
-TOLEDO, OH
-CHILDREN'S MEDICAL CENTER ,”
+ST. RITA'S HOSPITAL MEDICAL CENTER
+730 W. Market St.
+Lima, OH 45801-4667
+NICU Beds:16
+Neonatologists: 1 
+Neonatologists names: Vincent Romero
+
+MERIDIA HILLCREST HOSPITAL
+6780 Mayfield Rd.
+Mayfield Helghts, OH 44424
+NICU Beds:14
+Neonatologists:
+Refer fo Rainbow Babies & Children's Hospital
+
+LAKE HOSPITAL SYSTEM
+Washington At Liberty
+Palnesville, OH 44077
+NICU Beds:6
+Neonatologists: 1
+Neonatologists names: Prem Mehandru
+
+COMMUNITY HOSPITAL
+Box 1228
+Springfield, OH 46501
+NICU Beds: 6
+Neonatologlats: 4
+Neonatologists names: Don Granger; Neil Guttenberg; Jeffrey Loughead; Jeffrey ietz
+
+CHILDREN'S MEDICAL CENTER
 THE TOLEDO HOSPITAL
 2142 N. Cove Bivd,
 Toledo, OH 43606
-Director Of Neonatology.
-Brian S. Bradley, M.D,
-Olfice Phone: (419)471-4225
-Office Fax: (419)479-6193
-NICU Phone: (419)479-8380
-NICU Fax: — (419)479-6984
 NICU Beds:60
-Neonatologists:
-BRADLEY, BRIAN S.
-CARLSON, KATHLEEN S.
-DELUGA, KARL 8.
-KRIPKE, SIDNEY S.
-KRISHNAN, VENKATESAN
-MOHAN, VEDAGIRI K.
-SATISH, MALINI
-WEINFELD, IRWIN J.
-RIVERSIDE HOSPITAL \”
+Neonatologists: 8 
+Neonatologists names: Brain Bradley; Kathleen Carlson; Karl Deluga; Sidney Kripke; Venkatesan Krishnan; Vedagiri Mohan; Malini Satish; Irwin Weinfeld
+
+RIVERSIDE HOSPITAL
 1600 Superior St.
 Toledo, OH 43604
-Director Of Neonatology:
-Michael Shaw, M.D,
-Olfice Phone: (419)729-6216
-Office Fax: (4193729-6558
-NICU Phone: (419)729-6424
 NICU Beds:7
-Neonalologists:
-CAHANAP-MERCADO, SONIA
-SHAW, MICHAEL
-TE, MINDA N.
+Neonalologists: 3 
+Neonatologists names: Sonia Cahanap-Mercado; Michael Shaw; Minda Te
+
 ST. VINCENT MEDICAL CENTER
 2213 Cherry St. a
 Toledo, OH 43608
-Director Of Neonatology:
-Jose G. Urrutia, M.D.
-Office Phone: (419)321-3795
-NICU Phone: (419)321-4336
-NICU Fax: 419)321-3816
 NICU Beds:22
-Neonatologists:
-AOUTHMANY, MOUSTAFA
-GUPTA, USHA
-REDDY, GOPAL
-URUTIA, JOSE G.
+Neonatologists:4 
+Neonatologists names: Moustafa Aouthmany; Usha Gupta; Gopal Reddy; Jose Urutia
+
 WRIGHT-PATTERSON AFB, OH
-WRIGHT-PATTERSON MEDICAL ~
-CENTER
-magar Maple Di,
+WRIGHT-PATTERSON MEDICAL CENTER
+Sugar Maple Dr. 
 Wiight-Patterson AFB, OM 45433-5529
-Director Of Neonatology:
-any Minnick, M.D:
-NICU Phone: Bistara lene
-NICU Fax: — (613)476-1620
 NICU Bads:12
-Neonatologists:
-BOHANNON, KATHLEEN
-MADEN, LARRY
-MINNICK, LARRY
-YOUNGSTOWN, OH
-ST. ELIZABETH HOSPITAL MEDICAL. |
-CENTER We
+Neonatologists: 3
+Neonatologists names: Kathleen Bohannon; Larry Maden; Larry Minnick
+
+ST. ELIZABETH HOSPITAL MEDICAL CENTER 
 1044 Balmont Ave.
 Youngstown, OH 445014
-Director Of Neonatology:
-Elena M. Rossi. MM. 0.
-Office Phone: (216)480-3633
-Office Fax: (216)480-2708
-NICU Phone: (216)480.3693
-NICU Fax: (216)480-2920
 NICU Bads:20
-162
-
-Neonatologists:
-
-ANDERSON, TAREK
-COOPER, LINDA
-DESANTO, JANICE T.
-JESSE, STEVEN W.
-ROSSI, ELENA M.
+Neonatologists:5 
+Neonatologists names: Tarek Anderson; Linda Cooper; Janice Desanto; Steven Jesse; Elena Rossi
 
 OKLAHOMA CITY, Ok
 
