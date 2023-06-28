@@ -1,5 +1,5 @@
 SHELBY MEDICAL CENTER
-1000 First St. NL, P.O. Box 488
+1000 First St. N., P.O. Box 488
 Alabaster, AL 35007-0488
 NICU Beds:6
 Neonatologists:
@@ -15,17 +15,17 @@ Neonatologists names: Wahib Mena; Martha Strange
 COOPER GREEN HOSPITAL 
 1515 Sixth Ave.
 Birmingham, AL 35233
-NICU Beds:2
+NICU Beds: 4 
 Neonatologists:
 
 MEDICAL CENTER EAST
-50 Medical Park Dr. E,
+50 Medical Park Dr. E.
 Birmingham, AL 35235
 NICU Beds:6
 Neonatologists:
 Refer to Children's Hospital of Alabama
 
-MONTCLAIR BAPTIST MEDICAL. CENTER
+MONTCLAIR BAPTIST MEDICAL CENTER
 800 Montclair Rd.
 Birmingham, AL 35213
 NICU Beds: 12
@@ -33,7 +33,7 @@ Neonatologists:
 Refer to Children's Hospital of Alabama
 
 PRINCETON BAPTIST MEDICAL CENTER
-201 Princeton Ave, S,W,
+201 Princeton Ave. S.W.
 Birmingham, AL 35211
 NICU Beds:8
 Neonatologists:
@@ -41,7 +41,7 @@ Refer to Children's Hospital of Alabama
 
 ST. VINCENT'S HOSPITAL 
 2660 10th Ave. S.
-Birmingham, AL 36205
+Birmingham, AL 35205
 NICU Beds:23
 Neonatologists:2
 Neonatologists names: Terry Bierd; Roger Bruce
@@ -56,26 +56,27 @@ Neonatologists names: Elaine Barfield; Waldemar Carlo; Carl Coghill; James Haywo
 
 UNIVERSITY OF SO. ALABAMA MEDICAL CENTER
 2451 Fillingim St.
+Mobile, AL 36617
 NICU Beds:45
 Neonatologists:6
 Neonatologists names: Fabien Eyal; Charles Hamm Jr; Keith Peevy; Beverly Roy; Richard Whitehurst Jr; Michael Zayek
 
 BAPTIST MEDICAL CENTER 
-2105 E. South Blvd,
-Montgomery. AL 36116
+2105 E. South Blvd.
+Montgomery, AL 36116
 NiCU Beds:24
 Neonatologists:6
 Neonatologists names: Allan Cheek; Rodney Curand; Allan Newton; Lawrence Wallin; Lynn Whittington; John Woodall
 
 DRUID CITY HOSPITAL REGIONAL MEDICAL CENTER
-809 University Blvd, E.
+809 University Blvd. E.
 Tuscaloosa, AL 35401
 NICU Bads:20
 Neonatologists:2
 Neonatologists names: Hanseek Choi; Guillermo Godoy
 
 PROVIDENCE HOSPITAL 
-3400 Providence Dr,
+3400 Providence Dr.
 Anchorage, AK 99519
 NICU Beds:36
 Neonatologists:6
@@ -87,14 +88,14 @@ FPO, AP 96363-1695
 Neonatologists:2
 Neonatologists names: John Golden; David Goodwin
 
-CHANDLER REGIONAL HOSPITAL.
+CHANDLER REGIONAL HOSPITAL
 475 S. Dobson Rd.
 Chandler, AZ 85224
 NICU Beds:3
 Neonatologists:
 Refer to Desert Samaritan Medical Center
 
-FLAGSTAFF MEDICAL CENTER A
+FLAGSTAFF MEDICAL CENTER
 1200 N. Beaver St.
 Flagstaff, AZ 86001
 NICU Beds:12
@@ -102,14 +103,14 @@ Neonalologists:1
 Neonatologists names: John Steenbarger
 
 THUNDERBIRD SAMARITAN MEDICAL CENTER
-5655 W. Thunderbird Rd.
+5555 W. Thunderbird Rd.
 Glendale, AZ 85306
 NICU Beds:10
 Neonatologists:
 Refer to Phoenix Children's Hospital
 
 DESERT SAMARITAN MEDICAL CENTER
-1400 S, Dobson Rd.
+1400 S. Dobson Rd.
 Mesa, AZ 85202
 NICU Beds:18
 Neonatologists:2
@@ -124,20 +125,20 @@ Neonatologists:4
 Neonatologists names: Jose Gonzalez; Mahesh Kotwal; Marl Shoptaugh; Victor Zapanta
 
 MARYVALE SAMARITAN MEDICAL CENTER
-5102 W, Campbell Ave.
+5102 W. Campbell Ave.
 Phoenix, AZ 85031
 NICU Beds:4
 Neonatologists:
 
 PHOENIX CHILDREN'S HOSPITAL 
-1111 &. Mc Dowell Rd.
+1111 E. McDowell Rd.
 Phoenix, AZ 85006
 NICU Beds:45
 Neonatologists:6
 Neonatologists names: Cristina Carballo; Jack Christiansen; Teddy Dela Cruz; Larry Eggert; Michael McQueen; Eric Tack
 
 PHOENIX MEMORIAL HOSPITAL
-1201 S, 7th Ave./Box 1201
+1201 S. 7th Ave./Box 1201
 Phoenix, AZ 85007
 NICU Beds:12
 Neonatologists:
@@ -158,7 +159,7 @@ Neonatologists:7
 Neonatologists names: Carlos Flores; Pamela Kling; Wallace Nogami; Anthony Philippps; Devyani Raval; Moira Richards; Evelyn Rider 
 
 CARONDELET ST. JOSEPH'S HOSPITAL
-350 N, Wilmont Rd.
+350 N. Wilmont Rd.
 Tucson, AZ 85711
 NICU Beds:17
 Neonatologists:2
@@ -186,14 +187,14 @@ Neonatologists:12
 Neonatologists names: Robert Arrington; Zuhair Bakdoud; Paul Grim; Whit Hall; Mark Heulitt; Susan Landers; Robert Lyle; Jon Mazursky; Bonnie Taylor; Billy Thomas; Donnal Walter
 
 BAPTIST MEDICAL CENTER
-9601 interstate 630, Exit 7
+9601 Interstate 630, Exit 7
 Little Rock, AR 72205
 NICU Beds:18
 Neonatologists:
 Refer to HCA Doctor's Hospital
 
 COLUMBIA DOCTOR'S HOSPITAL
-W, Capitol & University Ave.
+W. Capitol & University Ave.
 Little Rock, AR 72205
 NICU Beds:16
 Neonatologists:
@@ -228,7 +229,7 @@ Neonatologists:4
 Neonatologists names: Sogba Bosu; Theodore Calidendo; Luke Yu; Ya Mei Yu
 
 MARTIN LUTHER HOSPITAL 
-1830 W. Romneya Dr,
+1830 W. Romneya Dr.
 Anaheim, CA 92803
 Neonatologists:8
 Neonatologists names: Leonard Fox; Mamerto Garcia; Gloria Morales; Sandra Shaw; Marlene Tan; Jeffery Teal; David Tio; Patrick Walsh
@@ -241,7 +242,7 @@ Neonatologists:1
 Neonatologists names: Katherine Schooley
 
 BAKERSFIELD MEMORIAL HOSPITAL 
-420 34th St,
+420 34th St.
 Bakersfield, CA 93301
 NICU Beds:12
 Neonatologiste:3
@@ -252,7 +253,7 @@ KERN MEDICAL CENTER
 Bakersfield, CA 93305
 NICU Beds:28
 Neonatologists:2
-Neonatologists names: Mohamad karb; Tien Khuu
+Neonatologists names: Mohamad Harb; Tien Khuu
 
 KAISER PERMANENTE MEDICAL CENTER - BELLFLOWER
 9400 E. Rosecrans Ave.
@@ -262,14 +263,14 @@ Neonatologists:2
 Neonatologists names: Kum Kum Bhasin; Ann Marie Morris
 
 ALTA BATES MEDICAL CENTER
-2450 Ashby Ava,
+2450 Ashby Ave. 
 Berkeley, CA 94705
 NICU Beds:40
 Neonatologists:2
 Neonatologists names: Gilbert Duritz; Amarjit Sandhu
 
-ST. JOSEPH MEDICAL CENTER.
-501 S, Buena Vista St.
+ST. JOSEPH MEDICAL CENTER
+501 S. Buena Vista St.
 Burbank, CA 91505
 NICU Beds:20
 Neonatologists:3
@@ -283,7 +284,7 @@ Naonatologists:5
 Neonatologists names: Sarah Buxton; Carolyn Getman; Robert Kahle; Diane Saeed; Gustavo Sosa
 
 SCRIPPS MEMORIAL HOSPITAL CHULA VISTA
-435 "H" St,
+435 "H" St.
 Chula Vista, CA 91910
 NICU Beds:10
 Neonatologists:
@@ -304,14 +305,14 @@ Neonatologists:3
 Neonatologists names: Mohamad Admani; Vallop Kanjanapone; Oscar Ortiz
 
 PALOMAR MEDICAL CENTER
-555 E. valley Pky.
+555 E. Valley Pky.
 Escondido, CA 92025
 NICU Beds:6
 Neonatologists:
 Refer to Children's Hospital of San Diego
 
 NORTHBAY MEDICAL CENTER 
-1200 B. Gale Wilson Bivd.
+1200 B. Gale Wilson Blvd.
 Fairfied, CA 94533
 NICU Beds:16
 Neonatologists:2
@@ -353,14 +354,14 @@ Neonatologists:
 Refer to Valley Children’s Hospital
 
 VALLEY CHILDREN'S HOSPITAL 
-3157 N. Millbrook
+3151 N. Millbrook
 Fresno, CA 93703
 NICU Beds:41
 Neonatologists:4
 Neonatologists names: Vinod Bansal; devindra Chopra; Krishnakumar; Nadarasa Vishveshwara
 
 VALLEY MEDICAL CENTER OF FRESNO
-445 S, Cedar Ave.
+445 S. Cedar Ave.
 Fresno, CA 93702
 NICU Beds:12
 Neonatologists:
@@ -373,7 +374,7 @@ NICU Beds:6
 Neonatologists:6
 Neonatologists names: Joseph Awadalla; Christie Davanzo; John Madden; Richard Meidell; Pankaj Mistry; Nagla Ramadan
 
-AMI GARDEN GROVE HOSPITAL AND MEDICAL. CENTER
+AMI GARDEN GROVE HOSPITAL AND MEDICAL CENTER
 12601 Garden Grove Blvd.
 Garden Grove, CA 92643
 NICU Beds:12
@@ -396,7 +397,7 @@ Refer to California Pacific Medical Center, San Francisco
 
 KAISER PERMANENTE MEDICAL CENTER - HARBOR CITY
 26526 S. Vermont
-Harbor City CA 90710
+Harbor City, CA 90710
 NICU Beds:3
 Neonatologists:1
 Neonatologists names: Bruce Smith
@@ -469,7 +470,7 @@ Neonatologists names: Mamerto Garcia; Gloria Morales; Sandra Shaw; Marlene Tan; 
 LONG BEAGH MEMORIAL MEDICAL CENTER
 P.O. Box 1428
 2801 Atlanta Ave.
-Long Beach, CA 90861-1428
+Long Beach, CA 90801-1428
 NICU Beds:70
 Neonatologists:5
 Neonatologists names: Douglas Cunningham; Josefina Jacinto; Guadalupe Padilla-Robb; Jose Perez; Arthur Strauss
@@ -479,7 +480,7 @@ ST. MARY MEDICAL CENTER
 Long Beach, CA 90913
 NICU Beds:25
 Neonatologists:5
-Neonatologists names: Rhaghavender; Hong Mai; Azra Nisar; Roger Takla; Chung Tsi
+Neonatologists names: Rhaghavender Bhupala; Hong Mai; Azra Nisar; Roger Takla; Chung Tsi
 
 CALIFORNIA MEDICAL CENTER 
 1401 S. Grand Ave.
@@ -496,7 +497,7 @@ Neonatologists:7
 Neonatologists names: Arie Leon Alkalay; Soledad Austin; Raymond Duncan; Jeffery Pomerance; Asha Puri; Sabitha Sehgal; Andre Vanderhal
 
 CHILDREN'S HOSPITAL OF LOS ANGELES
-4650 Sunset Blvd, Box 83
+4650 Sunset Blvd., Box 83
 Los Angeles, CA 90027
 NICU Beds:37
 Neonatologists:4
@@ -523,8 +524,8 @@ NICU Beds:9
 Neonalologists:3
 Neonatologists names: Cleotilde Bondad; John D'Ambola; Mayenne Karelitz
 
-LAC + USC MEDICAL CENTER WOMEN'S & CHILDREN'S HOSP
-4240 N, Mission, Rm, L919
+LAC + USC MEDICAL CENTER WOMEN'S & CHILDREN'S HOSPITAL
+4240 N. Mission, Rm. L919
 Los Angeles, CA 90033
 NICU Beds:50
 Neonatologisis:14
@@ -539,7 +540,7 @@ Neonatologists names: Xylina Bean; Isaac Belai; Richard Findlay; Meena Garg; Fra
 
 UCLA MEDICAL CENTER 
 10833 Le Conte Ave.
-Los Angelos, CA 90095-1752
+Los Angeles, CA 90095-1752
 NICU Beds:24
 Neonatologists:5
 Neonatologists names: Cynthia Barrett; Susan Gray; Paul Pollack; Maureen Sims; Jeffery Smith
@@ -560,7 +561,7 @@ Neonatologists names: Amod Moosa; David Vogel
 
 CHILDREN'S HOSPITAL AT MISSION 
 27700 Medical Center Dr.
-Mission Viele. CA 92691
+Mission Viejo, CA 92691
 NICU Beds:16
 Neonatologists:3
 Neonatologists names: Willard Blankenship; Stephen Hanten; Chetan Patel
@@ -589,11 +590,11 @@ Neonatologists names: Lorraine Jones; Van Lilly; Mary Lim; Harjinder Singh
 EL CAMINO HOSPITAL
 2500 Grant Rd.
 Mountain View, CA 94040
-NICU Beds:See Lucile Salter
-Packard Children's Hospital
-Neonatologists:Refer to Lucile Satter Packard Children's Hospital
+NICU Beds:See Lucile Salter Packard Children's Hospital
+Neonatologists:
+Refer to Lucile Salter Packard Children's Hospital
 
-HOAG MEMORIAL. HOSPITAL PRESBYTERIAN
+HOAG MEMORIAL HOSPITAL PRESBYTERIAN
 301 Newport Blvd.
 Newport Beach, CA 92663
 NICU Beds:12
@@ -611,11 +612,11 @@ CHILDREN'S HOSPITAL OAKLAND
 747 - 52nd St.
 Oakland, CA 94609
 NICU Beds:47
-Neonatologists:21
-Neonatologists names: Linda Burden; Arthur D'Harlingue; David Durand; Gibert Duritz; Alex Espinoza; Thomas Eusterbrock; Lawrence Franklin; James Harrod; Harold Helbock; Priscilla Joe; Lily Kao; Florence Kuyt; Victor Lvoff; William Murphy; Barry Phillips; Richard Powers; Amarjit Sandhu; Charles Scott; jamie Tannebaum; Anna Usowicz; Carlene Wong; Hui-Hsin Wu
+Neonatologists:22
+Neonatologists names: Linda Burden; Arthur D'Harlingue; David Durand; Gibert Duritz; Alex Espinoza; Thomas Eusterbrock; Lawrence Franklin; James Harrod; Harold Helbock; Priscilla Joe; Lily Kao; Florence Kuyt; Victor Lvoff; William Murphy; Barry Phillips; Richard Powers; Amarjit Sandhu; Charles Scott; Jamie Tannebaum; Anna Usowicz; Carlene Wong; Hui-Hsin Wu
 
 HIGHLAND GENERAL HOSPITAL
-1441 E. 31st St.
+1411 E. 31st St.
 Oakland, CA 94602
 NICU Bads:8
 Neonatologists:1
@@ -672,14 +673,13 @@ Neonatologists names: Anthony Dajnowicz; David Kasting; Michael Mah; Karen Woo
 
 DESERT HOSPITAL 
 1150 N. Indian Canyon Dr.
-Palm Springs. CA 92262
+Palm Springs, CA 92262
 NICU Bads:30
 Neonatologists:3
 Neonatologists names: Juanito Novales; William Phaklides; Sanna Salva
 
-
 LUCILE SALTER PACKARD CHIDREN'S HOSPITAL
-725 Welch Rd,
+725 Welch Rd.
 Palo Alto, CA 94304
 NICU Beds:89
 neonatoloaists: 13
@@ -748,7 +748,7 @@ NICU Beds:13
 Neonatologists:2
 Neonatologists names: Shee Leong; Allan Wolpe
 
-RIVERSIDE GENERAL HOSPITAL UNIVERSITY MEDICAL CTR.
+RIVERSIDE GENERAL HOSPITAL UNIVERSITY MEDICAL CENTER
 9851 Magnolia Ave.
 Riverside, CA 92503
 NICU Beds:15
@@ -777,20 +777,20 @@ Neonatologists:6
 Neonatologists names: Kathleen Chance; Boyd Goetzman; Allen Merritt; Jay Milstein; Phillip Vaughn; Richard Wennberg
 
 SAN BERNARDINO COMMUNITY HOSPITAL
-1805 Medical Center Dr,
+1805 Medical Center Dr.
 San Bernardino, CA 92411
 NICU Beds:5
 Neonatologists:
 Refer to Riverside Community Hospital, Riverside
 
 SAN BERNARDINO COUNTY MEDICAL CENTER
-780 E, Gilbert St.
+780 E. Gilbert St.
 San Bernardino, CA 92415-0935
 NICU Beds:10
 Neonatologists:
 Refer to St. Bernardine Medical Center
 
-ST. BERNARDINE MEDICAL CENTER,
+ST. BERNARDINE MEDICAL CENTER
 2101 N. Waterman Ave.
 San Bernardino, CA 92404
 NICU Beds:20
@@ -866,10 +866,10 @@ ZUCKERBUERG SAN FRANCISCO GENERAL HOSPITAL AND TRAUMA CENTER
 San Francisco, CA 94110 
 NICU Beds:25
 Neonatoloalsts:4
-Neonatologists names: Alma Artinez; John Artridge; Susan Niderman; William Aeusch
+Neonatologists names: Alma Martinez; John Partridge; Susan Sniderman; William Taeusch
 
 ST. LUKE'S HOSPITAL 
-3555 Cesar Chavez st, 
+3555 Cesar Chavez St. 
 San Francisco, CA 94110
 NICU Beds:6
 Neonatolegists:1
@@ -878,20 +878,20 @@ Neonatologists names: Mariano Gayos
 SAN FRANCISCO MEDICAL CENTER
 Department of Pediatrics
 PO. Box 0734
-San  Francisco, CA 94143
+San Francisco, CA 94143
 NICU Beds:42
 Neonatologisls:13
 Neonatologists names: Valerie Charlton; Ronald Clyman; George Gregory; Samuel Hawgood; Joseph Kitterman; Colin Partridge; Roderic Phibbs; Robert Piecuch; Francis Poulain; Louis Scavo; Sally Ann Sehring; Agusto Sola
 
 ALEXIAN BROTHERS HOSPITAL
 225 N. Jackson Ave,
-an Jose, CA 95116
+San Jose, CA 95116
 NICU Beds:6
 Neonatologists:
 Refer to Good Samaritan Hospital of Santa Clara Valley
 
 GOOD SAMARITAN HOSPITAL OF SANTA CLARA VALLEY
-9425 Samaritan Dr. 
+2425 Samaritan Dr. 
 San Jose, CA 96124 
 NICU Beds:23 
 Neonatologisis:6
@@ -968,7 +968,7 @@ Neonatologists:3
 Neonatologists names: Harry Ackley; Rick Anaka; Frank Miraglia
 
 DAMERON HOSPITAL 
-525 W, Acacia St.
+525 W. Acacia St.
 Stockton, CA 95203
 NICU Beds:16
 Neonatologists:1
@@ -996,7 +996,7 @@ Neonatologists:3
 Neonatologists names: James Banks; Jeanne Ruderman; James Schick
 
 HARBOR-UCLA MEDICAL CENTER 
-1000 W. Carson St,
+1000 W. Carson St.
 Torrance, CA 90500
 NICU Beds:42
 Neonatologists:4
@@ -1010,8 +1010,8 @@ Neonatologists:3
 Neonatologists names: Glen Komatsu; Shirley Misa; Jon Yamamoto
 
 TORRANCE MEMORIAL MEDICAL CENTER
-3330 Lomita Blyd,
-Torrance, CA 90506
+3330 Lomita Blvd.
+Torrance, CA 90505
 NICU Beds:12
 Neonatologists:5
 Neonatologists names: Nancy Marchick; Shibani Patell; Jay Rao; Jerrry Schwartz; Moises Sinay
@@ -1025,7 +1025,7 @@ Neonatologists names: Edgar Chernin; Tony Wu
 
 VALLEY PRESBYTERIAN HOSPITAL 
 Neonatology
-15107 Vanowen St, 2nd Floor
+15107 Vanowen St., 2nd Floor
 Van Nuys, CA 91405
 NICU Beds:25
 Neonatologists:6
@@ -1053,15 +1053,15 @@ Neonatolagists:3
 Neonatologists names: David Golembeski; Marc Usatin; Ted Zukin
 
 QUEEN OF THE VALLEY HOSPITAL 
-1115 S, Sunset Ave.
+1115 S. Sunset Ave.
 West Covina, CA 91790
 NICU Beds:22
 Neonatologists:7
 Neonatologists names: Veeraiah Chundu; Gilbert Furman; Mitchell Goldstein; Gilbert Martin; Jeff Martin; Mita Shah; Bruce Sindel
 
 PRESBYTERIAN INTERCOMMUNITY HOSPITAL
-12401 Washington Blvd,
-whittier, CA 90602
+12401 Washington Blvd. 
+Whittier, CA 90602
 NICU Beds:26
 Neonatologists:2
 Neonatologists names: Ken Chon; Tao Nguyen
@@ -1131,7 +1131,7 @@ Neonatologists:2
 Neonatologists names: Edward Berman; Joe Toney
 
 ST. JOSEPH HOSPITAL 
-4835 Franklin St.
+1835 Franklin St.
 Denver, CO 80218
 NICU Beds:39
 Neonatologists:9
@@ -1139,7 +1139,7 @@ Neonatologists names: David Belenky; Mark DeMarie; Abraham Grinberg; Peter hulac
 
 UNIVERSITY OF COLORADO HEALTH SCIENCE CENTER
 Box B195
-4200 E, Ninth Ave.
+4200 E. Ninth Ave.
 Denver, CO 80262
 NICU Beds:24
 Neonatologists:2
@@ -1164,7 +1164,7 @@ Neonatologists names: Richard Flaksman; Ann Olewnik
 LITTLETON HOSPITAL PORTER
 7700 S. Broadway
 Littleton, CO 80122
-4 NICU Beds:10
+NICU Beds:10
 Neonatologists:
 Refer to Swedish Medical Center, Englewood
 
@@ -1176,14 +1176,14 @@ Neonatologists:
 Refer to Children's Hospital, Denver
 
 PROVENANT ST. ANTHONY HOSPITAL NORTH
-2551 W. 84th Ave,
+2551 W. 84th Ave.
 Westminster, CO 80030
 NICU Beds:8
 Neonatologists:
 Refer to Rose Medical Center, Denver
 
 LUTHERAN MEDICAL CENTER
-9300 W. 38th Ave.
+8300 W. 38th Ave.
 Wheat Ridge, CO 80033
 NICU Beds:12
 Neonatologists:
@@ -1232,7 +1232,7 @@ Neonatologists: 2
 Neonatologists names: Maxine Asnis; Antoinetta Capriglione
 
 CHILDREN'S HOSPITAL AT YALE NEW HAVEN
-P.O, Box 208064
+P.O. Box 208064
 New Haven, CT 06520-8064
 NICU Beds:48
 Neonalologists:10
@@ -1253,14 +1253,14 @@ Neonatologists:3
 Neonatologists names: David Cheromcha; Mark Mercurio; Michael Witman
 
 NORWALK HOSPITAL
-Maple St.
+34 Maple St.
 Norwalk, CT 06856
 NICU Beds:18
 Neonalologists:5
 Neonatologists names: James Belisle; Stuart Danoff; Jeffery Gruskay; John McNamara; Benjamin Tsang
 
 STAMFORD HOSPITAL
-90 W. Broad St.
+190 W. Broad St.
 Stamford, CT 06902
 NICU Beds:12
 Neonatologists:3
@@ -1323,7 +1323,7 @@ NICU Beds:18
 Neonatologists:4
 Neonatologists names: Maureen Edwards; Ayman El-Mohandes; Mary Ann Fletcher; Mhairi MacDonald
 
-GEORGETOWN UNIVERSITY HOSPITAL,
+GEORGETOWN UNIVERSITY HOSPITAL
 3800 Reservoir Rd. N.W.
 Washington, DC 20007
 NICU Beds:44
@@ -1331,7 +1331,7 @@ Neonalologists:8
 Neonatologists names: Ramasubbareddy Dhanireddy; Margaret France; Martin Keszler; Ildiko Kunos; Nitin Mehta; Subramanian Siva
 
 HOWARD UNIVERSITY HOSPITAL 
-2041 Georgia Ave, N.W,
+2041 Georgia Ave., N.W,
 Washington, DC 20060
 NICU Beds:25
 Neonatologists:3
@@ -1391,7 +1391,7 @@ MORTON PLANT HOSPITAL
 3232 Jeffords St.
 Clearwater, FL 34617
 NICU Beds:10
-Neonatologists:4
+Neonatologists:5
 Neonatologists names: Deborah Donlon; Danilo Escoto; Anthony Napolitano; Anjni Patel; Roberto Sosa
 
 HEALTHSOUTH DOCTOR'S HOSPITAL
@@ -1426,7 +1426,7 @@ BROWARD GENERAL MEDICAL CENTER
 1600 S. Andrews Ave.
 Ft. Lauderdale, FL 33316
 NICU Beds:65
-Neonatologists:6
+Neonatologists:7
 Neonatologists names: Howard Brenker; Gisella Diaz-Monroig; Steve Haskins; Atiah Hussain; Galdino Silva-Neto; Brian Udell; Elizabeth Welch 
 
 HOLY CROSS HOSPITAL
@@ -1438,8 +1438,8 @@ Neonatologists names: Bellur Jwalanaiah; Lalit Shah
 
 LEE MEMORIAL HOSPITAL 
 9981 Health Park Circle #281
-Ft, Myers, FL 33908
-NICU Beds:48
+Ft. Myers, FL 33908
+NICU Beds:45
 Neonatologists:4
 Neonatologists names: Deogracias Caangay; Mohamed Faisal; William Liu; Shahid Sultan
 
@@ -1465,7 +1465,7 @@ NICU Beds:50
 Neonatologists:10
 Neonatologists names: Marylou Behnke; Richard Bucciarelli; David Burchfield; Robert Chirstensen; Willa Drummond; Donald Eitzman; Elizabeth Engelhardt; Alastair Hutchison; Sandra Juul; Josef Neu
 
-JOE DI MAGGIO CHILDREN'S HOSP. AT MEMORIAL HOSP.
+JOE DI MAGGIO CHILDREN'S HOSPITAL AT MEMORIAL HOSPITAL
 3501 Johnson St.
 Hollywood, FL 33021
 NICU Beds:29
@@ -1500,8 +1500,7 @@ NICU Beds:46
 Neonatologists:
 Refer to University Medical Center, Jacksonville
 
-LAKELAND REGIONAL MEDICAL 
-CENTER
+LAKELAND REGIONAL MEDICAL CENTER
 P.O, Box 95448
 1324 Lakeland Hills Blvd.
 Lakeland, FL 33804
@@ -1527,11 +1526,12 @@ Neonatologists names: Joann Berlin
 MERCY HOSPITAL
 3663 S. Miami Ave.
 Miami, FL 33133
+NICU Beds: NA
 Neonatologists:
 Refer to Miami Children’s Hospital
 
 MIAMI CHILDREN'S HOSPITAL 
-6125 S.W. 31st St
+6125 S.W. 31st St.
 Miami, FL 33155
 NICU Beds:30
 Neonatologists:6
@@ -1545,15 +1545,15 @@ Neonatologists:2
 Neonatologists names: Frederick Bloom; Dina Chung
 
 UNIVERSITY OF MIAMI/JACKSON MEMORIAL HOSPITAL 
-Dept. of Pediatrics, Div, of Neonatology 
+Dept. of Pediatrics, Div. of Neonatology 
 P.O. Box 016960, (R-134)
-Miami, FL 33104
+Miami, FL 33101
 NICU Beds:126
 Neonatologists:12
 Neonatologists names: Eduardo Bancalari; Emmalee Bandstra; Charles Bauer; Maria Caveny; Teresa Del Moral; Magaly Diaz-Barbosa; Shahnaz Duara; Tilo Gerhardt; Ronald Goldberg; Ilene Sosenko; Maritza Torres
 
 MT. SINAI MEDICAL CENTER
-4300 Alton Rd,, 3-Blum
+4300 Alton Rd., 3-Blum
 Miami Beach, FL 33140
 NICU Beds:10
 Neonatologists:2
@@ -1562,16 +1562,16 @@ Neonatologists names: Jose Adams; Ignacio Zabaleta
 PARKWAY REGIONAL MEDICAL CENTER
 160 N.W. 170th St.
 North Miami Beach, FL 33169
-NICU Beds:40
-Neonaloloylsts:
+NICU Beds:10
+Neonatologists:
 Refer to Miami Children's Hospital
 
 ORANGE PARK MEDICAL CENTER
 2001 Kinsley Ave.
-Drange Park, FL. 32073
+Orange Park, FL. 32073
 NICU Beds:4
 Neonatologists:
-Refer to University Medical Center, Jacksonvilla
+Refer to University Medical Center, Jacksonville
 
 ARNOLD PALMER HOSPITAL FOR CHILDREN AND WOMEN
 92 W. Miller St.
@@ -1581,7 +1581,7 @@ Neonatologists:7
 Neonatologists names: Gregor Aoexander; David Auerbach; Douglas Hardy; Brian Lipman; Michael McMahan; Paul Palma; Jose Perez
 
 FLORIDA HOSPITAL MEDICAL CENTER
-GO1 E. Rollins St,
+6O1 E. Rollins St,
 Orlando, FL 32803
 NICU Beds:22
 Neanatologists:2
@@ -1595,7 +1595,7 @@ Neonatologists:
 Refer to Good Samaritan Medical Center, W. Palm Beach
 
 SACRED HEART HOSPITAL OF PENSACOLA
-5151 W., Ninth Ave,
+5151 W. Ninth Ave,
 Pensacola, FL 32504
 NICU Beds:42
 Neonatologists:5
@@ -1603,13 +1603,13 @@ Neonatologists names: Alpin Charles; Kenneth Carter; Cynthia McEvoy; Jon Nagel; 
 
 PLANTATION GENERAL HOSPITAL 
 401 N.W. 42nd Ave.
-Plantation, FL. 33317
+Plantation, FL 33317
 NICU Beds:31
 Neonatologists:5
 Neonatologists names: Maria Antigua; Ezequiel Cartaya; Barry Chandler; Amed Soliz; Mitchell Stern
 
 SARASOTA MEMORIAL HOSPITAL 
-1700 S, Tamiami Trait
+1700 S. Tamiami Trait
 Sarasota, FL 34239
 NICU Beds:15
 Neonatologists:2
@@ -1623,14 +1623,14 @@ Neonatologists:6
 Neonatologists names: Deborah Donlon; Danilo Escoto; Jeane McCarthy; Anthony Napolitano; Roberto Sosa; Linda Zak
 
 TALLAHASSEE MEMORIAL REGIONAL MEDICAL CENTER
-Miccosukee Rd, & Magnolia Dr.
+Miccosukee Rd. & Magnolia Dr.
 Tallahassee, FL 32308
 NICU Beds:35
 Neonatologists:2
 Neonatologists names: Gary Cater; Todd Patterson
 
-St. JOSEPH'S WOMEN'S HOSPITAL
-3030 W, Dr. MLL. King Jr. Blvd.
+ST. JOSEPH'S WOMEN'S HOSPITAL
+3030 W, Dr. M.L. King Jr. Blvd.
 Tampa, FL 33607
 NICU Beds:42
 Neonatologists:4
@@ -1641,7 +1641,7 @@ Davis Islands
 P.O. Box 1289
 Tampa, FL 33601
 NICU Beds:42
-Neonatologists:43
+Neonatologists:4
 Neonatologists names: John Curran; Robert Nelson; Carine Stromquist; Lance Wyble
 
 WOMAN'S CENTER UNIVERSITY COMMUNITY HOSPITAL
@@ -1654,7 +1654,7 @@ Neonatologists names: Keith Kanarek; Manuel Ong
 G00D SAMARITAN MEDICAL CENTER
 P.O, Box 8555
 West Palm Beach, FL 33401
-NICU Beds:16
+NICU Beds:15
 Neonatologists:3
 Neonatologists names: Ashok Joshi; Lerma Te; Gundanna Viralam
 
@@ -1666,7 +1666,7 @@ Neonatologists:6
 Neonatologists names: Luis Arango; Tassier Atrack; Jack Bankston; Enoch Cordoba; David Kanter; Arnold Mackles
 
 REGENCY MEDICAL CENTER 
-401 Avenue "0", S. E.
+101 Avenue "O", S. E.
 Winter Haven, FL 33880
 NICU Beds:11
 Neonatologists:2
@@ -1674,7 +1674,7 @@ Neonatologists names: Maria King; Lewis Otero
 
 WINTER PARK MEMORIAL HOSPITAL
 200 N. Lakemont Ave.
-Winter Park, FL. 32792
+Winter Park, FL 32792
 NICU Beds:5
 Neonatologists:
 Refer to Arnold Palmer Hospital for Children & Women
@@ -1718,8 +1718,9 @@ EMORY UNIVERSITY SCHOOL OF MEDICINE
 Department of Pediatrics
 2040 Ridgewood Dr.
 Atlanta, GA 30322
-Neonatologists: 14
-Neonatologists names: Alfred Brann; Dona Buchter; George Bugg; Reese Clark; Devn Cornish; Ann Critz; Francine Dykes; Gary Freed; Theresa Gauthier; Kathryn Huddleson; Lucky Jain; Wandra Jones; William Sexson; Neal Simon; Barbara Stoll
+NICU Beds: NA
+Neonatologists: 15
+Neonatologists names: Alfred Brann Jr.; Dona Buchter; George Bugg; Reese Clark; Devn Cornish; Ann Critz; Francine Dykes; Gary Freed; Theresa Gauthier; Kathryn Huddleson; Lucky Jain; Wandra Jones; William Sexson; Neal Simon; Barbara Stoll
 
 GEORGIA BAPTIST MEDICAL CENTER
 303 Parkway Dr., N.E.
@@ -1737,21 +1738,21 @@ Neonatologists:
 Refer to Emory University. School of Medicine
 
 NORTHSIDE HOSPITAL 
-1000 Johnson Ferry Rd, NE.
+1000 Johnson Ferry Rd, N.E.
 Atlanta, GA 30342
-NICU Beds:92
+NICU Beds:52
 Neonatologists:7
 Neonatologists names: Saul Adler; James Jose; William Keyes; Kenneth Kupke; Laura Lord; Patrick Spafford; Wendy Troyer
 
 PIEDMONT HOSPITAL
-1968 Peachtree Rd, N.W.
+1968 Peachtree Rd., N.W.
 Atlanta, GA 30309
 NICU Beds:6
 Neonatologists:1
 Neonatologists names: Leonard Sacks
 
 WEST PACES MEDICAL CENTER 
-3200 Howell Mill Rd, NW.
+3200 Howell Mill Rd, N.W.
 Atlanta, GA 30327
 NICU Beds:10
 Neonatolagists:4
@@ -1766,7 +1767,7 @@ Neonatologists:5
 Neonatologists names: Jatinder Bhatia; Frederick Boedy; Spencer Brudno; Chantrapa Bunyapen; William Kanto
 
 ST. JOSEPH HOSPITAL
-2260 Wrightsbore Rd,
+2260 Wrightsbore Rd.
 Augusta, GA 30910
 NICU Bads:6
 Neonatologists:
@@ -1787,7 +1788,7 @@ Neonatologists:
 Refer to Kennestone Hospital, Marietta Georgia
 
 THE MEDICAL CENTER
-Medical Center Box 851
+Medical Center Box 951
 Columbus, GA 31994
 NICU Beds:24
 Neonatologists:2
@@ -1808,7 +1809,7 @@ Neonatologists:3
 Neonatologists names: Gary Bell; Woods Blake; William Catteron  
 
 GWINNETT HOSPITAL SYSTEM 
-700 Medical Center Blvd,
+700 Medical Center Blvd.
 Lawrenceville, GA 30245
 NICU Beds:18
 Neonatologists:1
@@ -1816,7 +1817,7 @@ Neonatologists names: Leslie Leigh
 
 THE CHILDREN'S HOSPITAL OF MCCG
 777 Hemlock St.
-Macon, GA 34208-6000
+Macon, GA 31208-6000
 NICU Beds:36
 Neonatologists:3
 Neonatologists names: Darrell Conner; Chen-Kung Ho; Atul Khurana
@@ -1836,7 +1837,7 @@ Neonatologists:3
 Neonatologists names: Marixie Gilrane; Eduardo Montes; Francisco Velez
 
 NORTH FULTON REGIONAL HOSPITAL
-3000 Hospital Blvd,
+3000 Hospital Blvd.
 Roswell, GA 30076
 NICU Beds:8
 Neonatologists:3
@@ -1857,7 +1858,7 @@ Neonatologists:5
 Neonatologists names: Tung Giep; Scott Johnson; Linda Sacks; Nancy Shull; Roberta Smith
 
 ST. JOSEPH'S HOSPITAL
-411705 Mercy Blvd.
+11705 Mercy Blvd.
 Savannah, GA 31419
 NICU Beds:4
 Neonatologists:
@@ -1880,14 +1881,14 @@ Neonatologists names: Gardner Bemis; Kenneth Herrmann; Kathleen Poon
 KAPIOLANI MEDICAL CENTER 
 for Women and Children
 1319 Punahou St.
-Honolulu, Hi 96826
+Honolulu, HI 96826
 NICU Beds:64
 Neonatologists:11
 Neonatologists names: Kenneth Ash; Venkataraman Balaraman; David Easa; Carol Hirai; Lynn Iwamoto; Sherry Loo; Daniel Murai; Kenneth Nakamura; Mary Patrinos; Sneha Soood; Larry Tinsley
 
 QUEENS MEDICAL CENTER 
 1301 Punchbowl St.
-Honolulu, Hl 96813
+Honolulu, HI 96813
 NICU Beds: 10
 Neonatologists:1
 Neonatologists names: Larry Tinsley
@@ -1908,7 +1909,7 @@ Neonatologists:3
 Neonatologists names: Stewart Lawrence; Steven Mayfield; Matthew Sell
 
 NORTHWEST COMMUNITY HOSPITAL 
-800 W, Central Rd.
+800 W. Central Rd.
 Arlington Heights, IL 60005-2392
 NICU Beds:10
 Neonatologists:3
@@ -1965,14 +1966,14 @@ Neonatologists:6
 Neonatologists names: Udochukwu Asonye; Margaret Go; Leonardo Malalis; Hemendra Patel; Jospeh Torre; Jospeh Villalona
 
 ILLINOIS MASONIC MEDICAL CENTER
-836 W, Wallington Ave.
+836 W. Wallington Ave.
 Chicago, IL 60657
 NICU Beds:20
 Neonatologists:3
 Neonatologists names: Sikander Adein; Otto Aldana; Vivek Ghai
 
 MERCY HOSPITAL & MEDICAL CENTER
-Stevenson EXPY. at King Dr.
+Stevenson Expy. at King Dr.
 Chicago, IL 60616
 NICU Beds:14
 Neonatologists:2
@@ -1986,7 +1987,7 @@ Neonatologists:2
 Neonatologists names: Minyuen Enger; John Paton
 
 MT. SINAI HOSPITAL OF CHICAGO 
-California at 15th Ave,
+California at 15th Ave.
 Chicago, IL 60608
 NICU Beds:35
 Neonatologists:6
@@ -1994,22 +1995,22 @@ Neonatologists names: Susan Aduana; Marietta Luayon; Antranik Poladian; Josellit
 
 NORTHWESTERN MEMORIAL HOSPITAL
 Prentice Women's Hospital
-333 E, Superior St.
+333 E. Superior St.
 Chicago, IL 60611
 NICU Beds:46
 Neonatologists:7
 Neonatologists names: Cheryl Davis; Ruth Deddish; Steven Dekowski; Robert Jansen; Dietra Millard; Edward Ogata; Stephen Wall 
 
 NORWEGIAN-AMERICAN HOSPITAL
-1044 N. Francisco Ave, A
-Chicago, tL 60622
+1044 N. Francisco Ave.
+Chicago, IL 60622
 NICU Beds:7
 Neonatologists:4
 Neonatologists names: Margaritte Angelapolous; Maria Gomez; Hemendra Patel; Jospeh Villalona
 
 RUSH-PRESBYTERIAN-ST, LUKE'S MEDICAL CENTER
 622 Murdock
-1653 W, Congress Pky.
+1653 W. Congress Pky.
 Chicago, IL 60612
 NICU Beds:45
 Neonatologists:8
@@ -2023,7 +2024,7 @@ Neonatologists:2
 Neonatologists names: Khurshid Bidiwala; Ramakrishna Velamati 
 
 UNIVERSITY OF ILLINOIS AT CHICAGO
-College of Medicine Dept, of Pediatrics
+College of Medicine, Dept. of Pediatrics
 840 S. Wood SI, M/C 856
 Chicago, IL 60612
 NICU Beds:38
@@ -2054,7 +2055,7 @@ Neonatologists names: Geeti Ghosh; Ashok Mehta
 
 ALEXIAN BROTHERS MEDICAL CENTER
 800 Biesterfleld Rd.
-Ek Grove, IL 60007
+Elk Grove, IL 60007
 NICU Beds:4
 Neonatologists:3
 Neonatologists names: Udochukwu Asony; Sang Han; Mehrunnisa Zarif
@@ -2117,7 +2118,7 @@ Neonatologists names: Raghbir Benawara; Jeffrey George; Henry Mangurten; Bhagyal
 
 METHODIST MEDICAL CENTER
 221 N.E. Glen Oak
-Peoria, IL. 67636
+Peoria, IL. 61636
 NICU Beds:5
 Neonatologists:
 Refer fo Saint Francis Medical Center
@@ -2130,14 +2131,14 @@ Neonatologists:5
 Neonatologists names: Howard Cohen; Janet Hiller; James Hocker; Kamlesh Macwan; Tim Miller
 
 ROCKFORD MEMORIAL HOSPITAL
-2400 N, Rockton Ave.
+2400 N. Rockton Ave.
 Rockford, IL 61073
 NICU Beds:52
 Neonatologists:9
 Neonatologists names: Barbara Chappel; Prabha Dosi; Jose Gonzalez; Gail Haiken; Patricia Ittmann; Lida Kechavarz; Martin Kelly; Pablo Morales; Rao potluri
 
 ST. JOHN'S HOSPITAL 
-800 E, Carpenter St.
+800 E. Carpenter St.
 Springfield. IL, 62769
 NICU Beds:35
 Neonatologists:4
@@ -2150,16 +2151,15 @@ NICU Beds:12
 Neonatologists:2
 Neonatologists names: Kim Gelke; William Stratton
 
-COVENANT MEDICAL CENTER 
-NICU
+COVENANT MEDICAL CENTER NICU
 1400 W. Park
-Urbana, IL 61804
+Urbana, IL 61801
 NICU Beds:12
 Neonatologists:2
 Neonatologists names: Rose Jaucian; Nestor Ramirez
 
 ST. FRANCIS HOSPITAL & HEALTH CENTER
-1600 Albany St,
+1600 Albany St.
 Beach Grove, IN 46107
 NICU Beds:14
 Neonatologists:3
@@ -2210,7 +2210,7 @@ Neonatologists names: Sodsai Jaiwatana; Mely Tan; Anuradha Tiruvury
 INDIANA UNIVERSITY MEDICAL CENTER
 James Whitcomb Riley Hospital for Children
 702 Barnhill Dr.
-Indianapolis, IN 46262-5210
+Indianapolis, IN 46202-5210
 NICU Beds:77
 Neonatologists:13
 Neonatologists names: David Boyle; Wade Clapp; Scott Denne; William Engle; David Hertz; Patricia Keener; James Lemons; Edward Liechty; Seth Malin; Rory Peppard; Richard Schreiner; Gregory Sokol; Mervin Yoder
@@ -2223,7 +2223,7 @@ Neonatologists:3
 Neonatologists names: Howard Harris; John Warehman; Ina Whitman
 
 ST. VINCENT HOSPITAL 
-2001 W, 86th St.
+2001 W. 86th St.
 Indianapolis, IN 46260
 NICU Beds:21
 Neonatologists:5
@@ -2258,7 +2258,7 @@ Neonatoilogists:3
 Neonatologists names: Ismail Abbasi; Wichest Boonyapredee; Kongkiet Thaeramanophab
 
 MEMORIAL HOSPITAL OF SOUTH BEND
-615N. Michigan St.
+615 N. Michigan St.
 South Bend, IN 46601-1033
 NICU Beds:36
 Neonatologists:4
@@ -2272,7 +2272,7 @@ Neonatologists:1
 Neonatologists names: Ann Hilmo
 
 GENESIS MEDICAL CENTER 
-1227 E. Rusholme St,
+1227 E. Rusholme St.
 Davenport, IA 52803
 NICU Beds:12
 Neonatologists:2
@@ -2285,7 +2285,7 @@ NICU Beds:32
 Neonatologists:5
 Neonatologists names: Holley Bedega; Susan Harrell; Bradley Riley; Robert Shaw; Joel Stenzel
 
-MERCY HOSPITAL MEDICAL CENTE
+MERCY HOSPITAL MEDICAL CENTER
 Sixth & University Ave.
 Des Moines, IA 50314
 NICU Beds:20
@@ -2294,22 +2294,22 @@ Neonatologists names: Vipinchandra Bhavsar; Saheb Sahu; Theresa Wahlig
 
 UNIVERSITY OF IOWA HOSPITAL 
 Department of Pediatrics
-200 Hawkins Dr,
+200 Hawkins Dr.
 Iowa City, IA 52242
 NICU Beds:41
 Neonatologists:9
 Neonatologists names: Michael Acarregui; Edward Bell; Herman Hein; Jonathan Klein; Gail McGuinness; Frank Morriss Jr. Jeffrey Segar; John Widness; Ekard Ziegler 
 
 ST. LUKE'S REGIONAL MEDICAL CENTER
-2720 Stone Park Blvd,
-Stoux City, IA 51104
+2720 Stone Park Blvd.
+Sioux City, IA 51104
 NICU Beds:24
 Neonatologists:1
 Neonatologists names: Raul Cuestas
 
 COVENANT MEDICAL CENTER 
-3421 W, Ninth St.
-Waterloo, lA 50702
+3421 W. Ninth St.
+Waterloo, IA 50702
 NICU Beds: 10
 Neonatologists:1
 Neonatologists names: Mir Waziri
