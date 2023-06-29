@@ -3704,14 +3704,14 @@ Neonatologists:6
 Neonatologists names: Marilyn Fisher; Allan Geis; Michael Horgan; Luis Ochoa; Joaquim Pinherio; Herman Risemberg
 
 ST. PETER'S HOSPITAL
-315 S. Manning Blvd,
+315 S. Manning Blvd.
 Albany, NY 12208
 NICU Beds:10
 Neonatologists:3
 Neonatologists names: Albert Bartoletti; Karen Narkewicz; Marc Perlman
 
 MEDICAL CENTER OF OCEAN COUNTY
-425 Jack Martin Blvd. ed
+425 Jack Martin Blvd.
 Brick, NY 08724
 NICU Beds: 10
 Neonatologists: 1
@@ -3724,9 +3724,8 @@ NICU Beds:26
 Neonatologists:
 Refer to Weiler Hospital/Montefiore Medical Center
 
-
 BRONX-LEBANON HOSPITAL CENTER
-1650 Grand Concourse Pas
+1650 Grand Concourse
 Bronx, NY 10457
 NICU Beds:40
 Neonatologists: 5
@@ -3734,7 +3733,7 @@ Neonatologists names: Robert Checola; Ivan Hand; Kim Mae-Hee; Lawrence Noble; Ji
 
 LINCOLN MEDICAL 8& MENTAL HEALTH CENTER
 234 E. 149th St.
-Bronx, NY 104514
+Bronx, NY 10451
 NICU Beds:28
 Neonatologists: 5
 Neonatologists names: Debasis Kanijilal; Rasila Lala; Anasuya Nagaraj; Zehra Panjavani; Ben Rajegowda
@@ -3762,8 +3761,8 @@ Neonatologists: 4
 Neonatologists names: Durga Annavajjhalla; Roger Kim; Branda Shrivastava; Myron Sokal
 
 BROOKLYN HOSPITAL CENTER
-121 De Kalb Ave. 4
-Brooklyn, NY 11204
+121 De Kalb Ave.
+Brooklyn, NY 11201
 NICU Beds:36
 Necnatologists:6
 Neonatologists names: Cohen Loudres; Luzminda Concepcion; Belen Fineza; Meenakshi Gulrajani; Patrick LeBlanc; Kimon Violaris 
@@ -3779,27 +3778,27 @@ Neonatologists names: Leonard Glass; Richard Kravath; Sheela Laungani; Steven Pi
 
 CONEY ISLAND HOSPITAL
 2601 Ocean Pky.
-Brooklyn, NY 14235
+Brooklyn, NY 11235
 NICU Beds:12
 Neonatologists: 2
 Neonatologists names: Alberto Tan; Jerry Watman
 
 INTERFAITH MEDICAL CENTER
 1545 Atlantic Ave.
-Brooklyn, NY 41243
+Brooklyn, NY 11213
 NICU Beds:45
 Neonatologists: 4
 Neonatologists names: Gener Dapul; Mehmet Dincsoy; Jeffrey Karsdon; Kiran Vohra
 
 LONG ISLAND COLLEGE HOSPITAL
-340 Henry St. vA
+340 Henry St.
 Brooklyn, NY 11201
-NICU Beds: 42
+NICU Beds: 12
 Neonatologists: 3
 Neonatologists names: Eli Koenig; Aruna Parekh; Sanjivan Patel
 
 MAIMONIDES MEDICAL CENTER
-4802 Tenth Ave. v
+4802 Tenth Ave. 
 Brooklyn, NY 11219
 NICU Beds:28
 Neonatologists:4
@@ -3813,7 +3812,7 @@ Neonatologists: 2
 Neonatologists names: Madhu Gudavalli; Khaja Raziuddin
 
 WOODHULL MEDICAL CENTER
-760 Broadway JZ
+760 Broadway
 Brooklyn, NY 11206
 NICU Beds:12
 Neonatologists: 2
@@ -3849,13 +3848,13 @@ Neonatologists names: George Albert; John Yount
 
 NASSAU COUNTY MEDICAL CENTEF
 2201 Hempstead Turnpike
-East Meadow, NY 11954
+East Meadow, NY 11554
 NICU Beds:28
 Neonatologists: 4
 Neonatologists names: Harriet Boxer; Swarna Devarajan; Chetna Kothari; Ammukutty Paulose 
 
 ST. JOHN'S QUEENS HOSPITAL
-90-02 Queens Blvd. vv
+90-02 Queens Blvd.
 Elmhurst, NY 11373
 NICU Beds: 72
 Neonatologlists: 2 
@@ -3869,7 +3868,7 @@ Neonatologists: 3
 Neonatologists names: Willard Helmuth; Eileen Reardon; Ira Wertheimer
 
 ELMHURST HOSPITAL CENTER
-79-01 Broadway v
+79-01 Broadway 
 Flushing, NY 11373
 NICU Beds:30
 Neonatologists: 5 
@@ -3898,13 +3897,13 @@ Neonatologists names: Salvatore Caravella
 
 QUEENS HOSPITAL CENTER
 82-68 164th St.
-Jamaica, NY 14432
-NicU Beds: 17
+Jamaica, NY 11432
+NICU Beds Beds: 17
 Neonatologists:4
 Neonatologists names: Sook Choi; Antonia Chowdhari; Genara Medina; Jose Viray
 
 UNITED HEALTH SERVICES HOSPITAL
-Witson Memorial Regional Medical Center
+Wilson Memorial Regional Medical Center
 P.O, Box 540, 33-57 Harrison St.
 Johnson City, NY 13790
 NICU Beds:14
@@ -3920,28 +3919,28 @@ Neonatologists names: Leslie Allen; Sharon Buckwald; Rita Harper; Mumtaz Lakhani
 
 WINTHROP-UNIVERSITY HOSPITAL
 259 First St.
-Mineola, NY 11507
+Mineola, NY 11501
 NICU Beds:28
 Neonatologicts: 7 
 Neonatologists names: Renu Aggarwal; Jonathan Davis; Daniel Hirsch; Teofilita Isaacson; Carolyn Robbins; Paul Twist; Leslie Wolkoff
 
 NORTHERN WESTCHESTER HOSPITAL CENTER
-4060 E. Main St.
-Mount Kisco, NY 40549
+400 E. Main St.
+Mount Kisco, NY 10549
 NICU Beds:6
 Neonatologists: 2
 Neonatologists names: Mazen Khalifeh; John Stafford
 
 SCHNEIDER CHILDREN'S HOSPITAL
 Long Island Jewish Medical Center 
-270-05 76th Ave,
+270-05 76th Ave.
 New Hyde Park, NY 11040
 NICU Beds:44
 Neonatologists: 7 
 Neonatologists names: Albert Aharon; Dennis Davidson; Herbert Goldman; Katherine King; Robert Koppel; Philip Lipsitz; Andrew Steele
 
 BABIES AND CHILDREN'S HOSPITAL OF NEW YORK
-Columbia Presbyterlan Medical Center
+Columbia Presbyterian Medical Center
 3959 Broadway, BHN-1201
 New York, NY 10032
 NICU Beds:37
@@ -3963,13 +3962,13 @@ Neonatologists: 7
 Neonatologists names: Tatiana Doberczak; Kendall Jenkins; Ramesh Jhaveri; Stephen Kandall; Lucille Perrotta; Aimee Telsey; Julie Topsis
 
 HARLEM HOSPITAL CENTER
-506 Lenox Ave. Vv
+506 Lenox Ave.
 New York, NY 10037
 NICU Beds:25
 Neonatologists: 5 
 Neonatologists names: David Bateman; Catherine Hansen; Maria Kofinas; Harry Moreau; Roy Schneiderman
 
-METROPOLITAN HOSPITAL CENTE
+METROPOLITAN HOSPITAL CENTER
 New York Medical College
 1901 First Ave.
 New York, NY 10029
@@ -3980,7 +3979,7 @@ Neonatologists names: Pratibha Ankola; Dominque Jean'Basptiste; Ajfar Shabbir
 MOUNT SINAI MEDICAL CENTER
 Division of Newborn Medicine
 One Gusiave L. Levy Place, Box 1513
-New York, NY 10029-6574
+New York, NY 10029
 NICU Beds:35
 Neonatologists: 7 
 Neonatologists names: Robert Green; Ian Holzman; Michelle Lasker; Michelle Lasker; Ben Ann Nagourney; Amy Reichlin; Josiah Wedgwood; Andrea Weintraub
@@ -3997,13 +3996,13 @@ Bellevue Hospital Center
 550 First Ave.
 New York, NY 10016
 NICU Beds:42
-Neonatologists:
+Neonatologists:8
 Neonatologists names: Martha Caprio; Karen Hendricks-Munoz; Rosemary Higgins; Yang Kim; Raymond Sanders; Hari Shukla; Rand Wasserman; Paul Yellin
 
 PRESBYTERIAN HOSPITAL IN THE CITY OF NEW YORK
 5141 Broadway
 New York, NY 10034
-NICU Beds: 0 
+NICU Beds: NA
 Neonatologists:
 Refer to Babies and Children Hospital New York
 
@@ -4011,12 +4010,12 @@ ST. LUKE'S/ROOSEVELT HOSPITAL
 1000 Tenth Ave.
 New York, NY 10019
 NICU Beds:40
-Neonatologists:
+Neonatologists:6
 Neonatologists names: Yucel Atakent; Sunita Bhattacharya; Rafaela Calabio; Janice Klein; Charles Paley; Farrokh Shahrivar 
 
 ST. VINCENT'S HOSPITAL OF NEW YORK
 153 W. 11th St.
-New York, NY 10014
+New York, NY 10011
 NICU Beds:25
 Neonatologists: 4 
 Neonatologists names: Rafaela Calabio; Nicole Cohen-Addad; Rita Fischer; Ulana Sanocka
@@ -4024,21 +4023,20 @@ Neonatologists names: Rafaela Calabio; Nicole Cohen-Addad; Rita Fischer; Ulana S
 TISCH HOSPITAL
 560 First Ave., Rm 576
 New York, NY 10016
-NICU Beds: 0
+NICU Beds: NA
 Neonatologists:
 Refer io New York University Medicak Center
 
 BELLEVUE HOSPITAL CENTER
 2210 Troy Rd.
-Niskayuna, NY 12309-4792
+Niskayuna, NY 12309
 NICU Beds:10
-Neonatologists:
-FORT, MARIA D.
-PRATT, STEPHEN R.
+Neonatologists:2 
+Neonatologists names: Maria Fort; Stephen Pratt
 
 VASSAR BROTHERS HOSPITAL
 Reade Place
-Poughkeepsie, NY 12604
+Poughkeepsie, NY 12601
 NICU Beds:15
 Neonatologists: 3 
 Neonatologists names: David DeJulio; Steohen Kovacs; Johanna Triegel
@@ -4052,7 +4050,7 @@ Neonatologists names: Mohini Mehra
 
 ROCHESTER GENERAL HOSPITAL
 1425 Portland Ave.
-Rochester, NY 14624
+Rochester, NY 14621
 NICU Beds:12
 Neonatologlsts:
 Refer lo University of Rochester Medical Center, Strong Children's Medical Center
@@ -4067,7 +4065,7 @@ Neonatologists names: Patricia Chess; Carl D'Angio; Ronnie Guillet; James Kendig
 
 ST. VINCENT'S MEDICAL CENTER OF RICHMOND
 355 Bard Ave.
-Staten island, NY 10340
+Staten island, NY 10310
 NICU Beds:18
 Neonatologists:2
 Neonatologists names: Anantham Harin; Jeffrey Siracuse
@@ -4079,17 +4077,16 @@ NICU Beds:6
 Neonatotogists: 3 
 Neonatologists names: Felipe Banzon; Jose Rementeria; Shashi Sahdev
 
-UNIVERSITY MEDICAL CENTER
-STONY BROOK
+UNIVERSITY MEDICAL CENTER STONY BROOK
 Department of Pediatrics, HSC, T-114
-Stony Brock, NY 11794-8111
+Stony Brock, NY 11794
 NICU Beds:40
 Neonatolonists: 5 
 Neonatologists names: Lyle Browne; Jseph De Cristofaro; Leonard Kleinman; Edmund LaGamma; Lance Parton
 
 CROUSE IRVING MEMORIAL HOSPITAL
 736 Irving Ave.
-Syracuse, NY 143210
+Syracuse, NY 13210
 NICU Beds:60
 Neonatologists: 7 
 Neonatologists names: Martiza Alvarado; Ellen Bifano; Thomas Curran Jr; Steven Gross; David Hakanson;  Robert Hingre; Bonnie Marr
@@ -4103,7 +4100,7 @@ Neonatologists names: Adam Cutler; Ananda Siriwardena
 
 WESTCHESTER MEDICAL CENTER
 Regional Neonatal I.C.U.
-Vathalla, NY 10595
+Valhalla, NY 10595
 NICU Beds:30
 Neonatologists:4 
 Neonatologists names: Harry Dweck; Lilian Gonzalez; Sarvesh Nigam; Mario Reale
@@ -4124,7 +4121,7 @@ Neonatologists names: Hanumantharao Bodapati; Belinda Marquis; Prabhu Mehta; Tar
 
 MILLARD FILLMORE SUBURBAN HOSPITAL
 1540 Maple Rd.
-Willlamsville, NY 14224
+Willlamsville, NY 14221
 NICU Beds:24
 Neonatologists: 1
 Neonatologists names: Ralph Wynn
@@ -4144,7 +4141,7 @@ Neonatologists:7
 Neonatologists names: Carl Bose; Joseph D'Ercole; Ernest Kraybill; Edward Lawson; Wayne Price; Alan Stiles; Kathleen Veness-Meehan
 
 CAROLINAS MEDICAL CENTER
-P.O, Box 32861
+P.O. Box 32861
 Charlotte, NC 28232
 NICU Beds:51
 Neonatologists: 9 
@@ -4152,7 +4149,7 @@ Neonatologists names: Andrew Davey; Paul Engstrom; David Fischer; Docia Hickey; 
 
 PRESBYTERIAN HEMBY CHILDREN HOSPITAL
 200 Hawthorne Lane
-P.O. Box 33649
+P.O. Box 33549
 Charlotte, NC 28233-3549
 NICU Beds:16
 Neonatologists:4 
@@ -4166,8 +4163,8 @@ Neonatologists: 5
 Neonatologists names: Richard Auten; Ricki Goldstein; Ayne Kimberly Iafolla; Dennis Rosenblum; David Tanaka
 
 DURHAM REGIONAL HOSPITAL
-3643 N, Roxboro Rd.
-Durham, NC 27704-2763
+3643 N. Roxboro Rd.
+Durham, NC 27704
 NICU Beds:42
 Neonatologists:
 Refer to Duke University Medical Center
@@ -4181,7 +4178,7 @@ Neonatologists:4
 Neonatologists names: Jan Carter; Thomas Ciszek; Keith Gallaher; William Lowe
 
 WESLEY LONG COMMUNITY HOSPITAL
-P.O, Box 2747
+P.O. Box 2747
 Greensboro, NC 27402
 NICU Beds:8
 Neonatologists:2
@@ -4197,7 +4194,7 @@ Neonatologists names: Rita Carlos; Andrew Davey; Laurence Ransom; McCrae Smith
 PITT COUNTY MEMORIAL HOSPITAL
 Universily Medical Center of Eastern
 2100 Stantonsburg Rd. 
-Greenville, NC 27835-6028
+Greenville, NC 27835
 NICU Beds:40
 Neonatologists:6 
 Neonatologists names: Stephen Engelke; Arthur Kopelman; Oommen Mathew; Alexander Robertson; John Wimmer Jr.
@@ -4231,8 +4228,8 @@ Neonatologists: 4
 Neonatologists names: Laurie Dunnn; James Thullen; Ross Vaughan; Thomas Young
 
 NEW HANOVER REGIONAL MEDICAL CENTER
-P.O. Box 8000
-Wilmington, NC 28402-9000
+P.O. Box 9000
+Wilmington, NC 28402
 NICU Beds:29
 Neonatologisis: 3 
 Neonatologists names:  Noel-John Carrasco; Elizabeth Leistikow; Robert McArtor
@@ -4247,13 +4244,12 @@ Refer to North Carolina Baplist Hospital
 NORTH CAROLINA BAPTIST HOSPITAL
 Medical Center Blvd.
 Winston-Salem, NC 274157
-Director Of Neonatology:
 NICU Beds:35
 Neonatologists:7
 Neonatologists names: Judy Aschner; David Berry; Steven Block; Robert Dillard; Virginia Nichols; Michael O'Shea; Peter Porcelli
 
 MEDCENTER ONE
-300 N, 7th St.
+300 N. 7th St.
 Bismarck, ND 58502
 NICU Beds:10
 Neonatologists: 1 
@@ -4261,13 +4257,13 @@ Neonatologists names: Thomas Wilson
 
 ST, ALEXIUS MEDICAL CENTER
 900 E. Broadway
-Bismarck, ND 58504
+Bismarck, ND 58501
 NICU Beds:24
 Neonatologists: 3
 Neonatologists names: Atef Gayed; Charles Severn; Thomas Wilson
 
 CHILDREN'S HOSPITAL MERITCARE
-720 Fourth St, N, wv
+720 Fourth St. N.
 Fargo, ND 58122
 NICU Bads:24
 Neonatologists: 5 
@@ -4275,7 +4271,7 @@ Neonatologists names: Indu Agarwal; Carlos Ahumada; Stephen Nelson; William Rose
 
 TRINITY MEDICAL CENTER
 1 Burdick Expy. W.
-Minot, ND 58702-5020
+Minot, ND 58702
 NICU Beds:10
 Neonatologists: 1 
 Neonatologists names: Roger Allen
@@ -4304,7 +4300,7 @@ Neonatologists names: Affan Alwan; Mangala Betkerur
 BETHESDA HOSPITAL
 619 Oak St.
 Cincinnati, OH 45206
-NICU Beds;29
+NICU Beds:29
 Neonatologists: 2 
 Neonatologists names: Naiyer Chadha; John Reuter
 
@@ -4316,8 +4312,8 @@ Neonatologists:
 Refer to Bethesda Hospital
 
 CHILDREN'S HOSPITAL MEDICAL CENTER
-3333 Burnet Ave,
-Cincinnati, OH 45229-3039
+3333 Burnet Ave.
+Cincinnati, OH 45229
 NICU Beds:55
 Neonatologists:18 
 Neonatologists names: Jeanne Ballard; Naiyer Chadha; Edward Donovan; James Greenberg; Steven Hoath; James Greenberg; Clinton Joiner; Suhas Kallapur; Uma Kotagal; Lisa Kuan; Irwin Light; Paul Perlstein; John Reuter; Ward Rice; Jean Steichen; Reginald Tsang; Barbara Warner; Jeffrey Whitsett; Jonathan Wispe
@@ -4331,7 +4327,7 @@ Neonatologists names: Horatio Falciglia; Nikki Kosmetatos; David Levine; Robert 
 
 UNIVERSITY OF CINCINNATI
 P.O. Box 670541
-Cincinnati, OH 45267-0541
+Cincinnati, OH 45267
 NICU Beds:50
 Neonatologists:
 Refer to Children's Hospital Medical Center
@@ -4360,13 +4356,13 @@ Neonatologists names: Douglas Powell; Jeffrey Schwesenski
 RAINBOW BABIES & CHILDREN'S HOSPITAL
 Division of Neonatology
 11100 Euclid Ave.
-Cleveland, OH 44106-6010
+Cleveland, OH 44106
 NICU Beds:38
 Neonatologists: 10
 Neonatologists names: Susan Aucott; Jill Baley; Cynthia Bearer; Avroy Fanaroff; Maureen Hack; Satish Kalhan; Richard Martin; Martha Miller; Eileen Stork; Michele Walsh-Sukys
 
 COLUMBUS CHILDREN'S HOSPITAL
-700 Chitdren's Dr.
+700 Children's Dr.
 Columbus, OH 43205
 NICU Beds:45
 Neonatologists:9
@@ -4387,14 +4383,14 @@ Neonatologists:
 Refer to Grant Medical Center
 
 OHIO STATE UNIVERSITY HOSPITAL
-410 W. 10th Ave., Doan Hall N-14&
-Columbus, OH 43210-1228
+410 W. 10th Ave., Doan Hall N-118
+Columbus, OH 43210
 NiCU Beds:35
 Neonatologists:
 Refer to Columbus Children's Hospital
 
 RIVERSIDE METHODIST HOSPITAL
-3535 Olentangy River Rd,
+3535 Olentangy River Rd.
 Columbus, OH 43214
 NICU Beds:24
 Neonatologists:5
@@ -4423,7 +4419,7 @@ Neonatologists names: William Zaia
 
 ST. RITA'S HOSPITAL MEDICAL CENTER
 730 W. Market St.
-Lima, OH 45801-4667
+Lima, OH 45801
 NICU Beds:16
 Neonatologists: 1 
 Neonatologists names: Vincent Romero
@@ -4437,21 +4433,21 @@ Refer fo Rainbow Babies & Children's Hospital
 
 LAKE HOSPITAL SYSTEM
 Washington At Liberty
-Palnesville, OH 44077
+Painesville, OH 44077
 NICU Beds:6
 Neonatologists: 1
 Neonatologists names: Prem Mehandru
 
 COMMUNITY HOSPITAL
 Box 1228
-Springfield, OH 46501
+Springfield, OH 45501
 NICU Beds: 6
 Neonatologlats: 4
 Neonatologists names: Don Granger; Neil Guttenberg; Jeffrey Loughead; Jeffrey ietz
 
 CHILDREN'S MEDICAL CENTER
 THE TOLEDO HOSPITAL
-2142 N. Cove Bivd,
+2142 N. Cove Blvd.
 Toledo, OH 43606
 NICU Beds:60
 Neonatologists: 8 
@@ -4465,28 +4461,25 @@ Neonalologists: 3
 Neonatologists names: Sonia Cahanap-Mercado; Michael Shaw; Minda Te
 
 ST. VINCENT MEDICAL CENTER
-2213 Cherry St. a
+2213 Cherry St.
 Toledo, OH 43608
 NICU Beds:22
 Neonatologists:4 
 Neonatologists names: Moustafa Aouthmany; Usha Gupta; Gopal Reddy; Jose Urutia
 
-WRIGHT-PATTERSON AFB, OH
 WRIGHT-PATTERSON MEDICAL CENTER
 Sugar Maple Dr. 
-Wiight-Patterson AFB, OM 45433-5529
+Wright-Patterson AFB, OH 45433
 NICU Bads:12
 Neonatologists: 3
 Neonatologists names: Kathleen Bohannon; Larry Maden; Larry Minnick
 
 ST. ELIZABETH HOSPITAL MEDICAL CENTER 
 1044 Balmont Ave.
-Youngstown, OH 445014
+Youngstown, OH 44501
 NICU Bads:20
 Neonatologists:5 
 Neonatologists names: Tarek Anderson; Linda Cooper; Janice Desanto; Steven Jesse; Elena Rossi
-
-OKLAHOMA CITY, Ok
 
 BAPTIST MEDICAL CENTER OF OKLAHOMA
 3300 N.W. Expressway
@@ -4496,7 +4489,7 @@ Neonatologists: 3
 Neonatologists names: Edward Co; James Pickens; Jose Pineda
 
 CHILDREN'S HOSPITAL OF OKLAHOMA 
-840 N.E. 13th SL, Rav. 28307
+940 N.E. 13th St. Rm. 28307
 Oklahoma Cily, OK 73104
 NICU Beds:39
 Neonatologists:7
@@ -4510,14 +4503,14 @@ Neonatologists:
 Refer to Baptist Medical Center of Oklahoma
 
 MERCY HEALTH CENTER
-4300 W. Marnarial Rd,
-Oklahoma City, OK 73420
+4300 W. Memorial Rd.
+Oklahoma City, OK 73120
 NICU Beds:22
 Neonatologists: 2
 Neonatologists names: Philippe Samson; Theodore Tolentino
 
 PRESBYTERIAN HOSPITAL
-700 N.E. 73th Si
+700 N.E. 73th St. 
 Oklahoma City, OK 73104
 NICU Beds: 15
 Neonatologists:2
@@ -4545,7 +4538,7 @@ Neonatologists: 5
 Neonatologists names: Julio Cuadra; Robert Lawson; Michael Lenhart; Franz Moncoda; Vernon Smith
 
 SACRED HEART GENERAL HOSPITAL
-4255 Hilyard St.
+1255 Hilyard St.
 Eugene, OR 97401
 NICU Beds:22
 Neonatologists:4
@@ -4588,7 +4581,7 @@ Neonatologists:
 Refer to Legacy Emanuel Children Hospital
 
 ABINGTON MEMORIAL HOSPITAL
-4200 Old York Rd.
+1200 Old York Rd.
 Abington, PA 19001
 NICU Beds:13
 Neonatologists: 4
@@ -4596,7 +4589,7 @@ Neonatologists names: Eric Margolis; Ara Moomjian; Nilima Ragavan; Steven Snyder
 
 LEHIGH VALLEY HOSPITAL
 17th And Chew Sts., P.O. Box
-Altentown, PA 18105-7017
+Altentown, PA 18105
 NICU Beds:20
 Neonatologists: 4 
 Neonatologists names: Ian Gertner; Leonard Golub; Shantha Mathews; Marijo Zelinka
@@ -4616,14 +4609,14 @@ Neonatologists: 2
 Neonatologists names: Ravi Agarwal; Mahesh Patel
 
 BRYN MAWR HOSPITAL
-130 S, Bryn Mawr Ave.
-Bryn Mawr, PA 18010
+130 S. Bryn Mawr Ave.
+Bryn Mawr, PA 19010
 NICU Beds:20
 Neonatologists: 5 
 Neonatologists names: Mary Jacquette; Glenn Kaplan; Richard Ritterman; Robert Stavis; Joseph Stiskal
 
 GEISINGER MEDICAL CENTER
-100 N. Academy Ave
+100 N. Academy Ave.
 Danville, PA 17822
 NICU Beds:38
 Neonatologists:4
@@ -4632,13 +4625,13 @@ Neonatologists names: James Cook; Bakulesh Patel; Clair Schwiendeman; Robert Spa
 FITZGERALD MERCY HOSPITAL
 1500 S. Lansdowne Ave. 
 Darby, PA 19023
-NICU Beds:47
+NICU Beds:17
 Neonatologists: 4 
 Neonatologists names: Richard Rothchild; David Schutzman; Raj Sharma; Cynthia Villasis
 
 DELAWARE COUNTY MEMORIAL HOSPITAL
-601 N. Lansdowne Ave.
-Drexel Hill, PA. 49026
+501 N. Lansdowne Ave.
+Drexel Hill, PA. 19026
 NICU Beds:15
 Neonatologists:
 Refer to Bryn Mawr Hospital, Bryn Mawr
@@ -4646,7 +4639,7 @@ Refer to Bryn Mawr Hospital, Bryn Mawr
 DUBOIS REGIONAL MEDICAL CENTER
 Sunflower Dr.
 P.O. Box 447
-Dubois, PA 158014
+Dubois, PA 15801
 NICU Beds:15
 Neonatotogists:2
 Neonatologists names: William Siar; Douglas Sprague
@@ -4654,7 +4647,7 @@ Neonatologists names: William Siar; Douglas Sprague
 MEDICAL COLLEGE HOSPITALS
 Department of Neonatology
 Elkins Park Campus
-Elkins Park, PA 494117
+Elkins Park, PA 19117
 NICU Beds:10
 Neonatologists: 2 
 Neonatologists names: Nghia Neil Tran; Jan Volin
@@ -4680,8 +4673,8 @@ NICU Beds:18
 Neonatologists:3
 Neonatologists names: Richard Blustein; Kevin Lorah; Barry Yoss
 
-POLYCLINICG MEDICAL CENTER OF HARRISBURG
-2601 N. Third St,
+POLYCLINIC MEDICAL CENTER OF HARRISBURG
+2601 N. Third St.
 Harrisburg PA 17110
 NICU Beds: 14
 Negnatologists: 2
@@ -4695,21 +4688,21 @@ Neonatologists: 5
 Neonatologists names: Keith Marks; Dennis Mujsce; Charles Palmer; Ronald Poland; Kristi Watterberg
 
 SAINT MARY MEDICAL CENTER
-Langhome-Newtown Rd. 
+Langhorne-Newtown Rd. 
 Langhorne, PA 19047
 NICU Beds:6
 Neonatologists:2
 Neonatologists names: Jocelyn Austria; Prem Marlapudi
 
 ALBERT EINSTEIN MEDICAL CENTER
-6501 Old York Rd.
-Philadelphia, PA 19141-3098
+5501 Old York Rd.
+Philadelphia, PA 19141
 NICU Beds:27
 Neonatologists: 3 
 Neonatologists names: Sonia Hulman; Hallam Hurt; Rachel Porat; Agnes Salvador
 
 CHILDREN'S HOSPITAL OF PHILADELPHIA
-34th St. & Civic Center Blvd,
+34th St. & Civic Center Blvd.
 Philadelphia, PA 19104
 NICU Beds:22
 Neonatologists: 9
@@ -4724,7 +4717,7 @@ Neonatologists names: Albert Pizzica
 
 FRANKFORD HOSPITAL
 Knights And Red Lion Rds.
-Philadelphia, PA 19114-1486
+Philadelphia, PA 19114
 NICU Beds:9
 Neonatologists: 3 
 Neonatologists names: Carrie Hufnal-Miller; Gita Jani; Ralph Schrager
@@ -4752,7 +4745,7 @@ Neonatologists names: Michael Kornhauser
 
 PENNSYLVANIA HOSPITAL
 Section on Newborn Pediatrics
-800 Spruce St., Cathcart Bldg., 2n
+800 Spruce St., Cathcart Bldg., 2nd Flr.
 Philadelphia, PA 19107-9956
 NICU Beds:35
 Neonatologists: 4 
@@ -4760,7 +4753,7 @@ Neonatologists names: Soraya Abbasi; Vinod Bhutani; Jeffrey Gerdes; Carla Weis
 
 ST, CHRISTOPHERS HOSPITAL FOR CHILDREN
 Erie Ave. at Front St.
-Philadelphia, PA 191434
+Philadelphia, PA 19134
 NICU Beds:25
 Neonatologists:
 Refer to Temple University Hospital
@@ -4780,15 +4773,15 @@ Neonatologists: 11
 Neonatologists names: Susan Adeniyi-Jones; Michael Antunes; Stephen Baumgart; Hemant Desai; Shobhana Desai; Eric Gibson; Jay Greenspan; Stephen Higgins; Michael Kornhauser; Alan Spitzer; Thomas Wiswell
 
 ALLEGHENY GENERAL HOSPITAL
-320 E. North Ave,
+320 E. North Ave.
 Pittsburgh, PA 15212
 NICU Beds:19
 Neonatologists: 5 
 Neonatologists names: Carmela Carpanzano; Ronda Gretebeck; Robert Guthrie; Donald Null; Donna Salsburey
 
 CHILDREN'S HOSPITAL OF PITTSBURGH
-3705 Fifth Ave,
-Piltsburgh, PA 45243-2583
+3705 Fifth Ave.
+Pittsburgh, PA 15243
 NICU Beds:20
 Neonatologists:4
 Neonatologists names: Marshall; Goldstein; Thor Hansen; Eric Michael; Ann Thompson
@@ -4796,7 +4789,7 @@ Neonatologists names: Marshall; Goldstein; Thor Hansen; Eric Michael; Ann Thomps
 MAGEE-WOMENS HOSPITAL
 Department of Pediatrics
 300 Halket St.
-Pittsburgh, PA 16243-3180
+Pittsburgh, PA 15243
 NICU Beds:63
 Neonatologists:8
 Neonatologists names: Michael Balsan; Charles Bender; Beverly Brozanski; William Cvetnic; Sherin Devaskar; Uday Devaskar; Carol Gilmour; Jon Watchiko
@@ -4808,9 +4801,9 @@ NICU Beds:12
 Neonatologists: 4 
 Neonatologists names: BJ Bradford; Jacob Greenberg; Barbara Israel; Harvey Rubin
 
-WESTERN PENNSYLVANIA Hu
+WESTERN PENNSYLVANIA HOSPITAL
 4800 Friendship Ave.
-Pittsburgh, PA 16224
+Pittsburgh, PA 15224
 NICU Beds:40
 Neonatologists: 6 
 Neonatologists names: Robert Cicco; Sharon Galli; Nilima Karanchandani; Giovanni Laneri; Alan Lantzy; Roger Vazquez
@@ -4822,8 +4815,8 @@ NICU Beds:18
 Neonatologists: 1 
 Neonatologists names: Eitan Kilchevsky
 
-COMMUNITY MEDICAL CENTER .
-1800 Mulberry St. a
+COMMUNITY MEDICAL CENTER
+1800 Mulberry St.
 Scranton, PA 18510
 NICU Beds:20
 Neonatologists: 4
@@ -4838,13 +4831,13 @@ Neonatologists names: Stephanie Chuipek; Jane Coleman; Marian Huang; Catherine P
 
 LANKENAU HOSPITAL
 100 Lancaster Ave, W. of City Line
-Wynnewood, PA 49096
+Wynnewood, PA 19096
 NICU Beds:18
 Neonatologists: 4 
 Neonatologists names: John Demaio; Cynthia Kellogg; Pamela Russell; Mary Ellen Skalina
 
 YORK HOSPITAL
-1061 S. George St.
+1001 S. George St.
 York, PA. 17403
 NICU Beds:20
 Neonatologists: 4
@@ -4852,14 +4845,14 @@ Neonatologists names: Frank Ferrentino; Michael Goodstein; Jonathan Liss; Steven
 
 UNIVERSITY HOSPITAL
 Ave. Laurel, Santa Juanita
-Bayamon, PR 00621-6032
+Bayamon, PR 00621
 NICU Beds:10
 Neonatologists:4
 Neonatologists names: Frances Garcia; Anette Leon; Frank Rodriguez; Sylvette Soto
 
 HOSPITAL AUXILIO MUTUO
 P.O. Box 191227
-Hato Rey, PR 00919-1227
+Hato Rey, PR 00919
 NICU Beds:12
 Neonatologists:
 Refer to Hospital Damas
@@ -4879,13 +4872,11 @@ Neonatologists names: Isabel Cabrera; Francisco Caeves; Edgar Diaz; Carlos Perez
 SAN JUAN CITY HOSPITAL
 Apartado 21405
 Rio Piedras, PR 00921
-Office Phone: (809)766-2222
-Office Fax: (809)764-3643
 NICU Beds:10
 Neonatologists: 6 
 Neonatologists names: Jose Capriles; Rafael Javariz; Milagros Luiggi-Calcerrada; Ingrid Marino; Eloisa Munoz-Donnes; Hilda Riveria 
 
-UNIVERSITY OF PUERTO RICO
+UNIVERSITY OF PUERTO RICO SCHOOL OF MEDICINE
 P.O. BOX 5067
 San Juan, PR 00936
 NICU Bads:16
@@ -4893,8 +4884,8 @@ Neonatologists: 2
 Neonatologists names: Gloria Reyes; Marta Valcarcel
 
 UNIVERSITY PEDIATRIC HOSPITAL
-P.O. Box 365067 w
-San Juan, PR 00936-5067
+P.O. Box 365067 
+San Juan, PR 00936
 NICU Beds:39
 Neonatotogists:3
 Neonatologists names: Carmen Concepcion; Gloria Reyes; Marta Vilcarcel
@@ -4902,14 +4893,14 @@ Neonatologists names: Carmen Concepcion; Gloria Reyes; Marta Vilcarcel
 WOMEN AND INFANTS HOSPITAL OF RHODE ISLAND
 Department of Pediatrics
 101 Dudley St.
-Providence, RI 02805
+Providence, RI 02905
 NICU Beds:75
 Neonalologists:13 
 Neonatologists names: William Cashore; Richard Cowett; Mara Coyle; Vasudeva Kamath; Yun Lee; William Oh; James Padbury; Satya Reddy; Robert Rothstein; Lewis Rubin; Patricia Spitale; Barbara Stonestreet; James Thorp
 
 MEDICAL UNIVERSITY OF SOUTH CAROLINA
-E-872-A Children's Hospital
-171 Ashley Ave., Dept. Neonatology
+E-672-A Children's Hospital
+171 Ashley Ave.
 Charleston, SC 29425
 NICU Beds:38
 Neonatologists: 10
@@ -4959,7 +4950,7 @@ Neonatologists: 2
 Neonatologists names: Thomas Allred; Sami Elhassani
 
 SPARTANBURG REGIONAL MEDICAL CENTER
-101 &. Wood St.
+101 E. Wood St.
 Spartanburg, SC 29303
 NICU Beds:16
 Neonatologists: 2
@@ -4980,7 +4971,7 @@ Neonatologists:2
 Neonatologists names: Candace Caldwell; Kandi McMenamy
 
 SIOUX VALLEY HOSPITAL
-1100 S. Euclid “i
+1100 S. Euclid
 Sioux Fails, SD 57447
 NICU Beds:45
 Neonatotogists:5
@@ -4988,7 +4979,7 @@ Neonatologists names: Lawrence Fenton; David Munson; Dennis Stevens; Marty Vince
 
 EAST RIDGE HOSPITAL
 941 Spring Creek Rd.
-AL Chaltancoga, TN 37421
+Chattanooga, TN 37421
 NICU Beds:18
 Neonatologists:3
 Neonatologists names: Lizabeth Kennedy; Lisa Lowrey-Smith; Victor Thomas
@@ -5021,14 +5012,14 @@ NICU Beds:26
 Neonatologists: 3 
 Neonatologists names: Des Bharti; Bedford Bonta; William Devoe
 
-HOLSTON VALLEY HOSPITAL AND MEDICAL CENTER wv
+HOLSTON VALLEY HOSPITAL AND MEDICAL CENTER
 P.O, Box 238
 Kingsport, TN 37662
 NICU Beds:22
 Neonatologicts:4
 Neonatologists names: Sharon Lail; Christoper Martin; Bruce Pichoff; Pius James Powers
 
-EAST TENNESSEE CHILDREN'S HOSPITAL ea
+EAST TENNESSEE CHILDREN'S HOSPITAL
 2018 Clinch Ave.
 Knoxville, TN 37916
 NICU Beds:36
@@ -5044,7 +5035,7 @@ Neonatologists names: John Buccheit; Neil Feld; Patrick Hodges
 
 UNIVERSITY OF TENNESSEE MEDICAL CENTER, KNOXVILLE
 1924 Alcoa Hwy.
-Knoxville, TN 37820
+Knoxville, TN 37920
 NICU Beda:48
 Neonatologists: 7 
 Neonatologists names: Mark Anderson; Tara Burnette; Mark Gaylord; Vichien Lorch; James Schmid; Hanumaiah Suvarnamma; Kelly Wright
@@ -5057,28 +5048,28 @@ Neonatologists: 1
 Neonatologists names: John Isaac
 
 BAPTIST MEMORIAL HOSPITAL EAST
-6049 Walnut Grove Rd, wv
+6019 Walnut Grove Rd.
 Memphis, TN 38120
-NICU Beds:34
+NICU Beds:31
 Neonatologists: 4 
 Neonatologists names: Esmond Arrindell; James Hamlett III; Craig Sander; Robert Tipton
 
 METHODIST HOSPITAL NORTH
 3960 New Covington Pike
-Memphis, TN 38428
+Memphis, TN 38128
 NICU Beds:16
 Neonatologists: 2 
 Neonatologists names: Charles Hankins; Martin Jenkins
 
 METHODIST HOSPITAL OF MEMPHIS
-1265 Union Ave. wa
+1265 Union Ave.
 Memphis, TN 38104
 NICU Beds:30
 Negnatologists:6
 Neonatologists names: John Ferguson; June Joyner; George Latta; Carole Perry; Marilyn Robinson; Diane Woodall
 
 REGIONAL MEDICAL CENTER AT MEMPHIS
-853 Jefferson Ave,, Rm. 204
+853 Jefferson Ave., Rm. 201
 Memphis, TN 38163
 NICU Beds:90
 Neonalologists:6
@@ -5113,14 +5104,14 @@ Neonatologists:8
 Neonatologists names: Robert Cotton; Catherine Hoff; Margarget Rush;Jayant Shenai; Mildred Stahlman; Hakan Sundell; William Walsh; Barbara Wilson
 
 AMARILLO HOSPITAL DISTRICT
-4400 Wallace Blvd. ed
+1400 Wallace Blvd.
 Amarillo, TX 79106
 NICU Beds:24
 Neonatologists: 4 
 Neonatologists names: Evanthia Biskinis; Joyce Chuachingo; Petiah Mohan; Mubariz Naqvi
 
 ARLINGTON MEMORIAL HOSPITAL
-800 W, Randol Mill Rd.
+800 W. Randol Mill Rd.
 Arlington, TX 76012
 NICU Beds:32
 Neonatologists:1
@@ -5141,7 +5132,7 @@ Neonatologists: 5
 Neonatologists names: James Creswell; Donald Kelley; Todd Scharnberg; David Wermer; Taimir Zeb
 
 ST. DAVID'S HOSPITAL
-P,O. Box 4039
+P.O. Box 4039
 Austin, TX 78765
 NiCU Beds:17
 Neonatologists: 4 
@@ -5149,7 +5140,7 @@ Neonatologists names: David Breed; Frank Cho; Cynthia Lynnn; Audelio Rivera
 
 BEAUMONT REGIONAL MEDICAL CENTER
 P.O. Box 12456
-Beaumont, TX 77726-2456
+Beaumont, TX 77726
 NICU Beds:6
 Neonatologists:1
 Neonatologists names: Arden Quintin
@@ -5168,7 +5159,7 @@ NICU Beds:18
 Neonatologists: 3 
 Neonatologists names: Jose Antonio De Luna; Manuel Mendoza; Sanchez Gerardo
 
-VALLEY REGIONAL MEDICAL CF!
+VALLEY REGIONAL MEDICAL CENTER
 1 Ted Hunt Blvd.
 Brownsville, TX 78521
 NICU Beds:18
@@ -5176,7 +5167,7 @@ Neonatologlsts:
 Refer to AMI Brownsville Medical Center
 
 MEDICAL CENTER HOSPITAL
-504 Medica! Center Blvd.
+504 Medical Center Blvd.
 Conroe, TX 77304
 NICU Beds:16
 Neonatologists:2
@@ -5184,13 +5175,13 @@ Neonatologists names: Jack McGowan; Shanti Reddy
 
 DOCTORS REGIONAL MEDICAL CENTER
 3315 S. Alameda
-Corpus Christi, TX 784114
+Corpus Christi, TX 78411
 NICU Beds:16
 Neonatologists: 
 Refer to Driscoll Children's Hospital
 
 DRISCOLL CHILDREN'S HOSPITAL
-Drawer 6530 5
+Drawer 6530
 Corpus Christi, TX 78466
 NICU Beds:42
 Neonatologists: 4 
@@ -5218,15 +5209,15 @@ Neonatologists:3
 Neonatologists names: Alan Klein; Harold Kolni; Carlos Laos
 
 PARKLAND MEMORIAL HOSPITAL
-5323 Havy Hines Blvd.
+5323 Harry Hines Blvd.
 Dallas, TX 75235
 NICU Beds:72
 Neonatologists: 12 
 Neonatologists names: Rebecca Broyles; Blair Cox; William Engle; Kathleen Kennedy; Abbot Laptook; Fernando Moya; Jeffrey Perlman; Charles Rosenfeld; Pablo Sanchez; Philip Shaul; Jon Tyson; Michawl Wyman
 
 PRESBYTERIAN HOSPITAL OF DALLAS
-8200 Walnut Hill Lane, Sle 604
-Dallas, TX 76231
+8200 Walnut Hill Lane, Ste 604
+Dallas, TX 75231
 NICU Bads:34
 Neonatologists: 8 
 Neonatologists names: Nell Ackerman; David Green; Thomas Harper; Gregg Lund; Elizabeth Peters; Thomas Pullano; Ian Ratner; Khalid Yunis 
@@ -5246,7 +5237,7 @@ Neonatologists: 3
 Neonatologists names: Merle Ipson; Antonio Jesurun; Garrett Levin
 
 BROOKE ARMY MEDICAL CENTER 
-Neonat. Sve., Ward 16C, 2410 Slanley Rd.
+2410 Slanley Rd.
 Dept. of Pediatrics (MCHE-DP)
 Fort Sam Houston, 78234
 NICU Beds:15
@@ -5254,8 +5245,8 @@ Neonatologists: 3
 Neonatologists names: Michael Battista; Howard heiman; Thomas Perkins
 
 ALL SAINTS EPISCOPAL HOSPITAL OF FORT WORTH
-1400 8th St., P.O. Box 34
-Fort Worth, TX 76104
+1400 8th St., P.O. Box 31
+Fort Worth, TX 76101
 NICU Beds:15
 Neonatologists: 1 
 Neonatologists names: Michael Porter
@@ -5268,7 +5259,7 @@ Neonatolagists: 7
 Neonatologists names: Cody Arnold; Samuel Juliao; Richard Sidebottom; Kim Smith; Michael Stanley; Michael Stevener; David Tuberville
 
 HARRIS METHODIST FORT WORTH
-1301 Penn Ave.
+1301 Pennsylvania Ave.
 Fort Worth, TX 76104
 NICU Beds:32
 Neonatologlsts:
@@ -5302,7 +5293,7 @@ NICU Beds:70
 Neonatolagists:
 Refer to Baylor College of Medicine
 
-HERMANN CHILDREN'S HOSP:
+HERMANN CHILDREN'S HOSPITAL
 6411 Fannin
 Houston, TX 77030
 NICU Beds:66
@@ -5317,7 +5308,7 @@ Neonatologists: 3
 Neonatologists names: Margia Pernoll; Richard Rivas; Cheryl Robinson
 
 LYNDON BAINES JOHNSON HOSPITAL
-6656 Kelly St.
+5656 Kelly St.
 Houston, TX 77026
 NICU Beds:60
 Neonatologists:
@@ -5346,7 +5337,7 @@ Neonatologists:
 Refer lo Baylor College of Medicine Neonatologist
 
 SHARPSTOWN GENERAL HOSPITAL
-6700 Bellair Bivd.
+6700 Bellair Blvd.
 Houston, TX 77074
 NICU Beds:4
 Neonatologists: 2
@@ -5381,9 +5372,9 @@ Neonatologists: 1
 Neonatologists names: Angel Munoz
 
 WILLFORD HALL USAF MEDICAL CENTER
-59th Medical Wing, Dept. of Pec
+59th Medical Wing,
 2200 Berquist Dr., Ste. #1
-Lackland AFB, TX 78236-5300
+Lackland AFB, TX 78236
 NICU Beds:35
 Neonatologists: 9 
 Neonatologists names: Michael Battista; Daniel Biehl; Jeffrey Butler; Howard Heiman; David Louder; Thomas Perkins; Jeffrey Schenberger; Richard Stribley; Bradley Yoder
@@ -5396,7 +5387,7 @@ Neonatologists:
 Refer to Mercy Regional Medical Center
 
 MERCY REGIONAL MEDICAL CENTER
-1615 Logan Ave.
+1515 Logan Ave.
 Laredo, TX 78044
 NICU Beds:15
 Neonatologists: 3
@@ -5431,8 +5422,8 @@ Neonatologists: 3
 Neonatologists names: Robert Bennett; Alfred Karickoff; Anthony Talbert
 
 HCA MEDICAL CENTER OF PLANO
-3901 W. 18th St.
-Plano, TX 76076
+3901 W. 15th St.
+Plano, TX 75076
 NICU Beds:18
 Neonatologists:
 Refer to Presbyterian Hospital of Dallas
@@ -5452,7 +5443,7 @@ Neonatologists:
 Refer to Santa Rosa Children's Hospital
 
 NORTHEAST BAPTIST HOSPITAL
-8811 Village Dr,
+8811 Village Dr.
 San Antonio, TX 78247
 NICU Beds:4
 Neonatologists:
@@ -5466,8 +5457,8 @@ Noonatologists: 12
 Neonatologists names: Remedios Agrawal; Melvin Baden; Anthony Corbet; Alejandro Gonzalez; Leonard Hilliard; Werner Keidel; Blanca Molina; David Mullins; Carlos Nieto; Amil Ortiz; Marisol Ortiz-Montes; William Parry
 
 UNIVERSITY HOSPITAL
-4602 Medical Dr.
-San Antonio, TX 76229
+4502 Medical Dr.
+San Antonio, TX 78229
 NICU Beds:60
 Neonatologists: 8 
 Neonatologists names: Robert Castro; Marilyn Escobedo; Alice Gong; Susan Seidner; Neena Shah
@@ -5530,7 +5521,7 @@ Refer to University of Utah School of Medicine
 
 PRIMARY CHILDREN'S MEDICAL CENTER
 100 N. Medical Dr.
-Salt Lake City, UT 84113-14100
+Salt Lake City, UT 84113
 NICU Beds:35
 Neonatologists:
 Refer to University of Utah School of Medicine
@@ -5584,7 +5575,7 @@ Neonatologists:2
 Neonatologists names: Allen Majewski; Samuel Willinger
 
 PRINCE WILLIAM HOSPITAL
-8706 Sudiey Ra.
+8700 Sudley Rd.
 Manassas, VA 22110
 NICU Beds: 15
 Neonatologists: 1 
@@ -5612,7 +5603,7 @@ Neonatelogists: 2
 Neonatologists names: Raymond Farhi; Sandy Tarant
 
 HCA HENRICO DOCTOR'S HOSPITAL
-1602 Skipwilh Rd.
+1602 Skipwith Rd.
 Richmond, VA 23229
 NICU Beds:27
 Neonalologists: 4 
@@ -5626,14 +5617,14 @@ Neonatologists: 7
 Neonatologists names: Bakeer Al-Mateen; Gary Gutcher; Kathryn Kerkering; Carter Lifshutz; Dawn Mueller; Henry Rozycki; Janet Wingkun
 
 RICHMOND MEMORIAL HOSPITAL
-1300 Westwood Ave
+1300 Westwood Ave.
 Richmond, VA 23227
 NICU Beds:6
 Neonatologists:1
 Neonatologists names: Sunil Gupta
 
 ST. MARY'S HOSPITAL
-6801 Bremo Rd.
+5801 Bremo Rd.
 Richmond, VA 23226
 NICU Beds:10
 Neonatologists:
@@ -5705,26 +5696,26 @@ Refer to Overlake Hospital Medical Center
 KADLEC MEDICAL CENTER
 888 Swift Blvd. 
 Richland, WA 99352
-NICU Beds:42
+NICU Beds:12
 Neonatologists: 2 
 Neonatologists names: Miriam Batol-Zaragoza; Anthony Hadeed
 
 CHILDREN'S HOSPITAL AND MEDICAL CENTER
-4800 Sand Point Way NE, Box 537
+4800 Sand Point Way NE, Box 5371
 Infant ICU Administration CH-35
-Seattle, WA 98105-0371
+Seattle, WA 98105
 NICU Beds:19
 Neonatologists:
 Refer to University of Washington Medical Center
 
 NORTHWEST HOSPITAL
-1550 N. 115th St,
+1550 N. 115th St.
 Seattle, WA 98133
 NICU Beds:6
 Neonatologists:
 Refer to Overlake Hospital Medical Center
 
-PROVIDENCE MEDICAL CENTEF
+PROVIDENCE MEDICAL CENTER
 P.O. Box C-34008
 Seattle, WA 98124
 NICU Beds:6
@@ -5739,7 +5730,7 @@ Neonatologists:5
 Neonatologists names: Paul Conrad; Charles French; Michael Kamitsuka; Paula Raschko; Terrence Sweeney
 
 UNIVERSITY OF WASHINGTON MEDICAL CENTER
-1959 N.E, Pacific, RC-35 .
+1959 N.E, Pacific, RC-35
 Seattle, WA 98195
 NICU Beds:32
 Neonatologists: 7 
@@ -5753,14 +5744,14 @@ Neonatologists: 5
 Neonatologists names: Welzie Allen; Carl Bodenstein; Hrair Garabedian; Priscilla Hancock; Ronald Shapiro
 
 SACRED HEART MEDICAL CENTER
-P.O, Box 2555
+P.O. Box 2555
 Spokane, WA 99220
 NICU Beds:15
 Neonatologists:
 Refer fo Deaconess Medical Center
 
 MADIGAN ARMY MEDICAL CENTER
-Tacoma, WA 98434
+Tacoma, WA 98431
 NICU Beds:27
 Neonatologists: 3 
 Neonatologists names: Thomas Caver; Roger Hinson; Robert Jarrett
@@ -5770,19 +5761,19 @@ A2-NICU
 315 So. K St.
 Tacoma, WA 98405
 NICU Beds:45
-Neonatologists:
-Neonatologists names: Glenn Jordan; Richard Knudson; John Mulligan; John Mulligan; Bruce Willham
+Neonatologists: 4
+Neonatologists names: Glenn Jordan; Richard Knudson; John Mulligan; Bruce Willham
 
 YAKIMA VALLEY MEMORIAL HOSPITAL
-2811 Tieton Or.
+2811 Tieton Dr.
 Yakima, WA 98902
 NICU Beds:15
 Neonatologists:1
 Neonatologists names: Robert Skarin
 
 HCA RALEIGH GENERAL HOSPITAL
-1710 Harper Rd
-Beckley, WV 256801
+1710 Harper Rd.
+Beckley, WV 25801
 NICU Beds:10
 Neanatologists: 2
 Neonatologists names: Carlos Lucero; Richard Weaver
@@ -5801,7 +5792,7 @@ NICU Beds:29
 Neonatologists: 4 
 Neonatologists names: Renee Domanico; Julita Mendoza; Gilbert Ratcliff; Joseph Werthammer
 
-WEST VIRGINIA UNIVERSITY HOSPITALS INC. 
+WEST VIRGINIA UNIVERSITY HOSPITALS, INC. 
 Medical Center Dr.
 Morgantown, WV 26506
 NICU Beds:20
@@ -5811,7 +5802,7 @@ Neonatologists names: Janet Graeber; Martha Mullett; Mark Polak; Fernando Rosas
 ST. VINCENT HOSPITAL
 P.O. Box 13508
 835 S. Van Buren St,
-Green Bay, Wi 54307-3508
+Green Bay, WI 54307
 NICU Beds:28
 Neonatologists: 3
 Neonatologists names: Joseph Brand; David Samuels; James Winston
@@ -5854,7 +5845,7 @@ Neonatologists names: Edward Denny; Jody Gross; George Hoehn; James Optiz
 CHILDREN'S HOSPITAL OF WISCONSIN
 P.O. Box 1997
 9000 W. Wisconsin Ave.
-Milwaukee, Wi 63226
+Milwaukee, WI 63226
 NICU Beds:22
 Neonatologists: 8 
 Neonatologists names: Susan Bernstein; Stephen Elliott; Candice Fike; Lynn Gershan; Ruth Heimler; Marisa Jaren; Steve Leuthner; Leif Nelin
