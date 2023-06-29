@@ -977,614 +977,261 @@ Department of Pediatrics
 P.O, Box 0734
 San Francisco, CA 94143
 Level IIIC; NICU Beds: 51
-Neonatologists:
-Neonatologists names: Roberta Ballard
-. BALLARD, ROBERTA A.
-i BONIFAGIO, SONIA
-5 CLYMAN, RONALD 1.
-; GONZALEZ, FERNANDO
-: HAWGOOD, SAMUEL
-. KELLER, ROBERTA
-$ MALTEPE, EMIN
-MARTINEZ, ALMA
-: MCCULLEY, DAVID
-PARTRIDGE, J. COLLIN
-; ROGERS, ELIZABETH
-. ROWITCH, DAVID
-: SANDERS, TIMOTHY
-\ SEHRING, SALLY A.
-; SHIMOTAKE, THOMAS K.
-} SNIDERMAN, SUSAN H,
-; SUN, YAO
-' TAEUSCH, H. WILLIAM
-‘ TREVOR, BURT
-\ ZOVEIN, ANN
-; Updated: 5/6/2014
-SAN JOSE, GA
-i] GOOD SAMARITAN SAN JOSE
+Neonatologists: 20
+Neonatologists names: Roberta Ballard; Sonia Bonifacio; Ronald Clyman; Fernando Gonzalez; Samuel Hawgood; Roberta Keller; Emin Maltepe; Alma Martinez; David Rowitch; Timothy Sanders; Sally Sehring; Thomas Shimotake; Susan Sniderman; Yao Sun; William Taeusch; Burt Trevor; Ann Zovein
 
+GOOD SAMARITAN SAN JOSE
 2425 Samaritan Dr.
 San Jose, CA 95124
-NICU Medica! Director: Richard J. Powers, MD
-(P): (408)559-2261; (F): (408)377-3044
-Email: rchard_powers @pediatrix.com
-Director of NICU High Risk Follow-Up Clinic:
-Donna Conom, MD
-NICU (P): (408)559-2262; NICU (F): (408)559-2685
-Level! liIB; NICU Beds: 48
-Naonatologlsts:
-CHEN, CINDY
-CONOM, DONNA
-POWERS, RICHARD J.
-SANKAR, MEERA
-TAN, KENNETH I.
-VANIGALLA, SRIDEVI
-VIRAY, LOTA
-WANG, TUNG-HO
-Updated: 11/22/2010
+Level IIIB; NICU Beds: 46
+Naonatologists: 8
+Naonatologists names: Cindy Chen; Donna Conom; Richard Powers; Meera Sankar; Kenneth Tan; Sridevi Vanigalla; Lota Viray; Tung-Ho Wang 
+
 O'CONNOR HOSPITAL
 2705 Forest Ave.
 San Jose, CA 95128
-NICU Medical Director: Cathy Angell, MD
-(P): (408)865-5418; (F): (408)283-7780
-Email: cathy.angell@hhs.co.santa-clara.ca.us
-Director of NICU High Risk Folfow-Up Clinic:
-Refer to Santa Clara Valley Medical Center
-NICU (P): (408)947-2705; NICU (F): (408)263-7780
-Level illA; NICU Beds: 10
-Neonatologists;
-Refer to Neonatologists Group of Santa Clara
-Valley Medical Center, Santa Clara, CA
-Updated: 11/6/2010
-REGIONAL MEDICAL CENTER OF SAN JOSE
-225 North Jackson Ave,
-San Jose, CA 95116
-NICU Medical Director: Meera N. Sankar, MD
-(P): (408)259-5000 Ext. 2125; (F): (408)356-1640
-Email: meera_sankar@pediatrix.com
-Director of NICU High Risk Follow-Up Clints:
-No Clinic
-NICU (P): (408)729-2818; NICU (F): (408)928-7074
-Level IB; NICU Beds: 6
+Level IIIA; NICU Beds: 10
 Neonatologists:
-Refer to Neonatologists Group of Good
-Samaritan Hospital of San Jose, San Jose, CA
-Updated: 11/6/2010
+Refer to Neonatologists Group of Santa Clara Valley Medical Center, Santa Clara, CA
+
+REGIONAL MEDICAL CENTER OF SAN JOSE
+225 North Jackson Ave.
+San Jose, CA 95116
+Level IIB; NICU Beds: 6
+Neonatologists:
+Refer to Neonatologists Group of Good Samaritan Hospital of San Jose, San Jose, CA
+
 SANTA CLARA VALLEY MEDICAL CENTER
 Division of Neonatology
 751 S. Bascom Ave.
 San Jose, CA 95128
-NICU Medical Director: Balajl Govindaswami, MD,
-MPH
-(P): (408)885-241 1; (F): (408)885-5412
-Email: balaji.govindaswaml@hhs.sccgov.org
-Director of NICU High Risk Follow-Up Clinic:
-May Loo, MD
-NICU (P): (408)885-6428; NICU (F): (408)885-6440
-Level IIB; NICU Beds: 40
-Neonatotogists:
-ANDERSON, CHRISTINA
-ANGELL, CATHY
+Level IIIB; NICU Beds: 40
+Neonatotogists: 14
+Naonatologists names: Christina Anderson; Cathy Angell; Glenn Desandre; Balaji Govindaswami; Priya Jegatheesan; Eun Kim; Sonya Misra; Sudharani Narasimhan; Mark Petruska; Ashvin Sangoram; Brian Scottoline; Bindya Singh; Donjli Song; Sunshine Weiss
 
-DESANDRE, GLENN
-GOVINDASWAMI, BALAdI
-JEGATHEESAN, PRIYA
-KIM, EUN H.
-MISRA, SONYA
-NARASIMHAN, SUDHARANI
-PETRUSKA, MARK
-SANGORAM, ASHVIN ;
-SCOTTOLINE, BRIAN
-SINGH, BINDYA
-SONG, DONJLI
-WEISS, SUNSHINE
-Updated: 11/12/2010
-SAN LUIS OBISPO, CA
 SIERRA VISTA REGIONAL MEDICAL CENTER
 1010 Murray Ave.
 San Luis Obispo, CA 93401
-NICU Medical Director: Steven Van Scoy, MD
-(P): (805)546-7899; (F): (805)546-7982
-Emall: steve_van_scoy@pediatrix.com
-Director of NICU High Risk Follow-Up Clintc:
-Steven Van Scoy, MD
-NICU (P); (805)546-7899; NICU (F): (805)546-7982
-Level INB; NICU Beds; 22
-Neonatologists:
-GERARD, CLAUDIA
-OCHOA, LUIS
-VAN SCOY, STEVEN
-Updated: {1/5/2010
-SANTA ANA, CA
+Level IIIB; NICU Beds: 22
+Neonatologists: 3
+Naonatologists names: Claudia Gerard; Luis Ochoa; Steven Van Scoy
+
 WESTERN MEDICAL CENTER
 1001 N. Tustin Ave.
 Santa Ana, CA 92705
-NICU Medical Director: Katrinia Tesmer, MD
-(P): (714)953-315; (F): (714)953-4523
-Email: ktesmere @choc.org
-NICU (P): (714)953-3315; NICU (F): (714)953-4523
-Level HIB; NICU Beds: 16
-Neonatologlsts:
-Refer to Neonatologists Group of Children's
-Hospltal of Orange County, Orange, CA
-Updated: 11/5/2010
-SANTA BARBARA, CA
-SANTA BARBARA COTTAGE HOSPITAL
-Puebio at Bath Sts.
-Santa Barbara, CA 93102
-NICU Medical Director: Steven C. Barkley, MD
-(P); (805)569-7510; (F): (805)569-7513
-Emall: sbarkley@sbch.org
-NICU (P): (805)569-7622; NICU (F): (805}569-7511
-Level IB; NICU Beds: 22
-Neonatoioglsts:
-BARKLEY, STEVEN C.
-DONNELLY, BARBARA J.
-LUECK, THERESA A.
-Updated: 4 1/6/2010
-SANTA CLARA, CA
-KAISER PERMANENTE MEDICAL CENTER-
-SANTA CLARA
-
-i 700 Lawrence Expressway
-i Sania Clara, CA 95054
-i NICU Medical Director: Lawrence G. Dong, MD
-i (P): (408)851-5048; (F): (408)851-7401
-4 Email: Lawrence. Dong@kp.org
-\ Director of NICU High Alsk Follow-Up Clinic:
-Mark Cohen, MD
-: NICU (P): (408)851-7100; NICU (F}: (408)851-7101
-i Level IIB; NICU Beds; 26
-i | Neonatologists:
-qi DONG, LAWRENCE G.
-| KNAUER, YURI
-7 LIN, CAROL
-7 PATEL, PREETI
-7 SHETTY, ANU
-j ; VAN WOERKUM, RICHARD
-| i WONG, CARLENE J,
-: Updated: 11/42/2010
-a SANTA CRUZ, CA
-; DOMINICAN SANTA CRUZ HOSPITAL
-ij 1865 Soquel Dr.
-Santa Cruz, CA 95065
-1 NICU Medical Director: Magdy Ismal!, MD
-| (P): (831)462-7765; (F): (831)462-7761
-Email: mismail@chw.edu
-NICU (P): (831)462-7682; NICU (F): (831)462-7761
-Level IIIB; NICU Beds: 20
+Level IIIB; NICU Beds: 16
 Neonatologists:
-ISMAIL, MAGDY
-i ISSA, ANTONIOS
-u MCNAMARA, EDWARD (NED)
-| Updated: 11/42/2010
-| SANTA MONICA, CA
-| SANTA MONICA ~ UCLA MEDICAL CENTER AND
-ORTHOPAEDIC HOSPITAL
+Refer to Neonatologists Group of Children's Hospital of Orange County, Orange, CA
+
+SANTA BARBARA COTTAGE HOSPITAL
+Pueblo at Bath Sts.
+Santa Barbara, CA 93102
+Level IIIB; NICU Beds: 22
+Neonatologists: 3
+Neonatologists names: Steven Barkley; Barbara Donnelly; Theresa Lueck
+
+KAISER PERMANENTE MEDICAL CENTER - SANTA CLARA
+700 Lawrence Expressway
+Santa Clara, CA 95051
+Level IIIB; NICU Beds: 26
+Neonatologists: 7
+Neonatologists names: Lawrence Dong; Yuri Knauer; Carol Lin; Preeti Patel; Anu Shetty; Richard Van Woerkum; Carlene Wong
+
+DOMINICAN SANTA CRUZ HOSPITAL
+1555 Soquel Dr.
+Santa Cruz, CA 95065
+Level IIIB; NICU Beds: 20
+Neonatologists: 3
+Neonatologists names: Magdy Ismail; Antonios Issa; Edward McNamara
+
+SANTA MONICA - UCLA MEDICAL CENTER AND ORTHOPAEDIC HOSPITAL
 1250 16th St.
 Santa Monica, CA 90404
-NICU Medical Director: Marianne Sollosy
-Anderson, MD
-(P): (810)267-0254; (F); (810)267-0154
-Email: maandesson @mednet.ucia.edu
-Director of NICU High Risk Follow-Up Clinic:
-Marianne Soliosy Anderson, MD
-NICU (P): (310)349-4330; NICU (F): (810)319-4042
-Level 1liB; NICU Beds: 16
-Neonatologisis:
-Refer to Neonatologisis Group of Mattel
-Children's Hospital at UCLA, Los Angeles, CA
-Updated: 11/8/2010
+Level IIIB; NICU Beds: 16
+Neonatologists:
+Refer to Neonatologisis Group of Mattel Children's Hospital at UCLA, Los Angeles, CA
+
 ST. JOHN'S HOSPITAL AND HEALTH CENTER
 1328 22nd St.
 Santa Monica, CA 90404
-NICU Medical Director: Hugh M. MacDonald, MD
-{P): (310)829-8036; (F): (810)582-7135
-Email: hughmacd @ucla.edu
-Director of NICU High Risk Follow-Up Clinle:
-Refer to Regional Center
-NICU (P): (310)829-8105; NICU (F): (310)582-7153
 Level IIIB; NICU Beds: 12
-Neonatologlsts:
-MACDONALD, HUGH
+Neonatologists: 2
+Neonatologists names: Hugh Macdonald; Evelyn Tintoc
 
-TINTOC, EVELYN
-Updated: 11/6/2010
-SANTA ROSA, CA
 SANTA ROSA MEMORIAL HOSPITAL
 1165 Montgomery Dr.
 Santa Rosa, CA 95405
-| NICU Medical Director: Alan Shotkin, MD
-(P): (707)528-52650; (F): (707)525-6308
-Email: shotkinam @srm.stjoe.org
-Director of NICU High Risk Follow-Up Clinic:
-No Clinic
-NICU (P): (707)547-5484; NICU (F): (707)525-5265
-Level IIB; NICU Bads; 12
-Neonatologlsts:
-FRANCO, GEORGE
-SHOTKIN, ALAN
-Updated: 11/6/2018
+Level IIB; NICU Bads: 12
+Neonatologists: 2
+Neonatologists names: George Franco; Alan Shotkin
+
 SUTTER MEDICAL CENTER OF SANTA ROSA
 3325 Chanate Rd.
 Santa Rosa, CA 95404
-NICU Medical Director: Chris Retajozyk, MD
-{P}: (707}578-4590; (F): (707)573-5127
-Email: ratza@yahoo.com
-NICU (P): (707)§76-4590; NICU (F): (707)576-4646
-| Level IA; NICU Beds: 10
-Neonatologists:
-MIRAGLIA, FRANK A.
-RETAJCZYK, CHRIS
-Updated: 11/5/2010
+Level IIIA; NICU Beds: 10
+Neonatologists: 2
+Neonatologists names: Frank Miraglia; Chris Retajczyk
+
 STOCKTON, CA
 DAMERON HOSPITAL
-525 W, Acacla St.
-y Stockton, CA 95203
-NICU Medical Director: Aaron Simko, MD
-(P): {(209)461-3190; (F): (209)461-7651
-Email: simkodam@yahoo.com
-Directar of NICU High Aisk Follow-Up Clinic:
-Asron Simke, MD
-NICU (P): (209}242-7098; NICU (F): (209)242-7089
-Level IffB; NICU Beds: 16
-Neonatofogiste:
-HIPOLITO, RON
-; SIMKO, AARON
-Updated: 11/5/2010
+525 W. Acacla St.
+Stockton, CA 95203
+Level IIIB; NICU Beds: 16
+Neonatologists: 2
+Neonatologists names: Ron Hipolito Aaron Simko
+
 SAN JOAQUIN GENERAL HOSPITAL
 P.O. Box 1020
-Stockton, CA 95201 :
-NICU Medical Director: Jeffrey A. Lindenberg, MD
-(P)}: (209)46B8-6440; (F): (209)468-6962
-Email: JALMD@eol.com
-Director of NICU High Alsk Follow-Up Cilnle:
-Jeffrey A. Lindenberg, MD
-NICU (P): (209)468-6440; NICU (F): (209}468-6962
-Level lH1B; NICU Beds: 32
-Neonatotogists:
-HIPOLITO, RONALDO
-LINDENBERG, JEFFREY A.
-SIMKO, AARON
-Updated: 11/6/2010
-ST, JOSEPH'S MEDICAL CENTER
-17
+Stockton, CA 95201
+Level IIIB; NICU Beds: 32
+Neonatologists: 3
+Neonatologists names: Ronaldo Hipolito; Jeffrey Lindenberg; Aaron Simko
 
+ST. JOSEPH'S MEDICAL CENTER
 1800 North California St.
 Stockton, CA 95204
-NICU Medical Director: Shyh-Fang Cheng, MD
-(P): (209}467-6428; (F): (208)461-6867
-Email: Spencer369 @aol.com
-Director of NICU High Risk Follow-Up Clinlo:
-Shyh-Fang Cheng, MD
-NICU (P): (209)467-6428; NICU (F): (209}461-68€
-Level IHB; NICU Beds: 24
-Neonatologists:
-CHENG, SHYH-FANG
-CHENG, WEN
-5 «Updated: 11/5/2010
-SYLMAR, CA
+Level IIIB; NICU Beds: 24
+Neonatologists: 2
+Neonatologists names: Shyh-Fang Cheng; Wen Cheng
+
 OLIVE VIEW-UCLA MEDICAL CENTER
 Dept. of Pediatrics - Room 3A10A
 14445 Olive View Dr.
-Sylmar, CA 91942-1495
-NICU Medical Director: Uday P. Devasker, MD
-(P): (818)364-4473; (F): (818)364-3243
-Emall: mes @ucla.edu
-Director of NICU High Risk Follow-Up Clinic:
-Rhonda Adham, MD
-NICU (P): (818)364-4463; NICU (F): (818)364-48¢
-5 Level HIB; NICU Beds: 24
-Neonatologists:
-DEVASKAR, UDAY
-FINDLAY, RIGHARD
-Updated: 8/30/2010
-TARZANA, CA
-PROVIDENCE TARZANA REGIONAL MEDICAL
-CENTER
+Sylmar, CA 91342-1495
+Level IIIB; NICU Beds: 24
+Neonatologists: 2
+Neonatologists names: Uday Devaskar; Richard Findlay
+
+PROVIDENCE TARZANA REGIONAL MEDICAL CENTER
 18321 Clark St.
 Tarzana, CA 91366
-NICU Medical Director: James Banks, MD
-(P} (818)708-5466; (F): (818)708-5266
-Email: james_banks@ pedlatrix.com
-Director of NICU High Risk Follow-Up Cilnic:
-Frances Su, MD
-) NICU (P): (818)708-5570; NICU (F): (818)708-54¢
-Level IIIB; NICU Beds; 21
+Level IIIB; NICU Beds: 21
 Neonatologists:
-BANKS, JAMES L.
-RUDERMAN, JEANNE W.
-SU, FRANCES
-Updated: 11/6/2010
-THOUSAND OAKS, CA
-| LOS ROBLES REGIONAL MEDICAL CENTER
+Neonatologists names: James Banks; Jeanne Ruderman; Frances Su
+
+LOS ROBLES REGIONAL MEDICAL CENTER
 215 West Janss Rd.
-Thousand Oaks, CA 93160-1898
-NICU Medical Director: Michael Mah, MD
-(P): (805)370-4452
-» Email: mpmah@aol.com
-Director of NICU High Risk Follow-Up Clinic:
-Lucinda Ben-Avi, MD
-NICU (P): (805)370-4452; NICU (F): (805)370-481
-Level HIB; NICU Beds: 12
-Neonatolog)sts:
-BEN-AVi, LUCINDA
-EL. MELIGY, MAHA AMR
-EVANS, EDWARD
-
-io: MAH, MICHAEL
-| Updated: 11/6/2010
-"| TORRANCE, CA
-* ? *4HARBOR-UCLA-CHOC
-. > 4424 W. Carson St, RB-1
-‘Torrance, CA 90502
-\ = pivision Chief: Virender Rehan, MD
-“- (p):(810)222-1966; (F): (810)222-9887
-3 Emall: vrehan@lablomed.org
-\ Training Program Director: Virender Rehan, MD
-) ©: (p); (910)222-1963; (F): (810)222-3887
-_ Email: vrehan@lablomed.org
-F NICU Medical Director: Virender Rehan, MD
-. (P): (910)222-1965,; (F}: (310)222-3887
-: Email: vrehan@tabiomed.org
-. |. Director of NICU High Risk Folfow-Up Clinte:
-“> Lynne Smith, MD
-. Email: smith@lablom-ed.org
-* NICU (P); (810)222-2340; NICU (F): (310)928-0864
-‘ Level 1I1B; NICU Beds: 35
-“ ; Neonatologists: :
-} BATRA, SOINA DARGAN
-' BROWN, CAROL NICOLE
-J DAVIS, AUDREY
-__ EMERSN, GEORGE
-: REHAN, VIRENDER
-> SMITH, LYNNE
-“Updated: 6/6/2011
-; PROVIDENCE LITTLE COMPANY OF MARY
-, © HOSPITAL
-; 4101 Torrance Blvd.
-, + Torrance, CA 90503
-/ > NICU Medical Director: Jon Yamamoto, MD
-\ __ (P): (810)303-6316; (F): (10)303-5871
-* | Email: jon_yamamoto@ pediatrix.com
-» | NIGU (P): (310)303-6301; NICU (F): (810)303-6310
-‘ Level! IIIB; NICU Beds: 34
-‘=| Neonatologists:
-‘ AUSTIN, SOLEDAD
-: ; MISA, SHIRLEY P.
-: OZAKI, NAOMI
-; SAFARI, PARVIN
-, YAMAMOTO, JON Y.
-. Updated: 11/12/2010
-: TORRANCE MEMORIAL MEDICAL CENTER
-\ 8330 Lomita Blvd.
-; Torrance, CA 90505
-\ NICU Medical Director: Jerry Schwartz, MD
-3 {P): (910)517-4655; (F): (810)517-4756
-, Email: jerry.schwarlz@tmme.com
-’ Director of NICU High Risk Follow-Up Clinic:
-»  derry Schwartz, MD
-“ * NICU (P): (810)517-4655; NICU (F): (810)784-4839
-Levet liiB; NICU Beds: 25
+Thousand Oaks, CA 93160-1899
+Level IIIB; NICU Beds: 12
 Neonatologists:
-; PATELL, SHIBANI K.
-RAGHAVENDER, BHUPALA
-; RAO, JAYSHREE
-, SCHWARTZ, JERRY 8.
-’ Updated: 14/5/2010
-»  NPLAND, CA
-7
+Neonatologists names: Lucinda Ben-Avi; Maha Amr El Meligy; Edward Evans; Michael Mah
 
-SAN ANTONIO COMMUNITY HOSPITAL |
-999 San Bernardino Rd. '
+HARBOR-UCLA-CHOC
+1124 W. Carson St, RB-1
+Torrance, CA 90502
+Level IIIB; NICU Beds: 35
+Neonatologists: 6
+Neonatologists names: Soina Dargan Batra; Carol Nicole Brown; Audrey Davis; George Emersn; Virender Rehan; Lynne Smith
+
+PROVIDENCE LITTLE COMPANY OF MARY HOSPITAL
+4101 Torrance Blvd.
+Torrance, CA 90503
+Level IIIB; NICU Beds: 34
+Neonatologists: 5
+Neonatologists names: Soledad Austin; Shirley Misa; Naomi Ozaki; Parvin Safari; Jon Yamamoto
+
+TORRANCE MEMORIAL MEDICAL CENTER
+8330 Lomita Blvd.
+Torrance, CA 90505
+Levet IIIB; NICU Beds: 25
+Neonatologists: 4
+Neonatologists names: Shibani Patell; Bhupala Raghavender; Jayshree Rao; Jerry Schwartz
+
+SAN ANTONIO COMMUNITY HOSPITAL
+999 San Bernardino Rd.
 Upland, CA 91786
-NICU Medical Director: Yu-Shen Wu, MD ;
-(P): (809)920-4835 |
-Email: dpwu@sach.org |
-NICU (P): (909)920-4717; NICU (F}: (909)920-6320
-Level IIB; NICU Beds: 20 |
-Neonatologiets:
-CHANG, PEN-LIANG
-WU, YU-SHENG
-Updated: 11/8/2010
-VALLEJO, CA
-KAISER PERMANENTE MEDICAL CENTER -
-VALLEJO
+Level IIIB; NICU Beds: 20
+Neonatologists: 2
+Neonatologists names: Pen-Liang Chang; Yu-Sheng Wu
+
+KAISER PERMANENTE MEDICAL CENTER - VALLEJO
 975 Sereno Dr.
 Vallejo, CA 94589
-NICU Medica! Director: Audry Ewig, MD
-{P): (707)651-1326; (F): (707)651-2409
-Emall: audrey.ewig@kp.org
-Director of NICU High Risk Follow-Up Clinlc:
-No Clinic
-NICU (P): (707)651-1826; NICU (F): (707)651-2409
-Level IIB; NICU Beda: 16
-Neonatologists:
-EWIG, AUDRY
-Updated: 11/7/2010
-VAN NUYS, CA
+Level IIB; NICU Beds: 16
+Neonatologists: 1
+Neonatologists names: Audry Ewig
+
 VALLEY PRESBYTERIAN HOSPITAL
 Neonatology
-45107 Vanowen St., 2nd Floor
-Van Nuys, CA $1405
-NIGU Medical Director: Lawrence D. Shaw, MD
-(P): (818)902-2943; (F): (818)902-5713
-Email: tarry. shaw@ valleypres.org
-Director of NICU High Risk Follow-Up Clinic:
-Sukshma Sreepathi, MD
-NICU (P): (818)902-2978; NICU (F): (818)904-3718
-Level fllA; NICU Beds: 32
-Neonatologists:
-KOMMAREDDY, SUMITHRA
-MOGHIMI, ARASH
-SHAW, LAWRENCE
-SREEPATHI, SUKSHMA
-Updated: 11/5/2070
-VENTURA, CA
-COMMUNITY MEMORIAL HOSPITAL OF SAN
-BUENA VENTU
+15107 Vanowen St., 2nd Floor
+Van Nuys, CA 91405
+Level IIIA; NICU Beds: 32
+Neonatologists: 4
+Neonatologists names: Sumithra Kommareddy; Arash Moghimi; Lawrence Shaw; Sukshma Sreepathi
+
+COMMUNITY MEMORIAL HOSPITAL OF SAN BUENA VENTU
 147 North Brent St.
 Ventura, CA 93003
-NICU Medical Director: John Van Houten, MD
-(P): (805)652-5692; (F): (B05)652-5621
-Email: | vanhouten@pediatrix.com
-Director of NICU High Risk Follow-Up Clinic:
-John Van Houten, MD
-NICU (P}: (805}652-5620; NICU (F): (805)652-5621
-Level IB; NICU Beds: 16
-Neonatologists:
-BENGTSSON, BEN
-VAN HOUTEN, JOHN
+Level IIIB; NICU Beds: 16
+Neonatologists: 2
+Neonatologists names: Ben Bengtsson; John Van Houten
 
-Updated: 11/5/2010
 VENTURA COUNTY MEDICAL CENTER
-$291 Loma Vista Rd.
+3291 Loma Vista Rd.
 Ventura, CA 93003
-NICU Medical Director: Slamak Safar, MD
-(P}: (805)652-6232; (F): (805)641-2364
-Email: slamak.safar@ventura.org
-Director of NICU High Risk Follow-Up Cilnic:
-Siamak Safar, MD
-NICU (P}: (805)652-6088; NICU (F): (805)652-6089
-Level 1B; NICU Beds: 30
-Neonatologists;
-EL MELIGY, MAHA AMR
-SAFAR, SIAMAK
-Updated: 11/5/2010
-VICTORVILLE, CA
+Level IIIB; NICU Beds: 30
+Neonatologists: 2
+Neonatologists names: Maha Amr El Meligy; Siamak Safar
+
 VICTOR VALLEY COMMUNITY HOSPITAL
 15248 11th St.
 Victorville, CA 92392
-NICU Medical Director: Damodara Rajesekhar, MD
-(P): (760)242-3004; (F): (760)242-3009
-Email: drajasekhar@charter.net
-Director of NICU High Risk Follow-Up Clinic:
-No Clinic
-NICU (P): (760)843-6017; NICU (F): (760)843-6018
-Level iIB; NICU Beds: 2
-Neonatologista:
-RAJASEKHAR, DAMODARA
-Updated: 11/6/2010
-VISALIA, CA
+Level IIB; NICU Beds: 2
+Neonatologists: 1
+Neonatologists names: Damodara Rajasekhar
+
 KAWEAH DELTA MEDICAL CENTER
 400 West Mineral King
 Visalia, CA 93277
-NICU Medical Director: George Latta, MD
-(P): (559)624-8779; (F): (659)635-6270
-Email: glatta@ kdhed.org
-Director of NICU High Risk Follow-Up Clinic:
-George Latta, MD
-Email: glatta@kdhed.org
-NICU (P): (659)624-2245; NICU (F): (659)635-6270
-Level INA; NICU Beds: 25
-Neonatologists:
-LATTA, GEORGE
-Updated: 11/6/2010
-WALNUT GREEK, CA
+Level IIIA; NICU Beds: 25
+Neonatologists: 1
+Neonatologists names: George Latta
+
 JOHN MUIR MEDICAL CENTER
 1601 Ygnacio Valley Rd.
 Walnut Creek, CA 94598
-NICU Medical Director: Nick Mickas, MD
-(P): (925)947-5350; (F): (510)428-3542
-Email: nmickas@mall.cho.org
-Director of NICU High Risk Follow-Up Clinic:
-Alex Espinoza, MD
-NICU (P): (925)947-5350; NICU (F): (925)947-3388
-Level fIA; NICU Beds: 19
-Neonatologiste:
-MICKAS, NICK
-Refer to Neonatologists Group of Children's
-Hospital, Oakland East Bay Neonatology
-Assoclates, Oakland, CA ‘
+Level IIIA; NICU Beds: 19
+Neonatologists: 1
+Neonatologists names: Nick Mickas
+Refer to Neonatologists Group of Children's Hospital, Oakland East Bay Neonatology Associates, Oakland, CA
 
 EXEMPLA LUTHERAN MEDICAL CENTER
-i Speclai Care Nursery
-8900 W. 38th Ave.
+Special Care Nursery
+8300 W. 38th Ave.
 Wheat Ridge, CO 80033
-i NICU Medical Director: Dan Hall, MD
-' (P): (803)425-2217; (F): (303)425-8667
-i NICU (P): (303)425-8577; NICU (F): (303)403-626
-i Level IA; NICU Beds: 12
-{ Neonatologists:
-Refer to Neonatologists Group of The Children’
-: Hospital, Denver, CO
-Updated: 2/24/2014
-i BRIDGEPORT, CT
+Level IIIA; NICU Beds: 12
+Neonatologists:
+Refer to Neonatologists Group of The Children’ Hospital, Denver, CO
+
 BRIDGEPORT HOSPITAL
 267 Grant St.
 Bridgeport, CT 06610
-i NICU Medical Director: Robert A. Herzlinger, MD
-| (P): (203)384-3486; (F): (203)384-4034
-Email: prherz@6pthosp,org
-! Director of NICU High Risk Follow-Up Clinic:
-: Christine Butler, MD
-; NICU (P): (203)384-3199
-i Level IIIB; NICU Beds: 20
-i Neonatologists:
-Z BUTLER, CHRISTINE
-H FREEDMAN, RICHARD M,
-; : HERZLINGER, ROBERT A,
-i JACOBS, HARRIS
-fo MENZIES, CHERYL A.
-i: Updated: 9/10/2010
-i ST. VINCGENT'S MEDICAL
-qj 2800 Main St.
-Bridgeport, CT 06606
-NICU Medical Director: Benjamin Tsang, MD
-(P): (203)576-6342
-i Email: drbtsang@svhs-ct.org
-7 NICU (P): (203)576-5311; NICU (F): (203)576-532
-A: Level IIB; NICU Beds: 6
-i Neonatologists:
-t GUPTA, SHRUTI
-( TSANG, BENJAMIN
-: Updated: 3/2/2011
-DANBURY, CT
-| DANBURY HOSPITAL
-24 Hospital Ave.
-| Danbury, CT 06810
-i NICU Medical Director: Edward James, MD
-1 (P): (203)797-7150; (F}: (203)739-8902
-Email: edward.james@danhosp.org
-t NICU (P): (203)739-7258
-Level] 1liB; NICU Beds: 18
+Level IIIB; NICU Beds: 20
 Neonatologists:
-| KILCHEVFKY, EITAN
-JAMES, EDWARD K.
-poi TREECE, DAVID
-| Updated: 9/10/2010
-I FARMINGTON, CT
-| : *UNIVERSITY OF CONNECTICUT HEALTH
-| CENTER
-| | Neonatal Division, MC#2948
-bf
-Pou
-2 3}
+Neonatologists names: Christine Butler; Richard Freedman; Robert Herzlinger; Harris Jacobs; Cheryl Menzies
 
+ST. VINCGENT'S MEDICAL
+2800 Main St.
+Bridgeport, CT 06606
+Level IIB; NICU Beds: 6
+Neonatologists: 2
+Neonatologists names: Shruti Gupta; Benjamin Tsang
+
+DANBURY HOSPITAL
+24 Hospital Ave.
+Danbury, CT 06810
+Level IIIB; NICU Beds: 18
+Neonatologists: 3
+Neonatologists names: Eitan Kilchevfky; Edward James; David Treece
+
+UNIVERSITY OF CONNECTICUT HEALTH CENTER
+Neonatal Division, MC#2948
 263 Farmington Ave.
 Farmington, CT 06030-2848
-Division Chief: Victor C, Herson, MD
-{P): (860)679-3105; (F): (860)679-1403
-Email: vnerson @cemekids.org
-Training Program Director: James |, Hagadorn,
-68 MD
-(P): (860)679-2254; (F): (860)679-1403
-Email: jnagadern @cemckids.org
-'s NICU Medical Director: Victor C, Herson, MD
-{P}: (860)679-3105; (F): (860)679-1403
-Emait: vharson @cemekids.org
-Director of NICU High Risk Follow-Up Cilnic:
-To Be Appoinied
-NICU (P): (860)679-2397; NICU (F): (860}679-179
-Level JIB; NICU Beds: 48
-Neonatologlsts:
-) HAGADORN, JAMES
-HERSON, VICTOR
-PAPPAGALLO, MARYANN
-ROSENKRANTZ, TED S.
-VIDWANS, ANIRUDDHA
-Updated: 8/18/2011
-GREENWICH, CT
+Level IIIB; NICU Beds: 48
+Neonatologists: 5
+Neonatologists names: James Hagadorn; Victor Herson; Maryann Pappagallo; Ted Rosenkrantz; Aniruddha Vidwans
+
 GREENWICH HOSPITAL
 5 Perryridge Rd.
 Greenwich, CT 06830
