@@ -46,7 +46,7 @@ ST. VINCENT'S EAST
 Birmingham, AL 35235
 Level IIIA; NICU Beds: 8
 Neonatologists:
-Refer to Neonatologists Group of University of Alabama Hospital/Chitdren's Hospital of Alabama, Birmingham, AL
+Refer to Neonatologists Group of University of Alabama Hospital/Children's Hospital of Alabama, Birmingham, AL
 
 ST. VINCENT'S HOSPITAL
 2660 10th Ave. S., Suite 636
@@ -830,7 +830,7 @@ Neonatologists names: Edgar Chernin; Gary Laborada; Pradip Shah; Zoltan Zentay
 PARKVIEW COMMUNITY HOSPITAL
 3865 Jackson St.
 Riverside, CA 92503
-Leval IIIA; NICU Beds: 16
+Level IIIA; NICU Beds: 16
 Neonatologists: 1
 Neonatologists names: Heather Carriendo
 
@@ -984,7 +984,7 @@ GOOD SAMARITAN SAN JOSE
 2425 Samaritan Dr.
 San Jose, CA 95124
 Level IIIB; NICU Beds: 46
-Naonatologists: 8
+Neonatologists: 8
 Naonatologists names: Cindy Chen; Donna Conom; Richard Powers; Meera Sankar; Kenneth Tan; Sridevi Vanigalla; Lota Viray; Tung-Ho Wang 
 
 O'CONNOR HOSPITAL
@@ -1432,1440 +1432,620 @@ Level IIB; NICU Beds: 10
 Neonatologists: 3
 Neonatologists names: Jose Colindres; Pedro Moscoso; Andres Rodriguez
 
-> 5 DAYTONA BEACH, FL. |
-. |. FLORIDA MEMORIAL MEDICAL PARKWAY
-’ 404 Memorlal Medical Parkway
-‘= paytona Beach, FL 92117
-. NICU Medical Director: Alan M. deKlerk, MD
->. NICU (P): (886)231-3151; NICU (F): (386)231-1497
-\ Level ilA; NICU Beds: 10
-; Neonatologists:
-, deKLERK, ALAN M.
-: SANTIN, RENE
-Updated; 2/18/2011
-HALIFAX MEDICAL CENTER
-* = goa N. Clyde Mores Blvd.
-16 . Daytona Beach, FL 32114
-; NICU Medical Director: Peter Taves, MD
-, NICU (P): (888)254-4 123; NICU (F): (886)947-1 762
-’ = Level IIIA; NICU Beds: 8
-‘ Neonatologists:
-‘ Refer to Neonatologists Group of Orange Park
-_ Medical Center, Jacksonville, FL
-“= DONLON, DEBORAH
-> TAVES, PETER
-Updated: 4/1/2011
-’ FT LAUDERDALE, FL
-/ . BROWARD GENERAL MEDICAL CENTER
-42 1600 8. Andrews Ave.
-/ © Ft. Lauderdale, FL 33316
-\ = NICU Medical Director: Eduardo A. Otero, MD
-* | (P); (954)355-5870; (F): (954)356-5872
-\ 2 Email: ed_otero@pediatrix.com
-NICU (P); (954)355-5866; NICU (F): (954)355-5872
-2 = Level IIB; NICU Beds: 67
- & Neonatologlsts:
-2 FIGUEROA, MARGA
-; OTERO, EDUARDO A.
-: TANFULLA, LUCIANO
-\ TRYZMEL, JOHN
-° Updated: 4/1/2611
-30” HOLY CROSS HOSPITAL
-: 4725 N, Federal Hwy.
-j Ft. Lauderdale, FL 33308
-‘ NICU Medical Director: Lallt K. Shah, MD
-(P); (954)776-3104; (F): (954)958-4853
-«| NICU (P): (984)492-5784; NICU (F): (954)351-7896
-"= Level IllA; NICU Beds: 9
-: Neonatologlsts:
-“= BELLUR, JWALANAIAH N.
-SHAH, LALIT K.
-. Updated: 2/21/2014
-* ET MYERS, FL
-THE CHILDREN'S HOSPITAL OF SOUTHWEST
-,, FLORIDA
-36 9981 Health Park Circle #281
-} Ft. Myers, FL 33908
-* NICU Mauiteal Director: Wiliam F. Liu, MD
- . P): (289)492-8645; (F): (239)492-3285
+FLORIDA MEMORIAL MEDICAL PARKWAY
+301 Memorial Medical Parkway
+Daytona Beach, FL 32117
+Level IIIA; NICU Beds: 10
+Neonatologists: 2
+Neonatologists names: Alan deKlerk; Rene Santin
 
-Director of NICU High Risk Follow-Up Cilnte:
-Shahid Suitan, MD
-NICU (P): (239)843-5124; NICU (F): (239}343-6389
-Level 1B; NICU Beds: 42
-Neonatologlsts:
-ABRIL, IVAN
-CAANGAY, DEOGRACIAS L.
-FAISAL, MOHAMED M.
-LIU, WILLIAM F.
-SINGH, KULTAR !
-SULTAN, SHAHID ;
-Updated: 4/1/2011 \
-FY. PIERCE, FL
+HALIFAX MEDICAL CENTER
+303 N. Clyde Morris Blvd.
+Daytona Beach, FL 32114
+Level IIIA; NICU Beds: 9
+Neonatologists: 2
+Refer to Neonatologists Group of Orange Park Medical Center, Jacksonville, FL
+Neonatologists names: Deborah Donlon; Peter Taves
+
+BROWARD GENERAL MEDICAL CENTER
+1600 S. Andrews Ave.
+Ft. Lauderdale, FL 33316
+Level IIIB; NICU Beds: 67
+Neonatologists: 4
+Neonatologists names: Marga Figueroa; Eduardo Otero; Luciano Tanfulla; John Tryzmel
+
+HOLY CROSS HOSPITAL
+4725 N. Federal Hwy.
+Ft. Lauderdale, FL 33308
+Level IIIA; NICU Beds: 9
+Neonatologists: 2
+Neonatologists names: Jwalanaiah Bellur; Lalit Shah
+
+THE CHILDREN'S HOSPITAL OF SOUTHWEST FLORIDA
+9981 Health Park Circle #281
+Ft. Myers, FL 33908
+Level IIIB; NICU Beds: 42
+Neonatologists: 6
+Neonatologists names: Ivan Abril; Deogracias Caangay; Mohamed Faisal; William Liu; Kultar Singh; Shahid Sultan
+
 LAWNWOOD REGIONAL MEDICAL CENTER
 1700 S. 17th St.
-Ft. Pierce, FL 34956
-NICU Medica! Director: Joann Berlin, MD
-(P): (772)468-4464; (F): (772)467-8228
-Email: captiodind@msn.com
-NIGU (P): (772)468-4423; NICU (F): (772}467-8184
-Levej liB; NICU Beds: 10
+Ft. Pierce, FL 34950
+Level IIB; NICU Beds: 10
 Neonatologists:
-BERLIN, JOANN
-GAYED, ATEF
-Updated: 3/10/2011
-fT. WALTON SEACH, FL
-FT. WALTON BEACH MEDICAL CENTER
-41000 Mar-Walt Dr.
-Ft. Walton Beach, FL 32547
-NICU Medical Director: Vijay Reddy, MD
-NICU (P): (850)315-7932
-Levei II1A; NICU Beds: 10
-Neonatologists:
-REODY, VIJAY
-Updated: 3/31/2011
-GAINESVILLE, FL
-*UNIVERSITY OF FLORIDA
-SHANDS CHILDREN'S HOSPITAL
-Depariment of Pediatrics
-4600 South West Archer Rd.
-Gainesville, FL 32616
-Division Chief: David J. Burchfield, MD
-(P): (352)273-8986; (F): (852)273-9054
-Email: burchdj@peds.ull.edu -
-Tralning Program Dlrector: Josef Neu, MD
-(P): (352)273-8985; {F): (352)273-9054
-Email: neul|@peds.ufl.edu
-NICU Medical Director: David J. Burchfield, MD
-(P); (852)392-4195; (F): (852)392-4533
-Emait: burchdj@peds.ullLedu
-Director of NICU High Risk Follow-Up Cilnlc:
-Sandra £. Sullivan, MD
-NICU (P): (352)265-0033; NICU (F): (852)265-0285
-Level 1C; NICU Beds: 52
-Neonatologists:
-BAINES, JULIE
-BEHNKE, MARYLOU
-BUCCIARELLI, RICHARD
-BURCHFIELD, DAVID J.
-DOUGLAS-ESCOBAR, MARTHA
+Neonatologists names: Joann Berlin; Atef Gayed
 
-DRUMMOND, WILLA H.
-EITZMAN, DONALD V.
-LEIBOVICI, AVITAL
-NEU, JOSEF
-ROIG, JUAN C.
-SULLIVAN, SANDRA E.
-WEISS, MICHAEL
-Updated: 8/23/2011
-HOLLYWOOD, FL
-JOE DI] MAGGIO CHILDREN'S HOSPITAL AT
-MEMORIAL HOSPITAL
+FT. WALTON BEACH MEDICAL CENTER
+1000 Mar-Walt Dr.
+Ft. Walton Beach, FL 32547
+Level IIIA; NICU Beds: 10
+Neonatologists: 1
+Neonatologists names: Vijay Reddy
+
+UNIVERSITY OF FLORIDA
+SHANDS CHILDREN'S HOSPITAL
+Department of Pediatrics
+1600 South West Archer Rd.
+Gainesville, FL 32610
+Level IIIC; NICU Beds: 52
+Neonatologists: 12
+Neonatologists names: Julie Baines; Marylou Behnke; Richard Bucciarelli; David Burchfield; Martha Douglas-Escobar; Willa Drummond; Donald Eitzman; Avital Leibovici; Josef Neu; Juan Roig; Sandra Sullivan; Michael Weiss
+
+JOE DI MAGGIO CHILDREN'S HOSPITAL AT MEMORIAL HOSPITAL
 3501 Johnson St.
 Hollywood, FL 33021
-NICU Medical Director: Lester A. Mcintyre, MD
-Bruce |, Schulman, MD
-(P): (954)985-5830; (F)}: (954)981-7163
-Email: brucesmd @ aol.com
-Director of NICU High Risk Follow-Up Clinic:
-Esperanza Vargas-Posada, MD
-NICU (P): (954)985-5831; NICU (F): (954)985-5636
-Level fIIC; NICU Beds: 64
-Neonatologists:
-AFEWORK, MESFIN
-AUERBACH, M. RICHARD
-BUZZELLA, BRIDGET
-DAVILA, GIANINA
-HANDMAN, HEIDI
-HORVATH, LAJOS
-JOHNSTON, VICK L.
-KAHN, DORON
-MCINTYRE, LESTER A.
-PINA-RODRIGUES, ESTELA
-SCHULMAN, BRUCE }.
-SHEHAB, MONA
-Updated: 6/21/2011
-JACKSONVILLE, FL
+Level IIIC; NICU Beds: 64
+Neonatologists: 12
+Neonatologists names: Mesfin Afework; Richard Auerbach; Bridget Buzzella; Gianna Davila; Heidi Handman; Lajos Horvath; Vicki Johnston; Doron Kahn; Lester McIntyre; Estela Pina-Rodrigues; Bruce Schulman; Mona Shehab
+
 BAPTIST MEDICAL CENTER SOUTH
-14850 Old St. Augustine Rd.
+14550 Old St. Augustine Rd.
 Jacksonville, FL 32258
-NICU Medical Director: William Driscoll, D.O.
-NICU (P): (904)821-6700; NICU (F): (804)621-6713
 Level IIB; NICU Beds: 0
 Neonatolagisis:
-Refer to Neonatologists Group of Shands
-Jacksonville, Jacksonville, FL
-Updated: 4/4/2017
+Refer to Neonatologists Group of Shands Jacksonville, Jacksonville, FL
+
 MEMORIAL HOSPITAL JACKSONVILLE
-3625 University Bivd., S.
-Jacksonville, FL $2216
-NICU Medical Director: Sandra Suchomski, MD
-(P): (904)202-31 13; (F): (904)202-3378
-Emall: sandra.suchomskt@Jax.ufl.edu
-NICU (P): (904)399-6839; NICU (F): (804)399-6857
-Level IIIA; NICU Bede: 10
+3625 University Blvd., S.
+Jacksonville, FL 32216
+Level IIIA; NICU Beds: 10
 Neonatologists:
-Refer to Neonatologists Group of Shands
-Jacksonville, Jacksonville, FL
-Updated: 4/4/2011
+Refer to Neonatologists Group of Shands Jacksonville, Jacksonville, FL
+
 SHANDS JACKSONVILLE
 653-1 West 8th St., LRC-3
+Jacksonville, FL 32209
+Level IIIB; NICU Beds: 50
+Neonatologists: 16
+Neonatologists names: Neil Alviedo; Felix Banadera; Thomas Chiu; Danilo Cuevas; Lily Cuevas; William Driscoll; Donald Hudak; Mark Hudak; Kathryn Huddleston; Ma Ingyinn; James Kirk; Mary Lim; Martha Reyes; Renu Sharma; Sandra Suchomski; Lukas Tan
 
-| Jacksonville, FL 32209
-é NiCU Medical Director: Robert Garrison, MD
-3 (P): (904}244-4242; (F): (904)244-4301
-4 NICU (P): (904)244-5100; NICU (F): (804)244-66!
-| Level IIIB; NICU Beds: 50
-| Neonatologists:
-Fi ALVIEDO, NEIL J.
-‘ BANADERA, FELIX
-| CHIU, THOMAS
-: CUEVAS, DANILO C,
-CUEVAS, LILY L.
-: DRISCOLL, WILLIAM
-: GARRISON, R. DONALD
-HUDAK, MARK L.
-| HUDDLESTON, KATHRYN W.
-INGYINN, MA
-i KIRK, JAMES
-LIM, MARY O.
-i REYES, MARTHA
-i SHARMA, RENU
-SUCHOMSKI, SANDRA J.
-: TAN, LUKAS
-i Updated: 4/4/2011
-ys ST. LUKE'S HOSPITAL
-1 4201 Belfort Rd.
-- Jacksonville, FL 32216
-a NICU Medical Director: Jonathan E. Schwartz, V
-| (P): (904)298-3700
-NICU (P): (904)296-4948
-: { Level IIA; NICU Bads: 10
-; ‘ Neonatologists:
-Refer to Necnatologists Group of St. Vincent's
-: Medica] Center of Jacksonville, FL
-tO Updated: 8/31/2040
+ST. LUKE'S HOSPITAL
+4201 Belfort Rd.
+Jacksonville, FL 32216
+Level IIIA; NICU Beds: 10
+Neonatologists:
+Refer to Neonatologists Group of St. Vincent's Medica] Center of Jacksonville, FL
+
 ST. VINCENT'S MEDICAL CENTER
-= 1 Shirciiff Way
-: Jacksonville, FL 32204
-: NiCU Medical Directer: Ronald Carzoll, MD
-{P): (904)308-4669; (F): (904)296-9081
-Emall: carzolimd@yahoo.com
-| NICU (P): (904)308-7340; NIGU (F): (904)308-293
-Leval IIIA; NICU Beds: 10
-i Neonatologlsts:
-; CARZOLI, RONALD P,
-COLEMAN, MAE M.
-. SCHWARTZ, JONATHAN E.
-VAUGHN, ARTHUR J.
-| Updated: 4/1/2014
-i | WOLFSON CHILDREN’S HOSPITAL
-| 800 Prudential Dr.
-| Jacksonville, FL 32207
-i NICU Medical Director: Mary Lim, MD
-| {P): (804)202-34 13; (F): (904)202-3378
-7 Email: mary lim @jax,ufl.edu
-| NICU (P): (804)202-1083; NICU (F): (904)202-337
-HI Level IHC; NICU Beds: 48
-| Neonatologiste:
-nm Refer to Neonatologists Group of Shands
-i Jacksonville, Jacksonville, FL
-| fo Updated: 4/4/2011
-Hob GT ,
-| | KISSIMMEE, FL
-boi
-ROE
-ia
+1 Shircliff Way
+Jacksonville, FL 32204
+Level IIIA; NICU Beds: 10
+Neonatologists: 4
+Neonatologists names: Ronald Carzoli; Mae Coleman; Jonathan Schwartz; Arthur Vaughn
+
+WOLFSON CHILDREN’S HOSPITAL
+800 Prudential Dr.
+Jacksonville, FL 32207
+Level IIIC; NICU Beds: 48
+Neonatologists:
+Refer to Neonatologists Group of Shands Jacksonville, Jacksonville, FL
 
 OSCEOLA REGIONAL MEDICAL CENTER
 700 West Oak St.
 Kissimmee, FL 34742-2589
-3558 NICU Medica! Director: Jose Giereolini, MD
-(P): (407)846-2266
-NICU (P): (407)518-3266; NICU (F): (407)518-39:
-Level lilA; NICU Beds: 10
-Neonatologists:
-GIEREOLINI, JOSE
-PERA, ANGELINA
-Updated: 8/30/2010
-LAKELAND, FL
+Level IIIA; NICU Beds: 10
+Neonatologists: 2
+Neonatologists names: Jose Giereolini; Angelina Pera
+
 LAKELAND REGIONAL MEDICAL CENTER
-1324 Lakeland Hills Blvd,
+1324 Lakeland Hills Blvd.
 Lakeland, FL 33805
-NICU Medical Director: Mark Preziosi, MD
-(P): (863)6B7-1282; (F): (863)687-1065
-Email: mark_preziosi @pediatrix.com
-NICU (P): (863)687-1279; NICU (F): (863)687-14:
 Level IIIA; NICU Beds: 16
-Neonatologists:
-PREZIOSI, MARK P.
-RUIZ, RENE
-Updated: 2/21/2041
-f0 MARGATE, FL
+Neonatologists: 2
+Neonatologists names: Mark Preziosi; Rene Ruiz
+
 NORTHWEST MEDICAL CENTER
 Newborn ICU - 3rd Floor
 Colonial Drive
 Margate, FL 33063-9002
-NICU Medical Director: Luiz Grajwer, MD
-{P): (954)978-4376
-Emall: tulzi9@aol.com
-NICU (P): (954)978-4357
 Level IIIA; NICU Beds: 10
 Neonatologists:
-Refer to Neonatologists Group of Plantatlon
-General Hospital, Plantation, FL
-Updated: 3/28/2011
-30 MELBOURNE, FL
+Refer to Neonatologists Group of Plantation General Hospital, Plantation, FL
+
 HOLMES REGIONAL MEDICAL CENTER
-1380 S. Hickory St.
+1350 S. Hickory St.
 Melbourne, FL 32901
-NiCU Medicai Director: Julio D. Vallette, Jr., MD
-(P}: (821)434-7243; (F): (821)434-8744
-Email: jullo_vallette@ pediatrix.com
-NICU (P): (821)434-7281; NICU (F): (321)434-532
-Level illA; NICU Beds: 20
-Neonatologists:
-RASALAN, MINERVA
-VALLETTE, JULIO D.
-Updated: 2/23/2011
-78 MIAMI, FL.
+Level IIIA; NICU Beds: 20
+Neonatologists: 2
+Neonatologists names: Minerva Rasalan; Julio Vallette
+
 BAPTIST CHILDREN'S HOSPITAL
 8900 N. Kendall Dr.
-Mlaml, FL 33176
-NICU Medical Director: Andrew B, Kairalla, MD
-(P): (786)596-6669; (F): (786)596-2335
-Email: andrewk @baptisthealth.net
-NICU (P): (786)596-6977; NICU (F): (786)596-233
-25
+Miami, FL 33176
+Level IIIB; NICU Beds: 36
+Neonatologists: 13
+Neonatologists names: Kumar Basavegowda; Manuel Campos; William Carroll; Omar Costa; Gisela Diaz-Monroig; Andrew Kairalla; Alex Koetzle; Bernardo Pimentel; Genovea Prieto; William Smalling; Phuket Tantivit; Kara Telvale; Ernesto Valdes
 
-Level 115; NICU Beds: 36
-Neonatologists:
-BASAVEGOWDA, KUMAR
-CAMPOS, MANUEL
-CARROLL, WILLIAM
-992 COSTA, OMAR
-DIAZ-MONROIG, GISELA
-. KAIRALLA, ANDREW B.
-KOETZLE, ALEX
-PIMENTEL, BERNARDO
-PRIETO, GENOVEA
-SMALLING, WILLIAM
-TANTIVIT, PHUKET
-TELVALE, KARA
-VALDES, ERNESTO
-Updated: 3/10/2011
 KENDAL REGIONAL HOSPITAL
 11740 SW 40 St.
 Miami, FL 33175
-34 NICU Medical Director: Bernardo Pimentel, Mi
-NICU (P): (805)222-5699; NICU (F}: (305}222-£
-Level lilA; NICU Beds: 13
+Level IIIA; NICU Beds: 13
 Neonatologists:
-Refer to Neonatologists Group of Baptist :
-Children's Hospital, Miami, FL
-Updated; 8/9/2041
+Refer to Neonatologists Group of Baptist Children's Hospital, Miami, FL
+
 MERCY HOSPITAL
 3663 S. Miami Ave.
 Miami, FL 33133
-NiCU Medleal Director: Bernardo Pimentel, Mi
-(P): (305)285-2647; (F): (305)285-5036
-Email: drpanza@ aol.com
-NICU (P): (305)285-2647; NICU (F): (305)285-5
 Level IIB; NICU Beds: 6
 Neonatologists:
-Refer to Neonatologlsts Group of Baptist
-Children's Hospital, Miami, FL
-Updated: 3/10/2011
+Refer to Neonatologlsts Group of Baptist Children's Hospital, Miami, FL
+
 MIAMI CHILDREN'S HOSPITAL
 3100 S.W. 62 Ave.
 Miami, FL 33155
-NICU Medical Director: |. Amed Soliz, MD
-(P): (805)683-8420; (F): (305)663-6896 ‘
-Emall: aesoliz@aol.com
-) NICU (P): (805)666-6511 Ext. 3316; NICU (F);
-(305)663-6898
-Level lllC; NICU Beds: 40
-35 ~— Neonatologists:
-BIANCO BATLLES, DANIELA
-CHANDLER, BARRY D.
-JEFFRIES, IAN P,
-SOLIZ, AMED
-VALENCIA, PABLO A.
-Updated: 8/24/2044
+Level IIIC; NICU Beds: 40
+Neonatologists: 5
+Neonatologists names: Daniela Bianco Batlles; Barry Chandler; Ian Jeffries; Amed Soliz; Pablo Valecia
+
 NORTH SHORE MEDICAL CENTER
 1100 NW. 95th St.
 Miami, FL 33150
-NICU Medical Director: Jorge Perez, MD
-NICU (P): (905)835-6124; NICU (F): (305)694-3
 Level IIIB; NICU Beads: 18
-35 Neonatologists:
-ALDANA, OTTO
+Neonatologists: 5
+Neonatologists names: Otto Aldana; Feyisol Awohusonv; Frederick Bloom; Michelle Herring; Jorge Perez
 
-} | AWOHUSONY, FEYISOL
-BLOOM, FREDERICK
-! . HERRING, MICHELLE
-. PEREZ, JORGE
-i Updated: 4/1/2011
-7 AUNIVERSITY OF MIAMUJACKSON MEMORIAL
-\ MEDICAL CENTER
-3 | Department of Pediatrics
-+ Division of Neonatology
-7 =|P.0, Box 016960, (A-131)
-\ Miami, FL 33103
-* — “pivision Chief: Eduardo H. Bancatari, MD
-‘ (P): (305)585-6408; (F): (805)545-6581
-‘ Emall: ebancalarl@miaml.edu
-‘Training Program Director: Eduardo H. Bancalari,
-MD
-*  (P): (905)585-6408; (F): (305)545-6581
-Emall: ebancalari@miami-edu
-: NICU Medica! Director: Shahnaz Duara, MD
-EPP (308)585-6408; (F}: (305)545-6581
-289 Email: sduara@miami.edu
-. Director of NICU High Risk Follow-Up Clinte:
-, Charles Bauer, MD
-, 7 Emall: obauer@med.miami.edu
-“NICU (P): (805)585-5140; NICU (F): (305)585-8078
-5: Level IIIC; NICU Beds: 126
-“= Neonatologlsts:
-,  BANCALARI, EDUARDO H.
-“= BANDSTRA, EMMALEE 8S.
-| BAUER, CHARLES R.
-, © BUCH, MARIE M.
-ps DEL MORAL, TERESA
-ggg DUARA, SHAHNAZ
-pees GALARZA, M. GRISEL
-. : NAVARRETE, CHRISTINA
-? 8 PLANO, LISA
-. 3 SOSENKO, ILENE R.S.
-/  SUGUIHARA, CLEIDE
-. = TORRES, MARITZA
-: WU, SHU
-‘ YOUNG, KAREN
-Updated: 6/2/2011
-‘ NIAMLBEACH, FL
-: MT. SINAI MEDICAL CENTER
-\ 4300 Alton Rd., 3-Blum
-: Miami Beach, FL 33140
-. NICU Medical Director: Jose A. Adams, MD
-‘ (P): (805)674-2727; (F): (805)674-2306
-‘ Emalt: tony@msmc.com
-NICU (P): (305)674-2835; NICU (F): (305)674-2650
-, Level iIIB; NICU Beds: 13
-‘ Neonatologists:
-: ADAMS, JOSE A.
-, ZABALETA, IGNACIO A.
-; Updated: 9/10/2010
-; NORTH MIAMI BEACH, Fi
-, = JACKSON NORTH MEDICAL CENTER
-60 160 N.W. 190th St,
-Notth Mint Beach, FL 33169
-Ore Medical Director: E. Bernard Cartaya, MD
-: *(205)654-2266; (F); (305)654-5617
+UNIVERSITY OF MIAMI/JACKSON MEMORIAL MEDICAL CENTER
+Department of Pediatrics
+Division of Neonatology
+P.0, Box 016960, (R-131)
+Miami, FL 33103
+Level IIIC; NICU Beds: 126
+Neonatologists: 14
+Neonatologists names: Eduardo Bancalari; Emmalee Bandstra; Charles Bauer; Marie Buch; Teresa Del Moral; Shahnaz Duara; Grisel Galarza; Christina Navarrete; Lisa Plano; Ilene Sosenko; Cleide Suguihara; Maritza Torres; Shu Wu; Karen Young
 
-Emalt: bcartaya@ aol.com y
-NICU (P): (305)654-5617; NICU (F); (805)654-5609
-Level 11B; NICU Beds: 10 .
+MT. SINAI MEDICAL CENTER
+4300 Alton Rd., 3-Blum
+Miami Beach, FL 33140
+Level IIIB; NICU Beds: 13
+Neonatologists: 2
+Neonatologists names: Jose Adams; Ignacio Zabaleta
+
+JACKSON NORTH MEDICAL CENTER
+160 N.W. 190th St.
+North Miami Beach, FL 33169
+Level IIB; NICU Beds: 10
 Neonatologists:
-Refer io Neonatologists Group of Mlaml ,
-Children's Hospital, Miami, FL.
-Updated: 8/29/2010
-ORANGE PARK, FL
+Refer to Neonatologists Group of Miami Children's Hospital, Miami, FL.
+
 ORANGE PARK MEDICAL CENTER
 2001 Kinsley Ave.
 Orange Park, FL 32073
-NICU Medical Director: Lily Cuevas, MD
-NICU (P): (904)276-8538; NICU (F): (904)213-2527
 Level IIB; NICU Beds: 6
 Neonatologists:
-Refer to Neonatologists Group of Shands
-Jacksonvilte, Jacksonville, FL.
-Updated: 4/4/2014
-ORLANDO, FL
+Refer to Neonatologists Group of Shands Jacksonvilte, Jacksonville, FL.
+
 FLORIDA CHILDREN'S HOSPITAL
-601 E, Rollins St.
+601 E. Rollins St.
 Orlando, FL 32803
-NICU Medical Director: Eduardo Lugo, MD
-(P): (407)894-1465; (F): (407}894-9176
-Email: eduardo,lugo.md@flhosp.org
-Director of NICU High Risk Follow-Up Clinic:
-Joseph Keeley, MD
-NICU (P}: (407)303-1602; NICU (F): (407)303-7973
 Level IIIB; NICU Beds: 61
-Neonatologists:
-ALANA, CARLOS A.
-BERNSTEIN, HILTON
-BOWEN, WINSLADE A.
-GOLDBERG, NEAL
-LUGO, EDUARDO J.
-OTERO, LEWIS
-RAWLINGS, D. JAMES
-WISWELL, THOMAS
-Updated: 9/10/2010
-WINNIE PALMER HOSPITAL FOR WOMEN AND
-BABIES
+Neonatologists: 8
+Neonatologists names: Carlos Alana; Hilton Bernstein; Winslade Bowen; Neal Goldberg; Eduardo Lugo; Lewis Otero; James Rawlings; Thomas Wiswell
+
+WINNIE PALMER HOSPITAL FOR WOMEN AND BABIES
 83 W. Miller St.
 Orlando, FL 32806
-NICU Medical Director: David A. Auerbach, MD
-(P): (407)8414-5218; (F): (407)649-6939
-Email; david.auerbach @orhs.org
-NICU (P): (407)841-5198; NICU (F): (921)841-6451
-Level WiC; NICU Beds: 112
-Necnatotogists:
-ALEXANDER, GREGOR C.
-AUERBACH, DAVID A.
-BROWN, SHARON
-BYUN, YOUNG
-DIAZ-ALBERTINI, ANA
-GIERBOLINI, JOSE
-HARDY, DOUGLAS E.
-LIPMAN, BRIAN
-MC MAHAN, MICHAEL J,
-PALMA, PAUL A.
-PERA, ANGELINA
-PEREZ, JOSE A.
+Level IIIC; NICU Beds: 112
+Neonatologists: 14
+Neonatologists names: Gregor Alexander; David Auerbach; Sharon Brown; Young Byun; Ana Diaz-Albertini; Jose Gierbolini; Douglas Hardy; Brian Lipman; Michael Mc Mahan; Paul Palma; Angelina Pera; Jose Perez; Mai Phung; Laxmi Rao
 
-PHUNG, MAI
-RAO, LAXMI
-Updated: 4/1/2011
-PANAMA CITY, FL
 GULF COAST MEDICAL CENTER
 449 W. 23rd St.
-Panama Cily, FL 32405
-NICU Medieal Director: Helen Fountain, MD
-(P): (941)284-4244
-NICU (P): (850)747-7712
+Panama City, FL 32405
 Level IIB; NICU Beds: 12
-Neonatolagists:
-FOUNTAIN, HELEN
-KAIRALLA, ANDY
-Updated: 6/23/2011
-PENSACOLA, FL
+Neonatologists: 2
+Neonatologists names: Helen Fountain; Andy Kairalla
+
 SACRED HEART HOSPITAL
-6151 W. 9th Ave.
+5151 W. 9th Ave.
 Pensacola, FL 32504
-NiCY Medical Director: Antonio Pena, MD
-(P): (850)476-2387; (F): (850)476-9707
-Email: antonlo_pena@pedlatrix.com
-NICU (P): (850)416-4500; NICU (F): (850)416-4503
-Level iB; NICU Beds: 56
-Neonatologists:
-BERGER, PAUL
-HAMPTON, TONY
-KNUTSON, NATHAN
-PENA, ANTONIO
-REALE, MARIO
-TANNER, JASON
-Updated: 9/10/2010
-PLANTATION, FL
+Level IIIB; NICU Beds: 56
+Neonatologists: 6
+Neonatologists names: Paul Berger; Tony Hampton; Nathan Knutson; Antonio Pena; Mario Reale; Jason Tanner
+
 PLANTATION GENERAL HOSPITAL
-401 N.W. 42nd Ave,
+401 N.W. 42nd Ave.
 Plantation, FL 33317
-NICU Medica! Director: Barry D. Chandier, MD
-Mitchell Stern, MD
-(P); (984)838-2628; (F): (954)797-6488
-Email: bdchandler@aol.com
-NICU (P): (954)797-6460; NICU (F): (954)797-6488
-Level! 1B; NICU Beds: 31
-Neonatologisis:
-ANTIGUA, MARIA C.
-BEDRIN, MARK
-CHANDLER, BARRY D.
-GONZALEZ, MARCO
-GRAJWER, LUIZ A.
-PECK, GRETE
-SOMMERS, ROSS
-STERN, MITCHELL E.
-Updated: 1/22/2011
-ROCKLEDGE, Fi
+Level IIIB; NICU Beds: 31
+Neonatologists: 8
+Neonatologists names: Maria Antigua; Mark Bedrin; Barry Chandler; Marco Gonzalez; Luiz Grajwer; Grete Peck; Ross Sommers; Mitchell Stern
+
 WUESTHOFF HOSPITAL
-110 Longwood Ave,
+110 Longwood Ave.
 Rockledge, FL 32956-5002
-NICU Medical Director: Javier J, Diaz-Blanco, MD
-(P): (321)636-2211 Ext. 5015; (F): (821)631-9701
-Email: neodoc85 @aol.com
+Level IIIA; NICU Beds: 10
+Neonatologists: 2
+Neonatologists names: Javier Diaz-Blanco; Margaret Go
 
-: NICU (P)>(921)636-2211 Ext. 4755; NICU (F):
+MEASE COUNTRYSIDE HOSPITAL
+3231 McCullen Booth Rd.
+Safety Harbor, FL 34695
+Level IIIB; NICU Beds: 15
+Neonatologists:
+Refer to Neonatelogists Group of St. Joseph's Women's Hospital of Tampa, FL
 
-: (321)690-6630
-
-3 Level HIA; NICU Beds: 10
-
-; Neonatolagists:
-
-: DIAZ-BLANCO, JAVIER J.
-
-| GO, MARGARET
-
-i Updated: 3/8/2014
-
-| SAFETY HARBOR, FL,
-
-: MEASE COUNTRYSIDE HOSPITAL
-
-| 3231 McCullen Booth Rd.
-
-| Safety Harbor, FL 34695
-
-4 NICU Medicai Director: Oushan J, Martinasek, |
-4 NICU (P): {727)725-6850
-
-q Level IIIB; NICU Beds: 15
-
-| Neonatologists:
-
-4 Refer to Neonatelogists Group of St. Joseph's
-i i Women's Hospital of Tampa, FL
-
-: Updated: 8/30/2010
-
-SARASOTA, FL.
-
-4 SARASOTA MEMORIAL
-
+SARASOTA MEMORIAL
 1700 S. Tamiami Trail
+Sarasota, FL 34239
+Level IIIB; NICU Beds: 20
+Neonatologists: 5
+Neonatologists names: Darlene Calhoun; Francisco Ojeda; Anthony Napolitano; Peter Nwokeji; Dean Theophilopaulos
+Refer to Neonatology Group of St. Petersburg, FL
 
-: Sarasota, Fl 34239
+ST. PETERSBURG, FL.
+ALL CHILDREN'S HOSPITAL
+501 Sixth St. South
+Box 7565
+St. Petersburg, FL 33701
+Level IIIC; NICU Beds: 97
+Neonatologists: 14
+Neonatologists names: Sandra Brooks; Danilo Escoto; Aaron Germain; Jeane Mc Carthy; Victor Mc Kay; Anthony Napolitano; Francisco Ojeda; Anjni Patel; Fauzia Shakeel; Roberto Sosa; Stacey Stone; Carine Stromquist; Benjamin Torres; Raj Wudhawan
 
-H : NICU Medical Director: Anthony €. Napolitano,
-: (P): (941)917-1079; (F): (941)917-7058
-foo: NICU (P): (941)917-1043; NICU (F): (941)917-16
-topos Level HIB; NICU Beds: 20
-
-ee Neonatologisis:
-
-1! CALHOUN, DARLENE
-
-4 OJEDA, FRANCISCO
-
-E NAPOLITANO, ANTHONY E.
-
-a: NWOKEuUI, PETER PAUL
-
-io THEOPHILOPAULOS, DEAN
-
-q Refer to Neonatology Group of St. Petersburg,
-: Updated: 1/22/2011
-
-a ST. PETERSBURG, FL.
-
-He ALL CHILDREN'S HOSPITAL
-
-qo 501 Sixth St. South
-
-a Box 7565
-A St. Petersburg, FL 33701
-
-do NICU Medica) Director: Roberto A. Sosa, MD
-it (P): (727)892-4313; (F): (727)892-4391
-
-Bi Email: sosar@allkids.org
-
-ai NICU (P): (727)767-4334; NICU (F): (727)767-85
-| Level IIIC; NICU Beds: 97
-
-A Neonatologists:
-y : BROOKS, SANDRA S.
-: ESCOTO, DANILO T.
-
-1. GERMAIN, AARON
-ao MC CARTHY, JEANE A.
-Ti MC KAY, VICTOR J.
-q NAPOLITANO, ANTHONY E,
-F QUEDA, FRANCISCO
-4 | PATEL, ANUNI
-ah, SHAKEEL, FAUZIA
-: SOSA, ROBERTO A.
-ad STONE, STACEY
-at STROMQUIST, CARINE
-
-| | TORRES, BENJAMIN A.
-
-| WUDHAWAN, RAJ
-
-can Updated: 2/25/2011
-
-ao
-
-STUART, Fi,
 MARTIN MEMORIAL MEDICAL CENTER
 300 S.E. Hospital Dr.
 Stuart, FL 34995
-NICU Medical Director: John Bankston, MD
-(P}: (772}287-5200
-NICU (P): (772)288-5888; NICU (F): (772)221-2(
-Level IIIB; NICU Bede: 5
-Necnatologists:
-Refer to Neonatologists Group of St. Mary's
-Hospital, West Paim Beach, FL
-MD Updated: 8/30/2010
-TALLAHASSEE, FL
-TALLAHASSEE MEMORIAL HOSPITAL
-5 1300 Miccosukee Rd.
-Tallahassee, FL 32308
-NICU Medical Director: Todd A. Patterson, D.O
-(P): (850)431-5354; (F): (850)431-6061
-Email: patterosa8 @ aol.com
-NICU (P): (850)431-5954; NICU (F): (850)431-01
-Level tllB; NICU Bede: 30
+Level IIIB; NICU Beds: 5
 Neonatologists:
-PATTERSON, TODD A.
-MD Updated: 4/1/2011
-689 TAMPA, FL
-ST, JOSEPH'S WOMEN'S HOSPITAL
-3030 W. Or. MLL. King Jr, Bivd.
-Tampa, FL 33607
-NICU Medical Director: Kenneth J. Solomon, M
-(P): (813)872-2924: {F): (813)872-3740
-NICU (P): (813}872-2929; NICU (F): (813)872-39
-FL Level IIIB; NICU Beds: 50
-Neonatologists;
-FOSTER, CHERIE
-MARATINASEK, DUSHAN J.
-MENDOZA, JULIE
-PARILLA, ERIN
-RAO, MOHAN H.
-SASTE, MONISHA
-SHERIDAN, RICHARD J.
-SOLOMON, KENNETH J.
-WYBLE, LANCE
-508 Updated: 3/10/2014
-*TAMPA GENERAL HOSPITAL
-Davis istands
-P.O, Box 1289
-Tampa, FL 33601
-University Affillation: University of South Florid:
-Division Chief: Lewis P. Rubin, MD
-(P): (813)259-8812; (F): (813)269-8810
-Email: lrubin@heatth.usf.edu
-Training Program Director: Michael Fant, MD
-(P): (813)259-8812; (F): (813)259-8810
-NICU Medical Director: Terri Ashmeade, MD
-(P): (813)259-881 2; (F): (813)259-8810
-Email; tashmead@health.ust.edu
-Director of NICU High Risk Follow-Up Clinic:
-Carol Lilly, MD
-NICU (P): (813)844-7224; NICU (F): (813)844-44
-Level HIC; NICU Beds: 42
-27
+Refer to Neonatologists Group of St. Mary's Hospital, West Paim Beach, FL
 
-Neonatologists:
-ASHMEADE, TERRI
-BALAKRISHNAN, MAYA
-FANT, MICHAEL
-HAUBNER, LAURA
-LUGIANO, ANGEL
-004 NELSON, JR., ROBERT M.
-" RUBIN, LEWIS
-SUTSKO, RONALD
-Updated: 8/42/2014
-THE WOMAN'S CENTER AT UNIVERSITY
-COMMUNITY HOSPITAL
+TALLAHASSEE MEMORIAL HOSPITAL
+1300 Miccosukee Rd.
+Tallahassee, FL 32308
+Level IIIB; NICU Beds: 30
+Neonatologists: 1
+Neonatologists names: Todd Patterson
+
+ST. JOSEPH'S WOMEN'S HOSPITAL
+3030 W. Dr. M.L. King Jr. Blvd.
+Tampa, FL 33607
+Level IIIB; NICU Beds: 50
+Neonatologists: 9
+Neonatologists names: Cherie Foster; Dushan Martinasek; Julie Mendoza; Erin Parilla; Mohan Rao; Monisha Saste; Richard Sheridan; Kenneth Solomon; Lance Wyble
+
+TAMPA GENERAL HOSPITAL
+Davis Islands
+P.O. Box 1289
+Tampa, FL 33601
+Level IIIC; NICU Beds: 42
+Neonatologists: 8
+Neonatologists names: Terri Ashmeade; Maya Balakrishnan; Michael Fant; Laura Haubner; Angel Luciano; Robert Nelson Jr.; Lewis Rubin; Ronald Sutsko
+
+THE WOMAN'S CENTER AT UNIVERSITY COMMUNITY HOSPITAL
 3100 E. Fletcher Ave.
-Tampa, FL 43613
-NICU Medical Director: Keith S. Kanarek, M.E
-BCH
-(P): (813)615-7909; (F): (813)979-7416
->, NICU (P): (813)615-7933; NIGU (F}: (813)615-
-Level [liB; NICU Beds: 15
-Neonatologists:
-169 KANAREK, KEITH S.
-ONG, MANUEL J. .
-RAYON, JORGE
-TAN, NOEL
-Updated: 9/10/2010
-WELLINGTON, FL
-WELLINGTON REGIONAL MEDICAL CENTE
+Tampa, FL 33613
+Level IIIB; NICU Beds: 15
+Neonatologists: 4
+Neonatologists names: Keith Kanarek; Manuel Ong; Jorge Rayon; Noel Tan
+
+WELLINGTON REGIONAL MEDICAL CENTER
 10101 Forest Hill Blvd.
 Wellington, FL 33414
-AD NICU Medica! Director: Lyle Browne, MD
-(P): (661)798-8599
-goo NICU (P): (561)798-8599; NICU (F}: (564)753-
-Level If!B; NICU Beds: 25
-Neonatolagists:
-Refer to Neonatologists Group of St. Mary's
-Hospltal of West Palm Beach, FL
-Updated: 8/30/2010
-WEST PALM BEACH, FL
+Level IIIB; NICU Beds: 25
+Neonatologists:
+Refer to Neonatologists Group of St. Mary's Hospital of West Palm Beach, FL
+
 GOOD SAMARITAN MEDICAL CENTER
 1309 North Flagler St.
 West Palm Beach, FL 33401
-NiGU Medical Director: David Kanter, MD
-{P): (661)650-6192; (F): (561)650-6013
-NICU (P): (661)655-5511 Ext. 16192; NICU (F}
-(561}650-6013
 Level IIB; NICU Beds: 5
-Neonatologists:
-KANTER, DAVID
-la Updated: 4/1/2071
+Neonatologists: 1
+Neonatologists names: David Kanter
+
 ST. MARY'S HOSPITAL
 Intensive Care Nursery
 901 45th St.
 West Palm Beach, FL 33407
-NICU Medical Director: Janet Wingkun, MD
-(P): (561)840-6220; (F): (561)840-6285
-NICU (P): (561)881-2980; NICU (F): (561)881-t
-Level [18; NICU Beds: 49
-Neonatoioglsts:
-408 AMBROISE, MARIE
-BANKSTON, JOHN L.
+Level IIIB; NICU Beds: 49
+Neonatologists: 11
+Neonatologists names: Marie Ambroise; John Bankston; Laura Basile; Enoch Cordoba; Bridgett Hempel; Sheri Nemerofsky; Jade Sha; Clarice Staves; Lerma Te; Setty Viralam; Janet Wingkun
 
-: BASILE, LAURA
-CORDOBA, ENOCH
-; HEMPEL, BRIDGETT
-“| NEMEROFSKY, SHERI
-; SHA, JADE
-. STAVES, CLARICE
-j TE, LERMA
-\ VIRALAM, SETTY
-} WINGKUN, JANET
-4 Updated: 8/24/2011
-f
-, WINTER HAVEN, FL
-’ REGENCY CENTER FOR WOMEN AND INFANTS
-; 101 Avenue "O", S, E.
+REGENCY CENTER FOR WOMEN AND INFANTS
+101 Avenue "O", S, E.
 Winter Haven, FL 33880
-? NICU Medical Director: Maria G, Espejo-Kong, MD
-. (P): (863)294-7039; (F): (863)291-5963
-2 Email: marla_kong@pediatrix.com
-131 iow (P): (863)294-7044; NICU (F}: (863)291-5935
-; Level IlA; NICU Beds: 17
-Neonatologists:
-; ESPEJO-KONG, MARIA GRACIA A.
-: FYNN, JENNIFER
-“ Updated: 2/23/2014
-* | WINTER PARK, FL
-| WINTER PARK MEMORIAL HOSPITAL
-= 200 N. Lakemont Ave.
-2 winter Park, FL. 32792
-©. NICU Medleal Director: Carlos Alana, MD
-|. (P): {407)894-1465; (F); (407)894-9176
-\ = NICU (P): (407)646-7427; NICU (F): (407)646-7736
-, © Level HB; NICU Beds: 5
-, 608 - Neonatologists:
-/ = Refer to Neonalologists Group of Florida
-} Children's Hospital, Orlando, FL
-_ Updated: 4/1/2011
-"| ALBANY, GA
-: : PHOEBE PUTNEY MEMORIAL HOSPITAL
-\ 417 Third Avenue, P.O. Box 1828
-, Albany, GA 31702-1828
-5 NICU Medical Director: Alchard E. Heath, MD
-{P): (229)312-5133; (F): (229)312-5159
-»  ., Director of NICU High Risk Follow-Up Cilnic:
-‘ Richard Heath, MD
-: NICU (P); (229)312-5135; NICU (F): (229)312-5130
-Level HIB; NICU Beds: 30
-: Neonatologlsts:
-HEATH, RICHARD E,
-: {GNATZ, MARK
-. MIKSIS, GEORGIANA
-: MORSE, STEVEN B.
-% Updated: 8/23/2014
-. ATHENS, GA
-ATHENS REGIONAL MEDICAL CENTER
-; : 1199 Prince Ave.
-: Athens, GA 30606
-41 NICU ite
-: Pic ‘ edttcal Director: Atul Khurana, MD
-, P): (706)475-9326; (F): (706)475-6876
-: Email; taaso@arme.org
-, __ NICU (P): (706)475-3325; NICU (F); (708)478-6876
+Level IIIA; NICU Beds: 11
+Neonatologists: 2
+Neonatologists names: Maria Gracia Espejo-Kong; Jennifer Fynn
 
-LeveblliA; NICU Beds: 16
-Neonatolagists:
-CONNER, EDWARD
-FAASE, MARIA ELISABETH
-KHURANA, ATUL
-Updated: 4/8/2011
+WINTER PARK MEMORIAL HOSPITAL
+200 N. Lakemont Ave.
+winter Park, FL. 32792
+Level IIB; NICU Beds: 5
+Neonatologists:
+Refer to Neonatologists Group of Florida Children's Hospital, Orlando, FL
+
+PHOEBE PUTNEY MEMORIAL HOSPITAL
+417 Third Avenue, P.O. Box 1828
+Albany, GA 31702-1828
+Level IIIB; NICU Beds: 30
+Neonatologists: 4
+Neonatologists names: Richard Heath; Mark Ignatz; Georgiana Miksis; Steven Morse
+
+ATHENS REGIONAL MEDICAL CENTER
+1199 Prince Ave.
+Athens, GA 30606
+Level IIIA; NICU Beds: 16
+Neonatologists: 3
+Neonatologists names: Edward Conner; Maria Elisabeth Faase; Atul Khurana
+
 ST. MARY'S HOSPITAL
 1230 Baxter St.
 Athens, GA 30606
-NICU Medical Director: Victor A. Moraies, MD
-{P)}: (706)549-9977
-NICU (P): (708}548-7681; NICU (F): (706)389-3431
-Level} 1118; NICU Beds: 16
-Neonatolagists:
-MORALES, VICTOR A.
-Updated: 4/8/2014
-ATLANTA, GA
+Level 111B; NICU Beds: 16
+Neonatologists: 1
+Neonatologists names: Victor Morales
+
 ATLANTA MEDICAL CENTER
 303 Parkway Dr., N.E.
 Atlanta, GA 30312
-NICU Medical Director: Fuad A. Fakhreddine, MD
-(P): (404)523-1343; (F): (404)522-1545
-NICU (P): (404)265-4712; NICU (F}: (404)265-3878
-Level IHB; NICU Beds: 32
-Neonatologists:
-FAKHREDDINE, FUAD ALI
-Updated: 9/40/2010
-CHILDREN'S HEALTHCARE ATLANTA-
-SCOTTISH
+Level IIIB; NICU Beds: 32
+Neonatologists: 1
+Neonatologists names: Fuad Fakhreddine
+
+CHILDREN'S HEALTHCARE ATLANTA - SCOTTISH
 1001 Johnson Ferry Rd. NE
 Atlanta, GA 30342-1600
-NICU Medical Director: Patrick S. Spafford, MD
-(P): (404)785-5160
-NIGU (P): (404)785-2047
 Level IIIB; NICU Beds: 35
 Neonatologists:
-Refer to Neonatologists Group of Northside
-Hospital of Atlanta, GA
-Updated: 2/4/2011
-CHILDREN’S HEALTHCARE OF ATLANTA AT
-EGLESTON
+Refer to Neonatologists Group of Northside Hospital of Atlanta, GA
+
+CHILDREN’S HEALTHCARE OF ATLANTA AT EGLESTON
 Emory University Campus
-1405 Clifton Rd, N.E.
+1405 Clifton Rd., N.E.
 Atlanta, GA 30322
-NICU Medical Director: Francine D, Dykes, MD
-(P); (404)727-3360
-Email: fdykes@emory.edu
-NICU (P): (404)785-8600; NICU (F): (404)316-2738
-Level lilC; NICU Beds: 37
+Level IIIC; NICU Beds: 37
 Neonatologists:
 Refer to Emory University Schoo! of Medicine,
 Division of Neonatology, Atlanta, GA
-Updated: 3/18/2010
+
 EMORY UNIVERSITY HOSPITAL - MIDTOWN
 550 Peachtree St., NE
 Atlanta, GA 30308
-NICU Medical Director: Ann D. Critz, MD
-{P): (404)686-8136; (F): (404)686-4631
-Emall: acritz@emory.edu
-. Level HIB; NICU Beds: 32
+Level IIIB; NICU Beds: 32
+Neonatologists:
+Refer to Emory University School of Medicine, Division of Neonatology, Atlanta, GA
 
-Neonatologiste:
-Refer io Emory University School of Medicine,
-Division of Neonatology, Atlanta, GA
-Updated: 3/18/2010
-*EMORY UNIVERSITY SCHOOL OF MEDICINE
+EMORY UNIVERSITY SCHOOL OF MEDICINE
 Department of Pediatrics
 2015 Uppergate Dr.
-Atlanta, GA 90322
-University Affiilatlon: Emory University
-Division Chief: David Carlton, MD
-(P): (404)727-5772; (F): (404)727-7094
-Email: dpearlt@emory.edu
-Training Program Director: Theresa W. Gauthler,
-MD
-(P): (404)727-5765; (F): (404)727-3236
-Email: tgauthi@emory.edu
-NICU Medical Director: Francine Dykes, MD
-George W. Bugg, MD; Ann D, Oritz, MD
-(P); (404)727-3360; (F): (404)727-3238
-Email: fdykes@emory.edu; gbugg@emory.edu;
-acritz@emory.edu
-Director of NICU High Risk Follow-Up Clinic:
-ira Adams-Chapman, MD
-Email; iadamse@emory.edu
-NICU (P): (404)778-1 452; NICU (F): (404)778-1699
-Level HIC; NICU Beds: 100
-Neonatolog!sts:
-ADAMS-CHAPMAN, IRA
-BLACK, LINDA
-BRANN, JR., ALFRED W.
-BUGHTER, DONA S.
-BUGG, JR., GEORGE W.
-CARLTON, DAVID
-CRITZ, ANN D.
-DWORETZ, APRIL
-DYKES, FRANCINE D,
-GAUTHIER, THERESA W.
-HAMRICK, SHANNON
-JAIN, LUCKY
-KEENE, SARAH
-KOSMETATOS, NIKI
-LOUIS, NANCY
-MOBLEY, LETITIA
-MOORE, JAMES
-OSUNKOYA, OJORU
-PIAZZA, ANTHONY
-SEXSON, WILLIAM FR.
-SHIH, JENNIFER
-STOLL, BARBARA
-! VYAS-READ, SHILPA
-: WILLIAMS, HELEN O.
-Updated: 8/47/2011
+Atlanta, GA 30322
+Level IIIC; NICU Beds: 100
+Neonatologists: 24
+Neonatologists names: Ira Adams-Chapman; Linda Black; Alfred Brann Jr.; Dona Buchter; George Bugg Jr.; David Carlton; Ann Critz; April Dworetz; Francine Dykes; Theresa Gauthier; Shannon Hamrick; Lucky Jain; Sarah Keene; Niki Kosmetatos; Nancy Louis; Letitia Mobley; James Moore; Ojoru Osunkoya; Anthony Piazza; William Sexson; Jennifer Shih; Barbara Stoll; Shilpa Vyas-Read; Helen Williams
+
 GRADY MEMORIAL HOSPITAL
 80 Jesse Hill Je Dr. SE
 Atlanta, GA 30303
-NICU Medical Director: George Bugg, MD
-(P): (404)778-4 463; (F): (404)778-1467
-Email: gbugg@emory.edu
-NICU (P): (404)778-1452; NICU (F): (404)778-1699
-Level HIB; NICU Beds: 31
-Neonatologlsts;
+Level IIIB; NICU Beds: 31
+Neonatologists;
 Refer to Emory University School of Medicine,
 Division of Neonatology, Atlanta, GA
 
-| Updated: 3/18/2016
-4 NORTHSIDE HOSPITAL
-4 1000 Johnson Ferry Ad., N.E.
-‘ Atlanta, GA 30342
-i NICU Medical Director: Kenneth Kupke, MD
-| (P): (404)252-9761; (F); (404)851-8249
-Q Emall: kkupke@mindspring.com
-4 Director of NICU High Risk Follow-Up Clinic:
-i Sandy Jun, MD
-4 NICU (P): (404)845-5780; NICU (F): (404)845-57
-| Level IIB; NICU Beds: 125
-4 Neonatologists:
-ANDERSON, SUSAN
-i DAVEY, DREW M.
-i DUDLEY, KAREN
-é DROHAN, LAURA
-i HAMRE, SHARON
-HINKES, MICHAEL T.
-j INGRAM, TREVA
-JOSE, JAMES H.
-i JUN, SANDY
-| KAPASI, MUNIR
-i KEYES, WILLIAM G.
-‘ KUPKE, KENNETH G.
-hl MANAR, MARTHA
-MANTILLA, GONZALO
-i MILLER, (DAVIN) JON
-foo: MOORE, MARGARET
-pio. SPAFFORD, PATRICK S,
-ia SRIVATSA, BHARATH
-SYSYN, GREGORY
-f TROYER, WENDY
-: WALLIN, LAWRENCE
-‘ WALSON, KAREN
-Updated: 6/2/2014
-AUGUSTA, GA
-: DOCTORS HOSPITAL OF AUGUSTA
+NORTHSIDE HOSPITAL
+1000 Johnson Ferry Ad., N.E.
+Atlanta, GA 30342
+Level IIIB; NICU Beds: 125
+Neonatologists: 22
+Neonatologists names: Susan Anderson; Drew Davey; Karen Dudley; Laura Drohan; Sharon Hamre; Michael Hinkes; Treva Ingram; James Jose; Sandy Jun; Munir Kapasi; William Keyes; Kenneth Kupke; Martha Manar; Gonzalo Mantilla; Jon Miller; Margaret Moore; Patrick Spafford; Bharath Srivatsa; Gregory Sysyn; Wendy Troyer; Lawrence Wallin; Karen Walson
+
+DOCTORS HOSPITAL OF AUGUSTA
 3651 Wheeler Rd.
-: Augusta, GA 30909-6426
-NICU Medical Director: Cecli Sharp, MD
-| (P): (706)774-2891
-: NICU {P): (706)651-6636
+Augusta, GA 30909-6426
 Level IIB; NICU Beds: 6
-i Neonatologists:
-i Refer to Neonatologists Group of Universily
-: Hospital of Augusta, GA
-Updated: 4/8/2014
-*MEDICAL COLLEGE OF GEORGIA HOSPITAL
+Neonatologists:
+Refer to Neonatologists Group of University Hospital of Augusta, GA
+
+MEDICAL COLLEGE OF GEORGIA HOSPITAL
 Section of Neonatology
 BIW 60334
-: Augusta, GA 30912
-| Division Chief: Jatinder Bhatia, MD
-(P): (706)721-2381 ; (F): (706)721-7531
-Emali: Jatindeb@mall.mcg.edu
-Training Program Director: Jatinder Bhatia, MD
-Bt (P): (706)721-2331 ; (F): (706)721-7531
-hd Email: jatindeb@mail,meg.edu
-oan NICU Medical Director: Jatinder Bhatia, MD
-ant (P): (708)721-2331 ; (F): (706)721-7531
-: | : Email: Jatindeb@mall.mcg.edu
-| ie Director of NICU High Risk Follow-Up Clinlc:
-: a Chantrapa Bunyapen, MD
-ie
-a
-at |
+Augusta, GA 30912
+Level IIIC; NICU Beds: 40
+Neonatologists: 4
+Neonatologists names: Jatinder Bhatia; Frederick Boedy; Chantrapa Bunyapen; Oommen Mathew
 
-NICU (P): (706)721-2286; NICU (F): (706)721-86
-Level IlIC; NICU Beds: 40
-Neonatologists:
-BHATIA, JATINDER J.S.
-BOEDY, R. FREDERICK
-BUNYAPEN, CHANTRAPA
-MATHEW, OOMMEN :
-Updated: 5/12/2011
 UNIVERSITY HOSPITAL
-784 Newborn Services
-1350 Waltan Way
+Newborn Services
+1350 Walton Way
 Augusta, GA 309014
-NICU Medical Director: A. Vincent Brawley, MD
-(P): (706)774-2891 ; (F): (708)774-8712
-Email: vince_brawley @pediatrix.com
-NICU (P): (706)774-2591: NICU (F): (706)774-26
-Level HIA; NICU Beds: 25
-Neonatologists:
-BARTLEY, JOHN
-BLALOCK, ALLEN
-BRAWLEY, A. VINCENT
-SHARP, CECIL G,
-Updated: 4/8/2011
-AUSTELL, GA
+Level IIIA; NICU Beds: 25
+Neonatologists: 4
+Neonatologists names: John Bartley; Allen Blalock; Vincent Brawley; Cecil Sharp
+
 WELLSTAR COBB HOSPITAL
 3950 Austell Rd.
 Austell, GA 30106
-NiCU Medical Director: J. Michael Metcalf, MD
-(P): (770)793-7230: (F): {770)793-7805
-NICU (P): (770)732-4418; NICU (F): (770)732-44
 Level IIIB; NICU Beds: 20
-Neonatologists:
-Refer to Neonatologists Group of Kennestone
-Hospital, Marietta, GA
-LIPSON, RACHEL
-METCALF, J. MICHAEL
-Updated: 3/22/2014
-COLUMBUS, GA
-THE MEDICAL CENTER OF COLUMBUS
-GEORGIA
+Neonatologists: 2
+Refer to Neonatologists Group of Kennestone Hospital, Marietta, GA
+Neonatologists names: Rachel Lipson; Michael Metcalf
+
+THE MEDICAL CENTER OF COLUMBUS GEORGIA
 The Medical Center
 710 Center St.
 P.O, Box 951
 Columbus, GA 31909
-NICU Medical Director: David Levine, MD
-(P): (706)571-1692; (F}: (706)660-6504
-L Email: david.levine @cehs.net
-Director of NICU High Risk Follow-Up Cfinic:
-Louis |. Levy, MD
-Email: touls.levy@cths.net
-NICU (P): (706)571-1014; NICU (F): (706)571-18
 Level IIIB; NICU Beds: 28
-Neonatologists:
-) CHEN, MAURICE (JERRY}
-LEVINE, DAVID
-LEVY, LOUIS |.
-RESNICK, PETER
-Updated: 2/2/2014
-CONYERS, GA
-ROCKDALE MEDICAL CENTER
-29
+Neonatologists: 4
+Neonatologists names: Maurice Chen; David Levine; Louis Levy; Peter Resnick
 
-638 1412 Milstead Ave.
+ROCKDALE MEDICAL CENTER
+1412 Milstead Ave.
 Conyers, GA 30012
-NICU Medical Director: Danni Suskin, MD
-NICU (P): (770)918-3652; NICU (F): (770)918-:
 Level IIIB; NICU Beds; 22
 Neonatologists:
-Refer to Neonatologisis Group of Gwinnett
-Hospital System, Lawrenceville, GA
-Updeted: 8/8/2011
-CUMING, GA
+Refer to Neonatologisis Group of Gwinnett Hospital System, Lawrenceville, GA
+
 NORTHSIDE FORSYTH HOSPITAL
-) 1200 Northside Forsyth Dr.
+1200 Northside Forsyth Dr.
 Cuming, GA 30041
-NICU Medical Director: Lawrence Wailin, MD
-664 {P): (678)890-5824
-NIGU (P): (770)292-2944: NICU (F): (770)292-:
-Level illA; NICU Beds: 16
-Neonatologiste:
-MILLER, JON DAVIN
-WALLIN, LAWRENCE
-Updated: 8/15/2011
-DECATUR, GA
+Level IIIA; NICU Beds: 16
+Neonatologists: 2
+Neonatologists names: Jon Miller; Lawrence Wallin
+
 DEKALB MEDICAL NORTH DECATUR
-2701.N. Decatur Ad.
-Decatur, GA 36033
-NICU Medicai Director: J. Michael Armand, M
-(P): (404)}501-1843; (F): (404)501-1837
-Email: michael_armand @pediatrix.com
-424 NICU (P): (404}501-2100; NICU (F): (404)501-:
-Level 11IB; NICU Beds: 92
-Neonatolagists:
-ARMAND, J, MICHAEL
-: CARRILLO, PETER
-COBB, BRIDGETT
-DelPORTILLO, MADELEINE .
-LORD, LAURA S.
-Updated: 9/10/2010
-FAYETTEVILLE, GA
+2701 N. Decatur Ad.
+Decatur, GA 30033
+Level IIIB; NICU Beds: 92
+Neonatologists: 5
+Neonatologists names: Michael Armand; Peter Carrillo; Bridgett Cobb; Madeleine DelPortillo; Laura Lord
+
 PIEDMONT FAYETTE HOSPITAL
-1255 Highway 64 West
+1255 Highway 54 West
 Fayetteville, GA 30214
-NICU Medical Director: Roderick Robinson, V
-(P): (770)719-6826; (F): (770)718-6325
-Level 1B; NICU Beds: §
-Neonatologists:
-~ DWYER, MICHAEL
-GUTTENBERG, NEAL
-IYER, RAVI
-JOHNSON, SCOTT
-330 PARELLADA, JORGE
-RANGANTHAN, DEEPA
-ROBINSON, RODERICK
-Updated: 9/4/2009
-FORT OGLETHORPE, GA
+Level IIB; NICU Beds: §
+Neonatologists: 7
+Neonatologists names: Michael Dwyer; Neal Guttenberg; Ravi Iyer; Scott Johnson; Jorge Parellada; Deepa Ranganathan; Roderick Robinson
+
 HUTCHESON MEDICAL CENTER
 100 Gross Crescent Circle
 Fort Oglethorpe, GA 30742
-NICU Medical Director: Gary L. Beli, MD
-{P}: (423)778-6170; (F): (423)778-6938
-
-» NICU (P): (706)858-2457; NICU (F): (706)858-2689
-Level iB; NICU Beds: 6
-i Neonatotogists:
-883 Refer to Neonatologists Group of T.C, Thompson
-j Children’s Hospital, Chattanooga, TN
-‘ Updated: ofts/20tt
-, _ GAINESVILLE, GA
-* NORTHEAST GEORGIA MEDICAL CENTER
-; 743 Spring St.
-Galnesville, GA 30501
-} NICU Medical Director: James Holcomb, MD
-_-{P): (678)862-1018; (F): (678)897-2101
-i NICU {P): (770)535-3546; NICU (F): (770)531-3878
-Level IIIB; NICU Beds: 26
-* = Neonatologists:
-817 GABRERA, CYNTHIA A.
-’ > CASTILLO, ARMANDO R.
-: HOLCOMB, JAMES W.
-“= Updated: 1/17/2009
-/ LAWRENCEVILLE, GA
-‘GWINNETT HOSPITAL SYSTEM
-. 650 Medical Center Blvd.
-) Lawrenceville, GA 30045
-= NICU Medical Director: Dan Suskin, MD
-| (P): (678)442-3958; (F): (770)822-6101
-> Emall: gwinneo@mindspring.com
-"NICU (P): (678)312-3970; NICU (F): {770)682-2206
-. = Level HIB; NICU Beds: 28
-‘487. Neonatolagists:
-ye AHMAD, RIAD
-“LEIGH, LESLIE D.
-» | RAJASEKARAN, PALANISAMY
-_ SUSKIN, DAN
-} = Updated: 4/8/2011
-» MACON, GA
-. = COLISEUM MEDICAL CENTER
-" {2 850 Hospital Dr.
-5 Macon, GA 31213
-. NICU Medical Director: Misael Rodriguez, MD
-: NICU (P): (478)765-4436; NICU (F): (478)765-4354
-Level HIB; NICU Beds: 13
-") © Neonatologiste:
-, CONNER, EDWARD D,
-; RODRIGUEZ, MISAEL
-. Updated: 8/13/2010
-: THE CHILDREN'S HOSPITAL OF MCCG
-777 Hemlock St.
-; P.O, Box 63
-; Macon, GA 31208-6000
-_ ___ NICU Medical Director: Misael Rodriguez, MD
-* _- (P).(478)693-1626; (F); (478)633-2558
-\ Email: neomitch@aol.com
-“NICU (P): (478)639-1299; NICU (F): (478)633-2558
-Level IIIB; NICU Beds; 42
-Neonatologiste:
-; RODRIGUEZ, MISAEL
-, Updated: 4/2014
-/ MARIETTA, GA
-WELLSTAR KENNESTONE HOSPITAL
-
-677 Church St.
-Marletta, GA 30060 |
-NICU Medical Director: Brenda L. Marino, MD
-(P): (770)427-4032; {F): (770)793-7908 |
-NICU (P): (770)793-8030; NICU (F): (770)793-9947
-Level IliB; NICU Beds: 24
-Neonatolagiste:
-CASANOVA, EMMA 8S.
-LIPSON, RACHAEL
-MARINO, BRENDA L.
-METCALF, JAMES M.
-Updated: 9/40/2016
-RIVERDALE, GA
-SOUTHERN REGIONAL MEDICAL CENTER
-1i Upper Riverdale Ad
-Alverdale, GA 30274-2600
-NICU Medica! Director: Adegboyega Aderibighe,
-MD
-(P): (770}991-8288; (F): (770)909-2070
-Email: ade_aderibigbe@ pediatrix.com
-NICU {P): (770)991-8297; NICU (F): (770)909-2088
-Levelt IIIB; NICU Beds: 30
+Level IIB; NICU Beds: 6
 Neonatologists:
-ADERIBIGBE, ADEGBOYEGA
-VELEZ, FRANCISCO J.
-Updated: 2/23/2017
-ROME, GA
+Refer to Neonatologists Group of T.C, Thompson Children’s Hospital, Chattanooga, TN
+
+NORTHEAST GEORGIA MEDICAL CENTER
+743 Spring St.
+Gainesville, GA 30501
+Level IIIB; NICU Beds: 26
+Neonatologists: 3
+Neonatologists names: Cynthia Cabrera; Armando Castillo; James Holcomb
+
+GWINNETT HOSPITAL SYSTEM
+550 Medical Center Blvd.
+Lawrenceville, GA 30045
+Level IIIB; NICU Beds: 28
+Neonatologists: 4
+Neonatologists names: Riad Ahmad; Leslie Leigh; Palanisamy Rajasekaran; Dan Suskin
+
+COLISEUM MEDICAL CENTER
+350 Hospital Dr.
+Macon, GA 31213
+Level IIIB; NICU Beds: 13
+Neonatologists: 2
+Neonatologists names: Edward Conner; Misael Rodriguez
+
+THE CHILDREN'S HOSPITAL OF MCCG
+777 Hemlock St.
+P.O, Box 63
+Macon, GA 31208-6000
+Level IIIB; NICU Beds: 42
+Neonatologists: 1
+Neonatologists names: Misael Rodriguez
+
+WELLSTAR KENNESTONE HOSPITAL
+677 Church St.
+Marietta, GA 30060
+Level IIIB; NICU Beds: 24
+Neonatologists: 4
+Neonatologists names: Emma Casanova; Rachael Lipson; Brenda Marino; James Metcalf
+
+SOUTHERN REGIONAL MEDICAL CENTER
+11 Upper Riverdale Rd
+Riverdale, GA 30274-2600
+Levelt IIIB; NICU Beds: 30
+Neonatologists: 2
+Neonatologists names: Adegboyega Aderibigbe; Francisco Velez
+
 FLOYD MEDICAL CENTER
-304 Turner McCall Bivd.
+304 Turner McCall Blvd.
 P.O, Box 233
 Rome, GA 30162-0233
-NICU Medical Director: John Moss, MD
-NICU (P): (706)509-6515; NICU (F): (708)509-65168
 Level IIiA; NICU Beds: 18
-Neonatologists:
-CASON, DANA
-MOSS, JOHN
-Updated: 3/8/2011
-ROSWELL, GA
+Neonatologists: 2
+Neonatologists names: Dana Cason; John Moss
+
 NORTH FULTON REGIONAL HOSPITAL
 3000 Hospital Blvd.
 Roswell, GA 30076
-NICU Medical Director: Al Rabbatt, MD
-(P): (770)379-9703; (F): (770)379-9703
-Email: mrabbat@comcast.net
-NICU (P): (770)751-2645; NICU (F): (770)751-2918
-Level lilA; NICU Beds: 8
+Level IIIA; NICU Beds: 8
 Neonatologists:
-AHMAD, RIAD
-RABBATT, AL
-Updated; 4/5/2011
-SAVANNAH, GA
-MEMORIAL HEALTH UNIVERSITY MEDICAL
-CENTER - 8ACKUS CHILDREN'S HOSPITAL
-4700 Waters Ave.
-P.O, Bax 23089
-Savannah, GA 31403-3089
-NICU Medical Director: Linda M. Sacks, MD; Mark
-Wright, MD
+Neonatologists names: Riad Ahmad; Al Rabbatt
 
-(P): (912)350-5915; (F): (912)350-5930
-Email: sacksli1 @memorialhealth.com;
-ignhmai @memorialheatth.com
-Director of NICU High Risk Follow-Up Clinic:
-Nancy 8. Shull, MD
-NICU (P}; (912)350-8202; NICU (F): (912)950-7906
+MEMORIAL HEALTH UNIVERSITY MEDICAL CENTER - BACKUS CHILDREN'S HOSPITAL
+4700 Waters Ave.
+P.O. Box 23089
+Savannah, GA 31403-3089
 Level IIIB; NICU Beds: 44
-Neonatologists:
-BUCKER, BRADLEY
-EADES, ELEANOR 8. .
-FRIEDMAN, MICHAEL
-SACKS, LINDA M.
-SANDLER, DANIEL
-SHULL, NANCY B.
-TURNER, PAT
-WRIGHT, MARK S.
-Updated: 4/6/2011
+Neonatologists: 8
+Neonatologists names: Bradley Bucker; Eleanor Eades; Michael Friedman; Linda Sacks; Daniel Sandler; Nancy Shull; Pat Turner; Mark Wright
+
 ST. JOSEPH'S/CHANDLER
 5353 Reynolds St.
 Savannah, GA 31405
-NICU Medical Diractor: Nancy B. Shull, MD
-(P): (912)350-5915; (F): (912)350-5830
-Emall: shulinal@memorialhealth.com
-NICU (P); (912)692-6426
 Level IIA; NICU Beds: 4
-Neonatologiste:
-Refer to Neanatologists Group of Memorlal
-Health University Medical Genter - Backus
-Children's Hospital, Savannah, GA
-Updated: 3/18/2071
-STOCKBRIDGE, GA
-HENRY MEDICAL CENTER
-4133 Eagle's Landing Parkway
-Stockbridge, GA 30281
-NICU Medica! Director: Michael Dwyer, MD
-(P): (678)604-3260
-Level IIIA; NICU Beds: 28
 Neonatologists:
-DWYER, MICHAEL
-IYER, RAVI
-ROBINSON, RODERICK
-Updeted: 2/10/2009
-HONOLULU, HI
-KAISER PERMANENTE MEDICAL CENTER-
-HAWAII
-3288 Moanalua Rd.
-Honolulu, Hi 96849
-NICU Medical Director: Judd Boloker, MD
-(P): (808)432-8540; (F): (808)432-8561
-NIGU (P): (808)432-8540; NICU (F): (808)432-8561
-Level 1B; NICU Beds: 21
-Neonatologists:
-BOLOKER, JUDD
-CHIU, LOIS
-Updated: 7/25/2010
-*KAPI'OLAN] MEDICAL CENTER FOR WOMEN
-AND CHILDREN
-1319 Punahou St.
-Honolulu, Hi 96826
-University Affillation: University of Hawaii
+Refer to Neanatologists Group of Memorial Health University Medical Genter - Backus Children's Hospital, Savannah, GA
 
-if
-{i
-| Division Chief: Venkataraman Salaraman, MD
-| {P): (808)963-67 18; (F): (808)983-6392
-i Emall: vbalaraman@kaplolani.org
-i Training Program Director: Sarah Lentz-Kapua,
-j MD
-j (P): (808)433-5910; (F): (B08)433-4837
-; Emall: sarah.Jentz@us.army.mil
-: NICU Medical Director; Charles R. Neal, MD
-i (P): (808)983-8670; (F): (808)983-6392
-| Email: cneal@kapiolanl.org
-i Director of NICU High Risk Follow-Up Clinic:
-Caro! Hiral, MD
-Email: carolH@kapiotani.org
-‘ NICU (P); (808)983-8673; NICU (F): (808}983-65:
+HENRY MEDICAL CENTER
+1133 Eagle's Landing Parkway
+Stockbridge, GA 30281
+Level IIIA; NICU Beds: 28
+Neonatologists: 3
+Neonatologists names: Michael Dwyer; Ravi Iyer; Roderick Robinson
+
+
+KAISER PERMANENTE MEDICAL CENTER - HAWAII
+3288 Moanalua Rd.
+Honolulu, HI 96849
+Level IIIB; NICU Beds: 21
+Neonatologists:
+Neonatologists names: Judd Boloker; Lois Chiu
+
+KAPI'OLANI MEDICAL CENTER FOR WOMEN AND CHILDREN
+1319 Punahou St.
+Honolulu, HI 96826
 Level IIIC; NICU Beds: 55
-i Neonatologisis:
-ASH, KENNETH M.
-BALARAMAN, VENKATARAMAN
-: HIRAI, CAROL
-: IWAMOTO, LYNN
-; KABBUR, PRAKASH
-KUO, SHEREE
-LENTZ-KAUPLA, SARAH
-, LOO, SHERRY W.H.
-a MEISTER, JOAN C.
-a MURAI, DANIEL T.
-fos NAKAMURA, KENNETH T.
-iG NEAL, CHARLES R.
-jo OLIVEROS, MILETTE
-SOOD, SHEHA
-: THOENG, TIONG
-WEIS, CARLA
-: Updated: 2/1/201
-TRIPLER AMC, HI
+Neonatologists: 16
+Neonatologists names: Kenneth Ash; Venkataraman Balaraman; Carol Hirai; Lynn Iwamoto; Prakash Kabbur; Sheree Kuo; Sarah Lentz-Kaupla; Sherry Loo; Joan Meister; Daniel Murai; Kenneth Nakamura; Charles Neal; Milette Oliveros; Sheha Sood; Tiong Thoeng; Carla Weis
+
 TRIPLER ARMY MEDICAL CENTER
 Department of Pediatrics
 1 Jarrett White Rd.
 Tripler AMC, HI 96859-5000
-NICU Medical Director: Danielle Bird, MD
-Emall: danielle.bird@us.army.mil
-NICU (P): (808)433-5723; NICU (F): (808)493-60¢
-Level IIB; NICU Beds: 18
-Neonatologists:
-BIRD, DANIELLE
-HUDAK, JOSEPH
-LENTZ-KAPUA, SARAH
-SAWYER, TAYLOR
-TYREE, MELISSA
-H TYREE, KREANGKAI
-VEDDER, TIMOTHY
-Updated; 2/2/2011
-| CEDAR RAPIDS, 1A
-{
-| MERCY HOSPITAL
-701 10th St, SE
-Cedar Rapids, !A 52408-1272
-i NICU Medical Director: Roger L. Allen, MD
-ff (P): (819)221-8889
-1! Email: rlallon@mercycare.org
-| fi Director of NICU High Risk Follow-Up Cline:
-| : Roger L. Allen, MD
-ia. Email: rlallen@meroycare.arg
-k NICU (P): (819)398-6326
-le
-in
-pod
+Level IIIB; NICU Beds: 18
+Neonatologists: 7
+Neonatologists names: Danielle Bird; Joseph Hudak; Sarah Lentz-Kapua; Taylor Sawyer; Melissa Tyree; Kreangkai Tyree; Timothy Vedder
 
-Level HIB; NICU Beds: 10
-Neonatologists:
-ALLEN, ROGER L.
-, SHERROW, NICHOLAS
-Updated: 4/28/2011
+MERCY HOSPITAL
+701 10th St. SE
+Cedar Rapids, IA 52408]3-1272
+Level IIB; NICU Beds: 10
+Neonatologists: 2
+Neonatologists names: Roger Allen; Nicholas Sherrow
+
 ST. LUKE’S HOSPITAL
 1026 A. Avenue NE
 CWCH 2-2
-Cedar Rapids, JA 52406-3026
-NICU Medical Director: Dennis A. Rosenblum, 4
-(P): (319)369-8160; (F): (819)369-8668
-NICU (P): (379)369-7724; NICU (F): (819)369-89:
-oo ~~ Level IIIB; NICU Beds: 22
-Neonatologists:
-NORDINE, ANDREW C.
-ROSENBLUM, DENNIS A.
-Updated: 6/2/2009
-DAVENPORT, JA
+Cedar Rapids, IA 52406-3026
+Level IIIB; NICU Beds: 22
+Neonatologists: 2
+Neonatologists names: Andrew Nordine; Dennis Rosenblum
+
 GENESIS MEDICAL CENTER
-4227 E, Rusholme St.
-Davenport, JA 52803
-NICU Medica! Director: Zahi Zeidan, MD
-(P): (563)421-7749: (F): (663)421-7759
-Email: zeidanz@genesishealth.com
-NICU (P}: (563)421-7740; NICU (F): (563)421-77!
-Level 1HA; NICU Beds: 14
-Neonatolagists:
-Refer to Neonatologists Group of University of
-lowa Children’s Hospital, lowa City, 1A
-Updated: 3/31/2011
-DES MOINES, [A
+1227 E. Rusholme St.
+Davenport, IA 52803
+Level IIIA; NICU Beds: 14
+Neonatologists:
+Refer to Neonatologists Group of University of Iowa Children’s Hospital, Iowa City, IA
+
 BLANK CHILDREN'S HOSPITAL
 1200 Pleasant St.
 Des Moines, 1A 50309 :
