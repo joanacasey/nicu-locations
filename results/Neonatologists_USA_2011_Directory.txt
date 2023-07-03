@@ -2788,14 +2788,14 @@ WOMEN & CHILDREN'S HOSPITAL
 4200 Nelson Rd.
 Lake Charles, LA 70605
 Level IIIB; NICU Beds: 20
-Neonatologlats:
+Neonatologlats: 2
 Neonatologists names: Juan Bassano; Chih-Hao Lin
 
 WEST JEFFERSON MEDICAL CENTER
 1101 Medical Center Blvd.
 Marrero, LA 70072
 Level IIIA; NICU Beds: 15
-Neonatologists:
+Neonatologists: 3
 Neonatologists names: Maria Bautista; Juan Gershanik; Olivier Thelin
 
 EAST JEFFERSON GENERAL HOSPITAL
@@ -2809,7 +2809,7 @@ TULANE LAKESIDE HOSPITAL
 4700 South I-10 Service Road
 Metairie, LA 70001
 Level IIIB; NICU Beds: 25
-Neonatologists:
+Neonatologists: 6
 Neonatologists names: Euming Chong; William Gill; Philip Gordon; Bertha Martinez; Bertha Martinez; Jane Reynolds
 
 ST. FRANCIS MEDICAL CENTER
@@ -2817,7 +2817,7 @@ Box 1401
 309 Jackson St.
 Monroe, LA 71210
 Level IIIB; NICU Beds: 35
-Neonatcloglsts:
+Neonatcloglsts: 2
 Neonatologists names: Marc deSoler; Carmen Payne
 
 CHILDREN'S HOSPITAL OF NEW ORLEANS
@@ -2825,368 +2825,112 @@ LSU HEALTH SCIENCE CENTER
 200 Henry Clay Ave.
 New Orleans, LA 70118
 Level IIIC; NICU Beds: 35
-Neonatologists:
-Neonatologists names: 
-ALBRECHT, DIANNE J.
-BARKEMEYER, BRIAN
-BUIS, MARLENE
-OLISTER, STACI
-PENN, DUNA
-RIVERA, DANA
-YAZDANI MALEKTAJ
-ZATARAIN, JUDITH
-Updated; 4/6/2014
-41 OCHSNER FOUNDATION HOSPITAL
+Neonatologists: 7
+Neonatologists names: Dianne Albrecht; Brian Barkemeyer; Marlene Buis; Staci Olister; Duna Penn; Malektaj Yazdani; Judith Zatarain
+
+OCHSNER FOUNDATION HOSPITAL
 1516 Jefferson Hwy.
 New Orleans, LA 70121
-NICU Medical Director: Harley G. Ginsberg, MD
-(P): (604)842-3656; (F): (604)842-3475
-Email: hginsberg@ochsner.org
-NICU (P): (504)842-3650; NICU (F): (604)842-54
-Level! IllIC; NiCU Beds: 36
-Neonatologists: -
-CORTEZ, MATTHEW
-GINSBERG, HARLEY G.
-LUNYONG, VICTOR
-90 TILLIS, CEA
-Updated: 9/24/2010
-TOUAO INFIRMARY
+Level! IIIC; NICU Beds: 36
+Neonatologists: 4
+Neonatologists names: Matthew Cortez; Harley Ginsberg; Victor Lunyong; Cea Tillis
+
+TOURO INFIRMARY
 1401 Foucher St.
 New Orleans, LA 70115
-NICU Medical Director: Staci Olister, MD
-NICU (P): (504)897-8100; NICU (F): (604)897-85
-Level iliB; NICU Beds: 16
+Level IIIB; NICU Beds: 16
 Neonatologists:
-Refer to Neonatologists Group of Children's
-Hospital of New Orleans, New Orleans, LA
-Updated: 4/6/2011
-SHREVEPORT, LA
+Refer to Neonatologists Group of Children's Hospital of New Orleans, New Orleans, LA
+
 LOUISIANA STATE UNIVERSITY HEALTH
-*SCIENCES CENTER, SHREVEPORT
+SCIENCES CENTER, SHREVEPORT
 Department of Pediatrics - Neonatology
 99 P.O, Box 33932
 Shreveport, LA 71103-3932
-University Affiliation: LGU HSC-S
-Divislon Chief: Winston Koo, MD
-(P): (818)675-7276; (F): (318)875-4660
-Email: wkoo@lsuhse.edu
-Training Program Director: Arun K. Pramanik,
-(P): (318)675-7276; (F}: (818)675-4660
-Emall: aprama@isuhsc.edu
-NICU Medica! Director: Winston Koo, MD
-(P): (818)675-8076; (F): (218)675-6059
-Email: wkoo@lsuhsc.edu
-Director of NICU High Risk Foltow-Up Clinic:
-Ann Springer, MD
-41
+Level IIIC; NICU Beds: 45
+Neonatologists: 5
+Neonatologists names: Hassan Ibrahim; Winston Koo; Dalibor Kurepa; Arun Pramanik; Scott Walls
 
-Email: asprin@lsuhsc,edu
-NICU (P}: (818)675-7240; NICU (F): (318)675-
-Level tllC; NICU Beds: 45
-Neonatologlsts:
-) IBRAHIM, HASSAN
-KOO, WINSTON
-KUREPA, DALIBOR
-PRAMANIK, ARUN K,.
-715 WALLS, SCOTT
-Updeted: 5/6/2071
-SUTTON CHILDREN'S AT CHRISTUS
-SCHUMPERT HEALTH SYSTEM
+SUTTON CHILDREN'S AT CHRISTUS SCHUMPERT HEALTH SYSTEM
 1 St. Mary Place
 Shreveport, LA 71101
-NICU Medical Director: Julia A. Elrod, MD
-(P): (818)681-6853; (F): (818)681-6963
-NICU (P): (318)681-4316; NICU (F): (318)884-1
-Level I!IB; NICU Beds: 40
-Neonatologists:
-ELROD, JULIA A.
-PETTIT, LOREEN
-SIBLEY, SARA
-Updated: 10/18/2010
-° WILLIS KNIGHTON CENTER FOR WOMEN'S
-HEALTH
-43g 2510 Bert Kouns industrial Loop
-Shrevepon, LA 71118
-NICU Medloal Director: Gerald B, Whitton, MI
-(P); (318}212-5970; (F): (318)212-5975
-Emall: gwhitton@wkhs.com
-Director of NICU High Risk Follow-Up Clinic
-Chris Mangin, MD
-NICU (P): (318)212-5416; NICU (F): (318)212-!
+Level IIIB; NICU Beds: 40
+Neonatologists: 2
+Neonatologists names: Julia Elrod; Loreen Pettit; Sara Sibley
+
+WILLIS KNIGHTON CENTER FOR WOMEN'S HEALTH
+2510 Bert Kouns Industrial Loop
+Shreveport, LA 71118
 Level IIIB; NICU Beds: 42
-Neonatologiats:
-BONIFACIO, LEAH
-MANCHANDIA, BHARTI
-WHITTON, GERALD
-501 Updated: 10/18/2010
-SLIDELL, LA
-OCHSNER MEDICAL CENTER - NORTH SHC
+Neonatologists: 3
+Neonatologists names: Leah Bonifacio; Bharti Manchandia; Gerald Whitton
+
+OCHSNER MEDICAL CENTER - NORTH SHORE
 100 Medical Center Dr.
 Slidell, LA 70461
-NICU Medical Director: Matthew Cortez, MD
-NICU (P): (985)646-5630; NICU (F): (985)646-!
-Level IliB; NICU Beds: 10
-Neonatologlsts:
-CORTEZ, MATTHEW
-UWAIFO, OMOTOLA
-Updated: 8/24/2011
+Level IIIB; NICU Beds: 10
+Neonatologists: 2
+Neonatologists names: Matthew Cortez; Omotola Uwaifo
+
 SLIDELL MEMORIAL HOSPITAL
 1001 Gauss Blvd.
-Slidell, LA 70458 ~
-MD NICU Medica! Director: Judith Zatarain, MD
-(P): (985)649-8607; (F): (985)649-8661
-NICU (P): (885)649-8607; NICU (F): (985)649-¢
-Level JIIB; NICU Beds: 8
-Neonatolog|sts:
-Refer to Neonatologists Group of Children's
-Hospital of New Orleans, New Orleans, LA
-Updated: 4/6/2011
+Slidell, LA 70458
+Level IIIB; NICU Beds: 8
+Neonatologists:
+Refer to Neonatologists Group of Children's Hospital of New Orleans, New Orleans, LA
 
-iggy BEVERLY MA
-‘aay Hertok St. .
-ih MA 01916-1777
-‘ _Nicu Medival Director: Tal H. Tran, MD
-yo (P): (978)922-3000 Ext. 2197; (F): (978)524-7901
-“4 mall {ran@ahsheallh.org |
-} NICU (Py: (978)922-3000 Ext. 2270; NICU (F): |
--(978)624-7001
-eel; NICU Beds: 12 |
-\ _ Neonatologists: |
-> guLic, VANA |
-: YEROZOLIMSKY, GEORGE
-* updated: 3/11/2011
-BOSTON, MA
-‘975 BETH ISRAEL DEACONESS MEDICAL CENTER
-930 Brookline Ave.
-:  egoston, MA 02215
-_ tinleal Chief: DeWayne Purstey, MD
->| (Py: (617)687-3276; (F): (617)687-7040
-- férmall: dpurstey @bidme.harvard.edy
-? 4. NICU Medical Director: DeWayne M. Pursley, MD
-; AP): (617)667- 3276; (F): (617)867-7040
-/ | Eyalt: dpustey@bidme.harvard.edu
-, Director of NICU High Risk Follow-Up Clinic:
-“Jane E, Stewart, MD
-: NICU (P): (617)667-4042; NICU (F): (617)667-7793
-“Level {1t8; NICU Beds: 48
-: = Neonatatoglets:
-“|| BRODSKY, DARA
-5. BURRIS, HEATHER
-ggg COCHRAN, WILLIAM
-7" DUKHOVNY, DMITRY
-, = GRAY, JAMES
-7 = GREGORY, MARY
-. = GUPTA, MUNISH
-“32 HANSEN, ANNE
-. = LETT, JONATHAN
-“= MARTIN, CAMILIA
-‘s MCALMON, KAREN
-. MCCORMICK, MARIE
-\RE O'REILLY, DEIRDRE
-PURSLEY, DeWAYNE
-: RHEIN, LAWRENCE
-= SMITH, VINCENT
-4301. STEWART, JANE
-. ». TRAN, TAI
-: ZUPANGIC, JOHN
-. = Updated: 4/15/2014
-___ BOSTON MEDICAL CENTER
-» 771 Albany St.
-. Dowling 4 N.
-/ Boston, MA 02118
-_ __ Division Chief: Mark Mirachnick, MO
-» AP): (697)414-8764; (F): (617)414-7297
-\ Email; markm@bu.edu
-361 NICU Medteal Director: Alan Fuji, MD
-» AP): 617)414-5464; (F): (617)414-7207
-, Emalt; alan.tuji@bme.org
-: NICU (P): (617)4 14-4359; NICU (F): (617}414-4361
-"Level tilts; NICU Beds: 16
-: Noonatolagiste:
-h f
+BEVERLY HOSPITAL
+85 Herrick St.
+Beverly, MA 01915-1777
+Level IIB; NICU Beds: 12
+Neonatologists: 2
+Neonatologists names: Ivana Culic; George Yerozolimsky
 
-COLE, CYNTHIA t
-FUJI, ALAN M.
-KAMHOLZ, KAREN L.
-MIROCHNICK, MARK H.
-PARKER, MEG
-SINHA, BHARATI
-WANG, ALICE
-Updated: 12/6/2040
+BETH ISRAEL DEACONESS MEDICAL CENTER
+330 Brookline Ave.
+Boston, MA 02215
+Level IIIB; NICU Beds: 48
+Neonatalogists: 19
+Neonatologists names: Dara Brodsky; Heather Burris; William Cochran; Dmitry Dukhovny; James Gray; Mary Gregory; Munish Gupta; Anne Hansen; Jonathan Litt; Camilia Martin; Karen McAlmon; Marie McCormick; Deirdre O'Reilly; DeWayne Pursley; Lawrence Rhein; Vincent Smith; Jane Stewart; Tai Tran; John Zupancic
+
+BOSTON MEDICAL CENTER
+771 Albany St.
+Dowling 4 N.
+Boston, MA 02118
+Level IIIB; NICU Beds: 16
+Neonatologists: 7
+Neonatologists names: Cynthia Cole; Alan Fujii; Karen Kamholz; Mark Mirochnick; Meg Parker; Bharati Sinha; Alice Wang
+
 BRIGHAM AND WOMEN'S HOSPITAL
 75 Francis St.
 Boston, MA 02115
-Clinica! Chlef: Steven Ringer, MD, Ph.D.
-(P): (617)732-7789; (F): (617)232-3676
-Emall: sringer@pariners.org
-NICU Medical Director: Robert Insoft, MD
-(P): (617)732-6125; (F): (617)232-3675
-Email: rinsoft@ pariners.org
-NICU (P): (817)732-5420; NICU (F): (617)732-7619
-Level IHB; NICU Beda: 48
-Neonatologists:
-CATALTEPE, SULE
-CHAISTOU, HELEN A,
-INSOFT, ROBERT
-KOUREMBANAS, STELLA .
-LEROU, PAUL
-PARAD, RICHARD B.
-PUOPOLO, KAREN
-RINGER, STEVEN A,
-VAN MARTER, LINDA J.
-Updatad: 4/16/2017
-CARITAS ST, ELIZABETH'S MEDICAL CENTER
+Level IIIB; NICU Beda: 48
+Neonatologists: 9
+Neonatologists names: Sule Cataltepe; Helen Christou; Robert Insoft; Stella Kourembanas; Paul Lerou; Richard Parad; Karen Puopolo; Steven Ringer; Linda Van Marter
+
+CARITAS ST. ELIZABETH'S MEDICAL CENTER
 Department of Pediatrics
 SEMC, Quinn 200
 736 Cambridge St.
 Boston, MA 02135-2997
-NICU Medieat Director: Terri Gorman, MD
-(P): (817)779-6380; (F): (617)788-2735
-NICU (P); (617)562-7077; NICU (F): (617)562-7080
-Level tIIB; NICU Beds: 18
+Level IIIB; NICU Beds: 18
 Neonatologists:
-Refer to Neonatologists Group of Children’s
-Hospital, Boston, MA
-Updated: 9/24/2010
-*CHILDREN’S HOSPITAL BOSTON
+Refer to Neonatologists Group of Children’s Hospital, Boston, MA
+
+CHILDREN’S HOSPITAL BOSTON
 300 Longwood Ave.
 Enders 961
-Boston, MA 02116
-Division Chief: Stelia Kourembanas, MD
-(P): (617)919-255; (F): (617)730-0260
-Emalk: stella. kourembanas@childrens harvard.edu
-Training Program Director: John Zupanclc, MD,
-ScD.
-(P); (617)919-2341; (F): (617)730-0260
-Email: john.zupancic @childrens, harvard.edu
-NICU Medical Director: Anne Hansen, MD
-(P): (617}355-5443; (F): (617)730-0486
-Emall: anne.hansen@childrens.harvard.edu
-Director of NICU High Risk Follow-Up Clinle:
-Jane Stewart, MD
-Email: jane.stewart@chiidrens,harvard.edu
-NIGU (P): (617}355-8076; NICU (F): (617)730-0902
-Level f1IC; NICU Beds: 24
+Boston, MA 02115
+Level IIIC; NICU Beds: 24
+Neonatologists: 52
+Neonatologists names: Elisa Abdulhayoglu; Pankaj Agrawal; Muhammad Aslam; Mandy Belfort; Dara Brodsky; Heather Burris; Sule Cataltepe; Kimberlee Chatson; Helen Christou; John Cloherty; Jennifer Cohen; William Cochran; Ivana Culic; Elizabeth Doherty; Dmitry Dukhovky; Diana Gilson; Terri Gorman; James Gray; Mary Gregory; Munish Gupta; Anne Hansen; Matthew Hjort; Tanzeema Hossain; Robert Insoft; Stella Kourembanas; Paul Lerou; Bernadette Levesque; Jonathan Litt; Janet Lloyd; Andrea Magno; Camilla Martin; Karen Mc Almon; Marie Mc Cormick; Hang Nghiem-Rao; Deirdre O'Reilly; Richard Parad; Xianhua Piao; Karen Puopolo; DeWayne Pursley; Lawrence Rhein; Steven Ringer; Sadath Sayeed; Vincent Smith; Martha Sola-Visner; Jane Stewart; Silvia Testa; Tai Tran; Linda Van Marter; Marjorie Wilson; George Yerozolimsky; Eyad Zahr; John Zupancic
 
-Neonatolog!sts:
-ABDULHAYOGLU, ELISA
-AGRAWAL, PANKAJ
-ASLAM, MUHAMMAD
-BELFORT, MANDY BROWN
-BRODSKY, DARA
-BURRIS, HEATHER
-CATALTEPE, SULE
-CHATSON, KIMBERLEE E.
-CHRISTOU, HELEN A.
-CLOHERTY, JOHN P.
-COHEN, JENNIFEA
-COCHRAN, WILLIAM
-CULIC, IVANA
-DOHERTY, ELIZABETH
-DUKHOVNY, DMITRY
-GILSON, DIANA
-GORMAN, TERRI
-GRAY, JAMES E.
-GREGORY, MARY LUCIA
-GUPTA, MUNISH
-HANSEN, ANNE R.
-HJORT, MATTHEW
-HOSSAIN, TANZEEMA
-INSOFT, ROBERT
-KOUREMBANAS, STELLA
-LEROU, PAUL
-LEVESQUE, BERNADETTE
-LITT, JONATHAN
-LLOYD, JANET 8.
-MAGNO, ANDREA
-MARTIN, CAMILLA
-MC ALMON, KAREN R.
-MC CORMICK, MARIE
-NGHIEM-RAO, HANG
-O'REILLY, DEIRDRE
-PARAD, RICHARD B.
-PIAO, XIANHUA
-PUOPOLO, KAREN
-PURSLEY, DeWAYNE M.
-RHEIN, LAWRENCE
-RINGER, STEVEN A.
-SAYEED, SADATH
-SMITH, VINCENT
-SOLA-VISNER, MARTHA
-STEWART, JANE E. .
-TESTA, SILVIA
-TRAN, TA! H.
-VAN MARTER, LINDA J.
-WILSON, MARJORIE
-YEROZOLIMSKY, GEORGE
-ZAHR, EYAD
-ZUPANCIC, JOHN
-Updated: 4/15/2011
-*ELOATING HOSPITAL FOR CHILDREN AT
-TUFTS MEDICAL CENTER
-860 Washington St.
+FLOATING HOSPITAL FOR CHILDREN AT TUFTS MEDICAL CENTER
+800 Washington St.
 Boston, MA 02111
-Divislon Chief: Jonathan Davis, MD
-(P): (617)636-5322; (F): (617)636-1456
-Emall: jdavis@tuftsmedicaicenter.org
-Training Program Director: Christlane Dammann,
-MD
-(P): (617)636-5322; (F): (617)636-1456
-
-; Email: cdammann @tuftsmedicalcenter.org
-
-: NICU Medical Director: Sunita Pereira, MD
-
-4 (P): (617)636-7044; (F): (617)636-1456
-
-i Email: spereira@tuftsmedicalcenter.org
-Director of NICU High Risk Follow-Up Clinic:
-4 Elizabeth McGowan, MD
-
-q NICU (P): (617)636-5008; NICU (F): (617)636-¢
-4 Level IIB; NICU Beds: 41
-
-: Neonatologists:
-
-‘ BINNEY, JR., GEOFFREY G.
-
-4 CORDOVA, MARIO
-
-4 DAMMANN, CHRISTIANE
-
-a DAVIS, JONATHAN
-
-: DESIMONE, OLGA
-
-E FRANTZ, lit, IVAN D,
-
-; HARTMAN, TYLER
-
-EF HARVEY-WILKES, KAREN B.
-
-i KASAROGRU, HASENE OZLEM
-
-i KONOWITZ, LAURIE F.
-
-i MALAEB, SHADIN.
-
-| MARON, JILL L.
-
-i MCGOWAN, ELIZABETH C,
-
-i NIELSEN, HEBER C,
-
-‘ PEREIRA, SUNITA
-
-1: SEN, SARBATTAMA
-
-Ai SHEPHARD, BARBARA A.
-
-f | SILFAMAZARA, FRANCHEYSKA
-
-i VOLPE, MARYANN V.
-
-i Updated: 4/1/2011
+Level IIIB; NICU Beds: 41
+Neonatologists:
+Neonatologists names: Geoffrey Binney Jr.; 
 
 | i MASSACHUSETTES GENERAL HOSPITAL -
 - BLAKE 20
