@@ -2929,363 +2929,152 @@ FLOATING HOSPITAL FOR CHILDREN AT TUFTS MEDICAL CENTER
 800 Washington St.
 Boston, MA 02111
 Level IIIB; NICU Beds: 41
-Neonatologists:
-Neonatologists names: Geoffrey Binney Jr.; 
+Neonatologists: 19
+Neonatologists names: Geoffrey Binney Jr.; Mario Cordova; Christiane Dammann; Jonathan Davis; Olga Desimone; Ivan Frantz; Tyler Hartman; Karen Harvey-Wilkes; Hasene Kasarogru; Laurie Konowitz; Shadi Malaeb; Jill Maron; Elizabeth McGowan; Heber Nielsen; Sunita Pereira; Sarbattama Sen; Barbara Shepard; Francheyska Silfamazara; Maryann Volpe
 
-| i MASSACHUSETTES GENERAL HOSPITAL -
-- BLAKE 20
-
-H 32 Fruit St.
-
+MASSACHUSETTES GENERAL HOSPITAL - BLAKE 20
+32 Fruit St.
 Boston, MA 02114
+Level IIIC; NICU Beds: 31
+Neonatologists: 7
+Neonatologists names: Sanjay Aurora; Elizabeth Catlin; Steven Chin; Joseph Chou; Jonathan Cronin; Leslie Kerzner; Ting-Yi Lin
 
-HS NICU Medical Director: Jonalhan Cronin, MD
-i (P): (617)724-9040; (F): (617)724-9346
+ST. ELIZABETH'S MEDICAL CENTER
+736 Cambridge St.
+Boston, MA 02135
+Level IIIB; NICU Beds: 21
+Neonatologists:
+Neonatologists names: Charles Anderson; Mandy Belfort; Gopal Gupta; Terri Gorman; Shah Hossain; Philip James; Amy Knorr; Tamara Rousseau; Sadath Sayeed
 
-i Email: [hcronin@partners.org
-
-4 Director of NICU High Risk Follow-Up Clinic:
-iz Kalpathy Krishnamoorthy, MD
-
-i NICU (P): (617)724-4310; NICU (F): (617)724-4:
-| Level IIIC; NICU Beds: 31
-
-( Neonatologists:
-
-: AURORA, SANJAY
-
-i CATLIN, ELIZABETH A.
-
-i CHIN, STEVEN
-
-} CHOU, JOSEPH
-
-i CRONIN, JONATHAN H,
-
-H KERZNER, LESLIE
-
-LIN, TING-YI
-
-| : Updated: 8/29/2010
-
-Zz ST, ELIZABETH'S MEDICAL CENTER
-
-Z 736 Cambridge St.
-
-iz Boston, MA 02185
-
-i: Division Chief: Stella Kourembanes, MD
-
-A {P): (617)919-2355; (F): (617)730-0260
-
-' NICU Medical Director: Terri Gorman, MD (Acti
-(P): (617)779-6380; (F): (617)789-2735
-
-Hd i Emait: terri.gorman@childrens.harvard.edu
-
-| Director of NICU High Risk Follow-Up Clinic:
-F Charles Anderson, MD
-
-H NICU (P): (617)562-7077; NICU (F): (617)562-70
-| Level IIIB; NICU Beda: 21
-
-Hoi Neonatclogists:
-
-| i ANDERSON, CHARLES
-
-Hoe!
-
-H i i
-
-Lil
-
-A
-
-BELFORT, MANDY
-GUPTA, GOPAL
-GORMAN, TERRI
-HOSSAIN, SHAH
-JAMES, PHILIP
-KNORR, AMY
-$653 ROUSSEAU, TAMARA
-SAYEED, SADATH
-Updated: 9/13/2010
-BROCKTON, MA
-SIGNATURE HEALTHCARE BROCKTON
-HOSPITAL
+SIGNATURE HEALTHCARE BROCKTON HOSPITAL
 680 SE Centre St.
 Brockton, MA 02302
-NICU Medical Director: Hasene Kasaroglu, MI
-NICU (P): (508)947-7617; NICU (F); (508)941-€
 Level IIB; NICU Beds: 10
 Neonatologists:
-Refer to Neonatologists Group of Floating
-Hospital for Children at Tufts Medical Center,
-Boston, MA
-Updated: 4/7/2011
-CAMBRIDGE, MA
+Refer to Neonatologists Group of Floating Hospital for Children at Tufts Medical Center, Boston, MA
+
 MOUNT AUBURN HOSPITAL
 330 Mount Auburn St.
 Cambridge, MA 02238
-NICU Medical Director: Lucianee Sanchel, MD
-(P): (617)499-5595; (F}: (617)499-5103
-NICU (P): (617)499-5500; NICU (F): (617)499-6
-Level i1B; NICU Beds: 7
-Neonatologists:
-SANCHEL, LUCIANEE
-Updated: 4/1/2011
-, CONCORD, MA
+Level IIB; NICU Beds: 7
+Neonatologists: 1
+Neonatologists names: Luciane Sanchel
+
 EMERSON HOSPITAL
-348 433 Ornac
+133 Ornac
 Concord, MA 01742
-NICU Medical Director: Jonathan Cronin, MD
-(P): (617)724-9042
-NICU (P); (978)287-3315; NICU (F): (978}287-3:
 Level IIA; NICU Beds: 5
 Neonatologists:
-CRONIN, JOHATHAN
-MC MAHON, NANA G.
-Updated: 10/45/2010
-FRAMINGHAM, MA
+Neonatologists names: Jonathan Cronin; Nana McMahon
+
 METROWEST MEDICAL CENTER
 FRAMINGHAM UNION HOSPITAL
 Department of Pediatrics, 4th Floor
 115 Lincoln St.
-ing) Framingham, MA 01701
-NICU Medical Director: Geoffrey G. Binney, MC
-(P}: (508)383-1559; (F): (608)383-1548
-NICU (P}: (508)383-1474; NICU (F): (508)383-1 1
-Level 1B; NICU Beds: 12
-o80 ©«6=- Neonatologlsts:
-Refer to Neonatologists Group of Floating
-Hospital for Children at Tufts Medical Center,
-Boston, MA
-43
+Level IIB; NICU Beds: 12
+Neonatologlsts: Refer to Neonatologists Group of Floating
+Hospital for Children at Tufts Medical Center, Boston, MA
 
-Updated; 2/5/2014
-LAWRENCE, MA
 LAWRENCE GENERAL HOSPITAL
 1 General St.
 Lawrence, MA 01842
-NICU Medical Director: Francheyska Siltam:.
-MD
-NICU (P): (978)863-4000 Ext. 2662; NICU (F)
-(978)946-8044
 Level IIB; NICU Beds: 10
 Neonatologists:
-Refer to Neonatologisis Group of Children
-Tufts Medical Center, Boston, MA
-Updated: 2/26/2011
-Fagg LOWELL. MA
+Refer to Neonatologisis Group of Children Tufts Medical Center, Boston, MA
+
 LOWELL GENERAL HOSPITAL
 295 Varnum Ave.
 Lowell, MA 01864-2195
-t, NICU Medical Director: Marlo Cordova, MD
-(P): (978)937-6020; (F): (978)397-6903
-Emall: meordova@towaligeneral.org
-Director of NICU High Risk Follow-Up Cini
-Palge Church, MD
-NICU (P): (978)937-6032; NICU (F): (978)937
 Level IIIB; NICU Beds: 10
-Neonatologists:
->) BABA, TIMOTHY
-BINNEY, GEOFFREY
-5455 CORDOVA, MARIO
-GUERINA, NICHOLAS
-PEREIRA, SUNITA
-SUJATHA, RAMADURAI
-Updated: 10/15/2010
-MELROSE, MA
+Neonatologists: 6
+Neonatologists names: Timothy Baba; Geoffrey Binney; Mario Cordova; Nicholas Guerina; Sunita Pereira; Ramadurai Sujatha
+
 MELROSE WAKEFIELD HOSPITAL
 585 Lebanon St.
 Melrose, MA 02176
-NiCU Medical Director: Karen B. Harvey-Wilt
-MD
-3889 NICU (P): (781)979-6400; NICU (F): (781)979-
-Level (1B; NICU Beds: 10
-Neonatologlsts:
-Refer to Neonatologists Group of Floating
-Hospital for Children at Tufts Medical Cente
-Boston, MA
-Updated: 2/26/2011
-NEWTON, MA
+Level IIB; NICU Beds: 10
+Neonatologists:
+Refer to Neonatologists Group of Floating Hospital for Children at Tufts Medical Center Boston, MA
+
+
 NEWTON-WELLESLEY HOSPITAL
 2014 Washington St.
 Newton, MA 02462
-NICU Medical Director: Richard E. Wilker, ML
-p (P): (617)243-8731; (F): (617)243-6981
-Email: rwilker@partners.org
-187 NICU (P): (617)243-6728; NICU (F): (617)243-
-Level iB; NICU Beds: 12
-Neonatoiagists:
-ABDULHAYOGLU, ELISA
-MANNING, SIMON ©,
-PATRIZI, SILVIA
-WEISS, AMY R.
+Level IIB; NICU Beds: 12
+Neonatoiagists: 5
+Neonatologists names: Elisa Abdulhayoglu; Simon Manning; Silvia Patrizi; Amy Weiss; Richard Wilker
 
-; | WILKER, RICHARD E. |
-“Updated: gueott
-_ ypLxmouth MA
-‘  jyorvon HOSPITAL .
-aralp76 Gandwich St.
-sa mA 02360
-) [NICU Medical Direotor: Lorl Konowitz, MD
-i NICU (P): (608)030-22 15; NICU (F); (608)830-2260
-} | evel HB; nen Beds: 6
-} tologlats:
-h Neto ie Noonatologists Group of Floating
-. = Hospital for Children at Tufts Medical Center,
-’ = Boston, MA
-Updated: 2/26/2011
-_ | SALEM, MA
-"| NORTH SHORE MEDICAL CENTER
-+ |gt Highland Ave., MACOMBER6
-Salons, MA 01970
-NICU Medical Director: Sanjay Aurora, MD, MPH
-(P): (978)851-9322; (F); (978)825-6102
-|. | Director of NICU High Risk Foflow-Up Clinic:
-." | Sanjay Avrora, MD, MPR
-‘agoq_ NICU (P): (978)354-8314; NICU (F): 978)740-4713
-. Level {1B; NICU Beds: 12
-* 3 -Neonatologists:
-~ Refer to Neonatologists Group of Mass General
-* =) Hospital for Children, Brigham & Women's
-: = Hospital, Bosten, MA
-‘AURORA, SANJAY
-) _BILYK, IHOR
-__ NATHE, KATHERYN
-| Updated: 4/28/2011
-» SOUTH WEYMOUTH, MA
-._ SOUTH SHORE HOSPITAL
-“55 Fogg Rd,
-. _. South Weymouth, MA 02190
-“. _ NICU Medical Director: John Flascone, MD
-ye : {P): {781)340-8813; {F): (781)340-8741
-_ NICU (P): (781)340-8373; NICU (F): (781)340-3699
-“3410 Level IIIB; NICU Beds: 15
-_ = Neonateloglste:
-) . FIASCONE, JOHN
-. GILSON, DIANA
-” HWANG, SUNAH
-, = KUBICKA, ZUZANNA
-; = NGHIEM, HANG
-. == ROUSSEAU, TAMARA
-“5 ZAHA, FYAD
-; Updated: 9/19/2010
-, _ SPRINGFIELD, MA
-, _ BAYSTATE MEDICAL CENTER
-} & Newborn Medicine
-___ 758 Chestnut St.
-, 598 Springfield, MA 01199
-, _. NICU Medical Director: Gary Rockwell, MD
-: (P): {413)794-5370; (F): (413)794-6100
-, Emalt; bhavesh.shah@bhs.org
-: NICU (P): (443)794.5343; NICU (F): (413)794-3894
-» Level ii; NCU Beds: 55
+JORDON HOSPITAL
+275 Sandwich St.
+Plymouth, MA 02360
+Level IIB; NICU Beds: 6
+Neonatologlats:
+Refer to Neonatologists Group of Floating Hospital for Children at Tufts Medical Center, Boston, MA
 
+NORTH SHORE MEDICAL CENTER
+81 Highland Ave., MACOMBER6
+Salem, MA 01970
+Level IIB; NICU Beds: 12
 Neonatologists:
-CAMPFIELD, THOMAS J.
-KELLY, BARBARA A.
-MEYER, KATHLEEN M.
-ROCKWELL, GARY F,
-ROTHSTEIN, ROBERT W.
-SHAH, BHAVESH L. ;
-SINGH, RACHANA
-Updated: 12/5/2010 |
-WINCHESTER, MA |
+Refer to Neonatologists Group of Mass General Hospital for Children, Brigham & Women's Hospital, Bosten, MA
+Neonatologists names: Sanjay Aurora; Ihor Bilyk; Katheryn Nathe
+
+SOUTH SHORE HOSPITAL
+55 Fogg Rd.
+South Weymouth, MA 02190
+Level IIIB; NICU Beds: 15
+Neonatologists: 7
+Neonatologists names: John Fiascone; Diana Gilson; Sunah Hwang; Zuzanna Kubicka; Hang Nghiem; Tamara Rousseau; Fyad Zaha
+
+BAYSTATE MEDICAL CENTER
+Newborn Medicine
+759 Chestnut St.
+Springfield, MA 01199
+Level IIIB; NCU Beds: 55
+Neonatologists: 7
+Neonatologists names: Thomas Campfield; Barbara Kelly; Kathleen Meyer; Gary Rockwell; Robert Rothstein; Bhavesh Shah; Rachana Singh
+
+
 WINCHESTER HOSPITAL
 41 Highland Ave.
 Winchester, MA 01890
-NICU Medica! Director: Karen R. McAlmon, MD
-{P)}: (781)756-2087; (F); (781)756-2965
-Email: kmcalmon@winhosp.org
-NICU (P): (781)758-2240; NICU (F): (781)756-2965
 Level IIB; NICU Beds: 16
-Neonatologlsts:
-CHATSON, KIMBEALEE E.
-DOHERTY, ELIZABETH
-KNORA, AIMEE
-MC ALMON, KAREN R.
-WEINSHANK, NANCY
-Updated: 3/11/2011
-WORCESTER, MA
-ST, VINCENT HOSPITAL
+Neonatologists: 5
+Neonatologists names: Kimberlee Chatson; Elizabeth Doherty; Aimee Knorr; Karen Mc Almon; Nancy Weinshank
+
+ST. VINCENT HOSPITAL
 123 Summer St.
 Worcester, MA 10602
-NICU Medical Director: James W. Pellegrini, MD
-(P): (608)793-6206; {F): (508)793-6083
-NICU (P): (608)363-9412; NICU (F): (508)363-7512
 Leve! IIB; NICU Beds; 8
 Neonatologists:
-Refer to Neonatologists Group of U Mass
-Memorial Health Care, Worcester, MA
-Updated: 12/4/2010
-*U MASS MEMORIAL HEALTH CARE
-119 Belmont St.
-Worcester, MA 01605 '
-Unlversity Affillation: University of Massachusetts
-Division Chief: Francis J. Bednarek, MD
-(P): (608)334-6206; (F): (508)334-6083
-Email: frank, bednarek@umassmemorial.org
-Training Program Director: Francis J. Bednarek,
-MD
-(P); (808)334-6206; (F): {608)334-6083
-Email: frank.bednarek@umassmemorial.org
-NICU Medical Director: Francis J. Bednarek, MD
-(P); (508)334-6206; {F): (508)334-6083
-Email: frank.bednarek@umassmemorial.org
-Director of NICU High Risk Follow-Up Clinic:
-Robin Adair, MD
-Email: robin.adair@umassmemorlal.org
-NICU (P): (508)334-6581; NICU (F): (508)334-5201
-Level f118; NICU Beds: 49
-Neonatologists:
-BEAN, STEPHEN A.
-BEDNAREK, FRANCIS J.
-PELLEGRINI, JAMES W.
-PICARILLO,.ALAN P.
+Refer to Neonatologists Group of U Mass Memorial Health Care, Worcester, MA
 
-RYLANDER, JENNIFER
-WEINER, JOEL H.
-WEISBERGER, STUART A.
-‘Updated: 5/6/2014
-ANNAPOLIS, MD
+U MASS MEMORIAL HEALTH CARE
+119 Belmont St.
+Worcester, MA 01605
+Level IIIB; NICU Beds: 49
+Neonatologists: 7
+Neonatologists names: Stephen Bean; Francis Bednarek; James Pellegrini; Alan Picarillo: Jennifer Rylander; Joel Weiner; Stuart Weisberger
+
 ANNE ARUNDEL MEDICAL CENTER
 2001 Medical Parkway
 Annapolis, MD 21404
-NICU Medical Director: Suzanne Rindfleisch, D.O,
-(P): (448)481-6962; (F): (443)481-6954
-Email; srindil220@cs.net
-NICU (P): (443)481 -6970; NICU (F): (443)481-6954
-Level HIB; NICU Beds: 30
+Level IIIB; NICU Beds: 30
 Neonatologists:
-LIN, YANN YANN
-RINDFLEISCH, SUZANNE
-Updated: 9/10/2010
-BALTIMORE, MD
+Neonatologists names: Yann Yann Lin; Suzanne Rindfleisch
+
 FRANKLIN SQUARE HOSPITAL CENTER
-9000 Franklin Square Or,
+9000 Franklin Square Dr.
 Baltimore, MD 21237
-NICU Medical Director: Fernando Mena, MD
-(P): (443)777-7748; (F): (443)777-7929
-Director of NICU High Risk Follow-Up Clinto:
-Suta Kottopelll, MD
-NICU (P}: (443)777-7748; NICU (F): (443)777-7928
-Level Ii!B; NICU Beds: 23
-Neonatologists:
-HARPER, SARAH
-KOTTAPALLI, SITA
-MENA, FERNANDO D.
-Updated: 9/16/2010
+Level IIIB; NICU Beds: 23
+Neonatologists: 3
+Neonatologists names: Sarah Harper; Sita Kottapalli; Fernando Mena
+
 GREATER BALTIMORE MEDICAL CENTER
 Division of Neonatology
 6701 N. Charles St.
 Baltimore, MD 21204-6881
-NICU Medical Director: Howard J, Blranbaum, MD
-(P): (443)849-2792; (F): (443)849-2977
-Email: hbirenba@ gbmc.org
-NICU (P); (443)849-2594; NICU (F): (443)849-3025
-Level I1]B; NICU Beds: 30
+Level IIIB; NICU Beds: 30
 Neonatologists:
 BIRENBAUM, HOWARD J.
 HELOU, SABAH M.
