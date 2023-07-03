@@ -2358,1100 +2358,475 @@ SWEDISH AMERICAN HEALTH SYSTEM
 1401 East State St.
 Rockford, IL 61104
 Level IIIA; NICU Beds: 14
-Neonatologists:
-ANYEBUNO, MARTIN
-DOSI, PRABHA
-HEADLEY, GILLIAN
-KEGHAVARZ, LIDA
-RAO, POTLUAI
-Updated: 4/27/2009
-SPRINGFIELD, IL
-ST, JOHN'S CHILDREN'S HOSPITAL
-} 415 North 9th St.
+Neonatologists: 5
+Neonatologists names: Martin Anyebuno; Prabha Dosi; Gillian Headley; Lida Kechavarz; Potluri Rao
+
+ST. JOHN'S CHILDREN'S HOSPITAL
+415 North 9th St.
 Springfield, IL 62769
-NICU Medical Director: Dan Batton, MD
-(P): (217)544-6464 Ext. 30460; (F): (217)761-
-Emall: dcrouse@siumed.edu
-NICU (P): (217)544-6464 Ext. 30440; NICU (F
-(217)535-3894
-Leval (1B; NICU Beds; 40
-Neonatologists:
-BATTON, BEAU
-BATTON, DAN
-DARLING, GINGER
-JEAN-LOUIS, MAGALI
-KHANNA, NARINDER N.
-NIMAVAT, DHARMENDRA
-Updated: 9/10/2010
-URBANA, IL
+Level IIIB; NICU Beds: 40
+Neonatologists: 6
+Neonatologists names: Beau Batton; Dan Batton; Ginger Darling; Magali Jean-Louis; Narinder N. Khanna; Dharmendra Nimavat
+
 CARLE FOUNDATION HOSPITAL
-611 W. Park St,
-Urbana, iL 61801
-1848 NICU Medical Director: Kim N. Gelke, MD
-(P): (217)383-3479
-Email: kim.gelke@carle.com
-Director of NICU High Risk Follow-Up Clink
-Charles Morton, MD
-NICU (P): (217)383-3266; NICU (F): (217)383-
-Level tllB; NICU Beds: 28
-
-?
-> ¢Neonatologists:
-’ @ELKE, KIM N.
-i STRATTON, WILLIAM C.
-4 updated: 1/4 7/2009
-"| pROVENA COVENANT MEDICAL CENTER
-a INICU
-5 = 4400 W, Park
-79587: Urbana, IL 61801
-. i NICU Medical Director; Undochukwu Asonys, MD
-7 NIGU (P); (247)937-2229; NICU (F): {247)337-2119
-\ “Level IIA; NICU Beds: 12
-° + Neonatologists:
-ASONYE, UNDOCHUKWU
-‘ KOTHARI, JAYESH
-RAUT, ARTI
-Updated: 3/10/201 T
-‘ WINFIELD, IL
-: CHILDREN'S MEMORIAL AT CENTRAL DU PAGE
-. ‘HOSPITAL
-A 25 N. Winfield Rd.
-5 Winfield, IL 60790
-- NICU Medical Director: Jeffrey Loughead, MD
-5 (P):(630)933-6602; {F): (630)933-6519
-Email: floughead@chlidrenmemorlal.org
-) NICU (P): (630)933-6974; NICU (F): (630)933-1731
-~ Level IIIB; NICU Beds: 23
-}_- Neonatologists:
-_ | BALBUS, MICHAEL
-3 © LOUGHHEAD, JEFFREY
-\ MACDONALD, CHARLES
-; REDA, WILLIAM
-\ Updated: 2/16/2011
-__ GARMEL., IN
-"_ CLARIAN NORTH MEDICAL CENTER
-) 11700 .N. Meridian St
-- Carmel, IN 46032
-‘844 _ NICU Medical Director: Mark Edwards, MD, Ph.D
-oo (P): (817)688-3458; (F): (317)688-3457
-i NICU (P): (817)688-2355; NICU (F); (817)688-2621
-\ Level IIIB; NICU Beds: 24
-j Neonatologiste:
-. Refer to Neonatologists Group of Indiana
-; University Medical Center, Indianapolis, IN
-‘ Updated: 4/5/2011
-EVANSVILLE, IN
-. — ST. MARY'S MEDICAL CENTER OF EVANSVILLE
-: 3700 Washington Ave.
-_ Evansville, IN 47760
-j wu Medica! Director: Myles J.A. Grant, MD,
-/ _. (P): (812)4u5-4995; (F}: (612)485-7569
-\ _ Email: miwatson@stmatys.org
-’ NICU (P): (812)485-4114; NICU (F); (812)485-4577
-. Lovet ili; NICU Beds: 44
-Neonatologiste:
-: ARNAEZ, BERNARDO E.
-; arte MARIA G.
-} NT, MYLES, J.A.
-(3463. VINCENT, MARTIN C.
-: Updated: o/te/2040
-,
-
-FORT WAYNE, IN
-DUPONT HOSPITAL
-2520 £. Dupont Ad.
-Fort Wayne, IN 46825
-NICU Medical Director: Janet Leezer, MD
-(P): (260)416-3270, (F): (260)416-3324
-NICU (P): (260)416-3270; NICU (F): (260)416-3324
-Level IIIB; NICU Beds: 22
+611 W. Park St.
+Urbana, IL 61801
+Level IIIB; NICU Beds: 28
 Neonatologists:
-Refer to Neonatologists Group of Lutheran
-Hospital, Fort Wayne, IN
-Updated: 4/6/2011
+Neonatologists names: Kim Gelke; William Stratton
+
+PROVENA COVENANT MEDICAL CENTER
+NICU
+1400 W. Park
+Urbana, IL 61801
+Level IIIA; NICU Beds: 12
+Neonatologists:
+Neonatologists names: Undochukwu Asonye; Jayesh Kothari; Arti Raut
+
+CHILDREN'S MEMORIAL AT CENTRAL DU PAGE HOSPITAL
+25 N. Winfield Rd.
+Winfield, IL 60190
+Level IIIB; NICU Beds: 23
+Neonatologists: 4
+Neonatologists names: Michael Balbus; Jeffrey Loughhead; Charles Macdonald; William Reda
+
+CLARIAN NORTH MEDICAL CENTER
+11700 N. Meridian St
+Carmel, IN 46032
+Level IIIB; NICU Beds: 24
+Neonatologists:
+Refer to Neonatologists Group of Indiana University Medical Center, Indianapolis, IN
+
+ST. MARY'S MEDICAL CENTER OF EVANSVILLE
+3700 Washington Ave.
+Evansville, IN 47750
+Level IIIB; NICU Beds: 44
+Neonatologists:
+Neonatologists names: Bernardo Arnaez; Maria Del Rio; Myles Grant; Martin Vincent
+
+DUPONT HOSPITAL
+2520 E. Dupont Rd.
+Fort Wayne, IN 46825
+Level IIIB; NICU Beds: 23
+Neonatologists:
+Refer to Neonatologists Group of Lutheran Hospital, Fort Wayne, IN
+
 LUTHERAN HOSPITAL
 7950 W. Jefferson Blvd.
 Fort Wayne, IN 46804
-NICU Medical Director: Daniel Biehl, MD
-(P): (260)435-7341
-NICU (P): (260}435-7788; NICU (F): (260)435-7605
-Level IIIB; NICU Beds; 29
-Neonatologisis:
-ARGCELLANA, RENE
-BIEHL, DANIEL
-CAMERON, JAMES
-KIM, CHRISTOPHER
-LEEZER, JANET
-PEPPLE, STEPHEN
-Updated: 4/6/2011
+Level IIIB; NICU Beds: 29
+Neonatologists: 6
+Neonatologists names: Rene Arcellana; Daniel Biehl; James Cameron; Christopher Kim; Janet Leezer; Stephen Pepple
+
 PARKVIEW MEMORIAL HOSPITAL NORTH
-11116 Parkview Plaza Drive
+11115 Parkview Plaza Drive
 Fort Wayne, IN 46845
-NICU Medical Director: Laura DeCastor, MD
-(P): (260}672-6458; (F}: (260)672-6459
-Email: laura.decastor@parkview.com
-NICU (P): (260)672-6400; NICU (F): (280)672-6415
-Level JIIB; NICU Beds: 31
-Neonatologisis:
-BRADBURN, NICETA
-DECASTOR, LAURA
-LARIOSA, AURORITA
-Updated: 1/17/2009
-ST, JOSEPH HOSPITAL
+Level IIIB; NICU Beds: 31
+Neonatologists: 3
+Neonatologists names: Niceta Bradburn; Laura Decastor; Aurorita Lariosa
+
+ST. JOSEPH HOSPITAL
 700 Broadway
-Fort Wayne, !N 46802
-NiCU Medical Director: Danlel Biehl, MD
-NICU (P): (260)425-3260; NICU (F): (260}425-3281
-Level HIB; NICU Beds: 8
+Fort Wayne, IN 46802
+Level IIIB; NICU Beds: 8
 Neonatologists:
-Refer to Neonatologists Group of Lutheran
-Hospital, Fort Wayne, IL
-Updated: 4/6/201t
-GARY,IN
+Refer to Neonatologists Group of Lutheran Hospital, Fort Wayne, IL
+
 METHODIST HOSPITAL
 600 Grant St.
 Gary, IN 46402
-NICU Medical Director: Chofemari Sridhar, MD
-(P): (219)886-4225; (F): (219)886-4774
-NICU (P): (219)886-4225; NICU (F): (218)886-5007
 Level IIIB; NICU Beds: 24
-Neonatotoglsts:
-CHHANGANI, PANKAJ
+Neonatologists: 3
+Neonatologists names: Pankaj Chhangani; Edgar Dizon; Cholemari Sridhar
 
-DIZON, EDGAR
-SRIDHAR, CHOLEMARI
-Updated: 4/5/2011
-HAMMOND, IN
 ST. MARGARET MERCY HEALTH CARE CENTER
 5454 Hohman Ave.
 Hammond, IN 46320
-NICU Medical Director: Deepika Kakkera, MD
-(P}: (219)933-2042; (F): (219)852-2419
-Email: deepika. kakkera@ss}hs.org
-NICU {P); (219)933-2042; NICU (F): (219)852-2419
-Leval IIIA; NICU Beds: 16
-Neonatolog!sts:
-GOWDA, GIRISH
-KAKKERA, DEEPIKA
-Updated: 4/5/2011
+Level IIIA; NICU Beds: 16
+Neonatologists: 2
+Neonatologists names: Girish Gowda; Deepika Kakkera
+
 INDIANAPOLIS, IN
 COMMUNITY HOSPITAL NORTH
-7150 Clearvista Dr,
+7150 Clearvista Dr.
 Indianapolis, IN 46256
-NICU Medica! Director: David Hertz, MD
-(P): (817)621-5478
-NIGU (P): (817)621-5488; NICU (F): (817)621-7856
 Level IIIB; NICU Beds: 36
 Neonatologists:
-Refer to Neonatologists Group of Indiana
-University Medical Center, Indianapolis, 1N
-Updated: 4/6/2011
-*INDIANA UNIVERSITY MEDICAL CENTER
+Refer to Neonatologists Group of Indiana University Medical Center, Indianapolis, IN
+
+INDIANA UNIVERSITY MEDICAL CENTER
 699 West Drive, RR-208
-Indianapolis, 1N 46202-5119
-Division Chief: David A. ingram, Jr, MD
-(P): (817)278-8245; (F): (317)274-2065
-Email: dingram @iupul.edu
-Training Program Director: David W. Boyle, MD
-(P): (817)274-4715; (F): (817)274-2065
-Email: dboyle @lupui.edu
-NICU Medical Director: William Engle, MD
-(P): (317)274-47 16; (F): (317)274-2065
-Email: wengle@lupui.edu
-Director of NICU High Risk Follow-Up Clinic:
-Brenda B. Poindexter, MD
-NICU (P): (817}274-6648; NICU (F): (817)274-6666
+Indianapolis, IN 46202-5119
 Level IIIC; NICU Beds: 120
-Neonatologiste:
-ACOSTA, JUAN CARLOS
-ALLEN, JAYME D.
-BOYLE, DAVID W.
-BUECHLER, JONATHAN
-BYRNE, BOBBI
-CLAPP, D. WADE
-DENNE, SCOTT C,
-DOROTHEO, ASUNCION
-EDWARDS, MARK L.
-ENGE, WILLIAM A.
-FOSTER, JULIA
-| GUILFOY, VERONICA
-HANELINE, LAURA
-HERRMANN, KENNETH
-HERTZ, DAVID E.
-HILMO, ANN
+Neonatologists: 38
+Neonatologists names: Juan Carlos Acosta; Jayme Allen; David Boyle; Jonathan Buechler; Bobbi Byrne; Wade Clapp; Scott Denne; Asuncion Dorotheo; Mark Edwards; William Engle; Julia Foster; Veronica Guilfoy; Laura Haneline; Kenneth Herrmann; David Hertz; Ann Hilmo; David Ingram; Rachel Kearby; Poonam Khurana; Olive Konana; James Lemons; Edward Liechty; Izlin Lien; Diane Lorant; Jo Ann Matory; Rangassamy Meilbalane; Charles Njinimbam; Reisha Patel; Brenda Poindexter; Rebecca Rose; Zeynep Sallih; Abhay Singhal; Gregory Sokol; Marya Strand; Ilana Torine; Michael Trautman; Paul Winchester; Mervin Yoder
 
-a]
+METHODIST HOSPITAL
+1701 North Senate
+Indianapolis, IN 46202
+Level III; NICU Beds: 35
+Neonatologists:
+Refer to Neonatologists Group of Indiana University Medical Center, Indianapolis, IN
 
-4 INGRAM, DAVID
+ST. FRANCIS HOSPITAL & HEALTH CENTER
+NICU
+Indianapolis Campus
+8111 S. Emerson Ave.
+Indianapolis, IN 46237
+Level IIIA; NICU Beds: 23
+Neonatologists:
+Refer to Neonatologists Group of Indiana University Medical Center, Indianapolis, IN
 
-i KEARBY, RACHEL
+ST. VINCENT WOMEN'S HOSPITAL
+8111 Township Line Rd.
+Indianapolis, IN 46260
+Level IIIC; NICU Beds: 75
+Neonatologists: 19
+Neonatologists names: Ekane Aninkola; Niceta Bradburn; Janice DeSanto; Shaun Hicks; Robert Jansen; Nancy LaMear; Anne Marnocha; Caroline Maylock; Vijay Menon; Jacek Michna; Ronald Pyle; Zenaida Reyes; Neal Simon; Markus Tauscher; Kem Templeton; Saira Waheen; John Wareham; Catherine Watts; Ina Whitman
 
-i KHURANA, POONAM
-
-a KONANA, OLIVE
-
-t LEMONS, JAMES A.
-
-| LIECHTY, EDWARD A
-
-‘ LIEN, IZLIN
-
-i LORANT, DIANE
-
-4 MATORY, JO ANN
-
-| MEILBALANE, RANGASSAMY
-
-| NJINIMBAM, CHARLES
-
-4 PATEL, REISHA
-
-4 POINDEXTER, BRENDA B.
-
-5 ROSE, REBECCA
-
-| SALIH, ZEYNEP
-
-| SINGHAL, ABHAY
-
-| SOKOL, GREGORY M.
-
-: STRAND, MARYA
-
-| TORINE, ILANA
-
-a TRAUTMAN, MICHAEL
-
-WINCHESTER, PAUL
-
-qd YODER, MERVIN C, ;
-
-i Updated: 6/6/2011
-
-| METHODIST HOSPITAL
-
-a 1701 North Senate
-
-ia Indianapolis, IN 46202
-
-: NICU Medical Director: ilana Torine, D.O.
-fi (P): (317)962-9420; (F): (817)962-1445
-
-y Emall: istief@lupuiedu
-
-1 Director of NICU High Risk Follow-Up Clinic:
-qd: Darlene Kardatske, MD
-
-1 NICU (P): (317)962-8395; NICU (F): (817}962-5
-4 | Level III; NICU Beds: 35
-
-|| Neonatologists:
-
-5 | Refer to Neonatologists Group of Indiana
-
-3 | University Medical Center, Indianapolis, IN
-qi Updated: 4/5/2011
-
-ql ST. FRANCIS HOSPITAL & HEALTH CENTER
-3 NICU
-
-a . Indianapolis Campus
-
-3 8111S. Emerson Ave.
-
-3 Indianapolis, IN 46237
-
-NICU Medical Director; Paul D, Winchester, M
-q (P): (317)865-5595; (F): (817)865-5148
-
-| Emall: paul.winchester@ssths.org
-
-4 Director of NICU High Risk Follow-Up Cllnte:
-Paul D. Winchester, MD
-
-NICU (P): (817)865-5433; NICU (F); (917)865-5
-: Level IIIA; NICU Beds: 23
-
-q Neonatologlsts:
-
-4 Refer to Neonatologists Group of Indiana
-University Medical Center, Indianapolis, IN
-a Updated: 4/6/2011
-
-4 ST. VINCENT WOMEN'S HOSPITAL
-
-4 8114 Township Line Rd.
-
-i Indianapolis, IN 46260
-
-NICU Medicat Director: Robert D. Jansen, MD
-i (P): (817)415-7926; (F): (317)415-7922
-
-] NICU (P): (317)415-7820; NIGU (F): (317)416-7
-ia Level IlIIC; NICU Beds: 75
-
-i H | Neonatologists:
-: i. ANINOLA, EKANE
-
-aut
-\|
-
-BRADBURN, NICETA C.
-DeSANTO, JANICE T.
-HICKS, SHAUN A.
-JANSEN, ROBERT D.
-LaMEAR, NANCY S.
-MARNOCHA, ANNE Z.
-MAYLOCK, CAROLINE A. -
-MENON, VIJAY E.
-MICHNA, JACEK
-PYLE, RONALD D,
-REYES, ZENAIDA
-SIMON; NEAL
-TAUSCHER, MARKUS K.
-TEMPLETON, KEM E,
-WAHEEN, SAIRA Z.
-WAREHAM, JOHN A.
-WATTS, CATHERINE L.
-WHITMAN, INA P.
-Updated: 4/6/2014
-LAFAYETTE, IN
-ST, ELIZABETH EAST
+ST. ELIZABETH EAST
 NICU
 1701 South Creasy Ln.
-Lafayatte, IN 47905
-NICU Medlcal Director: Rosarlo S. Chua, MD
-(P): (765)449-5040; (F): (765)449-5093
-Emali: rosario.chua@ssths.org
-Director of NICU High Risk Follow-Up Clinic:
-. Rosarno S. Chua, MD
-‘ NICU (P): (765)449-5040; NICU (F): (765)449-5
-5764 Level IIIB; NICU Beds: 12
-Neonatologists:
-GHUA, ROSARIO S.
-CONTINHO, RUSSEL
-TIPTON, ROBERT
-. Updated: 4/5/2014
-- MUNCIE, IN
+Lafayette, IN 47905
+Level IIIB; NICU Beds: 12
+Neonatologists: 3
+Neonatologists names: Rosario Chua; Russel Continho; Robert Tipton
+
 BALL MEMORIAL HOSPITAL
 2401 University Ave.
 Muncle, IN 47303
-NICU Medical Director: Donna A. Wilkins, MD
-1D (P): (765)747-3056; (F); (765)747-0137
-NICU (P): (765)747-3370; NICU (F): (765)741-1
-Level HIB; NICU Beds: 16
-: Neonatologists:
-KUNDENREICH, THOMAS E.
-9148 = WILKINS, DONNA A.
-Updated: 4/5/2014
-MUNSTER, IN
-MUNSTER COMMUNITY HOSPITAL
-901 MacArthur Blvd,
-Munster, IN 46321
-NICU Medical Director: Wichest Boonyapredee
-MD
-(P): (219)836-4571
-NICU (P): (219)836-4571; NICU (F); (219)513-0
-74g2 Level I[IB; NICU Beds: 18
-Neonatolog!sts:
-ABBASI, ISMAIL
-BOONYAPREDEE, WICHEST
-RASSAMIMARI, PHORNPHAT
-37
+Level IIIB; NICU Beds: 16
+Neonatologists: 2
+Neonatologists names: Thomas Kundenreich; Donna Wilkins
 
-THAERAMANOPHAB, KONGKIET
-Updated: 4/6/2011
-NEWBSURGH, IN
+MUNSTER COMMUNITY HOSPITAL
+901 MacArthur Blvd.
+Munster, IN 46321
+Level IIIB; NICU Beds: 18
+Neonatologists: 4
+Neonatologists names: Ismail Abbasi; Wichest Boonyapredee; Phornphat Rassamimari; Kongkiet Thaeramanophab
+
 DEACONESS - WOMEN'S HOSPITAL
 4199 Gateway Blvd.
 Newburgh, IN 47630
-NICU Medical Director: Kenneth Herrmann,
-(P); (812)842-4259; (812)842-4261; (F): (812
-4580
-Emall: kenneth _herrmann@deaconess.com
-NICU (P): (812)842-4580; NICU (F): (812}84:
-Levef IIIB; NICU Beds: 24
-Neonatologists:
-HERRMANN, KENNETH
-HILMO, ANN
-JAUCIAN (CIPRES-JAUCIAN), ROSE M,
-MEIBALANE, RANGASSAMY
-Updated: 12/4/2010
-SOUTH BEND, IN
-MEMORIAL HOSPITAL OF SOUTH BEND ~
+Level IIIB; NICU Beds: 24
+Neonatologists: 4
+Neonatologists names: Kenneth Herrmann; Ann Hilmo; Rose Jaucian; Rangassamy Meibalane
+
+MEMORIAL HOSPITAL OF SOUTH BEND
 615 N. Michigan St.
 South Bend, IN 46601-1033
-NICU Medical Director: Basharat Buchh, MC
-, (P); (874)647-7351; (F): (574)647-7248
-Director of NICU High Alsk Follow-Up Clini
-Mary Degeneffe, MD
-i NICU (P): (574)647-7141; NICU (F); (574)647
-Level iIIB; NICU Beds; 36
-5093 Neonatologists:
-BUCHH, BASHARAT
-OKANLAMI, OLUFEMI O.
-SOLOVEYCHIK, VITALIY
-WHITE, ROBERT D.
-Updated: 4/25/2011
+Level IIIB; NICU Beds; 36
+Neonatologists: 4
+Neonatologists names: Basharat Buchh; Olufemi Okanlami; Vitaliy Soloveychik; Robert White
+
 ST. JOSEPH HOSPITAL
 801 E. LaSalle Ave.
-South Bend, IN 46617 1
-NICU Medical Director: F. Moncrief Dobson,
-(P): (674)237-7042
-} NICU (P): (574)237-6852; NICU (F): (574)280
-Level IIB; NICU Beds: 10 :
-1928 Neonatologists:
-DOBSON, F. MONCRIEF
-HASSAN, ZAHIA
-Updated: 1/17/2009
-VALPARAISO, IN
+South Bend, IN 46617
+Level IIIB; NICU Beds: 10
+Neonatologists: 2
+Neonatologists names: Moncrief Dobson; Zahia Hassan
+
 PORTER HOSPITAL CENTER
 814 La Porte Ave.
 Valparaiso, IN 46383
-NICU Medical Director: Thomas F. Myers, M
-(P): (219)263-4701; (F): (219}263-7146
-8, NICU (P): (219)263-4688; NICU (F): (219)263
-Level IflA; NICU Beds: 15
-Neonatotoglsts:
-0042 ALATTAR, HUSAM M.
-DALLAL, OUSAMA
-KAKKERA, DEEPIKA
-MEYERS, THOMAS F.
-SANCHEZ, MARIO
-Updated: 4/5/2011
+Level IIIA; NICU Beds: 15
+Neonatotogists: 5
+Neonatologists names: Husam Alattar; Ousama Dallal; Deepika Kakkera; Thomas Meyers; Mario Sanchez
 
-/ KANSAS CITYKS
-: UNIVERSITY OF KANSAS - MEDICAL CENTER
-‘ agot fainbow Blvd.
--inwas City, KS 66160-7358
-NICU Medical Director: Prabhu Patiml, MO
-) (py; cotays88-5008; (F): (818)588-6336
-AD | Emalt: pparimi@kumo.edu
-Level flift; NICU Beds: 40
-7 Neonatologists:
-vdpig  DUMMULA, KRISHNA
-’ Go, MITZI
-: PANDEY, VISHAL
-: PARIMi, PRABHU
-PAXSON, CHARLES
-Updated: 4/16/2041
-"OVERLAND PARI KS
-: | MENORAH MEDICAL CENTER
+UNIVERSITY OF KANSAS - MEDICAL CENTER
+3901 Rainbow Blvd.
+Kansas City, KS 66160-7358
+Level IIIB; NICU Beds: 40
+Neonatologists: 5
+Neonatologists names: Krishna Dummula; Mitzi Go; Vishal Pandey; Prabhu Parimi; Charles Paxson
+
+MENORAH MEDICAL CENTER
 5721 West 119 St.
-; ~ Overland Park, KS 66209
-: NICU Medical Director: Chris Stapley, MD
-‘ © (P); (913)498-6315
-» = NICU (P): (913)498-6315; NICU (F): (913)498-6310
-“Level HB; NICU Beds: 8
-4, =. Neonatologists:
- STAPLEY, CHRIS
-: 3672. Updated: 4/16/2011
-: = QVERLAND PARK REGIONAL MEDICAL
-“| GENTER
-; 10500 Quivira Rd.
-_. Overland Park, KS 66215
-; = NICU Medical Director: Kathieen B. Weatherstone,
-|= MD
-\ (P): (913}310-0226; (F): (913}310-0565
-. | Email: kwealher@sunflawerneo.com
-> = Director of NICU High Risk Follow-Up Clinic:
-. __ Kathleen Weatherstone, MD
-_ Email: kweather@sunflowerneo.com
-MD NICU (P): (913)841-5275; NICU (F): (913)541-5091
-: > Level IIIB; NICU Beds: 71
-5756. Neonatologlsts:
-‘ : CASTRO, LISA
-; HOLCOMB, ROBERT
-‘ HUBBARD, DENA
-5 : LANCASTER, THOMAS
-SCHOOLEY, KATHERINE
-: :» SIMPSON, TIFFANY
-. STAPLEY, CHRISTOPHER
-WEATHERSTONE, KATHLEEN
-. Updated: 4/15/2011
-.) _. SHAWNEE MISSION, KS
-SHAWNEE MISSION MEDICAL CENTER
-»7446 8100 West 74 Street
-Shawnes Mission, KS 66204
-5 NICU Medioal Director: Frederick Hall, 0.0.
-, (P): (8 16)234-3594; (F): (816)234-3590
-4 Emalt: (hal@cmh.edu
-\ NICU (P): (913)676-76411; NICU (F); (913)789-6700
-i Lovel IIIA; NICU Beds: 23
-\ Neonatolnglate:
-© HALL, FREDERICK
+Overland Park, KS 66209
+Level IIB; NICU Beds: 8
+Neonatologists: 1
+Neonatologists names: Chris Stapley
 
-JACKSON, JOD
-LACHELA, CHARISSE
-Updated: 4/16/2011
-TOPEKA, KS
+OVERLAND PARK REGIONAL MEDICAL CENTER
+10500 Quivira Rd.
+Overland Park, KS 66215
+Level IIIB; NICU Beds: 71
+Neonatologists: 8
+Neonatologists names: Lisa Castro; Robert Holcomb; Dena Hubbard; Thomas Lancaster; Katherine Schooley; Tiffany Simpson; Christopher Stapley; Kathleen Weatherstone
+
+SHAWNEE MISSION MEDICAL CENTER
+9100 West 74 Street
+Shawnee Mission, KS 66204
+Level IIIA; NICU Beds: 23
+Neonatologists: 3
+Neonatologists names: Frederick Hall; Jodi Jackson; Charisse Lachela
+
 STORMONT-VAIL REGIONAL HEALTH CENTER
 1500 S.W. 10th St.
 Topeka, KS 66604-1353
-NICU Medical Director: Sue L. Hall, MD
-{P): (785)354-6850; (F): (785)354-5228
-NICU (P): (785)354-6440; NICU (F): (785)354-5078
 Level IIIB; NICU Beds: 36
-Neonatolagists:
-BAUTISTA-NAVARRO, MARIA I.
-HALL, SUE L.
-MORGAN, HEATHER
-SIDLINGER, ROBERT L.
-Updated: 4/8/2011
-WICHITA, KS
-VIA CHRISTI REGION MEDICAL CENTER - ST.
-JOSEPH CAMPUS
+Neonatologists:
+Neonatologists names: Maria Bautista-Navarro; Sue Hall; Heather Morgan; Robert Sidlinger
+
+VIA CHRISTI REGION MEDICAL CENTER - ST. JOSEPH CAMPUS
 3600 E. Harry St.
 Wichita, KS 67218
-NIGU Medical Director: Mohammed Ansari, MD
-(P): (316)689-6141; (F}: (316)689-5804
-Email: mohammed_ansari@via-christl.org
-NICU {P): (816}689-5475; NICU (F): (816)691-6772
 Level IIIB; NICU Beds: 30
-Neonatologists:
-ANSARI, MOHAMMED
-SAMSON, PHILIPPE
-SHASH, TAYSIR
-; STRAND-SMART, CYNTHIA
-Updaisd: 2/8/2011
+Neonatologists: 4
+Neonatologists names: Mohammed Ansari; Philippe Samson; Taysir Shash; Cynthia Strand-Smart
+
 WESLEY MEDICAL CENTER
 550 N. Hillside
 Wichita, KS 67214
-NICU Medical Director: Barry T. Bloom, MD
-(P): (816)651-8580; (F): (816)651-8581
-Email: barrybloom@aol.com
-Director of NICU High Risk Follow-Up Clinic:
-Valerie Kerschen, MD
-NIGU (P): (316)962-8500; NICU (F): (816)962-8581
-Level iIIB; NICU Beda: 65
-Neonatologists:
-BINDER, STEPHANIE
-BLOOM, BARRY T.
-DORN, CURTIS C,
-HSIAO, ROBERT
-JOHNSON, CAROLYN K.
-LAUDEAT, SUSAN E.
-RAGHUVEER, TALKAD
-REED, WM. RANDY
-Updated: 2/21/2011
-ASHLAND, KY
+Level IIIB; NICU Beda: 65
+Neonatologists: 8
+Neonatologists names: Stephanie Binder; Barry Bloom; Curtis Dorn; Robert Hsiao; Carolyn Johnson; Susan Laudert; Talkad Raghuveer; Randy Reed
+
 KING'S DAUGHTERS' MEDICAL CENTER
 2201 Lexington Ave.
-) Ashland, KY 41101
-NICU Medicat Director: Scott A. Knight, MD
-Email; scott.knight@kdmc.net
-
-NICU (P); (606)408-4531/4532; NICU (F): (606)408-
-4966
-Level iIIA; NICU Beds: 13
+Ashland, KY 41101
+Level IIIA; NICU Beds: 13
 Neonatologists:
-KNIGHT, SCOTT A.
-VOLK, LAUZE
-Updated: 2/23/2011
-BOWLING GREEN, KY
+Neonatologists names: Scott Knight; Lauze Volk
+
 THE MEDICAL CENTER AT BOWLING GREEN
 250 Park St.
 Bowling Green, KY 421601
-NICU Medicat Director; Atex Soriano, MD
-(P): (270)796-21 10; (F}: (270)796-2191
-Level II|A; NICU Beds: 12
+Level IIIA; NICU Beds: 12
 Neonatologists:
-FISSILROUDI, ASPA
-SORIANO, ALEX
-SPRAGUE, BOUGLAS
-Updated: 4/5/2041
-EDGEWOOD, KY
+Neonatologists names: Aspa Fissilroudi; Alex Soriano; Douglas Sprague
+
 SAINT ELIZABETH MEDICAL CENTER SOUTH
 1 Medical Village Dr.
 Edgewood, KY 41017
-NICU Medical Director: Ward 8, Rice, MD
-{P): (859)301-3850; (F): (859)301-2066
-NICU (P): (859)301-2421; NICU (F): (859)301-2554
-Level fiJA; NICU Beds: 12
+Level IIIA; NICU Beds: 12
 Neonatologists:
-Refer to Neonatologists Group of Cincinnatl's
-Children's Hospital Medical Center, Cincinnati,
-OH
-Updated: 4/28/2017
-HENDERSON, KY
+Refer to Neonatologists Group of Cincinnati's Children's Hospital Medical Center, Cincinnati, OH
+
 METHODIST HOSPITAL - HENDERSON
 1305 N. Elm St.
 Henderson, KY 42420
-NICU Medical Director: lyad Aljabi, MD
-{P); (270}830-0313
-NICU (P): (270)827-7255; NICU (F): (270)830-4694
-Level HIB; NICU Beds: 15
-) Neonatologists:
-ALJABI, IYAD
-JADHAV, PUSHKARJ
-Updated: 8/29/2010
-HOPKINSVILLE, KY
+Level IIIB; NICU Beds: 15
+Neonatologists: 2
+Neonatologists names: Iyad Aljabi; Pushkarj Jadhav
+
 JENNIE STUART MEDICAL CENTER
 P.O. Box 2400
-320 W, 18th St.
+320 W. 18th St.
 Hopkinsville, KY 42240-2400
-NICU Medical Director: Alex Soriano, MD
-(P): (270)821-1220; (F): (270)821-1229
-NICU (P): (270)887-0345; NICU (F): (270)887-0232
-Level HiA; NICU Beds; 6
-Neonatologists:
-SORRANO, ALEX
-WADHWA, NITIN
-Updated: 4/6/2011
-LEXINGTON, KY
+Level IIIA; NICU Beds: 6
+Neonatologists: 2
+Neonatologists names: Alex Sorrano; Nitin Wadhwa
 
-4 CENTRAL BAPTIST HOSPITAL
-| 1740 Nicholasville Ra.
-4 Lexington, KY 40503
-& NICU Medical Director: Mahesh Naik, MD
-; (P): (859)276-4391; (F): (859)278-0047
-3 NICU (P): (859)260-6576; NICU (F): (859)260-2:
-4 Level iliA; NICU Beds: 24
-2 Neonatolagists:
-NAIK, MAHESH G.
-4 REID, TONIA
-p SANDERS, LYNDA P.
-y WALKER, JOHN R.
-4 VANCE, JOHN C,
-Updated: 5/6/2014
-if
-; SAINT JOSEPH EAST HOSPITAL
-180 N. Eagle Creek Rd.
-H Lexington, KY 40509
-NICU Medical Director: Khaldon Jundi, MD
-{P): (859)967-5545; (F): (859)867-5415
-Email: bluegrassnewborn @Insightbb.com
-NICU (P): (859}967-5416
-; Level II[A; NICU Beds: 16
-Neonatologlsts:
-ANG, JORGE
-JUNDI, KHALDON
-Updated; 1/17/2009
-UNIVERSITY OF KENTUCKY MEDICAL CENT
-| *KENTUCKY CHILDREN'S HOSPITAL
-[ Division of Neonatology
-| Department of Pediatrics
-800 Rose St., Room M8473
-| . Lexington, KY 40536
-f Division Chief: Henrietta Bada, MD, MPH
-| (P): (859)323-1850; (F): (859)257-6106
-i Email: hhada2@uky.edu
-f Training Program Director: Henrietta Bada, ME
-HH: (P); (859)323-1850; (F): (859)257-6106
-Email: hbada2@uky.edu
-He NICU Medical Director: Don Granger, MD
-i (P): (859)323-5530; (F): (859)257-4384
-iZ Email: digran2@uky.edu
-HH Director of NICU High Risk Follow-Up ClinIc:
-i Nirmata Desai, MD
-ZZ Email: ndasai@uky.edu
-i NICU (P): (859)323-5744; NICU (F): (859)323-80
-Level [iC; NICU Beds: 65
-i Neonatologlsts:
-BADA, HENRIETTA
-BALLARD, HUBERT
-H DESAI, NIRMALA
-i GRANGER, DON
-H REYNOLDS, ERIC
-n | SITHIRSARN, THITHINART
-H SHOOK, LORI
-Updated: 8/6/2011
-i LOUISVILLE, KY
-a BAPTIST HOSPITAL EAST
+CENTRAL BAPTIST HOSPITAL
+1740 Nicholasville Ra.
+Lexington, KY 40503
+Level IIIA; NICU Beds: 24
+Neonatologists: 5
+Neonatologists names: Mahesh Naik; Tonia Reid; Lynda Sanders; John Walker; John Vance
+
+SAINT JOSEPH EAST HOSPITAL
+150 N. Eagle Creek Rd.
+Lexington, KY 40509
+Level IIIA; NICU Beds: 16
+Neonatologists: 2
+Neonatologists names: Jorge Ang; Khaldon Jundi
+
+UNIVERSITY OF KENTUCKY MEDICAL CENTER KENTUCKY CHILDREN'S HOSPITAL
+Division of Neonatology
+Department of Pediatrics
+800 Rose St., Room MS473
+Lexington, KY 40536
+Level IIIC; NICU Beds: 65
+Neonatologists: 7
+Neonatologists names: Henrietta Bada; Hubert Ballard; Nirmala Desai; Don Granger; Eric Reynolds; Thithinart Sithirsarn; Lori Shook
+
+BAPTIST HOSPITAL EAST
 4000 Kresge Way
-[Ss Louisville, KY 40207
-; cb NICU Medical Director: Dan L. Stewarl, MD
-ae (P): (502)629-8626; (F): (502)852-8470
-| net Email: distew01 @gwise. louisville.edu
-i .
-a
-| |
+Louisville, KY 40207
+Level IIB; NICU Beds: 8
+Neonatologists:
+Refer to University of Louisville Schoo! of Medicine
 
-NICU (P): {802}897-8377; NICU (F); (502)B96-7:
-Level liB; NICU Beds: 8
-Neonatologlsts:
-Refer to University of Loulsvilte Schoo! of
-Medicine
-183 Updated; 4/5/2011
-NOATON HOSPITAL OF ALLIANT HEALTH
-SYSTEM
+NORTON HOSPITAL OF ALLIANT HEALTH SYSTEM
 200 East Chestnut St.
 Louisville, KY 40232-5070
-NICU Medical Director: David H. Adamkin, MD
-{P): (602}852-8470; (F): (502)852-8473
-NICU (P): (502}629-7489; NICU (F): (502)629-67
 Level IIIA; NICU Beds: 25
 Neonatologists:
-Refer to Neonatologists Group of Kosair
-Children's Hospital, Louisville, KY
-Updated: 8/29/2010
+Refer to Neonatologists Group of Kosair Children's Hospital, Louisville, KY
+
 NORTON SUBURBAN HOSPITAL
 4001 Dutchman's Lane
 Louisville, KY 40207
-NICU Medical Director: Mukul Shah, MD
-{P): (502}896-2500; (F): (502)896-2527
-NICU (P): (602)893-1177; NICU (F): (502)893-1(
 Level IIIB; NICU Beds: 40
-Neonatologists:
-EA BARNES, BROOKE
-COHEN, JONATHAN
-COHEN, TERRY
-ELLIS, LESLIE
-HILL, DALE
-MEHTA, KETAN
-SHAH, MUKUL
-WILLETTE, CAROLINE
-Updated: 9/10/2010
-D UNIVERSITY OF LOUISVILLE HOSPITAL
+Neonatologists: 8
+Neonatologists names: Brooke Barnes; Jonathan Cohen; Terry Cohen; Leslie Ellis; Dale Hill; Ketan Mehta; Mukul Shah; Caroline Willette
+
+UNIVERSITY OF LOUISVILLE HOSPITAL
 530 S. Jackson St.
-Loulsville, KY 40202
-NICU Medical Director: Dan L. Stewart, MD
-(P): (602)852-8470; (F}: (502)852-8473
-Email: danstewart @touisville.edu
-NICU (P): (502)562-8092; NICU (F): (602)562-3¢
-Level Il1B; NICU Beds: 24
-031 Neonatclogists:
-Refer to Neonatologists Group of Kosalr
-Children’s Hospital, Louisville, KY
-Updated: 8/29/2016
-*UNIVERSITY OF LOUISVILLE SCHOOL OF
-MEDICINE
+Louisville, KY 40202
+Level IIIB; NICU Beds: 24
+Neonatologists:
+Refer to Neonatologists Group of Kosalr Children’s Hospital, Louisville, KY
+
+UNIVERSITY OF LOUISVILLE SCHOOL OF MEDICINE
 KOSAIR CHILDREN'S HOSPITAL
 231 East Chestnut St.
 Louisville, KY 40232-5070
-Division Chief: David H. Adamkin, MD
-(P): (602)852-8470; (F): (602)852-8473
-Email: david.adamkin@loulsville.edu
-Training Program Director: David H. Adamkin,
-Lori Ann Deviln, MD
-(P); (502)852-8470; (F): (502}852-8473
-Emall: david.adamkin@louisville.edu
-nicuwb@yahoo.com
-NICU Medicat Director: Dan L. Stewart, MD
-(P}: (602)852-8470; (F): (502)852-8473
-39
+Level IIIC; NICU Beds: 97
+Neonatologists: 16
+Neonatologists names: David Adamkin; Karen Bibb; Lori Devlin; Scott Duncan; Evangelia Gravari; Olugbemisola Obi; John Roberts; Tonya Robinson; Seth Schultz; Elizabeth Schumacher; Leslie Schuschke; Tamina Singh; Joan Stapp; Dan Stewart; Sucheta Telang; Rodica Turcu
 
-287 = Email: dan.stewart@icuisville.edu
-Director of NICU High Risk Follow-Up Clinic
-Leslie Schuschke, MD
-Elizabeth Schumacher, PhD.
-NICU (P): (802)852-7049; NICU (F): (602)852-
-Level IllC; NICU Beds: 97
-Neonatologlete:
-ADAMKIN, DAVID H.
-BIBB, KAREN W.
-DEVLIN, LORI
-DUNCAN , SCOTT
-) GRAVARI, EVANGELIA
-OBI, OLUGBEMISOLA A.
-746 = ROBERTS, JOHN L.
-ROBINSON, TONYA W.
-SCHULTZ, SETH
-SCHUMACHER, ELIZABETH A,
-SCHUSCHKE, LESLIE A.
-SINGH, TAMINA R.
-STAPP, JOAN M.
-STEWART, DAN L.
-TELANG, SUCHETA
-TURGCU, RODICA M,
-Updated: 8/12/2014
-077 MADISONVILLE, KY
-REGIONAL MEDICAL CENTER OF HOPKINS
-COUNTY
+REGIONAL MEDICAL CENTER OF HOPKINS COUNTY
 900 Hospital Dr.
-Madisonville, KY 42434
-NICU Medical Director: Alex L. Sorfano, MD
-(P): (270)825-5746; (F): (270)824-9185
-Email: neoserus@ yahoo.com
-NICU (P): (270)825-5740; NICU (F): (270)825-
-Level IB; NICU Beds; 15
-Neonatologists:
-SORIANO, ALEJANDRO L.
-WADHWA, NITIN
-Updated: 4/6/2014
-PIKEVILLE, KY
+Madisonville, KY 42431
+Level IIIB; NICU Beds; 15
+Neonatologists: 2
+Neonatologists names: Alejandro Soriano; Nitin Wadha
+
 PIKEVILLE MEDICAL CENTER
-911 S, ByPass Rd.
-870 Pikevilla, KY 41804
-NICU Medical Director: Myla Santlago, MD
-(P): (606)218-3572; (F): (606)218-4586
-NICU (P): (606)218-3509; NICU (F): (606)218-
+911 S. ByPass Rd.
+Pikeville, KY 41501
 Level IIA; NICU Beds: 16
 Neonatologists:
-SANTIAGO, MYLA
-Updated: 4/5/2011
-ALEXANDRIA, LA
-CHRISTUS ST, FRANCES CASRINI HOSPIT.
+Neonatologists names: Myla Santiago
+
+CHRISTUS ST, FRANCES CABRINI HOSPITAL
 93330 Masonic Dr.
 Alexandria, LA 71301
-NICU Medical Director: Amar S. Nijjar, MD
-, MD  (P): (318)448-1514: (F): (818)448-1514
-Email: anijiari36@yahoo.com
-Director of NICU High Risk Follow-Up Clinic
-Amar S. Niljar, MD
-NICU (P): (318)448-6827; NICU (F): (818)448-
-Level IIB; NICU Beds: 15
-Neonatologists:;
+Level IIIB; NICU Beds: 15
+Neonatologists:
+Neonatologists names: Perla Castor; Amarjit Nijjar
 
-; | CASTOR, PERLA C.
- NWWJAR, AMARMIT S.
-+ | Updated: 10/18/2010
-193] BATON ROUGE, LA
-. | BATON ROUGE GENERAL HEALTH CENTER
-* | Blue Bonnet Campus
-\  j Baton Rouge, LA 70809-3679
-. NICU Medical Director: Dianne J. Albrect, MD
-| cus (p): (225)763-4145; NICU (F): (226)768-4728
-= Level IIB; NICU Beds: 18
-} — Neonatologists:
-Refer to LSU Health Sclence Center of New
-; Orleans, New Orleans, LA
-8 Updated: 3/28/2014
-“LOUISIANA STATE UNIVERSITY HEALTH
-) |. SCIENCES CENTER
-"AT EARL K, LONG HOSPITAL
-=) 5825 Airline Hwy.
-. Baton Rouge, LA 70805
-? |. NICU Medical Director: Sandra Grant, MD
-, (P); (225)358-1083; (F); (225)358-1076
-*  _: Email: sgrant] @lsuhsc.edu
-\ = Director of NICU High Risk Follow-Up Clinie:
-“| Sandra Grant, MD
-\ = NICU (P); (225)368-1297; NICU (F): (225)358-1198
-* | Level ilA; NICU Beds: 10
-}_- Neonatotogists:
-= Updated: 3/2/2011
-“ _- WOMAN'S HOSPITAL
-‘22 9050 Alrline Hwy.
-‘ eS Baton Rouge, LA 70815
-5738. NICU Medical Director: Steven B. Spedale, MO
-_ (P): (225)928-2556; (F): (225)929-9685
-i} =) Email: steve.spedale @infamedics.com
-___. NICU (P): (225)231-8588; NICU (F): (226)924-8552
-y 2 Level IIIB; NICU Beda: 82
-_ + Neonatotog!sts:
-» |. BERRY, ANGELLE L.
-. DAVIES, SHELLY S.
-fg DUNBAR, tli, ALSTON E.
-\ LINDSAY, ELIZABETH A.
-: SMITH, IV, HERNY SKIPPER
-: SPEDALE, STEVEN B.
-‘ : STEWART, KIMBERLY M.
-978. VOELKER, CYNTHIA A,
-, Updated: 1/17/2009
-" . GOVING TON, LA
-\
-mG LAKEVIEW REGIONAL MEDICAL CENTER
-, == HOSPITAL
-, 95 &. Fatrway Dr.
-si Covington, LA 70433
-“~_. NICU Medical Director: Phil Gorden, MD
- — (P): @a5)HG7-4384: (F): (085)802-4521
-- vee (P): (85)867-4360; NICU (F): (085)667-5582
-jo& e1 1IHB; NICU Bede: 12
-___. Neonatotogists:
-: GORDEN, PHIL
-, MARTINEZ, BETTY
-'gs0 SUAREZ, ALBERTO
-\ Updated: 3/2/2014
+BATON ROUGE GENERAL HEALTH CENTER
+Blue Bonnet Campus
+Baton Rouge, LA 70809-3679
+Level IIIB; NICU Beds: 18
+Neonatologists:
+Refer to LSU Health Sclence Center of New Orleans, New Orleans, LA
+
+LOUISIANA STATE UNIVERSITY HEALTH SCIENCES CENTER
+AT EARL K. LONG HOSPITAL
+5825 Airline Hwy.
+Baton Rouge, LA 70805
+Level IIIA; NICU Beds: 10
+Neonatologists:
+
+WOMAN'S HOSPITAL
+9050 Airline Hwy.
+Baton Rouge, LA 70815
+Level IIIB; NICU Beds: 82
+Neonatologists: 8
+Neonatologists names: Angelle Berry; Shelly Davies; Alston Dunbar III; Elizabeth Lindsay; Herny Smith IV; Steven Spedale; Kimberly Stewart; Cynthia Voelker
+
+LAKEVIEW REGIONAL MEDICAL CENTER HOSPITAL
+95 E. Fairway Dr.
+Covington, LA 70433
+Level IIIB; NICU Beds: 12
+Neonatologists: 3
+Neonatologists names: Phil Gorden; Betty Martinez; Alberto Suarez
 
 ST. TAMMANY PARISH HOSPITAL
 1202 S. Tyler St.
 Covington, LA 70433
-NICU Medical Director: Alma E, Levy, MD
-(P): {985)588-5312
-NIGU (P): (985)898-4554; NICU (F): (985)871-5765
-Level ili8; NICU Beds: 14
-Neonatologists:
-LEVY, ALMA E.
-ROME, CYNTHIA H.
-Updated: 10/18/2010
-GRETNA, LA
+Level IIIB; NICU Beds: 14
+Neonatologists: 2
+Neonatologists names: Alma Levy; Cynthia Rome
+
 MEADOWCREST HOSPITAL
-2500 Belle Chase Hospitai
+2500 Belle Chase Hospital
 Gretna, LA 70056
-NICU Medical Director: Harish C. Anand, MD
-(P): (504)391-7690; (F): (504)391-7625
-NICU (P): (504)391-5299; NICU (F): (504)391-5004
 Level IIIB; NICU Beds: 12
-Neonatologists:
-ANAND, HARISH C.
-SHARMA, RAJESH
-Updated: 10/18/2010
-HAMMOND, LA
+Neonatologists: 2
+Neonatologists names: Harish Anand; Rajesh Sharma
+
 NORTH OAKS MEDICAL CENTER
 15790 Paul Vega, MD, Drive.
 Hammond, LA 70403
-NICU Medical Director: Ivan Villalta-Wehmeyer,
-MD
-(P): (985)230-6900; (F): (985)230-6531
-Email: viltata8@gmail.com
-NICU {(P); (985}230-6316; NICU (F): (985)230-6830
 Level IIIB; NICU Beds: 14
-Neonatologists:
-VILLALTA-WEHMEYER, IVAN
-Updated: 10/18/2010
-KENNER, LA
+Neonatologists: 1
+Neonatologists names: Ivan Villalta-Wehmeyer
+
 OCHNER MEDICAL CENTER, KENNER
-480 W. Esplanade Ave.
+180 W. Esplanade Ave.
 Kenner, LA 70065
-NICU Medical Director: Harley Ginsberg, MD
-(P): (504)464-8759; (F): (504)463-5903
-NIGU (P): (504)464-8375; NICU (F): (504)464-8363
 Level IIA; NICU Beds: 10
-Neonatotogists:
-YAZDANI, MALEKTAJ
-Updated: 4/6/2011
-LAFAYETTE, LA
+Neonatologists: 1
+Neonatologists names: Malektaj Yazdani
+
 LAFAYETTE GENERAL MEDICAL CENTER
 Box 52009 OCS
 Lafayette, LA 70505
-NICU Medical Director: David M. De jullo, MD
-(P}: (837)984-7828; (F): (897)984-7828
-Email: newbornservices@ gmail.com
-NICU (P)}: (837)289-7782; NICU (F): (837)289-7203
-Level 5; NICU Beds: 25
-Neonatologlsts:
-ASHRAS, MUFEED
-DE IULIO, DAVID M.
+Level IIIB; NICU Beds: 25
+Neonatologists: 2
+Neonatologists names: Mufeed Ashras; David De Julio
 
-Updated: 10/18/2010
 LSU - HCSD
 UNIVERSITY MEDICAL CENTER
 2390 W. Congress
 Lafayette, LA 70506
-NICU Medical Director: Sarita Sharma-Choudry,
-MD
-(P): (837)261 -6347; (F): (837)261-6348
-Email: sshari @LSUHSC.edu
-Director of NICU High Risk Follow-Up Clinic:
-Sarita Sharma-Choudry, MD
-NIGU (P): (337)261-6347; NICU (F): (837)261-6348
-Level HIB; NICU Beds: 14
-Neonatologists:
-SHARMA-CHOUDRY, SARITA S.
-Updated; 10/18/2010
-WOMEN'S & GHILDREN'S HOSPITAL
+Level IIIB; NICU Beds: 14
+Neonatologists: 1
+Neonatologists names: Sarita Sharma-Choudry
+
+WOMEN'S & CHILDREN'S HOSPITAL
 4600 Ambassador Caffery Pky.
 Lafayette, LA 70508
-NICU Medical Director: R. Josseline Belizaire, MD
-(P): (837)981-9316; (F): (837)981-8303
-Email: josie_belizaire@pediatrix.com
-NICU (P); (837)521-9100 Ext. 5427; NICU (F):
-(337)521-9128
-Levei li1B; NICU Beds: 50
-Neonatoilogists:
-ADAMS, JAMES G.
-BELIZAIRE, ROSAIRE J.
-BISQUERA, JENNIFER
-GOLDSMITH, JAY
-SEAGO, NEVA
-STEWART, CECILIA
-VO, CONG T.
-Updated: 10/18/2010
-LAKE CHARLES, LA
-LAKE CHARLES MEMORIAL HOSPITAL FOR
-WOMEN
+Level IIIB; NICU Beds: 50
+Neonatologists: 7
+Neonatologists names: James Adams; Rosaire Belizaire; Jennifer Bisqueta; Jay Goldsmith; Neva Seago; Cecilia Stewart; Cong Vo
+
+LAKE CHARLES MEMORIAL HOSPITAL FOR WOMEN
 1900 W. Gauthier Rd.
 Lake Charles, LA 70605
-NICU Medlcai Director: Juan Bossano, MD
-(P): (837)474-3270; (F): (837)479-0318
-Email: chinié8@ hotmail.com
-NICU (P): (837)480-7050; NICU (F): (837)480-7051
 Level IIIB; NICU Beds: 23
-Neonatolagists:
-Refer to Neonatologists Group of Women &
-Children's Hospital, Lake Charles, LA
-Updated: 4/6/2011
+Neonatologists:
+Refer to Neonatologists Group of Women & Children's Hospital, Lake Charles, LA
+
 WOMEN & CHILDREN'S HOSPITAL
-4200 Nalson Rd.
-Lake Charies, LA 70605
-NICU Medical Director: Juan Bossano, MD
-(P}; (837)475-4786
-NICU (P); (887)475-4181; NICU (F): (837)475-4174
+4200 Nelson Rd.
+Lake Charles, LA 70605
 Level IIIB; NICU Beds: 20
 Neonatologlats:
-BASSANO, JUAN
-LIN, CHIH-HAO
-Updated: 4/6/2014
-MARRERO, LA
+Neonatologists names: Juan Bassano; Chih-Hao Lin
 
-a
-: WEST JEFFERSON MEDICAL CENTER
-F 1101 Medicai Center Blvd.
-i Marrero, LA 70072
-i NICU Medical Director: Juan Gershanik, MO
-| (P): (504)896-2229; (F): (604)896-8835
-| NICU (P); (504)349-2427; NICU (F): (604)349-2¢
-| Level Il1A; NICU Beds: 15
-i Neonatologlsts:
-4 BAUTISTA, MARIA
-| GERSHANIK, JUAN
-: THELIN, OLIVIER
-: Updated: 2/10/2009
-| METAIRIE, LA
-5 EAST JEFFERSON GENERAL HOSPITAL
-s 4200 Houma Bivd,
-q Metairie, LA 70006
-| NICU Medical Director: Malektaj Yazdani, MD
-A (P): (804)896-2728; (F); (504)896-2720
-i Email: myazda@!suhsc.edu
-i NICU (P): (604)454-4980; NICU (F): (504)454-45
-q Level IIIB; NICU Beds: 12
-} ' Neonatoiogists:
-Refer to Neonatologists Group of Children’s
-: Hospital of New Orleans, New Orleans, LA
-qt Updated: 10/18/2010
-qo TULANE LAKESIDE HOSPITAL
-; 4700 South I-10 Service Road
-eS Metairie, LA 70004
-i NICU Medical Director: Philip Gordon, MD
-: (P): (604)988-5315; (F); (504)988-2950
-| Email: wgill@tulane.edu
-NICU (P): (504)780-4589; NICU (F): (804)780-45
-Level ilIB; NICU Beds: 25
+WEST JEFFERSON MEDICAL CENTER
+1101 Medical Center Blvd.
+Marrero, LA 70072
+Level IIIA; NICU Beds: 15
 Neonatologists:
-CHONG, EUMING
-GILL, WILLIAM L.
-i GORDON, PHILIP
-| | MARTINEZ, BERTHA
-H REYNOLDS, JANE E.
-i Updoted: 6/2/2011
-| MONROE, LA
-i ST. FRANCIS MEDICAL CENTER
-i Box 1401
-/ 309 Jackson St.
-i Monroe, LA 71210
-i NICU Medical Director: Marc deSoler, MD
-i (P): (818)327-4917; (F): (318)327-4916
-: Email: mdesoleri@aol.com
-| NICU (P): (318)327-4159; NICU (F): (818)327-415
-| Level [IB; NICU Beds: 35
+Neonatologists names: Maria Bautista; Juan Gershanik; Olivier Thelin
+
+EAST JEFFERSON GENERAL HOSPITAL
+4200 Houma Blvd,
+Metairie, LA 70006
+Level IIIB; NICU Beds: 12
+Neonatologists:
+Refer to Neonatologists Group of Children’s Hospital of New Orleans, New Orleans, LA
+
+TULANE LAKESIDE HOSPITAL
+4700 South I-10 Service Road
+Metairie, LA 70001
+Level IIIB; NICU Beds: 25
+Neonatologists:
+Neonatologists names: Euming Chong; William Gill; Philip Gordon; Bertha Martinez; Bertha Martinez; Jane Reynolds
+
+ST. FRANCIS MEDICAL CENTER
+Box 1401
+309 Jackson St.
+Monroe, LA 71210
+Level IIIB; NICU Beds: 35
 Neonatcloglsts:
-| deSOLER, MARC
-i. PAYNE, CARMEN 8.
-! | Updated: 10/18/2010
-q
-Ri NEW ORLEANS, LA
-i CHILDREN'S HOSPITAL OF NEW ORLEANS
-i *LSU HEALTH SCIENCE CENTER
-ae 200 Henry Clay Ave.
-aan New Orleans, LA 70118
-| Division Chief: Brian Barkemeyer, MD
-al
-i
+Neonatologists names: Marc deSoler; Carmen Payne
 
-Email: bbarke @Isuhsc.edu
-Training Program Director: Duna Penn, MD
-(P): (504)894-6974; (F): (504)896-2720
-Email: dpenn@lsuhsc.edu
-NiCU Medical Director: Dianne J. Albrecht, MD
-426 (P): (504)896-2758; (F): (504)896-2720
-Director of NICU High Risk Follow-Up Clinic:
-Joaquin Wong, MD
-NICU (P}: (604)896-9418; NICU (F): (504)896-97
-Level NIC; NICU Beds: 35
+CHILDREN'S HOSPITAL OF NEW ORLEANS
+LSU HEALTH SCIENCE CENTER
+200 Henry Clay Ave.
+New Orleans, LA 70118
+Level IIIC; NICU Beds: 35
 Neonatologists:
+Neonatologists names: 
 ALBRECHT, DIANNE J.
 BARKEMEYER, BRIAN
 BUIS, MARLENE
