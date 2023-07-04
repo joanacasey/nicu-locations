@@ -3075,11 +3075,9 @@ Division of Neonatology
 6701 N. Charles St.
 Baltimore, MD 21204-6881
 Level IIIB; NICU Beds: 30
-Neonatologists:
-BIRENBAUM, HOWARD J.
-HELOU, SABAH M.
-PANE, MARIA ANN
-Updated: 9/10/2010
+Neonatologists: 3
+Neonatologists names: Howard Birenbaum; Sabah Helou; Maria Pane
+
 HARBOR HOSPITAL CENTER
 3001 S. Hanover St.
 Baltimore, MD 21225
