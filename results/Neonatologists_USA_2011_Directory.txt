@@ -2943,7 +2943,7 @@ ST. ELIZABETH'S MEDICAL CENTER
 736 Cambridge St.
 Boston, MA 02135
 Level IIIB; NICU Beds: 21
-Neonatologists:
+Neonatologists: 9
 Neonatologists names: Charles Anderson; Mandy Belfort; Gopal Gupta; Terri Gorman; Shah Hossain; Philip James; Amy Knorr; Tamara Rousseau; Sadath Sayeed
 
 SIGNATURE HEALTHCARE BROCKTON HOSPITAL
@@ -2964,7 +2964,7 @@ EMERSON HOSPITAL
 133 Ornac
 Concord, MA 01742
 Level IIA; NICU Beds: 5
-Neonatologists:
+Neonatologists: 2
 Neonatologists names: Jonathan Cronin; Nana McMahon
 
 METROWEST MEDICAL CENTER
@@ -2972,8 +2972,7 @@ FRAMINGHAM UNION HOSPITAL
 Department of Pediatrics, 4th Floor
 115 Lincoln St.
 Level IIB; NICU Beds: 12
-Neonatologlsts: Refer to Neonatologists Group of Floating
-Hospital for Children at Tufts Medical Center, Boston, MA
+Neonatologists: Refer to Neonatologists Group of Floating Hospital for Children at Tufts Medical Center, Boston, MA
 
 LAWRENCE GENERAL HOSPITAL
 1 General St.
@@ -3008,7 +3007,7 @@ JORDON HOSPITAL
 275 Sandwich St.
 Plymouth, MA 02360
 Level IIB; NICU Beds: 6
-Neonatologlats:
+Neonatologists:
 Refer to Neonatologists Group of Floating Hospital for Children at Tufts Medical Center, Boston, MA
 
 NORTH SHORE MEDICAL CENTER
@@ -3016,8 +3015,7 @@ NORTH SHORE MEDICAL CENTER
 Salem, MA 01970
 Level IIB; NICU Beds: 12
 Neonatologists:
-Refer to Neonatologists Group of Mass General Hospital for Children, Brigham & Women's Hospital, Bosten, MA
-Neonatologists names: Sanjay Aurora; Ihor Bilyk; Katheryn Nathe
+Refer to Neonatologists Group of Mass General Hospital for Children, Brigham & Women's Hospital, Bosten, MA Neonatologists names: Sanjay Aurora; Ihor Bilyk; Katheryn Nathe
 
 SOUTH SHORE HOSPITAL
 55 Fogg Rd.
@@ -3081,920 +3079,360 @@ Neonatologists names: Howard Birenbaum; Sabah Helou; Maria Pane
 HARBOR HOSPITAL CENTER
 3001 S. Hanover St.
 Baltimore, MD 21225
-NICU Medical Director: Laurel G. Yap, MD
-(P): (410)350-3346; (F): (410)354-0175
-Email; laurel.g.yap@medstar.net
-NICU (P}: (410)350-3749; NICU (F): (410)354-0175
-Level IIA; NICU Beds: 15
-Neonatologists:
-MANNAN, ARIF
-YAP, LAUREL G.
-Updatad: 3/8/2014
+Level IIIA; NICU Beds: 15
+Neonatologists: 2
+Neonatologists names: Arif Mannan; Laurel Yap
+
 JOHNS HOPKINS BAYVIEW MEDICAL CENTER
 4940 Eastern Ave., Bldg. AA-2
-
-2 Baltimore, MD 21224
-: NICU Medical Director: Maureen Gilmore, M
-: (P): (410)550-0347; (F):
-4 Email: mgilmori @jhmi.edu
-: NICU {P): (410)850-0395; NICU (F): (410)550
-: Level HIB; NICU Beds: 25
-‘ Neonatologists:
-F Refer to Neonatologists Group of Johns Ho
-A Hospital, Baltimore, MD
-; Updated: 2/23/2014
-i *JOHNS HOPKINS HOSPITAL
-: Nelson-Harvey 2-133
-4 600 N. Wolfe Si.
-q Baltimore, MD 21287-3200
-4 University Affiliation: Johns Hopkins Univers
-; Division Chief: Edward £, Lawson, MD
-q (P}: (410)}955-5259: (F): (410)955-0298
-: Email: elawson@jhmi.edu
-| Training Program Director: Susan W. Aucott
-4 (P): (410}955-5259: (F): (410)955-0298
-ql Emalt: saucoiti @jhmi.edu
-4g NICU Medical Director: Susan W. Aucott, MC
-1. (P): (410)955-5259; (F): (410)955-0298
-qu Email: saucoili @jhmi.edu
-qi Director of NICU High Risk Follow-Up Clinic
-qi Mariles C, Allen, MD
-q | Email: meallen @jhmi.edu
-4 | NICU (P): (410)955-5255; NICU (F): (410)614-
-if Level IC; NICU Beds: 45
-9 Neonatologists:
-a ALLEN, MARILEE ©,
-E AUCOTT, SUSAN W.
-AG BOSS, RENEE D.
-ae BULLARD, JANINE
-oa: CRISTOFALO, ELIZABETH A.
-ao JONES, CATHERINE
-4 GAUDA, ESTELLE B,
-4 GILMORE, MAUREEN M,
-; a GOLDEN, W. CHRISTOPHER
-Lg LAWSON, EDWARD E.
-ng LEHMANN, CHRISTOPH U,
-| NOGEE, LAWRENCE M.
-og NORTHINGTON, FRANCES J.
-ed NUNEZ, JEANNE
-4 SATPUTE, MONIQUE
-4 Updated: 2/23/2014
-a MERCY MEDICAL CENTER
-ig 301 St. Paul Place
-:g Baltimore, MD 21202
-iy | NICU Medical Director: Susan J. Dulkerian, M
-qi (P): (410)332-9594; (F); (410)783-5575
-ir Emalli: sdulkerian@mdmercy.com
-ay NICU (P): (410)332-9568; NICU (F): (410)576-¢
-ia Level (HB; NICU Beds: 26
-i | Neonatologists:
-ral Refer to Neonatologists Group of University «
-i Maryland Schoo! of Medicine
-ba Updated: 9/15/2010
-SINAI HOSPITAL OF BALTIMORE
-es aa 2401 W. Belvedere Ave.
-bade | Baltimore, MD 21215
-eg uel NiCU Medical Director: Thomas P. O'Brien, MI
-ne
-Lat
-ig i
-bea |e
-
-{P): (410)601-5217; (F): (410)601-5557
-AD NICU (P): (410)601-5304; NICU (F): (410)601
-Level If1B; NICU Beds: 21
+Baltimore, MD 21224
+Level IIIB; NICU Beds: 25
 Neonatologists:
-9-1163 ELLIOTT, MELINDA
-KANTER, DAVID E.
-O'BRIEN, THOMAS P.
-apkins Updated: 4/6/2011
+Refer to Neonatologists Group of Johns Hopkins Hospital, Baltimore, MD
+
+JOHNS HOPKINS HOSPITAL
+Nelson-Harvey 2-133
+600 N. Wolfe St.
+Baltimore, MD 21287-3200
+Level IIIC; NICU Beds: 45
+Neonatologists: 15
+Neonatologists names: Marilee Allen; Susan Aucott; Renee Boss; Janine Bullard; Elizabeth Cristofalo; Catherine Jones; Estelle Gauda; Maureen Gilmore; Christopher Golden; Edward Lawson; Christoph Lehmann; Lawrence Nogee; Frances Northington; Jeanne Nunez; Monique Satpute
+
+MERCY MEDICAL CENTER
+301 St. Paul Place
+Baltimore, MD 21202
+Level IIIB; NICU Beds: 26
+Neonatologists: Refer to Neonatologists Group of University of Maryland School of Medicine
+
+SINAI HOSPITAL OF BALTIMORE
+2401 W. Belvedere Ave.
+Baltimore, MD 21215
+Level IIIB; NICU Beds: 21
+Neonatologists: 3
+Neonatologists names: Melinda Elliot; David Kanter; Thomas O'Brien
+
 ST. AGNES HOSPITAL
 900 Caton Ave.
 Baltimore, MD 21229
-NICU Medical Director: Michael Burke, MD
-(P}: (410)368-2500; (F): (410)368-3549
-Email: mburke@stagnes.org
-sity Director of NICU High Risk Follow-Up Clini
-Mary Leppert, MD
-NICU (P): (410)368-2630; NICU (F): (410)368.
-Levef IIIB; NICU Beds: 20
-t, MD «=—- Neonatologists:
-BRODERICK, KAREN A,
-BURKE, MICHAEL
-2) SANTOS, ARTURO Q,
-Undated: 9/10/2010
-c *UNIVERSITY OF MARYLAND SCHOOL OF
-MEDICINE
-Divislon of Neonatology
--8834 29S. Greene St., GS1i0
-Baltimore, MD 24201
-Division Chlef: Cynthia Bearer, MD
-(P): (410)328-6003; (F): (410)328-1076
-Email: chearer@pads,umaryland.edu
-Training Program Director: Alison Falck, MD
-(P): (410)328-6003; (F): (410)328-1076
-Email: afalck@peds.umaryland.edu
-NICU Medical Director: Cynthia Bearer, MD
-(P): (410)328-6003; (F): (410)328-1076
-Email: cbearer@peds.umaryland.edu
-Director of NICU High Risk Follow-Up Clinic
-Jacelyn Leung, MD
-NICU (P): (410)328-6716; NICU (F): (410)328-
-Level I[IC; NICU Beds: 40
-Neonatologists;
-AGTHE, ALEXANDER
-BEARER, CYNTHIA
-DULKERIAN, SUSAN J.
-FALCK, ALISON
-FOX, RENEE E.
-KAPOOR, SHIV
-LEUNG, JOCELYN
-AD VISCARDI, ROSE M.
-WONODI, ADORA
-WOO, HYUNG
-5287 Updated: 6/6/2011
-BETHESDA, MD
-of «NATIONAL NAVAL MEOICAL CENTER
-National Navai Medical Center, Bethesda
-Neonatal-Perinatal Medicine/A 3007
+Level IIIB; NICU Beds: 20
+Neonatologists:
+Neonatologists names: Karen Broderick; Michael Burke; Arturo Santos
+
+UNIVERSITY OF MARYLAND SCHOOL OF MEDICINE
+Division of Neonatology
+29 S. Greene St., GS110
+Baltimore, MD 21201
+Level IIIC; NICU Beds: 40
+Neonatologists: 10
+Neonatologists names: Alexander Agthe; Cynthia Bearer; Susan Dulkerian; Alison Falck; Renee Fox; Shiv Kapoor; Jocelyn Leung; Rose Viscardi; Adora Wonodi; Hyung Woo
+
+NATIONAL NAVAL MEDICAL CENTER
+National Naval Medical Center, Bethesda Neonatal-Perinatal Medicine/A 3007
 Room C 1069
 4301 Jones Bridge Rad.
 Bethesda, MD 20814
-ID University Affiliation: Uniformed Services
-University :
-45
+Level IIIB; NICU Beds: 24
+Neonatologists: 8
+Neonatologists names: Jerri Curtis; Nicole Dobson; Jason Higginson; Jay Kerecman; Caleb Podraza; Agnes Sierocka; Theophil Stokes; Maureen Tate
 
-Division Chief: Agnes Sierocka, MD
-1-5567 (P): (801)295-9728; (F): (301)319-8214
-Email: asierockacastaneda@usuhs.mil
-Training Program Director: Jay Kerecmar
-(P}: (801)295-9728; (F): (301)319-8214
-NICU Madical Director: Agnes Sterocka, V
-(P}: (801)285-4921; (F): (301)319-5110
-Email: aslerockacastaneda@usuhs.mil
-Director of NICU High Risk Follow-Up Cli
-Jason Higginson, MD
-NICU (P): {301)319-4691; NICU (F): (301)3°
-Level INB; NICU Beds: 24
-Neonatologists:
-CURTIS, JERRI
-; DOBSON, NICOLE
-(Gs HIGGINSON, JASON
-KERECMAN, JAY
-3560 = PODRAZA, CALEB
-SIEROGCKA, AGNES
-STOKES, THEOPHIL
-TATE, MAUREEN
-Updated: 5/6/2011
-CHEVERLY, MD
-: PRINCE GEORGE'S HOSPITAL CENTER
+PRINCE GEORGE'S HOSPITAL CENTER
 3001 Hospital Dr.
 Cheverly, MD 20785
-NICU Medical Director: Antoine K, Fomufoc
-M.P,H,
-{P): (301)618-2630; (F); (801)618-3941
-Email: afomufod @pediatrix.net
-NICU (P): (301)618-3280; NICU {F): (301)61
-) Level HIB; NICU Beds: 18
-Neonatologlsts:
-ABEDIN, MEHNUR
-ABDULKADIR A.
-FOMUFOD, ANTOINE K.
-FRATTAROLA, ISABELITA G.
-Cc: Updated: 9/16/2010
-6073 GLINTON, MD
-SOUTHERN MARYLAND HOSPITAL CENT
-7509 Surratts Ad,
+Level IIIB; NICU Beds: 18
+Neonatologists: 4
+Neonatologists names: Mehnur Abedin; A. Abdulkadir; Antoine Fomufod; Isabelita Frattarola
+
+SOUTHERN MARYLAND HOSPITAL CENTER
+7503 Surratts Rd.
 Clinton, MD 20735
-NICU Medical Director: Josephine Vergara,
-NICU (P): (301)877-4288; NICU (F): (301)86
-Level IIB; NICU Beds: 8 .
-Neonatologists:
-VERGARA, JOSEPHINE
-Updated: 3/1 1/2011
-COLUMBIA, MD
+Level IIB; NICU Beds: 8
+Neonatologists: 1
+Neonatologists names: Josephine Vergara
+
 HOWARD COUNTY GENERAL HOSPITAL
 5755 Cedar Lane
 Columbia, MD 21044
-NICU Medical Director: Tuvia Blechman, MI
-{P}: (410)740-7559; (F): (410)884-4584
-Emalt: gblechman@hegh.org
-NICU (P): (410)740-7555; NICU {F): (410)74¢
 Level IIIB; NICU Beds: 24
+Neonatologists: 3
+Neonatologists names: Tuvia Blechman; Bharti Razdan; Misrac Tadesse
+
+WESTERN MARYLAND HEALTH SYSTEM
+Willowbrook RD.
+Cumberland, MD 21502-3797
+Level IIB, NICU Beds: 8
+Neonatologists: 1
+Neonatologists names: Ramesh Vidavalur
+
+FREDERICK MEMORIAL HOSPITAL
+Neonatal ICU
+400 West 7th St.
+Frederick, MD 21701
+Level IIIA; NICU Beds: 14
+Neonatologists: 3
+Neonatologists names: Marilea Miller; Fabio Olarte; Katherine Whire
+
+MONTGOMERY GENERAL HOSPITAL
+18101 Prince Philip Or.
+Olney, MD 20832-9990
+Level IIB; NICU Beds: 18
 Neonatologists:
-BLECHMAN, TUVIA
-RAZDAN, BHARTI
-TADESSE, MISRAC
 
-} S Updater: gfO2010
-_ CUMBERLAND, MD
-“MD | wegTERN MARYLAND HEALTH SYSTEM
-; = Walowbrank Fi.
-2 Cumberland, MD 21502-3797
-/ NICU Modleal Director: Ramosh Vidavalur, MD
-\ . NICU (P): (240)964-6430; NICU (F): (240)964-6405
-aie: Level 1B, NICU Beds: 8
-5 | Neonntologiats:
-92-5119 VIDAVALUI, RAMESH
-) = Updated: 8/30/2010
-\ _ FREDERICK, MD
-_- FREDERICK MEMORIAL HOSPITAL
-: = Neonatal ICU
-400 Wes! 71h St.
-‘ Frederick, MD 21701
-, NICU Medical Director: Marilea K. Miller, MD
-7 ¢P): (240)568-3447
-: ~ NICU (P): (240)566-3582
-"Level IIIA; NICU Beds: 14
-: _ Neonatologists:
-: |. MILLER, MARILEA
-3 | OLARTE, FABIO
-_ WHITE, KATHERINE
-: “© Updated: 1/17/2009
-: MD, OLNEY, MD
-_. MONTGOMERY GENERAL HOSPITAL
-, = 18101 Prince Philip Or.
-2198: Oiney, MD 20832-8990
-‘ _ NICU Medical Director: Nitin Mehta, MD
-} = (P): (301)784-7490; (F): (801)754-74B4
-/ __ NIGU (P}: (301)774-8758; NICU (F): (801)774-872¢
-} _ Level IIB; NICU Beds: 18
-: _-Neonatologists:
-: “© Updated: 4/6/2011
-} ROCKVILLE, MD
-' __ SHADY GROVE ADVENTIST HOSPITAL
-“ER 9901 Medical Center Dr.
-3 _ Rockville, MD 20850
-‘ = NICU Medical Director: James Rost, MD
-MD... (P): (301)279-6392; (F): (801)217-5388
-872i Director of NICU High Risk Follow-Up Clinic:
-; Cathleen McGrath, MD
-, NICU (P): (240)826-7495; NICU (F): (240)826-537:
-__ Level IIIB; NICU Beds: 38
-\ _ Neonatotagists:
-/ BOYKIN, ARLENE
-\ DESTIN, KISHA
-; _—  TAFOLLA, A, KIMBERLY
-\ NIGAM, MADHU
-_ PROSPER-GOMEZ, LAURA
-: QURESHI, FAISAL
-‘ _ ROST, JAMES
-; SUKUMAR, MINAKSHI S.
-“7613. VESZELOVSZKY, EDINA
-y | Updated: ser2014
-' _ SALISBURY, Mo
-’ = PENINSULA REGIONAL MEDICAL CENTER
+SHADY GROVE ADVENTIST HOSPITAL
+9901 Medical Center Dr.
+Rockville, MD 20850
+Level IIIB; NICU Beds: 38
+Neonatologists: 9
+Neonatologists names: Arlene Boykin; Kisha Destin; Kimberly Iafolla; Madhu Nigam; Laura Prosper-Gomez; Faisal Qureshi; James Rost; Minakshi Sukumar; Edina Veszelovsky
 
+PENINSULA REGIONAL MEDICAL CENTER
 100 East Carroll St.
 Salisbury, MD 21801
-NICU Medical Director: Kimberly lafolia, MD
-NICU (P): (410)543-7198, NICU (F}: (410)543-7500
-Level !1B; NICU Beds: 10
+Level IIB; NICU Beds: 10
 Neonatologists:
-Refer to Neonatologists Group of Shady Grove
-Adventist Hospital, Rockville, MD
-Updated: 3/14/2014
-SILVER SPRING, MD
+Refer to Neonatologists Group of Shady Grove Adventist Hospital, Rockville, MD
+
 HOLY CROSS HOSPITAL
-41500 Forest Glen Rd.
+1500 Forest Glen Rd.
 Silver Spring, MD 20910
-NICU Medical Director: Sharon Kiernan, MD
-(P): (301)754-7490; (F); (301)754-7484
-NICU (P): (804)754-7600; NICU (F): (801)754-7604
 Level HIB; NICU Beds: 46
-Neonatologists:
-BAER, GERRI
-GAITATZES, CHRYS
-GREENSPAN, LEAH
-HINO, JANEL
-KIERNAN, SHARON
-LOTZE, ANDREA
-MC ADOO, JESSICA
-PICARD, MATTHEW
-Updated: 4/6/2041
-TAKOMA PARK, MD
+Neonatologists: 8
+Neonatologists names: Gerri Baer; Chrys Gaitatzes; Leah Greenspan; Janel Hino; Sharon Kiernan; Andrea Lotze; Jessica Mc Adoo; Matthew Picard
+
 WASHINGTON ADVENTIST HOSPITAL
 7600 Carrol Ave.
 Takoma Park, MD 20912
-NICU Medical Director: Dorothy Hsiao, MD
-9  (P): (301)891-7600
-NICU (P); (301)891-5498; NICU (F): (301)891-583
-Level 1B; NICU Beds: 6
+Level IIB; NICU Beds: 6
 Neonatologists:
-Refer to Neonatologists Group of Shady Grove
-Adventist Hospital, Rockville, MD
-Updated: 4/6/2011
+Refer to Neonatologists Group of Shady Grove Adventist Hospital, Rockville, MD
+
 TOWSON, MD
 ST. JOSEPH MEDICAL CENTER
 7601 Osler Dr.
 Towson, MD 21204
-NICU Medical Director: Michael Langbaum, MD
-2  (P): (410)337-1282
-NICU (P); (410)337-1150; NICU (F): (410)377-184:
-Level Ii[B; NICU Beds: 20
-Neonatologists:
-BENNETT, MARILYN H.
-LANGBAUM, MICHAEL E.
-Updsted: 9/10/2010
-BANGOR, ME
+Level IIIB; NICU Beds: 20
+Neonatologists: 2
+Neonatologists names: Marilyn Bennet; Michael Langbaum
+
 EASTERN MAINE MEDICAL CENTER
 489 Stale St.
 Bangor, ME 04401-0404
-NICU Medical Director: Mark S. Brown, MD
-(P): (207)973-8670; (F): (207)$73-5163
-Email: mbrown@emh.org
-Director of NICU High Risk Foilow-Up Clinic:
+Level IIIB; NICU Beds: 23
+Neonatologists: 4
+Neonatologists names: Kumar Akilesh; Mark Brown; Mary Connolly; John Hagerty
 
-Jay Hagerty, MD
-NIGU (P): (207)973-8781; NICU (F): (207)873-8812
-Level iB; NICU Beds; 23 ,
-| Neonatotogists:
-AKILESH, KUMAR
-BROWN, MARK &.
-CONNOLLY, MARY
-HAGERTY, JOHN J. (JAY)
-Updated: 9/16/2010
-LEWISTON, ME
 CENTRAL MAINE MEDICAL CENTER
 300 Main St.
 Lewiston, ME 04240-0305
-NICU Medical Director: Stephanie Boggs, MD
-(P): (207)795-2500; (F): (207)795-5680
-{ NICU (P}: (207)795-2500; NICU (F): (207)795-5680
-Level iIIA; NICU Beds: 10
-Neonatologists:
-BOGGS, STEPHANIE
-Updated: 4/6/2011
-PORTLAND, ME
-BARBARA BUSH CHILDREN'S HOSPITAL AT
-MAINE MEDICAL CENTER
-Divislon of Neonatology
+Level IIIA; NICU Beds: 10
+Neonatologists: 1
+Neonatologists names: Stephanie Boggs
+
+BARBARA BUSH CHILDREN'S HOSPITAL AT MAINE MEDICAL CENTER
+Division of Neonatology
 22 Bramhall St.
-Portland, ME 64102
-NICU Medicai Director: Peter J. Marro, MD
-{P): (207}662-2553; (F): (207)862-6063
-Email: marrop@mcc.org
-NIGU (P): (207)662-2246; NICU (F): (207)662-6227
-Level fli; NICU Beds: 36
-Neonatologisis:
-FAHM, ERIC J.
-4 MARRO, PETER J.
-MORROW, DOREEN L.
-SOBEL, DANIEL 8.
-VOZZELLI, MICHAEL A,
-Updated: 9/24/2010
-ANN ARBOR, MI
-ST, JOSEPH MERCY HOSPITAL
+Portland, ME 04102
+Level IIIC; NICU Beds: 36
+Neonatologists: 5
+Neonatologists names: Eric Fahm; Peter Marro; Doreen Morrow; Daniel Sobel; Michael Vozzelli
+
+ST. JOSEPH MERCY HOSPITAL
 Department of Pediatrics
-53071 East Huron River Dr.
-Ann Arbor, Mi 48406-0995
-NICU Medical Director: Gary Weiner, MD
-(P): (734)712-3328; (F): (734)712-5525
-(4 NICU (P): (784)712-3327; NICU (F}: (734)712-7377
-Level 1B; NICU Beds: 31
-Neonatologists:
-EVERETT, MARGARET F.
-tVACKO, JUDITH A.
-JUDGE, LISA S,
-TEKKANAT, KIM
-WEINER, GARY M.
-Updated: 4/6/2011
-*UNIVERSITY OF MICHIGAN HEALTH SYSTEM
-F5790 Mott Hospital/6254
+5301 East Huron River Dr.
+Ann Arbor, MI 48106-0995
+Level IIIB; NICU Beds: 31
+Neonatologists: 5
+Neonatologists names: Margaret Everett; Judith Ivacko; Lisa Judge; Kim Tekkamat; Gary Weiner
+
+UNIVERSITY OF MICHIGAN HEALTH SYSTEM
+F5790 Mott Hospital/5254
 1500 E. Medical Center Dr.
-Ann Arbor, Mi 48109-5254
-Diviston Chief: John D.E, Barks, MD
-{P): (734)763-4109; (F): (734)763-7728
+Ann Arbor, MI 48109-5254
+Level IIIC; NICU Beds: 40
+Neonatologists: 9
+Neonatologists names: Mohammad-Ali Attar; John Barks; Rachel Chapman; Karl Desch; Steven Donn; Naomi Laventhal; Subrata Sarkar; Robert Schumacher; Rebecca Vartanian
 
-Email: jbarks@med.umich.edu
-| Training Program Director: Rache! Chapman, |
-4 (P): (734}763-4109: (F): (784)763-7728
-i Email: rachelic@medumich.edu
-i NICU Medicai Director: Robert E, Schumacher,
-: {P): (734)763-4109; (F): (734)763-7728
-y Email: neoschu@umich.edu
-Z Director of NICU High Risk Follow-Up Clinic:
-4 Ann Latrow, R.N.
-| NICU (P): (734)763-4111; NICU (F); (734)936-97
-B Level IliC; NICU Beds: 40
-' Neonatologlsts:
-ATTAR, MOHAMMAD-ALI
-BARKS, JOHN D.E.
-CHAPMAN, RACHEL
-DESCH, KARL G.
-: DONN, STEVEN M,
-: LAVENTHAL, NAOMI
-SARKAR, SUBRATA
-SCHUMACHER, ROBERT E.
-VARTANIAN, REBECCA
-Updated: 5/6/2011
-' DEARBORN, Mi
-OAKWOOD HOSPITAL MEDICAL CENTER -
-i DEARBORN
-i 18101 Oakwood Bivd., #124
-: Dearborn, MI 48124
-= NICU Medical Director: Derek K. Bair, MD
-i: (P): (813)593-7490; (F): (313)436-2082
-‘ Emall: Balrd@oakwood.org
-i NICU (P}: (813)593-7495; NICU (F): (313)593-88
-i Level IIIB; NICU Beds: 30
-Hy Neonatologists:
-H BAIR, DEREK
-i CLARK, WILLIAM
-H LUEDER, FREDERICK
-HUGHES, CLARITA
-H PURIFOY, JERALD
-| Updated: 9/13/2010
-DETROIT, MI
-if GRACE HOSPITAL
-H 6071 W. Outer Dr.
-A | Detroit, Mi 48235
-i NICU Medical Director: Homer Ryan, MD
-Bi (P): (313)966-3229; (F): (813)966-3228
-i _ NICU €P): (313)966-4450; NICU (F}: (843)966-36
-i Level IIIB; NICU Beds: 25
-i Neonatologlsts:
-ARCILLA, DELIA
-] LIANG, KEH-CHYANG
-y ROSHDI, ADEL
-ir RYAN, HOMER
-| Updated: 8/24/2011
-E HENRY FORD HOSPITAL
-H Division of Neonatology W-P 3rd Floor
-i 2799 W. Grand Blvd.
-i Detroit, MI 48202
-| an NICU Medicai Director: Sudhakar G. Ezhuthach
-ae MD
-| ify (P): (313)916-3146; (F): (813)916-9485
-i: i Email: sezhuth1 @hths.org
-| Ba
+OAKWOOD HOSPITAL MEDICAL CENTER - DEARBORN
+18101 Oakwood Blvd., #124
+Dearborn, MI 48124
+Level IIIB; NICU Beds: 30
+Neonatologists: 5
+Neonatologists names: Derek Bair; William Clark; Frederick Lueder; Clarita Hughes; Jerald Purifoy
 
-Director of NICU High Risk Follow-Up Clinic:
-MD Savitri P, Kumar, MD
-NICU (P): (813)916-0450; NICU (F): (813)916-31
+GRACE HOSPITAL
+6071 W. Outer Dr.
+Detroit, MI 48235
+Level IIIB; NICU Beds: 25
+Neonatologists: 4
+Neonatologists names: Delia Arcilla; Keh-Chyang Liang; Adel Roshdi; Homer Ryan
+
+HENRY FORD HOSPITAL
+Division of Neonatology W-P 3rd Floor
+2799 W. Grand Blvd.
+Detroit, MI 48202
 Level IIIB; NICU Beds: 35
-. MD Neonatologists;
-BOXWALLA, MUSTAFA
-DACOSTA, DAVID .
-DUBOSE-PARSONS, SHERIDA
-EZHUTHACHAN, SUDHAKAR G.
-714 KUMAR, SAVITRE P.
-Updated: 9/16/2010
+Neonatologists: 5
+Neonatologists names: Mustafa Boxwalla; David Dacosta; Sherida Dubose-Parsons; Sudhakar Ezhtchachan; Savitri Kumar
+
 HUTZEL WOMEN'S HOSPITAL
 Department of Pediatrics
 3980 John R.
 Box 159
-Detrolt, Mi 48201
-NICU Medical Director: Winston W.K. Koo, MD
-(P): (313}745-7231; (F): (813)993-0198
-Email: wkoo@wayne.edu
-Director of NICU High Risk Follow-Up Clinic:
-Jorge L. Lua, MD
-NICU (P): (813)745-0761; NICU (F): (813)745-07
-Level lilB; NICU Beds; 36
+Detroit, MI 48201
+Level IIIB; NICU Beds; 36
 Neonatologists:
-Refer io Neonatologists Group of Children’s
-Hospital of Michigan, Detroit, Mi
-Updated: 9/13/2010
-ST, JOHN HOSPITAL & MEDICAL CENTER
+Refer to Neonatologists Group of Children’s Hospital of Michigan, Detroit, MI
+
+ST. JOHN HOSPITAL & MEDICAL CENTER
 22101 Moross Rd.
 Detroit, MI 48236
-802 NICU Medical Director: Ali Rabbani, MD
-(P): (813)343-3964; (F): (313)343-3939
-Emall: alirabbani@stjohn.org
-NICU (P): (818)343-3497; NICU (F): (813)417-29
 Level IIIB; NICU Beds: 35
-Neonatologists:
-ADAMS, JOHN T,
-CASABAR, RENATO
-DUENAS, MARIA L.
-PATEL, DEEPAK G,
-RABBANI, ALI
-RELICH, NICHOLAS C.
-Updated: 9/43/2010
-WAYNE STATE UNIVERSITY SCHOOL OF
-*MEDICINE/DETROIT MEDICAL CENTER
-583 CHILDREN'S HOSPITAL OF MICHIGAN
-3901 Beaubien Bivd,
-Detroit, MI 482014
-Diviston Chief: Sestha Shankaran, MD
-(P): (813)745-1436; (F); (313)745-5867
-Email: sshankar@med,wayne.edu
-Training Program Director: Jorge Lua, MD
-(P): (843)745-5639; (F): (813) 745-0497
-Email: jiua@med.wayne.edu
-NICU Medical Director: Girjja Natarajan, MD
-(P): (813)745-5368; (F): (913)745-5867
-Email: gnatara@med.wayne.edu
-Director of NICU High Risk Follow-Up Clinte:
-yan, Jorge Lua, MD
-(P): (343) 745-0497
-NICU (P): (313)745-0071; NICU (F): (313)993-78
-Level IHC; NICU Beds: 40
-47
+Neonatologists: 6
+Neonatologists names: John Adams; Renato Casabar; Maria Duenas; Deepak Patel; Ali Rabbani; Nicholas Relich
 
-: Neonatologists:
-BAJAJ, MONIKA
-146 CHAWLA, SANJAY
-CHOUTHAI, NITIN
-DEJESUS, LILIA
-DELANEY-BLACK, VIRGINIA
-KAZZI, S. NADYA J.
-LUA, JORGE
-NATARAJAN, GIRIWA
-PAPPAS, ATHINA
-SHANKARAN, SEETHA
-SCOD, BEENA
-Updated: 5/6/2011
-FLINT, Mi
+WAYNE STATE UNIVERSITY SCHOOL OF MEDICINE/DETROIT MEDICAL CENTER
+CHILDREN'S HOSPITAL OF MICHIGAN
+3901 Beaubien Blvd.
+Detroit, MI 48201
+Level IIIC; NICU Beds: 40
+Neonatologists: 11
+Neonatologists names: Monika Bajaj; Sanjay Chawla; Nitin Chouthai; Lilia Dejesus; Virginia Delaney-Black; Nadya Kazzi; Jorge Lua; Girija Natarajan; Athina Pappas; Seetha Shankaran; Beena Sood
+
 HURLEY MEDICAL CENTER
-) . One Hurley Plaza
+One Hurley Plaza
 2N NICU Office
 Flint, MI 48503
-NICU Medica! Director: Aladdin A-Rahman, V
-(P): (810)257-9026; (F}: (810)762-6109
-749 Email: arahmant @hurleyme.com
-NICU (P); (810)262-9181; NICU (F): (810)262-i
-Level 1B; NICU Beds: 44
-Neonatologists:
-ARANAS, EPIFANIA
-CHAN, RAYMOND K.
-KAZEM, ESAM
-MONGA, RAJAN
-RAHMAN, ALADDIN
-Updated: 9/15/2010
-GRAND RAPIDS, Ml
+Level IIIB; NICU Beds: 44
+Neonatologists: 5
+Neonatologists names: Epifania Aranas; Raymond Chan; Esam Kazem; Rajan Monga; Aladdin Rahman
+
 HELEN DEVOS CHILDREN’S HOSPITAL
-867 400 Michigan, N.E.
-Grand Rapids, Mi 49603
-NICU Medical Director: Ed Beaumont, MD
-(P): (616)391-1714; (F): (616}391-1332
-Email: ed.beaumont@spectrum-health.org
-Director of NICU High Risk Follow-Up Clinic
-Wendy Burdo-Hartman, MD
-NICU (P); (616)391-1523; NICU (F): (616)391-
-Level IfiC; NICU Beds: 95
-Neonatologists:
-BEAUMONT, EDGAR J.
-BRAUNREITER, DUSTIN
-DEJONGE, MITCHELL
-DOCTOR, BENEDICT
-GELFAND, STEVEN
-KNEE, DANNY
-LANGEN, ROBERT
-KINNEY, CRAIG M.
-SHAW, THOMAS R.
-Updated: 3/9/2044
+100 Michigan, N.E.
+Grand Rapids, MI 49503
+Level IIIC; NICU Beds: 95
+Neonatologists: 9
+Neonatologists names: Edgar Beaumont; Dustin Braunreiter; Mitchell Dejonge; Benedict Doctor; Steven Gelfand; Danny Knee; Robert Langen; Craig Kinney; Thomas Shaw
+
 ST. MARY'S MERCY MEDICAL CENTER
 200 Jefferson SE
-Grand Rapids, Ml 49503-4502
-NiCU Madicat Director: Charles Winslow, MD
-{P): (626)752-6902; (F): (616)658-6475
-NICU (P)}: (616)685-6475; NICU (F): (616)685-¢
-Level JHB; NICU Beds: 15
-826 Neonatologists:
-POORTENGA, MARIEL
+Grand Rapids, MI 49503-4502
+Level IIIB; NICU Beds: 15
+Neonatologists: 2
+Neonatologists names: Mariel Poortenga; Charles Winslow
 
-» = winsLow, CHARLES 8.
-= updated. 46/2014
-a amazoo, Ml
 BRONSON METHODIST HOSPITAL
-2 6otdohn St
-© Kalametzoo, til 49007 ;
-,) | NICU Medical Dlractor: Robin Pierucel, MD
-(py 200)34 1-6469; (F): (269)341-6296
-. NICU (P): (269)441-6475; NICU (F): (269)341-7002
-\ = Level Na; NICU Beds: 45
-/ |) Neonatologists:
-~ © ALLRED, LISA
-> MALIN, SETH W.
-. = PIERUCGI, ROBIN
-* | pURDY, GERALD D.
-4 RIMMIKE, WILLIAM A.
-‘ i Updated: a1 3/2010
-2 LANSING. 14)
-’ | agpaRROW HEALTH SYSTEM/MICHIGAN STATE
-,245. UNIVERSITY
-“= Department of Neonatology
-4215 €, Michigan
-“| B.O, Box 30480
-> = Lansing, Mi 48912
-“ __ pivislon Chief: Ira H. Gewolb, MD
-> | (P): {617)864-2670; (F): (517)364-3994
-“= Email: gewolb @msu.edu
-. "© Training Program Director: ira H. Gewolb, MD
-___ {P):(617)364-2670; (F): (517)364-3994
-) == Email: gewolb@msu,edu
-. = NICU Medical Olrector: Said Omar, MD
-2 © (P):(617)364-2670; (F): (617)364-3994
-, © Email: omar@msu.edu
-/ = Director of NICU High Risk Follow-Up Clinic:
-, . Said Omar, MD
-/ 5. Email: omar@msu.edu
-. = NICU {P): (517)364-4520; NICU (F): (517)364-2072
-' . Level IB; NICU Beds: 35
-»- Neonatologists:
-“332 AWONUGA, MODUPE
-.  GEWOLB, IRA
-KADROFSKE, MARK
-E KARNA, PADMANI
-_ OLOMU, NICHOLAS
-} OMAR, SAID A,
-yo Updated: 6/6/2011
-_ MARQUETTE, MI
-“ _ MARQUETTE GENERAL HOSPITAL
-\ _ 420 W. Magnetic
-“Marquette, Mi 49865
-\ _. NICU Medical Director: Julia |. Frei, D.O., Ph.D.
-—— P):(806)228.3008; (F): (906)225-4841
-NICU (P): (906)225-3358; NICU (F): (G06)225-4841
-_. Level IIB; NICU Beds: 12
-' | Neonatologists:
-‘ FREI, JULIA |.
-395 GRANDY, JOHN
-» _ PAXSON, CHARLES
-‘ Updatea: 4/6/2014
-\. a
-Pontiac, my
+601 John St.
+Kalamazoo, MI 49007
+Level IIIB; NICU Beds: 45
+Neonatologists: 5
+Neonatologists names: Lisa Allred; Seth Malin; Robin Pierucci; Gerald Purdy; William Rimmke
 
-ST, JOSEPH MERCY-OAKLAND
+SPARROW HEALTH SYSTEM/MICHIGAN STATE UNIVERSITY
+Department of Neonatology
+1215 E. Michigan
+P.O. Box 30480
+Lansing, MI 48912
+Level IIIB; NICU Beds: 35
+Neonatologists: 6
+Neonatologists names: Modupe Awonuga; Ira Gewolb; Mark Kadrofske; Padmani Karna; Nicholas Olomu; Said Omar
+
+MARQUETTE GENERAL HOSPITAL
+420 W. Magnetic
+Marquette, MI 49855
+Level IIIB; NICU Beds: 12
+Neonatologists: 3
+Neonatologists names: Julia Frei; John Grandy; Charles Paxson
+
+ST. JOSEPH MERCY - OAKLAND
 44405 Woodward Ave.
-Pontiac, Ml 48341
-NICU Medleat Director: Narasingrao Pampati, MD
-(P): (248)858-3526; (F): (248)858-3532
-Email: pampatin @trintly-health.org :
-NICU (P): (248)85B-6356; NICU (F): (248)858-3642
+Pontiac, MI 48341
 Level IIIB; NICU Beds: 30
-Neonatolaglsts:
-DESAI, RAJENDRA B,
-MARTIN, AMY
-PAMPAT!, NARASINGRAO
-Updated: 12/4/2010
-ROCHESTER, Ml
+Neonatolaglsts: 3
+Neonatologists names: Rajendra Desai; Amy Martin; Narasingrao Pampati
+
 CRITTENTON HOSPITAL
-4101 W. University Dr.
+1101 W. University Dr.
 Rochester, MI 48307-1831
-NICU Medical Director: Kanamarlapudi V.S. Rao,
-MD
-{P): (248)652-5284
-Email: rao@crittenton.com
-NICU (P): (248)652-5385; NICU (F): (248)652-5748
-Level IB; NICU Beds: 8
-Neonatologlsts:
-RAO, KANAMARLAPUDI V.S.
-Updated: Y1 1/2041
-ROYAL OAK, MI
+Level IIB; NICU Beds: 8
+Neonatologists:
+Neonatologists names: Kanamarlapudi Rao
+
 WILLIAM BEAUMONT HOSPITAL
 3601 W. Thirteen Mile Rd.
-Royal Oak, Mi 48073-6769
-NICU Medical Director: Daniel G. Batton, MD
-(P): (248)B98-0633; (F): (248)898-3393
-Email: dgbatton@beaumont,edu
-Director of NICU High Risk Follow-Up Clinic:
-Martin Espinosa, MD
-NICU (P): (248)898-5398; NICU (F): (248)898-5990
+Royal Oak, MI 48073-6769
 Level IIIB; NICU Beds: 61
-Neonatalogists:
-COHN, A.
-DE WITTE, DAVID 8.
-DEVEVARAHALLY, S.
-ESPINOSA, MARTIN
-HOLTROP, PAUL
-KLAAR, JUDITH M.
-OCA, LISA
-PRYCE, CYNTHIA J.E.
-SALEEM-RASHEED, FOVIA
-STEFFES, BARBARA
-Updated: 9/13/2010
-SAGINAW, Mi
+Neonatalogists: 10
+Neonatologists names: A. Cohn; David De Witte; S. Devevarahally; Martin Espinosa; Paul Holtrop; Judith Klarr; Lisa Oca; Cynthia Pryce; Fovia Saleem-Rasheed; Barbara Steffes
+
 COVENANT HEALTHCARE
 1447 N. Harrison St.
 Saginaw, MI 48602
-NICU Medical Director: Knawar G. Moshini, MD
-(P}: (989)583-4595; (F): (989)583-4865
-Email: kay_mohsini@pediatrix.com
-Director of NICU High Risk Follow-Up Clinic:
-Yes
-NICU (P): (989}583-4596; NICU (F): (989)563-4564
-Level I1iB; NICU Beds: 55
-Neonatotogists:
+Level IIIB; NICU Beds: 55
+Neonatologists: 4
+Neonatologists names: Khawar Moshini; Martin Nwankwo; Chai Soontharotoke; Serge Thurin
 
-MOSHINI, KHAWAR G.
-NWANKWO, MARTIN
-SQONTHAROTOKE, CHAI Y.
-THURIN, SERGE M.
-Updated: 2/23/2010
-SOUTHFIELD, MI
 PROVIDENCE HOSPITAL
-16001 W..Nine Mile Ad,
-Southfield, Ml 48037
-NICU Medical Director: Betty Y. Go, MD
-(P}: (248)849-3046; (F): (248)849-8339
-NICU (P): (248)849-3430; NICU (F): (248)849-2722
-Level IIB; NICU Beds: 15
-Neonatotogists:
-DAJANI, RIMA K.
-GO, BETTY Y.
-KHAN, SHAHID
-Updated: 2/23/2011
-TRAVERSE CITY, MI
+16001 W. Nine Mile Rd.
+Southfield, MI 48037
+Level IIIB; NICU Beds: 15
+Neonatologists: 3
+Neonatologists names: Rima Dajani; Betty Go; Shahid Khan
+
 MUNSON MEDICAL CENTER
-1105 Sixth Si.
-Traverse Cily, MI 49684
-NICU Medical Director: Steven J. St. Charles, MD
-(P); (231)935-5522; (F): (231)935-7903
-Email: sstcharl@mne.net
-NICU (P): (231)935-6250; NICU (F): (231)935-8357
-Level lilB; NICU Beds: 20
+1105 Sixth St.
+Traverse City, MI 49684
+Level IIIB; NICU Beds: 20
 Neonatologists:
-SLIAMANNA, DAVID
-ST. CHARLES, STEVEN J.
-Updated: 9/13/2640
-TAOY, Mi
+Neonatologists names: David Sliamanna; Steven St. Charles
+
 WILLIAM BEAUMONT HOSPITAL - TROY
-44201 Dequindre Rd,
-Troy, Mi 48085
-NICU Medical Director: David DeWitte, MD
-NICU (P): (248)964-3992; NICU (F): (248)964-6069
-Level liB; NICU Beds: 6
+44201 Dequindre Rd.
+Troy, MI 48085
+Level IIB; NICU Beds: 6
 Neonatologists:
-DEWITTE, DAVID
-Updated: 3/41/2011
-DULUTH, MN
+Neonatologists names: David Dewitte
+
 ST. MARY'S MEDICAL CENTER
-407 E, Third St.
+407 E. Third St.
 Duluth, MN 55805
-NICU Medical Director: Lee A. Muskovitz, MD
-(P); (218)726-4555; (F): (218)786-7384
-Email: Imuskovitz@smdc.org
-Director of NICU High Risk Follow-Up Clinic:
-Lee A. Muskovitz, MD
-NICU (P): (218)786-4601; NICU {F): (218)786-7384
-Level INB; NICU Beds: 25
+Level IIIB; NICU Beds: 25
 Neonatologists:
-CHAUDHRY, NAEEM
-MUSKOVITZ, LEE A.
-SALGIER, CHRISTINA
-Updatod: 9/16/2010
-MINNEAPOLIS, MN
+Neonatologists names: Naeem Chaudhry; Lee Muskovitz; Christina Salgier
 
-; CHILDREN’S HOSPITAL & CLINIC
+CHILDREN’S HOSPITAL & CLINIC
+2525 Chicago Ave., S.
+Minneapolis, MN 55404
+Level IIIC; NICU Beds: 44
+Neonatologists: 12
+Neonatologists names: Ellen Bendel-Stenzel; David Brasel; Diane Camp; Jane Darthell; Bruce Ferrara; Ronald Hoekstra; Virginia Hustead; Bonnie Landrum; Jeanne Mrozek; Neil Mulrooney; Nathaniel Payne; Nina Perdue
 
-E 2525 Chicago Ave., S,
+HENNEPIN COUNTY MEDICAL CENTER
+701 Park Ave., S.
+Minneapolis, MN 55415
+Level IIIB; NICU Beds: 23
+Neonatologists:
+Neonatologists names: Connie Adkinsson; Raul Cifuentes; Richard Lussky; Asha Siddappa
 
-q Minneapolis, MN 55404
+UNIVERSITY OF MINNESOTA AMPLATZ CHILDREN’S HOSPITAL
+2450 Riverside Ave.
+Minneapolis, MN 55454
+Level IIIC; NICU Beds: 41
+Neonatologists: 14
+Neonatologists names: Indu Agarwal; Catherine Bendel; Nancy Fahim; Cheryl Gale; Thomas George; Michael Georgieff; Sixto Guiang III; Dana Johnson; Mary Pylipow; Sara Ramel; Raghu Rao; Kari Roberts; Erin Stepka; Theodore Thompson
 
-| NICU Medical Director: David E. Brasel, MD
-
-| (P): (612)813-6444; (F): (612)813-7358
-
-4 Director of NICU High Risk Follow-Up Clinic:
-: Ronald Hoekstra, MD
-
-: NICU (P): (612)813-6295; NICU (F): (612)613-6
-4 Level HIC; NICU Beds: 44
-
-4 Neonatologists:
-
-é BENDEL-STENZEL, ELLEN
-
-: BRASEL, DAVIDE
-
-: CAMP, DIANE J.
-
-4 DARTHELL, JANE
-
-e FERRARA, T. BRUCE
-
-4 HOEKSTRA, RONALD E.
-
-: HUSTEAD, VIRGINIA A.
-
-a LANDRUM, BONNIE G.
-
-: MROZEK, JEANNE D.
-
-: MULROONEY, NEIL
-
-4 PAYNE, NATHANIEL R.
-
-q PERDUE, NINA R.
-
-3 : Updated: 8/29/2010
-
-4 ; HENNEPIN COUNTY MEDICAL CENTER
-
-701 Park Ave., S,
-
-a3 Minneapolis, MN 55415
-
-a NICU Medicai Director: Raul Cifuentes, MO
-ce (F): (612)904-4284
-
-a Email; ciftue00t @umn.edu
-a Director of NICU High Alsk Follow-Up Clinic:
-a Theresa Reid, MD
-a. NICU (P): (612)873-2955; NICU (F): (612)904-4:
-a Level IIIB; NICU Beds: 23
-
-a | Neonatologists:
-a ADKINSSON, CONNIE
-a CIFUENTES, RAUL F.
-a : LUSSKY, RICHARD C,
-a SIDDAPPA, ASHA
-a Updated: 4/6/2011
-| UNIVERSITY OF MINNESOTA
-
-a *AMPLATZ CHILDREN’S HOSPITAL
-
-J 2450 Riverside Ave.
-
-7 Minneapolis, MN 55454
-
-| Division Ghlef: Michael K. Georgieff, MD
-
-i (P): (612)626-0644; (F): (612)624-8178
-
-ul Email: georgo0@umn.edu
-
-U Training Program Director: Catherine M. Band
-Ui (P): (612)626-0644; (F): (612)624-8176
-
-ie Email: bende001 @umn.edu
-
-Ly NICU Medical Director: Thomas N. George, ML
-L (P): (612)624-6595; (F): (612)624-8176
-
-i Email: tgeorge@umn.edu
-
-Director of NICU High Risk Follow-Up Clinic:
-Michael Georgielt, MD
-
-ie Email: georg0i @umn.edu
-
-: NICU (P): (612)273-7032; NICU (F): (612)273-7¢
-i. Level IllC; NICU Beds: 47
-
-: Neonatologists:
-AGARWAL, INDU
-
-: 3 BENDEL, CATHERINE M.
-
-Ale FAHIM, NANCY
-it GALE, CHERYL A.
-ra
-/ _
-fe i .
-
-GEORGE, THOMAS
-GEORGIEFF, MICHAEL K,
-GUIANG, Ill, SEXTO F.
-JOHNSON, DANA E,
-PYLIPOW, MARY
-: RAMEL, SARA
-RAO, RAGHU
-3949 ROBERTS, KARI
-STEPKA, ERIN
-THOMPSON, THEODORE R.
-Updated; 5/6/2014
-ROBBINSDALE, MN
 NORTH MEMORIAL MEDICAL CENTER
 3300 Oakdale Ave., N.
 Robbinsdale, MN 55422
-NICU Medical Director: Mary Pylipow, MD
-Email: pylip005@umn.edu
-Director of NICU High Risk Follow-Up Clinic:
-Michael Georgieff, MD
-Email: georg001 @umn.edu
-Level iliB; NICU Beds; 35
+Level IIIB; NICU Beds; 35
 Neonatologists:
-Refer to Neonatologists Group of University o
-Minnesota Children's Hospital, Minneapolis, b
-Updated: 2/23/2011
-ROCHESTER, MN
-*MAYO CLINIC ST. MARY'S HOSPITAL
+Refer to Neonatologists Group of University of Minnesota Children's Hospital, Minneapolis, MN
+
+MAYO CLINIC ST. MARY'S HOSPITAL
 1216 Second Street SW
 Rochester, MN 55905
-i333 © Division Chief: Garth F. Asay, MD
-(P): (507)266-9397; (F): (507)255-0602
-Email: asay.garth@mayo,edu
-Training Program Director: Christopher E. Col
-MD
-Email: colby.christopher@mayo.edu
-NICU Medical Director: Garth F. Asay, MD
-(P): (507)266-9397; (F): (507)255-0602
-Email: asay.gartth@mayo.edu
-NICU (P): (507)255-5350; NICU (F): (507)255-2.
-Level IHC; NICU Beds: 30
-Neonatologists:
-ASAY, GARTH F.
-CAREY, WILLIAM A.
-COLBY, CHRISTOPHER E.
-DERLETH, DOUGLAS P.
-jel, JOHNSON, ROBERT V.
-LANG, TARA
-Updated: 7/22/2601 t
-D ST. CLOUD, MN
+Level IIIC; NICU Beds: 30
+Neonatologists: 6
+Neonatologists names: Garth Asay; William Carey; Christopher Colby; Douglas Derleth; Robert Johnson; Tara Lang
+
 ST. CLOUD HOSPITAL
 1406 Sixth Ave., N.
 St. Cloud, MN 56303
