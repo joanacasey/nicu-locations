@@ -6031,1194 +6031,509 @@ MEDICAL CITY DALLAS HOSPITAL
 7777 Forest Lane
 Dallas, TX 75230
 Level IIIC; NICU Beds: 60
-Neonatologists:
-Neonatologists names:
-BURGESS, GARY H.
-iz DEULOFEUT, RICHARD
-4 KIM, LINDA
-4 MILVENAN, EILEEN
-i OLNEY, CLAYTON
-ms QUEVEDO MARIA E.
-{ SCHWENDEMNANN, CLAIR
-i TREEN, MERIDITH
-M4 VOELKER, R. MITGH
-a Updated: 3/29/2011
-re METHODIST DALLAS MEDICAL CENTER
-4 1441 N. Beckley Ave.
-q Dallas, TX 75203
-4 NICU Medical Director: Harold W. Koini, MD
-i (P): {214)947-3087; (F): (214)947-3050
-a Email: hkolni@sbcglobal,net
-qd NICU (P): (214)947-3098; NICU (F): (214)947-308:
-a Level IIIB; NICU Beds: 50
-4 Neonatologists:
-a ANAND, VIVEK
-4 KLEIN, ALAN M,
-ue KOLNI, HAROLD W.
-A LAQS, CARLOS A,
-a Updated: 1/17/2009
-d *PARKLAND MEMORIAL HOSPITAL
-6323 Harry Hines Bivd.
-i Dallas, TX 75390-9063
-cE University Affillation: University of Texas
-EI Southwestern Medical Center at Dallas
-E Diviston Chief: Rashmin Savani, M.B., Ch.B.
-f (P): (244)648-2145; (F): (214)648-2096
-e Emall: rashmin.savani@utsouthwester.edu
-2 Training Program Director: Luc P. Brion, MD
-# (P): (214)648-2835; (F): (214}648-2481
-E Email: luc.brion @utsouthwestern.edu
-i NICU Medical Director: Mambarath Jalee!, MD
-: (P): (214)648-3903; (F): (214)648-2481
-3 Email: mambarath.jaleel@utsouthwesiern.edu
-: Director of NICU High Risk Follow-Up Clinic:
-a Roy Heyne, MD
-. i Email: roy.heyne@utsouthwestern.edu
-A NICU (P): (214)590-6500; NICU (F): (214)590-2755
-i Level IlIC; NICU Beds: 96
-i Neonatologists:
-He. ALASMI, MAHMMOD
-: BRANNON, TIMOTHY
-: i ‘
-a!
-He
-I
+Neonatologists: 9
+Neonatologists names: Gary Burgess; Richard Deulofeut; Linda Kim; Eileen Milvenan; Clayton Olney; Maria Quevedo; Clair Schwendemnann; Meridith Treen; Mitch Voelker
 
-BRION, LUC P,
-CHALAK, LINA
-71 DAVIS, ARLENE
-ENGLE, WILLIAM D,
-ENNIS, BECKY
-JALEEL, MAMBARATH
-KANG, SUNJUN
-MIRPURI, JULIE
-MOORE, JAMES
-ROSENFELD, CHARLES R.
-SANCHEZ, PABLO J.
-SAVANI, RASHMIN
-SHAUL, PHILIP W.
-SISMAN, JULIDE
-7 ~~ _s STEWART, AUDRA
-WYCKOFF, MYRA
-Updated: 4/15/2014
-TEXAS HEALTH PRESBYTERIAN HOSPITAL
-DALLAS
-8260 Walnut Hill Lane
+METHODIST DALLAS MEDICAL CENTER
+1441 N. Beckley Ave.
+Dallas, TX 75203
+Level IIIB; NICU Beds: 50
+Neonatologists: 4
+Neonatologists names: Vivek Anand; Alan Klein; Harold Kolni; Carlos Laos
+
+PARKLAND MEMORIAL HOSPITAL
+5323 Harry Hines Blvd.
+Dallas, TX 75390-9063
+Level IIIC; NICU Beds: 96
+Neonatologists: 18
+Neonatologists names: Mahmmod Alasmi; Timothy Brannon; Luc Brion; Lina Chalak; Arlene Davis; William Engle; Becky Ennis; Mambarath Jaleel; Sunjun Kang; Julie Mirpuri; James Moore; Charles Rosenfeld; Pablo Sanchez; Rashmin Savani; Philip Shaul; Julide Sisman; Audra Stewart; Myra Wyckoff
+
+TEXAS HEALTH PRESBYTERIAN HOSPITAL DALLAS
+8200 Walnut Hill Lane
 Dallas, TX 75231
-NICU Medical Director: Gerald Nystrom, MD
-(P): (214)343-6663; (F): (214)343-2814
-NICU (P): (214)345-2647; NICU (F): (214)345-260;
 Level IIIB; NICU Beds: 47
-Neonatologists:
-ARCHER, WILLIAM
-AUGUST, ANNA
-DELOFEUT, RICHARD
-KHAN, FARHA
-KING, ALICE
-LUMMUS, GINA
-MINNICH, LISA
-3 NYSTROM, GERALD A,
-OLNEY, CLAYTON
-. PEREZ, EDUARDO
-PULLANO, THOMAS P.
-RANDEL, RANDY C,
-RATNER, IAN M.
-SALHAB, WALID
-SCHWENDEMAN, CLAIR
-ZHANG, MIN
-Updated: 3/29/2011
+Neonatologists: 16
+Neonatologists names: William Archer; Anna August; Richard Delofeut; Farha Khan; Alice King; Gina Lummus; Lisa Minnich; Gerald Nystrom; Clayton Olney; Eduardo Perez; Thomas Pullano; Randy Randel; Ian Ratner; Walid Salhab; Clair Schwendeman; Min Zhang
+
 UTSW UNIVERSITY HOSPITAL AT ST. PAUL
 NICU
-5909 Harry Hines Blvd,
+5909 Harry Hines Blvd.
 Dallas, TX 75390-9230
-NICU Medical Director: Gary H. Burgess, MD
-{P): (214)645-1533; (F}: (214)645-1535
-Email: gary_burgess@ pediatrix.com
-NICU (P}: (214)645-1592; NICU (F): (214)645-1599
 Level IIIB; NICU Beds: 28
-Neonatclogists:
-BURGESS, GARY
-DEULOFEUT, RICHARD
-GREEN, DAVID
-KIM , LINDA
-MINNIGH, LISA
-5 RANDEL, RANDY C.
-VOELKER, MITCH
-Updated: 3/29/2011
-DENTON, TX
-a3
+Neonatologists: 7
+Neonatologists names: Gary Burgess; Richard Deulofeut; David Green; Linda Kim; Lisa Minnich; Randy Randel; Mitch Voelker
 
 PRESBYTERIAN HOSPITAL OF DENTON
-$000 North 1-35
+3000 North I-35
 Denton, TX 76201
-NICU Medical Director: Phillp Vincent Marinelli,
-D.O,
-NICU (P): (940)323-3605; NICU (F}: (940)323-7¢
-Level HIA; NICU Beds: 10
-Neonatologists:
-JASSO, JUAN
-MARINELLI, PHILIP
-Updated: 3/31/2011
-EDINBURG, TX
+Level IIIA; NICU Beds: 10
+Neonatologists: 2
+Neonatologists names: Juan Jasso; Philip Marinelli
+
 DOCTORS HOSPITAL AT RENAISSANCE
-6501 MeColi Rd. ‘
+5501 McColl Rd.
 Edinburg, TX 78539
-NICU Medleal Director: Dynio Honrubia, MD
-{P): (956)631-1039; (F): (956)631-1094
-NICU (P): (956)688-3935; NICU (F): (956)688-1€
-Level IHB; NICU Beds: 63
-Neonatologists:
-HONRUBIA, DYNIO
-MILANO, EMIL
-7 SWARUP, JOYTHI
-Updated: 4/25/2009
-EL PASO, TX
+Level IIIHB; NICU Beds: 63
+Neonatologists: 3
+Neonatologists names: Dynio Honrubia; Emil Milano; Joythi Swarup
+
 LAS PALMAS MEDICAL CENTER
-1801 N. Cregon St.
+1801 N. Oregon St.
 El Paso, TX 79902
-NICU Medical Director: Luis Ayo, MD
-(P): (915)542-0755
-NICU (P): (915)521-1415; NICU (F): (915)699-42
-Levai IIIA; NICU Beds: 32
+Level IIIA; NICU Beds: 32
 Neonatologists:
-Refer to Neonatologists Group of Children's
-Hospltal at Providence Hospital, El Paso, TX
-Updated: 3/29/2011
+Refer to Neonatologists Group of Children's Hospital at Providence Hospital, El Paso, TX
+
 SIERRA MEDICAL CENTER
 1625 Medical Center Drive
 El Paso, TX 79902-5044
-NICU Medical Director: Luls Ayo, MD
-NICU (P): (915)747-2861; NICU (F): (915}747-28
-Level IIB; NICU Beds: 17
+Level IIIB; NICU Beds: 17
 Neonatologists:
-Refer to Neonatolagists Group of Children’s
-Hospital at Providence in El Paso, TX
-Updated: 8/29/2010
-THE CHILDREN'S HOSPITAL AT PROVIDENCI!
-3 MEMORIAL HOSPITAL
-2001 N, Oregon Si.
+Refer to Neonatolagists Group of Children’s Hospital at Providence in El Paso, TX
+
+THE CHILDREN'S HOSPITAL AT PROVIDENCE MEMORIAL HOSPITAL
+2001 N. Oregon St.
 El Paso, TX 79902
-NICU Medical Director: Luls A, Ayo, MD
-(P}: (915)542-0755; (F): (915)577-6000
-NICU (P): (915)577-6622; NICU (F): (915)577-72
-Level IIB; NICU Beds: 35
-Neonatologists:
-ALVAREZ, ROMAN
-AYO, LUIS A.
-CAVIGLIA, ROY
-CHAVARRIA, MYRNA
-JASSO-MAGDALENO, JUAN A,
+Level IIIB; NICU Beds: 35
+Neonatologists: 6
+Neonatologists names: Roman Alvarez; Luis Ayo; Roy Caviglia; Myrna Chavarria; Juan Jasso-Magdaleno; Marcela Mascher-Denen
 
-3 i
-; ie MASCHER-DENEN, MARCELA
-: Updated: 3/29/201 t
-‘ UNIVERSITY MEDICAL CENTER OF EL PAS
+UNIVERSITY MEDICAL CENTER OF EL PASO
 4815 Alameda Ave.
-18 EI Paso, TX 79905 :
-; NICU Medical Director: Carlos Antonio Jesurt
-MD
-5 (P): (915)545-6776; (F): (915)545-0918
-~ Email: antonio, Jesurun@ttuhsc.edu
-} |. NICU (P): (915)521-7852; NICU (F); (915)521-
-\ Level IiA; NICU Beds: 18
-; Neonatologists:
-. Refer to Neonatologists Group Affiliated witt
-‘ Texas Tech University HSC-E! Paso, TX
-; AMBAT, TESS
-‘ IPSON, MERLE A.
-; JESURUN, C, ANTONIO
-4 LEVIN, GARRETT 8S.
-: | Updated: 4/6/2011
-FORT WORTH, TX
-. |= BAYLOR ALL SAINTS PAUL AND JUDY
-"|. ANDREWS WOMEN'S HOSPITAL OF FORT
-. |) WORTH
-“f° 4400 Eighth Ave.
-|S Fort Worth, TX 76104
-_ | NICU Medical Director: Susan Sward, MD
-» |b. {P): (817)927-6252; (F): (817)922-2307
-_ NICU (P): (817)927-6259; NICU (F): (817)922-2
-5 >. Level (lB; NICU Beds: 63
-. = £ > Neonatologiste:
-ag ob. Refer to Neonatolagists Group of Cook-Fort
-a 3 Worth Children's Medical Center, Fort Worth,
-“ES. Updeted: 4/e/2014
-/ | COOK-FORT WORTH CHILDREN'S MEDICAL
-82: CENTER
-* B- 801 Seventh Ave,
-yp Fort Worth, TX 76104
-" _ E-NICU Medical Director: David Tuberville, MD
-a = (P): (682)885-4283; (F): (682)885-4363
-© geo Email: ditmd@charter.net
-2 | NICU (P): (682)885-4382; NICU (F): (682)885-42
-4 Level IlIC; NICU Beds: 100
-» fo Neonatologists:
-_ |. BARBER, CHAD
-pg BRANN, BEN S.
-, a CHAMBERLAIN, CHRISTINIA
-ig CHI, ANNIE
-4g GRUBBS, RANDALL
-og HAMILTON SPENCE, ERIN
-1. 8 HAMILTON, REKHA
-‘ig KARIMI, PRANEELA
-. og LAWRANCE, RUSSELL
-“og LEVY, VICTOR
-2g LYNCH, MARY FRANCES
-ig MCGUIRK, MEGAN GRACE
-bog MIAQ, DARRYL
-- NEDRELOW, JONATHAN
-bg NESSLEIN, LORI
-og RILEY, DAVID
-» |. SIDEBOTTOM, RICHARD A.
-, fee SIMPSON, CHANDA
-» fo SMITH KIM G,
+El Paso, TX 79905
+Level IIIA; NICU Beds: 18
+Neonatologists: 4
+Refer to Neonatologists Group Affiliated with Texas Tech University HSC-E! Paso, TX
+Neonatologists names: Tess Ambat; Merle Ipson; Antonio Jesurun; Garrett Levin
 
-STEVENER, MICHAEL J.
-SWARD, SUSAN
-. TURBERVILLE, DAVID F,
-30 UNSPRUNG, ROBERT
-WEINMAN, TERRI
-WHITBOURNE, SUZANNE
-un, WHITNEY, JEANNETTE
-Updated: 3/29/2014
-HARRIS METHODIST FORT WORTH
-7298 1301 Pennsylvania Ave.
+BAYLOR ALL SAINTS PAUL AND JUDY ANDREWS WOMEN'S HOSPITAL OF FORT WORTH
+1400 Eighth Ave.
 Fort Worth, TX 76104
-NICU Medical Director: Richard A. Sidebottor
-h (P): (817)882-2892; (F): (817)878-5335
-NICU (P): (817)250-3120; NICU (F): (817)878-5
-Level illB; NICU Beds: 63
+Level IIIB; NICU Beds: 63
 Neonatologists:
-Reler to Neonatologists Group of Cook-Fort
-Worth Children's Medical Center, Fort Worth,
-Updated: 4/8/2011
-HARRIS METHODIST SOUTHWEST HOSPITS
+Refer to Neonatolagists Group of Cook-Fort Worth Children's Medical Center, Fort Worth, TX
+
+COOK-FORT WORTH CHILDREN'S MEDICAL CENTER
+801 Seventh Ave.
+Fort Worth, TX 76104
+Level IIIC; NICU Beds: 100
+Neonatologists: 26
+Neonatologists names: Chad Barber; Ben Brann; Christina Chamberlain; Annie Chi; Randall Grubbs; Erin Hamilton Spence; Rekha Hamilton; Praneela Karimi; Russell Lawrence; Victor Levy; Mary Lynch; Megan McGuirk; Darryl Miao; Jonathan Nedrelow; Lori Nesslein; David Riley; Richard Sidebottom; Chanda Simpson; Kim Smith; Michael Stevener; Susan Sward; David Turberville; Robert Unsprung; Terri Weinman; Suzanne Whitbourne; Jeannette Whitney
+
+HARRIS METHODIST FORT WORTH
+1301 Pennsylvania Ave.
+Fort Worth, TX 76104
+Level IIIB; NICU Beds: 63
+Neonatologists:
+Refer to Neonatologists Group of Cook-Fort Worth Children's Medical Center, Fort Worth, TX
+
+HARRIS METHODIST SOUTHWEST HOSPITAL
 6100 Harris Parkway
 Fort Worth, TX 76132
-NICU Medical Director: Randall Grubbs, MD
-NICU (P): (817)433-21 15; NICU (F}: (817)433-2
 Levet IIIA; NICU Beds: 8
 Neonatologists:
-Refer to Neonatologisis Group of Cook-Fort
-512 Worth Children's Medical Center, Fort Worth,
-Updated: 2/29/2011
+Refer to Neonatologisis Group of Cook-Fort Worth Children's Medical Center, Fort Worth, TX
+
 JOHN PETER SMITH HOSPITAL
 1500 S. Main St.
-TX Fort Worth, TX 76104
-NICU Medical Director: Donald K, Nelms, MD
-(P): (817)927-1265; (F): (817)927-1405
-NICU (P): (817)927-1166; NICU (F): (817)927-1
-Level llB; NICU Beds: 37
-Neonatologists:
-ARELLANO, CECILIA
-ARELLANO, JOSE B.
-CHIKIOBI, UGONNA
-LOHLA, EVELYN R,
-363 —_NELMS, DONALD K.
-PRIETO, CECILIA
-Updated; 4/8/2011
-FRISCO, TX
-CENTENNIAL MEDICAL CENTER
-12505 Lebanon Rd,
-Frisco, TX 75035
-NICU Medical Director: Clayton Olney, MD
-NICU {P): (972)963-3057; NICU (F}: (972)963-36
-Level HlA; NICU Beda: 12
-Neonatologists:
-OLNEY, CLAYTON
-Updated: 8/29/2010
-GALVESTON, TX
-*UNIVERSITY OF TEXAS MEDICAL BRANCH
-HOSPITALS
-301 University Blvd,
-Galveston, TX 77555
-Division Chief: C. Joan Richardson, MD
+Fort Worth, TX 76104
+Level IIIB; NICU Beds: 37
+Neonatologists: 6
+Neonatologists names: Cecilia Arellano; Jose Arellano; Ugonna Chikiobi; Evelyn Lohla; Donald Nelms; Cecilia Prieto
 
-(P): (409)772-28 15: (F): (409)772-0747
-Emait: jich@utmb.edu
-Training Program Director: C. Joan Richardson,
-MD
-{P}: (409)772-2815; (F): (409)772-0747
-Email: jrich@utmb.edu
-NICU Medlcal Director: C. Joan Richardson, MD
-(P): (409)772-2815; (F): (409)772-0747
-Email: jrich@utmb,edu
-Director of NICU High Risk Foijlow-Up Clinte:
-Sunil Jaln, MD
-Email: skjain@utmb.edu
-n.MD wicu {P}: (409)772-2025; NICU (F): (409)747-3419
-Level JIB; NICU Beds: 42
-5174 Neonatologists:
-GEARY, CARA
-JAIN, SUNIL
-MALLOY, MICHAEL H.
-» TX RICHARDSON, C, JOAN
-SHATTUCK, KAREN E.
-AL Updated. 5/6/2041
-GARLAND, TX
-BAYLOR MEDICAL CENTER AT GARLAND
-2199 2300 Marle Curie Blvd.
-Garland, TX 75042
-NICU Medica} Director: Furgan Moin, MD
-{P): (214)820-4010; (F): (214)820-7757
-,TX NICU (P): (972)487-5066; NICU (F): (972)487-5090
-Level IIIA; NICU Beds: 10
+CENTENNIAL MEDICAL CENTER
+12505 Lebanon Rd.
+Frisco, TX 75035
+Level IIIA; NICU Beds: 12
 Neonatologists:
-MOIN, FURQAN
-Refer to Neonatologists Group of Baylor
-University Medical Center, Dallas, TX
-Updated: 4/18/2011
-405 HARLINGEN, TX
-VALLEY BAPTIST MEDICAL CENTER -
-HARLINGEN
+Neonatologists names: Clayton Olney
+
+UNIVERSITY OF TEXAS MEDICAL BRANCH HOSPITALS
+301 University Blvd.
+Galveston, TX 77555
+Level IIIB; NICU Beds: 42
+Neonatologists: 5
+Neonatologists names: Cara Geary; Sunil Jain; Michael Malloy; Joan Richardson; Karen Shattuck
+
+BAYLOR MEDICAL CENTER AT GARLAND
+2300 Marie Curie Blvd.
+Garland, TX 75042
+Level IIIA; NICU Beds: 10
+Neonatologists: 1
+Refer to Neonatologists Group of Baylor University Medical Center, Dallas, TX
+Neonatologists names: Furqan Moin
+
+VALLEY BAPTIST MEDICAL CENTER - HARLINGEN
 2101 Pease St.
 Harlingen, TX 78551
-NICU Medical Director: Rodolfo A. Saca, MD
-(P): (956)423-0112; (F): (956)389-1105
-Email: tony_saca@pediatrix.com
-NICU (P): (956)389-1595; NICU (F); (956)389-1595
-Level IIB; NICU Beds: 38
-Neonatologists:
-LIU, CHENG-HURD
-LOHLA, EVELYN
-SACA, RODOLFO A,
-Updated: 3/31/2014
-317. HOUSTON, TX
+Level IIIB; NICU Beds: 38
+Neonatologists: 3
+Neonatologists names: Cheng-Hurd Liu; Evelyn Lohla; Rodolfo Saca
+
 BEN TAUB GENERAL HOSPITAL
 1504 Taub Loop
 Houston, TX 77030
-NICU Medical Director: Joseph Garcla-Parts, MD
-(P): (743)872-3575; (F): (713)790-0556
-Email; jJosephg@bem.edu
-NICU (P): (743)873-2280; NICU (F): (713)873-3976
-Level IB; NICU Beds: 20
+Level IIIB; NICU Beds: 20
 Neonatologists:
+Reter to Neonatologists Group of Section of Neonatology, Baylor College of Medicine, Texas Children's Hospital, Houston, TX
 
-| Reter to Neonatologists Group of Section of
-| Neonatology, Baylor College af Medicine, Texas
-| Children's Hospital, Houston, TX
-: Updated: 10/22/2010
-! *CHILDREN'S MEMORIAL HERMANN HOSPITAL
-: 6411 Fannin
-7 Houston, TX 77030
-i i Division Chief: Kathleen Kennedy, MD, MPH
-: (P): (7418)500-6708; (F): (713)500-0519
-if Email: kathleen.a, kennedy @uth.tmc.edu
-7 Training Program Director: Suzanne M. Lopez,
-. MD
-(P): (713)500-5284; (F): (713)500-5794
-: Ernall: suzanne,m.lopez@uth.ime.edu
-| NICU Medical Director: Amir Khan, MD
-(P): (713)500-5733; (F): (713)500-5794
-" Email: amir.m.khan@uth.tme.edu
-a Director of NICU High Risk Follow-Up Clinic:
-| Patricia Evans, MD
-7 Email: patricla.w.evans@uth.ime,edu
-i NICU (P): (713)704-2900; NICU (F): (713)704-3834
-i Lavel IIIC; NICU Beds: 120
-|"! Neonatotogists:
-: ARNOLD, CODY C.
-: CHAN, SEE WAI
-: CRANDELL, SHARON 8S.
-: DENSON, SUSAN E.
-t EICHENWALD, ERIC
-} GARCIA, JOSE
-i JONES, PATRICK
-a KATAKAM, LAKSHMI
-84 KENNEDY, KATHLEEN
-ni KHAN, AMIR M.
-; KHAN, MONA
-LOPEZ, SUZANNE
-: . TSAKIAI, SOPHIA
-; TYSON, JON E,
-| Updated: 8/24/2011
-| CYPRESS FAIRBANKS MEDICAL CENTER
-: 10655 Steepletop Dr.
-: Houston, TX 77085
-NICU Medical Director: Tung Giép, MD
-ij NICU (P): (281)897-3236; NICU (F): (281)945-3650
+CHILDREN'S MEMORIAL HERMANN HOSPITAL
+6411 Fannin
+Houston, TX 77030
+Level IIIC; NICU Beds: 120
+Neonatologists: 14
+Neonatologists names: Cody Arnold; See Wai Chan; Sharon Crandell; Susan Denson; Eric Eichenwald; Jose Garcia; Patrick Jones; Lakshmi Katakam; Kathleen Kennedy; Amir Khan; Mona Khan; Suzanne Lopez; Sophia Tsakiri; Jon Tyson
+
+CYPRESS FAIRBANKS MEDICAL CENTER
+10655 Steepletop Dr.
+Houston, TX 77065
 Level IIIB; NICU Beds: 28
-: Neonatologists:
-BONAPARTE, TAEL
-i CHERMKUR, AMARNATH
-| FREEMAN-LADD, MAYRA
-fF GEIP, TUNG
-[ OYAFEMI, OLUYEMIS|
-Updoted: 2/16/2011
+Neonatologists: 5
+Neonatologists names: Tael Bonaparte; Amarnath Chermkur; Mayra Freeman-Ladd; Tung Geip; Oluyemisi
+
 HOUSTON NORTHWEST MEDICAL CENTER
 710 FM 1960 W.
-: Houston, TX 77090
-NICU Medical Director: Richard A, Rivas, MD
-(P): (281)364-2573; (F): (281)397-2745
-Email: richard_rivas@ pediatrix.com
-NICU (P): (281)440-2572; NICU (F}: (281}440-2428
-| Level JIB; NICU Beds: 12
-i Neonatologists:
-F CHUA, CARLOS
-DEWITT, SUSAN
-1
+Houston, TX 77090
+Level IIIB; NICU Beds: 12
+Neonatologists: 5
+Neonatologists names: Carlos Chua; Susan Dewitt; Lakshmy Rajagopalah; Rene Ramirez-Amaya; Richard Rivas
 
-RAJAGOPALAH, LAKSHMY
-RAMIREZ-AMAYA, RENE
-RIVAS, RICHARD
-Updated: 4/8/2011
 LYNDON BAINES JOHNSON HOSPITAL
-5656 Kelly St. .
+5656 Kelly St.
 Houston, TX 77026
-NICU Medica! Director: Sophia Tsakiri, MD
-(P}: (719)500-5852; (F): (713)500-5794
-Email: sophia.tsakiri@uth.tmc.edu
-NICU (P): (713}566-5827
-Level Ii!B; NICU Beds: 36
-Neonatologlsta:
-Refer to Neonatologists Group of Children’s
-Memorial Herman Hospital, Houston, TX
-Updated: 2/14/2071
-MEMORIAL HERMANN - MEMORIAL CITY
-HOSPITAL
-NICU .
+Level IIIB; NICU Beds: 36
+Neonatologists:
+Refer to Neonatologists Group of Children’s Memorial Herman Hospital, Houston, TX
+
+MEMORIAL HERMANN - MEMORIAL CITY HOSPITAL
+NICU
 921 Gessner
 Houston, TX 77024
-NICU Medical Director: Rita Muthappa, MD
-(P}: (713}932-3528
-NICU (P): (713)242-3650; NICU (F): (713)242-3967
 Level IIIB; NICU Beds: 16
-Neonatologists:
-BARRY, YVONNE N,
-CARBAJAL, MELISSA
-CHADDA, PRABHUJEET
-MUTHAPPA, (POOVAMMA B,) RITA
-Updated: 2/14/201t
+Neonatologists: 4
+Neonatologists names: Yvonne Barry; Melissa Carbajal; Prabhujeet Chadda; Rita Muthappa
+
 MEMORIAL HERMANN NORTHWEST HOSPITAL
 1635 North Loop W.
 Houston, TX 77008
-NICU Medical Director: Sally Downey, MD
-(P): (713)772-3300; (F): (713)772-8994
-NICU (P): (713)667-2440; NICU (F): (713)667-2435
 Level IIB; NICU Beds: 12
-Neonatologists:
-DOWNEY, SALLY A.
-EASON, ELIZABETH B.
-WEI, CHRISTINE
-Updated: 2/22/2011
+Neonatologists: 3
+Neonatologists names: Sally Downey; Elizabeth Eason; Christine Wei
+
 MEMORIAL HERMANN SOUTHEAST HOSPITAL
-44800 Astoria Blvd,
+11800 Astoria Blvd.
 Houston, TX 77089
-NICU Medical Director: Raymond Castro, MD
-(P); (743)512-8500; (F)}: (713)796-2121
-NICU (P): (281)929-4400; NICU (F): (281)929-6345
-Level IHA; NICU Beds: 14
+Level IIIA; NICU Beds: 14
 Neonatologists:
-Refer to Neonatologists Group of Woman's
-Hospital of Texas, Houston, TX
-Updated: 3/31/2071
+Refer to Neonatologists Group of Woman's Hospital of Texas, Houston, TX
+
 MEMORIAL HERMANN SOUTHWEST HOSPITAL
 7600 Beechnut
 Houston, TX 77074
-NICU Medical Director: Mesfin Woldesenbet, MD
-{P): (713)456-6927; (F): (713)456-4750
-NICU (P): (713)456-6927; NICU (F): (713)456-4750
 Level IIIB; NICU Beds: 40
-85
+Neonatologists: 11
+Neonatologists names: Idalia Benavides; Sonia Chauhan; Sally Downey; Elizabeth Eason; Charles Friedman; Syed Haider; Sangeeta Kendpal; Rita Makhlouf; Enrique Rios; Edgar Romerio; Mesfin Woldesenbet
 
-Neonatologists:
-BENAVIDES, IDALIA
-CHAUHAN, SONIA
-DOWNEY, SALLY A.
-EASON, ELIZABETH
-FRIEDMAN, CHARLES A.
-HAIDER, SYED
-KENDPAL, SANGEETA
-MAKHLOUF, RITA
-RIOS, ENRIQUE
-ROMERIO, EDGAR
-WOLDESENBET, MESFIN
-Updated, 2/22/2011
 ST. JOSEPH MEDICAL CENTER
 1401 St. Joseph Parkway
 Houston, TX 77002
-NICU Medical Director: Hector RA, Pierantoni, MD
-(P}: (713)751-0794; (F): (713)751-0798
-NICU (P): (713)757-7564; NICU (F): (713)657-7203
-Level HB; NICU Beds: 35
-Neonatologists:
-ALIDON, ZENAIDA
-BHATT, MAYOR
-KHALAF, MOHAMMAD NABELL
-MANGUBA, ROSEMARY
-MUNOZ, LUIS
-NANDGAONKAR, B.
-O'DONNELL, ELIZABETH
-PIERANTONI, HECTOR R.
-Updated: 2/14/2014
-*TEXAS CHILDREN'S HOSPITAL
+Level IIIB; NICU Beds: 35
+Neonatologists: 8
+Neonatologists names: Zenaida Alidon; Mayor Bhatt; Mohammad Khalaf; Rosemary Manguba; Luis Munoz; B. Nandgaonkar; Elizabeth O'Donnell; Hector Pierantoni
+
+TEXAS CHILDREN'S HOSPITAL
 6621 Fannin
 MC: WT 6-104
 Houston, TX 77030
-University Affiliation: Baylor Medical College
-Division Chief: Stephen E. Welty, MD
-(P): (832)826-1380; (F): (832)825-2799
-Email: welty@bom.edu
-Training Program Director: Joseph Garcia-Prats,
-MD
-(P): (832)826-1380; {F): (832)825-2799
-NICU Medical Director: Aifred Gest, MD
-(P): (832)826-1980; (F): (832)825-2799
-Emall: agest@neomallbcm.pedi,bom.tme,edu
-Director of NICU High Risk Follow-Up Clinic:
-Lucille A. Papile, MD
-Emall: papile@bem.edu
-NICU (P): (832)824-6155; NICU (F): (832}825-279°
-Level iC; NIGU Beds: 138
-Neonatologists:
-ABBASI, SAIFY
-ABRAMS, STEVEN A,
-ADAMS, JAMES M.
-AMES, MARIA
-ARCHAVACHOTIKUL, KWANCHAT
-ARNOLD, JENNIFER
-BAETIONG, ARLINA
-CABRERA-MEZA, GERARDO
-CARLOS, MARIA
-COUROUCLI, XANTHI
-COX, MARGO A.
-DAVE, VIRAL
-EL HENNAWY, ADEL
+Level IIIC; NIGU Beds: 138
+Neonatologists: 41
+Neonatologists names: Saify Abbasi; Steven Abrams; James Adams; Maria Ames; Kwanchai Archavachotikul; Jennifer Arnold; Arlina Baetiong; Gerardo Cabrera-Meza; Maria Carlos; Xanthi Couroucli; Margo Cox; Viral Dave; Adel El Hennawy; Cary Fernandes; Catherine Gannon; Joseph Gracia-Prats; Gwyn Geddie; Alfred Gest; Ganga Gokujlakrishnan; Charleta Guillory; Charles Hankins; Leslie Harris; Karen Johnson; Yvette Johnson; Lingkun Kong; Tommy Leonard; Jeffrey Martin; Meghan McDonald; Alicia Moise; Valerie Moore; Alice Obuobi; Mohan Venkatesh; Frank Placencia; Muralidhar Premkumar; Jochen Profit; Christopher Rhee; Alina Saldarriaga; Binoy Shivanna; Michael Speer; Leonard Weisman; Stephen Welty
 
-Be FERNANDES, CARY
-i 3 GANNON, CATHERINE
-GARCIA-PRATS, JOSEPH A.
-; GEDDIE, GWYN
-GEST, ALFRED
-: GOKUJLAKRISHNAN, GANGA
-3 GUILLORY, CHARLETA
-HANKINS, CHARLES
-) HARRIS, LESLIE
-~ JOHNSON, KAREN E,
-3 JOHNSON, YVETTE
-\ KONG, LINGKUN
-: LEONARD, TOMMY
-. MARTIN, JEFFREY
-, MCDONALD, MEGHAN C,
-MOISE, ALICIA
-‘ MOORE, VALERIE
-OBUOBI, ALICE
-PAMMI VENKATESH, MOHAN
-: PLACENCIA, FRANK
-oe PREMKUMAR, MURALIDHAR
-: PROFIT, JOCHEN
-=| AHEE, CHRISTOPHER
-i SALDARRIAGA, ALINA
-. 4 SHIVANNA, BINOY
-ae SPEER, MICHAEL E.
-7 WEISMAN, LEONARD BE,
-i WELTY, STEPHEN E,
-| Updated: 7/22/2014
-_| | WEST HOUSTON MEDICAL CENTER
-ee | 12141 Richmond Ave,
-ay Houston, TX 77082
-‘ | NICU Medical Director: Rita Makhlouf, MD
-| NICU (P): (281}588-7363; NICU (F): (281)586-605
-“= 4° Level IIB; NICU Beds: 12
-24 Neonatologists:
-= 2 HAIDER, SYED HASSAN ~
-i KENDPAL, SANGEETA
-. fo: MAKHLOUF, RITA
-> Updated: ana2ot4
-| {> WOMAN'S HOSPITAL OF TEXAS
-_ = fe) 7600 Fannin St.
-} Houston, TX 77054
-Ca NICU Medical Director: Jayne Finkowski-Rivera,
-fig MD
-Ld (P): (713)786-0003; (F): (713)796-0005
-cg Email: finkowsk@swbell.net
-vs gov NICU (P): (713)791-7366; NIGU (F): (719)791-735
-oy Level IliB; NICU Beds: 124
-a Neonatologists:
-- | ADHAM, BESMA |.
-.f 2) AHMED, TALAT
-{ ALAGAPPAN, ALAGAPPAN
-yay BHARWANI, SALIM KAMRUDDIN
-- CAPLAN, WILLIAM
-i CASTRO, RAYMOND
-. DE GUZMAN-ENAD, DEBORAH E,
-pa De VILLE, KAREN
-eS FINKOWSKI-RIVERA, JAYNE
-i. FRIEDMAN, ZVI
-yee GEE, Il, JERRY
-“ooo. HANEY, PETER
-» £0 HERNANDEZ, ROSE M.
-\ SSR:
+WEST HOUSTON MEDICAL CENTER
+12141 Richmond Ave.
+Houston, TX 77082
+Level IIB; NICU Beds: 12
+Neonatologists: 3
+Neonatologists names: Syed Haider; Sangeeta Kendpal; Rita Makhlouf
 
-JABRIEL, WILLIAM S.
-MC INTYRE, BRENDA H,
-SIMCHOWITZ, DAVID
-STANFFORD, THUY-VAN P,
-THOMPSON, DOROTHY
-Updated: 3/31/2011
-HUMBLE, TX
-MEMORIAL HERMAN NORTHEAST MEDICAL
-CENTER
-18951 Memorial N,
-Hurmnbie, TX 77338
-NICU Medical Director: Jesus A. Munoz, MD
-(P): (281)540-6289; (F): (281)358-3536
-NICU {P):; (281)540-7980; NICU (F): (281}540-73
-Level IllA; NICU Beds: 6
-Neonatologists:
-MUNOZ, JESUS A.
-Updated: 2/16/2041
-IRVING, TX
+WOMAN'S HOSPITAL OF TEXAS
+7600 Fannin St.
+Houston, TX 77054
+Level IIIB; NICU Beds: 124
+Neonatologists: 18
+Neonatologists names: Besma Adham; Talat Ahmed; Alagappan Alagappan; Salim Bharwani; William Caplan; Raymond Castro; Deborah De Guzman-Enad; Karen De Ville; Jayne Finkowski-Rivera; Zvi Friedman; Jerry Gee II; Peter Haney; Rose Hernandez; William Jarriel; Brenda Mc Intyre; David Simchowitz; Thuy-Van Stanfford; Dorothy Thompson
+
+MEMORIAL HERMAN NORTHEAST MEDICAL CENTER
+18951 Memorial N.
+Humble, TX 77338
+Level IIIA; NICU Beds: 6
+Neonatologists: 1
+Neonatologists names: Jesus Munoz
+
 BAYLOR MEDICAL CENTER AT IRVING
-1901 North MacArthur Bivd.
-Irving, TX 75064
-NICU Medicat Director: Asif Khattak, MD
-NICU (P); (972}579-8245; NICU (F): (872}579-52:
+1901 North MacArthur Blvd.
+Irving, TX 75061
 Level IIB; NICU Beds: 10
-Neonatologists:
-KHATTAK, ASIF
-Updated: 8/28/2010
-KATY, TX
+Neonatologists: 1
+Neonatologists names: Asif Khattak
+
 MEMORIAL HERMAN KATY
-95 23900 Katy Fwy,
+23900 Katy Fwy.
 Katy, TX 23900
-NICU Medical! Director: Rita Muthappa, MD
-NICU (P): (281)644-7362; NICU (F): (281)644-74¢
 Level IIB; NICU Beds: 9
-Neonatotogists:
-Refer to Neonatologists Group of Memorial
-Herman-Memorlai City Hospital, Houston, TX
-Updated: 2/14/2011
-LACKLAND AEB, TX
-*WILLFORD HALL USAF MEDICAL CENTER
+Neonatologists:
+Refer to Neonatologists Group of Memorial Herman-Memorial City Hospital, Houston, TX
+
+WILLFORD HALL USAF MEDICAL CENTER
 San Antonio Military Pediatric Center at WHMC
-Neonatology Service,, Department of
-96 ©=6- Pediatrics/SGOP
+Neonatology Service., Department of Pediatrics/SGOP
 2200 Bergquist Dr., Ste, #1
 Lackland AF8, TX 78236-5300
-Division Chief: Daniel Drinberger, MD
-{P): (210)292-6633; (F): (210)292-6519
-Email: daniel. dimberger@tackiand.af.mil
-Tratning Program Director: William Lefkowitz, M!
-(P): (210)292-6633; (F): (210)292-6519
-NICU Medical Director: Daniel Dirnberger, MD
-(P): (210)292-6625; (F): (210)292-6519
-Email: daniel.dirnberger@lackland.at.mil
-Director of NICU High Risk Follow-Up Clinic:
-Nicole Aune, MD
-NICU {P): (240)292-5810; NICU (F): (210)292-793
-Level lilC; NICU Beds: 30
-Neonatofagists:
+Level IIIC; NICU Beds: 30
+Neonatologists: 6
+Neonatologists names: Christine Aune; Daniel Dirnberger; Susan Dotzler; Robert Gillette; Cristie Jones; William Lefkowitz
 
-AUNE, CHRISTINE NICOLE
-DIRNBERGER, DANIEL
-DOTZLER, SUSAN
-GILLETTE, ROBERT KURT
-JONES, CRISTIE
-LEFKOWITZ, WILLIAM
-Updated: 6/6/2611
-LAREDO, TX
 DOCTORS HOSPITAL OF LAREDO
 10700 McPherson
 Laredo, TX 78045
-NICU Medical Director: Roberto Villegas, MD
-(P): (956)724-7 145; (F): (956)523-2813
-94 = NICU (P): (956)523-2108; NICU (F): (956)523-2813
-Level IIIB; NICU Beds: 26
-Neonatologists:
-BERLIOZ, JOSE
-CHHINA, SATBIR
-VILLEGAS, ROBERTO
-Updated: 4/8/2011
+Level IIIB; NICU Beds: 20
+Neonatologists: 3
+Neonatologists names: Jose Berlioz; Satbir Chhina; Roberto Villegas
+
 LAREDO MEDICAL CENTER
-1760 East Saunders
+1700 East Saunders
 Laredo, TX 78040
-50 NICU Medica! Director: Stabir Chhina, MD
-: (P): (856)796-4450; (F): (956)796-44594
-NICU (P): (956)796-4450; NICU (F): {956)796-4453
-Level lilB; NICU Beds: 20
-Neonatologists:
-CHHINA, SATBIR
-Updated: 4/8/2011
-LAS COLINAS, TX
+Level IIIB; NICU Beds: 20
+Neonatologists: 1
+Neonatologists names: Satbir Chhina
+
 LAS COLINAS MEDICAL CENTER
-8800 North MacArthur Blvd,
+6800 North MacArthur Blvd.
 Las Colinas, TX 75039
-88 NICU Medical Director: Mahesh Thummala, MO
-NICU (P): (972)969-2320; NICU (F): (972)969-2326
 Level IIB; NICU Beds: 12
 Neonatologists:
-Rever to Neonatofogists Group of Medical Center
-of Lewisville, Lewisville, TX
-Updated: 4/17/2011
-LEWISVILLE, TX
+Rever to Neonatologists Group of Medical Center of Lewisville, Lewisville, TX
+
 MEDICAL CENTER OF LEWISVILLE
 500 West Main St.
 Lewisville, TX 75057
-NICU Medical Director: Maheshwar Reddy
-Thummata, MD
-(P); (972)219-5107
-NICU (P): (972)420-1089; NICU {F): (972}219-7500
-Level HIB; NICU Beds: 22
-iD Neonatologists:
-BALIKUNDI, DHRUV
-BIAI, CATALINA
-CHAVDA, CHAITANYA
-FOSTER, LAKEITHA
-THUMMALA, MANESHWAR A.
-TUREBYLU, RAGHU
-33 Updated; 4/17/2014
-LONGVIEW, TX
+Level IIIB; NICU Beds: 22
+Neonatologists: 6
+Neonatologists names: Dhruv Balkundi; Catalina Biai; Chaitanya Chavda; Lakeitha Foster; Maneshwar Thummala; Raghu Turebylu
 
-GOOD SHEPHERD MEDICAL CENTER Vv
-700 East Marshall Ave. N
-Longview, TX 75601 (f
-NICU Medical Director: Chris Ihionkhan, MD L
-(P); (903)236-8600 N
-NICU (P}: (03)315-2069; NICU (F): (@03)315-1115
-Level HIA; NICU Beds: 31
-Neonatologists: Uv
-CHEN, ERIC
-{HIONKHAN, CHRIS h
-| Updated: 4/29/2009 N
-LUBBOCK, TX .
-COVENANT HOSPITAL h
-: 4015 22nd Pl. h
-Lubbock, TX 79410 \
-4 NICU Medical Director: Edwing A. Contreras, MD}
-i (P): (808)793-4251
-: NiCU (P): (808)725-6474; NICU (F): (806)723-6315
-i Level IIB; NICU Beds: 32 {
-Neonatologists:
-CARROLL, TRAVIS !
-: CONTRERAS, EDWIN A. 4
-Updated: 3/31/2011 §
-UNIVERSITY MEDICAL CENTER }
+GOOD SHEPHERD MEDICAL CENTER
+700 East Marshall Ave.
+Longview, TX 75601
+Level IIIA; NICU Beds: 31
+Neonatologists: 2
+Neonatologists names: Eric Chen; Chris Ihionkhan
+
+COVENANT HOSPITAL
+4015 22nd PI.
+Lubbock, TX 79410
+Level IIB; NICU Beds: 32
+Neonatologists: 2
+Neonatologists names: Travis Carroll; Edwin Contreras
+
+UNIVERSITY MEDICAL CENTER
 602 Indiana Ave.
 Lubbock, TX 79417
-NICU Medical Director: Fortunate Perez-
-Benavides, MD |
-Director of NICU High Risk Follow-Up Clinic: |
-Forunato Perez-Benavides, MD
-NICU (P): (806)775-8808; NICU (F): (806)775-9181
-Level IiC; NICU Beds: 42
-Neonatologlsts: }
-LIFSHUTZ, CARTER
-: PEREZ-BENAVIDES, FORTUANTO .
-ROUAS, ANA |
-Updated: 9/31/2011 |
-MCALLEN, TX
+Level IIIC; NICU Beds: 42
+Neonatologists: 3
+Neonatologists names: Carter Lifshutz; Fortuanto Perez-Benavides; Ana Rojas
+
 MC ALLEN MEDICAL CENTER
 301 W. Expressway 83
 McAllen, TX 78503
-NICU Medical Director: Ramiro Caballero, MD
-(P): (956)994-9100; (F): (956)994-9101
-Email: ramlrocabellero@ pediatrix.com
-NICU (P): (956)971-8669; NICU (F): (956)971-5887
-Level HIB; NICU Beds: 54
-Neonatologists:
-‘ CABALLERO, RAMIRO
-ILIZAROV, ANATOLY M.
-JAVED, SAEED
-: MENDIOLA, JR., JOE
-MEZA, MICHELLE MARIE
-: NAGARAJA, VADDARSE
-: ORDONEZ, JORGE
-: OVERFIELD, MICHAEL
-RAMIREZ-LAVIN, JAVIER
-: SIDHARTHAN, KUSUMAM
-Updated: 4/0/2011
-: RIO GRANDE REGIONAL HOSPITAL
-: 101 East Ridge Rd.
+Level IIIB; NICU Beds: 54
+Neonatologists: 10
+Neonatologists names: Ramiro Caballero; Anatoly Ilizarov; Saeed Javed; Joe Mendiola Jr.; Michelle Meza; Vaddarse Nagaraja; Jorge Ordonez; Michael Overfield; Javier Ramirez-Lavin; Kusumam Sidharthan
 
-VicAllen, TX 78503-1299 B
-ViCU Medical Director: Ramiro Caballero, MD 4
-P}: (956)632-6000 P
-Level 1IIB; NICU Beds: 20 i
-Neonatologists: (
-Refer to Neonatotogists Graup of McAllen E
-Medical Center, McAllen, TX. ‘ N
-Updated: 8/29/2010 L
-MCKINNEY, TX : s
-MEDICAL CENTER OF MCKINNEY
-A500 Medical Center Dr.
-Mckinney, TX 76069
-NICU Medical Director; Alok Jain, MD |
-NIGU (P): (972)547-8271; NICU (F): (872}540-4250
-Level IB; NICU Beds: 8 i
-Neonatologists: ¢
-Refer to Neonatologists Group of HCA Medlal ‘
-Center of Plano, Plano, TX !
-Updated: 4/16/2011 ‘
-MISSION, TX }
-MISSION REGIONAL MEDICAL CENTER
-g00 South Bryan Rd. |
-Mission, TX 78572
-NICU Medical Director: Anatoly illizarou, MD
-{P); (986)994-9100; (F): (956)994-9101
-Emall: ailizarov@mac.com
-NICU {P): (956)323-9880; NICU (F): (956)323-1888
-Level IIB; NICU Beds: 20
+RIO GRANDE REGIONAL HOSPITAL
+101 East Ridge Rd.
+McAllen, TX 78503-1299
+Level IIIB; NICU Beds: 20
 Neonatologists:
-Refer to Neonatologists Group of McAilen
-Medical Center, McAllen, TX.
-Updated: 6/29/2010
-ODESSA, TX
+Refer to Neonatologists Graup of McAllen Medical Center, McAllen, TX.
+
+MEDICAL CENTER OF MCKINNEY
+4500 Medical Center Dr.
+McKinney, TX 75069
+Level IIB; NICU Beds: 8
+Neonatologists:
+Refer to Neonatologists Group of HCA Medical Center of Plano, Plano, TX
+
+MISSION REGIONAL MEDICAL CENTER
+900 South Bryan Rd.
+Mission, TX 78572
+Level IIIB; NICU Beds: 20
+Neonatologists:
+Refer to Neonatologists Group of McAllen Medical Center, McAllen, TX.
+
 MEDICAL CENTER HOSPITAL
 P.O. Box 7239
 Odessa, TX 79760
-NICU Medical Director: Robert E. Bennett, Jr, MD
-{P): (432)835-5270; (F): (432)335-5354
-Emall; robert. bennett@ttuhsc.edu
-NICU (P): (492)640-1770; NICU (F): (432)640-1775
-Level iB; NICU Beds: 30
-Neonatologists:
-BENNETT, ROBERT E.
-CHAVEZ, RAUL
-Updated: 7/6/2014
+Level IIIB; NICU Beds: 30
+Neonatologists: 2
+Neonatologists names: Robert Bennett; Raul Chavez
+
 ODESSA REGIONAL MEDICAL CENTER
 520 East Sixth St.
 Odessa, TX 79761
-NICU Medical Director: Sanjay Patel, MD
-(P): (432)563-0277; (F): (432)275-0544
-Email: patelmdpa@gmall.com
-NICU (P): (492)582-8600; NICU (F): (432)582-8923
-Level ISB; NICU Beda: 50
-Neonatologists:
-MANZAR, SHAHIB
-PATEL, SANJAY
-RAMOS, MONICA
-Updated: 2/46/2011
-PASADENA, TX
-87
+Level IIIB; NICU Beds: 50
+Neonatologists: 3
+Neonatologists names: Shahib Manzar; Sanjay Patel; Monica Ramos
 
 BAYSHORE MEDICAL CENTER
 4000 Spencer Highway
 Pasadena, TX 77504
-NICU Medical Director: Harvinder S. Bedi, MD
-(P); (281)338-3381; (F): (281)338-3380
-Emali: neonat@aol.com
-NICU (P): (713)359-2910; NICU (F): (713}359-1903
-Level JHB; NICU Beds: 22
-Neonatolog!sts:
-BEDI, HARVINDER S.
-BONTHALA, SAVITHAT
-PATEL, SANDIP K.
-Updated: 4/8/2017
-PLANO, TX
+Level IIIB; NICU Beds: 22
+Neonatologists: 3
+Neonatologists names: Harvinder Bedi; Savithri Bonthala; Sandip Patel
+
 HCA MEDICAL CENTER OF PLANO
-8901 W. 15th St.
-Plano, TX 75076
-NICU Medical Director: Anna M. August, MD
-Jose E. Lucena, MD
-(P): (214)343-6663; (F): (214)343-2814
-NICU (P): (972}519-1260; NICU (F): (872)519-7195
+3901 W. 15th St.
+Plano, TX 75075
 Level IIIB; NICU Beds: 42
-Neonatologlsts:
-Refer to Neonatologisis Group of Pediatrix Cook
-Children’s Hospital, Fort Werth, TX
-ABIOUDIN, TOUBIN
-AHMED, NAGI
-AUGUST, ANNA
-GREEN, DAVID
-JAIN, ALOK
-KUFORWI, THERESA
-LUCENA, JOSE E.
-POWELL, CYNTHIA
-Updated: 4/15/2014
+Neonatologists: 8
+Refer to Neonatologisis Group of Pediatrix Cook Children’s Hospital, Fort Worth, TX
+Neonatologists names: Toubin Abioudin; Nagi Ahmed; Anna August; David Green; Alok Jain; Theresa Kuforiji; Jose Lucena; Cynthia Powell
+
 PRESBYTERIAN HOSPITAL OF PLANO
 6200 West Parker Rd.
 Plano, TX 75093
-NICU Medica! Director: Antonio Santiago, MD
-(P): (972)981-7614; (F): (972)473-720
-NICU (P): (972)981-7611; NICU (F): (972)981-3298
-Level IIfB; NICU Beds: 45
-Neonatologists:
-ANDERSON, JUDITH
-AUGUST, ANNA
-FITUGH, CAMELLIA
-PEREZ, EDUARDO
-SANTIAGO, ANTONIO
-WEISOLY, D,
-Updated: 3/31/2011
-PORT ARTHUR, TX
-CHRISTUS HOSPITAL - ST. MARY
-3600 Gates Bivd.
-Port Arthur, TX 77642
-NICU Medical Director: Nikhil Raval, MD
-(P): (409)989-1190; (F): (409)989-1190
-Email: robert.bennett@ttuhsc.edu
-NICU (P): (409)989-1 190; NICU (F); (409)989-1 191
-Level IIA; NICU Beds: 6
-Neonatologists:
-RAVAL, NIKHIL
-Updated: 4/8/2011
+Level IIIB; NICU Beds: 45
+Neonatologists: 6
+Neonatologists names: Judith Anderson; Anna August; Camellia Fituch; Eduardo Perez; Antonio Santiago; D. Weisoly
 
-RICHARDSON, TX
-; RICHARDSON REGIONAL MEDICAL CENTER
-; 401 West Campbell Rd.
+CHRISTUS HOSPITAL - ST. MARY
+3600 Gates Blvd.
+Port Arthur, TX 77642
+Level IIIA; NICU Beds: 6
+Neonatologists: 1
+Neonatologists names: Nikhil Raval
+
+RICHARDSON REGIONAL MEDICAL CENTER
+401 West Campbell Rd.
 Richardson, TX 75080-3499
-, - NICU Medical Director: Clair Schwendeman, MD
-; {P): (972)498-4000; (F): (972)566-7510
-, NICU (P): (972)498-4332
-iz Level ilA; NICU Beds: 5
-s Neonatologists:
-F Pediatrix Medical Group - On Call Coverage Onl
-\ Updated: 4/25/2009
-ROUND ROCK, TX
-‘ ROUND ROCK MEDICAL CENTER
+Level IIA; NICU Beds: 5
+Neonatologists:
+Pediatrix Medical Group - On Call Coverage Onl
+
+ROUND ROCK MEDICAL CENTER
 2400 Round Rock Ave.
-‘ Round Rock, TX 78681-4097
-: NICU Medical Director: David R. Breed, MD
-/ NICU {P); (512)341-6044; NICU (F): (512)341-6061
-: Level liB; NICU Beds: 12
-. Neonatologists:
-i Refer to Neonatologists Group of St. David's
-. Hospital, Austin, TX
-, Updated: 8/28/2010
-/ | SAN ANGELO, TX
-Hae SAN ANGELO COMMUNITY MEDICAL CENTER
-OS 3501 Knickerbocker Rd.
-Eee San Angelo, TX 76904
-i NICU Medica! Director: Jean G. Woodman, MD
-ba (P): (825)947-8474; (F): (325)947-6475
-i NICU (P): (825)947-6931; NICU (F): (825)947-687:
-45 Level IIIA; NICU Beds: 6
-rae Neonatologists:
-oe Refer to Neonatologists Group of Santa Rosa
-yee Children's Hospital of San Antonio, TX
-‘ SD Updeted: 1/0/2011"
-“1 SAN ANTONIO, TX
-So) BAPTIST MEDICAL CENTER
-‘ 111 Dallas St.
-: San Antonlo, TX 78205
-Xs NICU Medical Director: Isabel M. Basaldu-Prado,
-‘ MD
-“! {P): (210)297-7090; (F): (210}294-0774
-, NICU (P}; (210)297-7090; NICU (F}: (210)297-077-
-ys Level IA; NICU Beda: 14
-i. Neonatologists:
-Ly Refer to Neonatologists Group of Santa Rosa
-’ Children's Hospital of San Antonlo, TX
-ae Updated: 1/6/2011
-y METHODIST CHILDRENS HOSPITAL
-| 7900 Floyd Curl Dr.
-ee San Antonio, TX 78229
-, NICU Medical Direetor: Alexander Kenton, MO
-Pe (P): (210)575-6187; (F); (210)575-6065
-| Email: alexander_kenton@pediatrix.com
-7 4) NICU (>): (210)576-4097; NICU (F): (210)575-4005
-‘ Lovet iC; NICU Bods: 72
-7 Neonatologlats:
-3 Refer to Neonatologists Group of Santa Rosa
-4 Children's Hospital of San Antonio, TX
-\ Updated: 16/2014
-a sre
+Round Rock, TX 78681-4097
+Level IIB; NICU Beds: 12
+Neonatologists:
+Refer to Neonatologists Group of St. David's Hospital, Austin, TX
+
+SAN ANGELO COMMUNITY MEDICAL CENTER
+3501 Knickerbocker Rd.
+San Angelo, TX 76904
+Level IIIA; NICU Beds: 6
+Neonatologists:
+Refer to Neonatologists Group of Santa Rosa Children's Hospital of San Antonio, TX
+
+BAPTIST MEDICAL CENTER
+111 Dallas St.
+San Antonlo, TX 78205
+Level IIIA; NICU Beda: 14
+Neonatologists:
+Refer to Neonatologists Group of Santa Rosa Children's Hospital of San Antonio, TX
+
+METHODIST CHILDRENS HOSPITAL
+7900 Floyd Curl Dr.
+San Antonio, TX 78229
+Level IIIC; NICU Bods: 72
+Neonatologists:
+Refer to Neonatologists Group of Santa Rosa Children's Hospital of San Antonio, TX
 
 METROPOLITAN METHODIST HOSPITAL
-13146 McCullough Ave. ;
-San Antonlo, TX 78212
-NICU Medical Director: Jeffrey ¥. Paul, MD
-(P): (210)757-2428; (F): (210)757-22914
-NIGU (P): (210)757-2428; NICU (F): (210)757-2291
-Level iA; NICU Beds: 24
-Neonatoiogists:
-Refer to Neonatologists Group of Santa Rosa
-, Children's Hospital of San Antonia, TX
-¥ Updated: 1/6/2011
+1310 McCullough Ave.
+San Antonio, TX 78212
+Level IIIA; NICU Beds: 24
+Neonatologists:
+Refer to Neonatologists Group of Santa Rosa Children's Hospital of San Antonia, TX
+
 NORTH CENTRAL BAPTIST HOSPITAL
 502 Madison Oak Dr.
-San Antonlo, TX 78268
-NICU Medical Director: Mary £, Wearden, MD
-(P): (210)297-4985; (F): (210}297-0433
-Email: mary. wearden@gmial.com
-Q NICU (P): (210)297-4985; NICU (F): (210)297-043%
-Levet HIB; NICU Beds: 36
-Neonatolog!sts:
-Refer to Neonatologists Group of Santa Rosa
-Children's Hospltal of San Antonio, TX
-Updated: 1/6/2011
+San Antonio, TX 78258
+Levet IIIB; NICU Beds: 36
+Neonatologists:
+Refer to Neonatologists Group of Santa Rosa Children's Hospital of San Antonio, TX
+
 NORTH EAST BAPTIST HOSPITAL
 8811 Village Dr.
 San Antonio, TX 78217
-NICU Medical Director: Isabel Basaldu-Prado, MC
-(P): (210)287-2087; (F): (210)297-0206
-NICU (P): (210)297-2087; NICU (F): (210)297-0208
-Level HIA; NICU Beds: 16
-2  Neonatologists:
-Refer to Neonatologists Group of Santa Rosa
-Children's Hospital of San Antonio, TX
-Updated: 1/6/2071
+Level IIIA; NICU Beds: 16
+Neonatologists:
+Refer to Neonatologists Group of Santa Rosa Children's Hospital of San Antonio, TX
+
 SANTA ROSA CHILDREN'S HOSPITAL
 333 North Santa Rosa St.
 San Antonio, TX 78207
-NICU Medicai Director: Maria R. Pierce, MD
-. (P): (210)704-2494; (F): (210)704-2623
-Emall: mrpierce @texas.net
-Director of NICU High Risk Follow-Up Clinle:
-Mario Flerro, MD
-NICU (P}; (210)704-2474; NICU (F): (210)704-262<
-4 Level lilC; NICU Beds: 77
-Neonatologists:
-AGRAWAL, REMEDIOS C,
-BASALDU-PRADO, ISABEL M.
-BATTISTA, MICHAEL A.
-BIELA, TIMOTHY A..
-CORBET, ANTHONY J.
-DEYOUNG, PETER M.
-GARZA-COX, SANJUANITA
-GONZALEZ, ALEJANDRO B.
-GRESORES, ADRAIN
-HENDERSON, CODY L.
-HILLIARD, J. LEONARD
-2) HOLLER, BERNARD
-KEIDEL, WERNER N.
-KENTON, ALEXANDER B.
-MEIER, PRIMROSE C,
-MOLINA, BLANCA C.
-ORTIZ, AMIL
+Level IIIC; NICU Beds: 77
+Neonatologists: 20
+Neonatologists names: Remedios Agrawal; Isabel Basaldu-Prado; Michael Battista; Timothy Biela; Anthony Corbet; Peter Deyoung; Sanjuanita Garza-Cox; Alejandro Gonzalez; Adrain Gresores; Cody Henderson; Leonard Hilliard; Bernard Holler; Werner Keidel; Alexander Kenton; Primrose Meier; Blanca Molina; Amil Ortiz; Jeffrey Paul; Maria Pierce; George Powers
 
-PAUL, JEFFREY V,
-PIERCE, MARIA P.
-POWERS, GEORGE C.
-Updated: 1/6/2011
-4 SOUTHWEST GENERAL HOSPITAL
+SOUTHWEST GENERAL HOSPITAL
 7400 Barlite Blvd.
-San Antonio, TX 78224
-NICU Medical Director: Sanjay Patel, MD
-{P}: (432)563-0277; (F): (432)275-0544
-Email: patelmdpa@gmaii.com
-NICU (P): (210}332-1350; NICU (F): (210)507-4785
-Level IB; NICU Beds: 35
-Neonatologists:
-GILETT, CURT
-HERNANDEZ, TANIA
-PATEL, SANJAY
-Updated: 2/16/2041
-8 SOUTHWEST GENERAL HOSPITAL
-7400 Barlite Bivd.
 San Antonio, TX 78217
-NiCU Medical Ofrector: Sanjay Patel, MD
-Emall: patelmdpa@ gmail.com
-Level IIIB; NICU Bede: 35
+Level IIIB; NICU Beds: 35
 Neonatologists:
-GILETT, CURT
-HERNANDEZ, TANIA
-D PATEL, SANJAY
-Updated: 2/25/2011
-6 ST. LUKE'S BAPTIST HOSPITAL
-7930 Floyd Curl Dr,
+Neonatologists names: Curt Gilett; Tania Hernandez; Sanjay Patel
+
+ST. LUKE'S BAPTIST HOSPITAL
+7930 Floyd Curl Dr.
 San Antonic, TX 78229-0100
-NICU Medical Director: Adrian Gresores, MD
-{P): (210)297-5087; (F): (210)297-0623
-NICU (P): (210)297-5087; NICU (F}: (210)297-0623
-Level HIB; NICU Beds: 22
+Level IIIB; NICU Beds: 22
 Neonatologists:
-Refer to Neonatolagists Group of Santa Rosa
-Children's Hospital of San Antonio, TX
-Updated: 1/46/2014
+Refer to Neonatolagists Group of Santa Rosa Children's Hospital of San Antonio, TX
+
 STONE OAK METHODIST HOSPITAL
-1139 E. Sonterra Bivd,
-3 San Antonio, TX 76268
-NICU Medical Director: Amil Ortiz, MD
-(P): (210)638-3205; (F): (210)638-3838
-NICU (P): (210}638-2273; NICU (F): (210)638-3838
-Level HIA; NICU Beds: 10
-Neonatologlsts:
-Refer to Neonatologists Group of Santa Rosa
-Children’s Hospital of San Antonio, TX
-Updated: 3/12/2011
-*UNIVERSITY OF TEXAS HEALTH SCIENCE
-CENTER AT SAN ANTONIO
+1139 E. Sonterra Blvd.
+San Antonio, TX 78258
+Level IIIA; NICU Beds: 10
+Neonatologists:
+Refer to Neonatologists Group of Santa Rosa Children’s Hospital of San Antonio, TX
+
+UNIVERSITY OF TEXAS HEALTH SCIENCE CENTER AT SAN ANTONIO
 Department of Pediatrics
 Division of Neonatology
-The University of Texas Health Science Center at
-San Antonio
+The University of Texas Health Science Center at San Antonio
 7703 Floyd Curl Dr, MSC 7812
 San Antonio, TX 78229-3900
-Division Chief: Steven R. Seldner, MD
-(P): (210)567-5229; (F): (210)567-5169
-Email; seldner@uthscsa.edu
+Level IIIB; NICU Beds: 55
+Neonatologists: 10
+Neonatologists names: Cynthia Blanco; Amy Fowler; Donald McCurnin; Alice Gong; Michael Odom; Jean Petershack; Rajam Ramamurthy; Steven Seidner; Richard Stribley; Margarita Vasquez
 
-!
-‘ Training Program Director: Margarita Vasquez,
-MD
-: (P): (210)567-5229; (F): (210)567-5169
-; Email: castror@uthscsa.edu
-| NICU Medical Director: Steven R. Seidner, MD
-: (P): (210)567-5229; (F): (210}567-5169
-Email: seidner@uthsesa.edu
-| | Director of NICU High Risk Follow-Up Clinte: :
-: Rajam S. Ramamurthy, MD
-Email: rramamurthy@uthscsa.edu
-NICU (P): (210)358-1593; NICU (F): (210)358-3955_— -
-; Level li]B; NICU Beds: 55 i
-Neonatologists:
-BLANCO, CYNTHIA L. |
-FOWLER, AMY |
-MCCURNIN, DONALD C. |
-GONG, ALICE K. |
-: ODOM, MICHAEL W,
-PETERSHACK, JEAN
-RAMAMURTHY, RAJAM S.
-SEIDNER, STEVEN R.
-STRIBLEY, RICHARD F.
-VASQUEZ, MARGARITA M. |
-Updated: 7/6/2011
-SUGAR LAND, TX
-MEMORIAL HERMAN SUGAR LAND HOSPITAL |
+MEMORIAL HERMAN SUGAR LAND HOSPITAL
 17500 West Grand Pkwy. South
 Sugar Land, TX
-NICU Medical Director: Enrique Rios, MD
-(P): (281}725-5364; (F): (281)725-5300
-NICU (P): (281)725-5364
-Level iB; NICU Beds: 4
-Negonatologists:
-Refer to Neonatoiogists Group of Memortal
-Herman Southwest Hospital, Houston, TX
-Updated: 2/22/2011
+Level IIB; NICU Beds: 4
+Neonatologists:
+Refer to Neonatologists Group of Memorial Herman Southwest Hospital, Houston, TX
+
 METHODIST SUGAR LAND HOSPITAL
 16655 Southwest Freeway
 Sugar Land, TX 77479
-NICU Medical Director: Sonia Chauhan, MD
-NICU (P): (281)274-8320; NICU (F): (281)274-8346
 Level IIB; NICU Beds: 7
 Neonatologists:
-Refer to Neonatologisis Group of Memorial
-Herman Southwest Hospital, Houston, TX
-Updated: 4/1/2074
-TEMPLE, TX
-THE CHILDREN'S HOSPITAL AT SCOTT AND
-WHITE
-2401 S. Bist St.
-Temple, TX 76508
-NICU Medical Director: Madhava R. Beeram, MD
-(P): (284)724-231 1; (F}: (254)724-1198
-: Email: m.bseram@swmail.sw.org
-: NICU (P): (254)724-2311; NICU (F): (254)724-4399
-: Level IliC; NICU Beds: 50
-Neonatologists:
-BEERAN, MADHAVA R.
-‘ CIPRIANI, CHERYL A,
-GOVANDE, VINAYAK
-HILAL, KHALED
+Refer to Neonatologisis Group of Memorial Herman Southwest Hospital, Houston, TX
 
-KRAUSS, DAVID R. {
-MARSHALL, JAMES
-MUTHUSWAMI, AMBU \
-OLTORF, CHARLES
-RAJU, NAKTA V. {
-Updated: 12/5/2010
-TEXARKANA, TX )
+THE CHILDREN'S HOSPITAL AT SCOTT AND WHITE
+2401 S. 31st St.
+Temple, TX 76508
+Level IIIC; NICU Beds: 50
+Neonatologists: 9
+Neonatologists names: Madhava Beeram; Cheryl Cipriani; Vinayak Govande; Khaled Hilal; David Krauss; James Marshall; Ambu Muthuswami; Charles Oltorf; Nakta Raju
+
 WADLY REGIONAL HOSPITAL
 1000 Pine St.
-Texarkana, TX 76501 !
-NICU Medical Director: Sanjay Patel, MD '
-(P): (432)563-0277; (F): (492}275-0544
-Email: patekndpa@ gmail.com |
-NICU (P}: (903)798-7323; NICU (F): (903)798-7326
-Level lilA; NICU Beds: 10 ;
+Texarkana, TX 75501
+Level IIIA; NICU Beds: 10
 Neonatologists:
+Neonatologists names:
 NARULA, ARUN
 PATEL, SANJAY
 TALBERT, TONY
