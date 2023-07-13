@@ -6686,190 +6686,81 @@ Neonatologists names: Syed Ahmad; Donna Cothran; Keith Taylor
 PRINCE WILLIAM HOSPITAL
 8700 Sudley Rd.
 Manassas, VA 20110
-NICU Medical Director: Shantharama Karanth, MD
-(P}: (703)369-B134; (F): (703)369-8234
-Email: skaranth@pwhs.org
-NICU (P): (703)369-8134; NICU (F): (703)369-8034
 Level IIIA; NICU Beds: 10
-Neonatologists:
-KARANTH, SHANTHARAMA
-MCPHERSON, LUZ
-SY, ROSSANA T.
-FALLAPRAGADA, JYOTSNA
-Updated: 1/47/2009
-NEWPORT NEWS, VA
-RIVERSIDE REGIONAL MEDICAL CENTER
-_ (NEWPORT NEWS}
-500 J. Clyde Morris Bivd,
+Neonatologists: 4
+Neonatologists names: Shantharama Karanth; Luz McPherson; Rossana Sy; Jyotsna Tallapragada
+
+RIVERSIDE REGIONAL MEDICAL CENTER (NEWPORT NEWS}
+500 J. Clyde Morris Blvd.
 Newport News, VA 23601-1976
-NICU Medical Director: Adel Abdullah, MD
-NICU {P): (757)594-3451; (F): (757)394-3542
-Level iB; NICU Beds: 22
-Neonatologists:
-ABDULLAH, ADEL
-STEWART, CORRINE
-TESSEMA, ELIAS
-Updated: 8/15/2011
-NORFOLK, VA
-CHILDREN'S HOSPITAL OF THE KING'S
-DAUGHTERS
+Level IIIB; NICU Beds: 22
+Neonatologists: 3
+Neonatologists names: Adel Abdullah; Corrine Stewart; Elias Tessema
+
+CHILDREN'S HOSPITAL OF THE KING'S DAUGHTERS
 601 Children's Lane
 Norfolk, VA 23507
-NICU Medical Director: Jamil H. Khan, MD
-(P): (757)668-7404; (F); (757)668-9255
-Email: jkhan @chkd.org
-NICU (P): (757)668-7448; NICU (F): (757)668-7504
-Level IHC; NICU Beds: 63
-Neonatologists:
-BASS, WILLIAM T.
-DEVENDOPRF, DEBORAH J.
-DILLENDER, SUSANNAH P.
-GOWEN, JR., CLARENCE W.
-GREEN, GLEN A.
-KARLOWICZ, M. GARY
-KAROTKIN, EDWARD H.
-KHAN, JAMIL H.
-OELBERG, DAVID G.
-SIEGFRID, BRETT
-TIFFANY, KEN
-91
+Level IIIC; NICU Beds: 63
+Neonatologists: 11
+Neonatologists names: William Bass; Deborah Devendorf; Susannah Dillender; Clarence Gowen Jr.; Glen Green; Gary Karlowicz; Edward Karotkin; Jamil Khan; David Oelberg; Brett Siegfrid; Ken Tiffany
 
-Updated: 4/8/2011 :
-PORTSMOUTH, VA .
 NAVAL MEDICAL CENTER PORTSMOUTH
 620 John Paul Jones Circle
 Portsmouth, VA 23708
-NICU Medical Director: Robert P. Englert, MD
-(P): (757)953-4850; (F): (757)953-0900
-Email: robert.englert@med.navy.mit
-NICU (P): (757)953-4691; NICU (F): (757)953-0900
-Level fIIB; NICU Beds: 24
-Neonatologists: :
-ENGLERT, ROBERT P.
-FAY, REBECCA
-HOLSTON, ALEX
-LUCHETT]I, JAMES
-RABENSTEIN, ERIC
-VARGAS, ALFONSO
-VOLODKA, KARINA
-Updated: 10/15/2010
-RESTON, VA
+Level IIIB; NICU Beds: 24
+Neonatologists: 7
+Neonatologists names: Robert Englert; Rebecca Fay; Alex Holston; James Luchetti; Eric Rabenstein; Alfonso Vargas; Karina Volodka
+
 RESTON HOSPITAL CENTER
 1850 Town Center Parkway
-Reston, VA
-NICU Medical Director: Kenneth Harkavy, MD
-NICU (P): (703)689-9089; NICU (F): (703)689-9791
-Level IIIB; NICU Bads: 12
-Neonatofogists:
-ALEMI, BEHJAT
-ALEXANDER, VENNA
-HARKAVY, KENNETH
-RIOJA-MAZZA, DORA
-STICKLE, JOE
-Updated; 2/4/2014
-RICHMOND, VA
+Reston, VA 20190
+Level IIIB; NICU Beds: 12
+Neonatologists: 5
+Neonatologists names: Behjat Alemi; Venna Alexander; Kenneth Harkavy; Dora Rioja-Mazza; Joe Stickle
+
 CHIPPENHAM MEDICAL CENTER
 7101 Jahnke Ad,
 Richmond, VA 23225
-NiCU Medical Director: Sandy Tarant, MD
-NICU (P): (804)323-8446; NICU (F): (804)327-41 86
-Level IIB; NICU Beds: 15
-Neonatologlsts:
-TARANT, SANDY
-Updated: ¥22/201 t
+Level IIIB; NICU Beds: 15
+Neonatologists: 1
+Neonatologists names: Sandy Tarant
+
 CJW MEDICAL CENTER
 7101 Jahnke Rd.
 Richmond, VA 23225
-NICU Medical Director: S.|, Tarant, MD
-(P); (804)323-8893; (F): {804)323-8850
-Email: starant@comceast.net
-NICU {P): (804}323-8446; NIGU (F): (804)327-418&
-Level IlfB; NICU Beds: 28
-Neonatotoagists:
-AHMAD, ASYED MOIZUDDIN
-BOLLERUP, ED
-BOWMAN, ANDY
-DATTA, HARSH
-FARHI, RAYMOND 8S.
-JOHNSON, RANDY
-KUMAR, PANIKAJ
-PORTAL, CYNTHIA
+Level IIIB; NICU Beds: 26
+Neonatologists: 10
+Neonatologists names: Asyed Ahmad; Ed Bollerup; Andy Bowman; Harsh Datta; Raymond Farhi; Randy Johnson; Pankaj Kumar; Cynthia Portal; S.I. Tarant; Anjali Varandani
 
-7 we
-TARANT, 8.1.
-; VARANDANI, ANJALI
-: Updated: 10/15/2010
 HENRICO DOCTOR'S HOSPITAL
-4602 Skipwith Ad.
-‘ Ftichmond, VA 23229
-‘ NICU Medical Director: Viiay Dhande, MD
-) (P): (804)289-4528; (F): (B04)287-4388
-NICU (P): (804)289-4985; NICU (F): (804)289-5
-‘ Level 1B; NICU Beds: 42
-‘ Neonatologists:
-‘ BARBER-WELLS, NIKOL
-. BROWN, SUSAN
-: DHANDE, VAY
-FALTERMAN, CASEY
-: FRAKES, CHUCK
-. NAIA, GAYATHAI
-‘ ROSE, VICK!
-. SEQUEIRA, DERYK
-Updated: 12/5/2010
-; *MEDICAL COLLEGE OF VIRGINIA HOSPITAI
-: ' BLO, Box 980276
-7 OR 401 N. {2th St.
-pO Richmond, VA 23298
-- Division Chief: Gary R. Gutcher, MD
-: [> (P): (804)828-9966; (F): (804)828-6862
-eS Email: ggutcher@hso.veu.edu
-, Training Program Director: Henry J, Rozycki, f
-a (P): (604)828-8966; (F): (804)828-6662
-ne Email: hrozycki@hsc.vcu.edu
-, NICU Medical Director: Gary R, Gutcher, MD
-* |) (P): (804)828-9968; (F): (804)828-6662
-, Email: ggutcher@hse,veu.edu
-* |] ~ Director of NICU High Risk Follow-Up Cilnic:
-» =] P. Accardo, MD
-"e NICU (P): (804)828-9956; NICU (F): (804)827-23
-yo : Level lilC; NICU Beds: 40
-“=f Neonatologlsts:
-5 4b: GUTCHER, GARY R.
-m i JAYARAM, ARCHANA
-! ae MOORES, RUSSELL
-se ROZYCKI, HENRY J.
-: Updated: 5/6/2011
-8 SAINT MARY HOSPITAL
-. 5801 Bremo St.
-se Richmond, VA 23226
-LE NICU Medical Director: Bonita J. Makdad, MD
-; Nicu (P}; (804)287-7113; NICU (F): (804)287-79:
-— Level IIIB; NICU Beds: 21
-i Be Neonatologists:
-. MAKDAD, BONITA J.
-“|. Updated: aavzoto
-* | ROANOKE, VA
-/ |. CARILION ROANOKE MEMORIAL HOSPITAL
-. | 102 Hightand Ave., Ste. 498
-} Roanoke, VA 24013
-, | NICU Medical Director: Manuel Peregrino, MD
-‘ (P): (6 40)266-6012; (F): (540)962-3687
-\ Email: manual _peregrino@pediatrix.com
-* 4g NICU EP): {640)885-9969; NICU (F): {640)985-996
-» | bevel iB; nicU Bode: 60
+1602 Skipwith Rd.
+Richmond, VA 23229
+Level IIIB; NICU Beds: 42
+Neonatologists: 8
+Neonatologists names: Nikol Barber-Wells; Susan Brown; Vijay Dhande; Casey Falterman; Chuck Frakes; Gayathri Nair; Vicki Rose; Deryk Sequeira
 
-Neonatologists;:
-ANDRUSCAVAGE, LISA
-BINNS-LOVEMAN, KAREN
-GALLAGHER, JOHN
-HEERENS, ANN
-PATEL, HIREN
-PEREGRINO, MANUEL
-SINHA, ANUJ
-| SLOCUM, CHRISTOPHER
-619 §ZEGO, ELLEN Z,
-Updated: 1/17/2009
-STAFFORD, VA
+MEDICAL COLLEGE OF VIRGINIA HOSPITALS
+P.O. Box 980276
+401 N. 12th St.
+Richmond, VA 23298
+Level IIIC; NICU Beds: 40
+Neonatologists: 4
+Neonatologists names: Gary Gutcher; Archana Jayaram; Russel Moores; Henry Rozycki
+
+SAINT MARY HOSPITAL
+5801 Bremo St.
+Richmond, VA 23226
+Level IIIB; NICU Beds: 21
+Neonatologists: 1
+Neonatologists names: Bonita Makdad
+
+CARILION ROANOKE MEMORIAL HOSPITAL
+102 Highland Ave., Ste. 435
+Roanoke, VA 24013
+Level IIIB; NICU Beds: 60
+Neonatologists: 9
+Neonatologists names: Lisa Andruscavage; Karen Binns-Loveman; John Gallagher; Ann Heerens; Hiren Patel; Manuel Peregrino; Anuj Sinha; Christopher Slocum; Ellen Szego
+
 STAFFORD HOSPITAL
 101 Hospital Center Biva.
 Stafford, VA 22554
