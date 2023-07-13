@@ -6532,373 +6532,157 @@ WADLY REGIONAL HOSPITAL
 1000 Pine St.
 Texarkana, TX 75501
 Level IIIA; NICU Beds: 10
-Neonatologists:
-Neonatologists names:
-NARULA, ARUN
-PATEL, SANJAY
-TALBERT, TONY
-Updated: 2/25/2011
-THE WOODLANDS, TX
-MEMORIAL HERMANN THE WOODLANDS
-HOSPITAL
+Neonatologists: 3
+Neonatologists names: Arun Narula; Sanjay Patel; Tony Talbert
+
+MEMORIAL HERMANN THE WOODLANDS HOSPITAL
 9250 Pinecroff
-The Woodlands, TX 77386
-NICU Medica! Director: Richard Rivas, MD
-(P): (281}964-2573; (F): (281)364-2522
-NICU (P): (281)364-41 40 °
+The Woodlands, TX 77380
 Level IIIB; NICU Beds: 26
-Neonatologists:
-RIVAS, RICHARDO A.
-ROOHEY, TABASAM
-RAMIREZ-AMAYA, RENE
-Updated: 4/8/2011
-TOMBALL, TX
+Neonatologists: 3
+Neonatologists names: Richardo Rivas; Tabasam Roohey; Rene Ramirez-Amaya
+
 TOMBALL REGIONAL MEDICAL CENTER
 605 Holderrieth
 Tomball, TX 77375
-NICU Medical Director: Tung Nguyen Giep, MD
-(P}: (281)610-0369; (F): (281)364-2522
-NIGU (P): (281)401-3727; NICU (F}: (281)401-7229
-Level lilA; NICU Beds: 21
-Neonatologists:
-BONAPARTE, JOEL WINSTON
-CHAMKUR, AMARNATH
-GIEP, TUNG N,
-Updated; 3/31/2011
-VICTORIA, TX
+Level IIIA; NICU Beds: 21
+Neonatologists: 3
+Neonatologists names: Joel Bonaparte; Amarnath Chamkur; Tung Giep
+
 CITIZENS MEDICAL CENTER
-2701 Hospitat Dr.
+2701 Hospital Dr.
 Victoria, TX 77901-5749
-NICU Medical Director: Marisol Montes-Ortiz, MD
-(P): (861)579-017 1; (F): (361}579-0182
-NICU (P): (861)579-1321; NICU (F): (361)582-5709
-Leval INA; NICU Beds: 10
+Leval IIIA; NICU Beds: 10
 Neonatologists:
-Refer to Neonatologists Group of Santa Rosa
-Children's Hospital of San Antonio, TX
-Updated: 1/6/2014
-89
+Refer to Neonatologists Group of Santa Rosa Children's Hospital of San Antonio, TX
 
 DETAR HOSPITAL NORTH
-104 Medical Dr,
+104 Medical Dr.
 Victoria, TX 77904
-NICU Medical Director: Marlsci Montes-Ortiz, MD
-(P}: (861)579-0171; (F): (861)579-0182
-NICU {P}: (361)788-2606; NICU (F): (361)788-6625
 Level IIIA; NICU Beds: 9
 Neonatologists:
-Refer to Neonatologists Group of Santa Rosa
-Children's Hospital of San Antonio, TX
-Updated: 1/6/2071
-WACO, TX
+Refer to Neonatologists Group of Santa Rosa Children's Hospital of San Antonio, TX
+
 HILLCREST BAPTIST MEDICAL CENTER
 100 Medical Parkway
 Waco, TX 76708
-NICU Medical Director: Darrell S. Wheeler, MD
-(P): (254)202-291 1; (F): (254)202-5696
-NICU (P): (254)202-2900; NICU (F): (254)202-8227
-Level IIB; NICU Beds: 28
-Neonatologists:
-PATEL, DAKSHA M.
-WHEELER, DARRELL S.
-Updated: 4/7/2011
-WEBSTER, TX
+Level IIIB; NICU Beds: 28
+Neonatologists: 2
+Neonatologists names: Daksha Patel; Darrell Wheeler
+
 CLEAR LAKE REGIONAL MEDICAL CENTER
-506 Medical Center Bivd.
+500 Medical Center Blvd.
 Webster, TX 77598
-NICU Medica! Director: Harvinder S. Bedi, MD
-(P): (281)338-3381; (F): (281)338-3380
-NICU (P); (281)338-3900; NICU (F); (281)338-3990
-Level IIlB; NICU Beds: 42
-Neonatologists:
-BEDI, HARVINDER, SINGH
-BONTHALA, SAVITHR!
-PATEL, SANDIP KANCHAN
-Updated: 1/17/2009
-LAYTON, UT
+Level IIIB; NICU Beds: 42
+Neonatologists: 3
+Neonatologists names: Singh Bedi; Savithri Bonthala; Sandip Patel
+
 DAVIS HOSPITAL & MEDICAL CENTER
-4600 W. Antelope Dr.
+1600 W. Antelope Dr.
 Layton, UT 84041
-NICU Medical Director: James Berger, MD
-(P): (801)807-7434; (F): (801)807-7612
-Email: Jberg¢oc@ yahoo.com
-NICU (P); (801)807-7434; NICU (F): (801)807-7612
-Level 118; NICU Beds: 15
+Level IIIB; NICU Beds: 15
 Neonatologists:
-Refer to Neonatologists Group of Ogden Regione!
-Medicai Center, Ogden, UT
-Updated: 4/7/2011
-OGDEN, UT
+Refer to Neonatologists Group of Ogden Regional Medical Center, Ogden, UT
+
 MC KAY-DEE HOSPITAL CENTER
 4401 Harrison Blvd.
 Ogden, UT 84403
-NICU Medical Director: Robert D, Christensen, MD
-(P): (801}387-4309; (F): (801)387-4316
-Email: rdchris4 @intermountainmail.org
-NICU (P): (801)987-4300; NICU (F): (801)387-4306
-Level IB; NICU Beds: 32
-Neonatologists:
+Level IIIB; NICU Beds: 32
+Neonatologists: 6
+Neonatologists names: Anne Anderson; Robert Christensen; Michael Clark; Leta Fuller; Carolyn Rich-Denson; Mark Sheffield
 
-7
-ANDERSON, ANNE H,
-‘ CHRISTENSEN, ROBERT D.
-: CLARK, J. MICHAEL
-FULLER, LETA
-j RICH-DENSON, CAROLYN
-; SHEFFIELD, MARK J,
-7 Updated: 12/4/2010
-) OGDEN REGIONAL MEDICAL CENTER
-5 5475 S. 500 E,
-} Ogden, UT 84405
-\ NICU Medical Director: Andrew Simmons, MD
-: (P); (801)476-4280; (F): (801)476-4281
-NICU (P): (801)479-2560; NICU (F): (801}479-295
-' Level lB; NICU Beds: 18
-Neonatotogists: :
-° BERGER, JAMES },
-: MOHAN, CHANDRA KALA
-‘ SIMMONS, ANDREW
-: updated: 4/7/2011
-; PROVO, UT
-, UTAH VALLEY REGIONAL MEDICAL CENTER
-; 1034 N. 500 W.
-. Provo, UT 84604
-‘OS NICU Medical Director: Ronald A, Stoddard, MD
-Se {P): (801)357-7707; (F): (801)370-9061
-a Emall: ronald.stoddard @intermountainmail.org
-1 Director of NICU High Risk Follow-Up Clinte:
-Es Linda Adams, MD
-Py NICU (P): (804)357-7414; NICU (F): (804)371-759
-ES Level HIB; NICU Beds: 39
-ee Neonatologists:
-i E »ADAMS, LINDA
-oa CHEATHAM, ANNA
-a CHEATHAM, ROBERT (WYC)
-cay. GERDAY, ERICK
-Ley MINER, LONNIE
-‘s MINTON, STEPHEN D.
-se MORELLI, SUSAN
-- oe STODDARD, RONALD A.
-} Updated: 9/10/2010
-ee SALT LAKE CITY, UT
-,e PRIMARY CHILDREN'S MEDICAL CENTER
-‘ UNIVERSITY OF UTAH MEDICAL CENTER
-\ Eg 100 North Mario Cappeccia
-é Salt Lake City, UT 84113
-Ve Division Chief: J. Ross Milley, MD
-“| J P):(801)581-7005; (F): (601)585-7395
-Hs Email; ross.milley@hse.utah.edu ,
-a NICU Medical Director: Donatd M, Null, MD
-Ve {P): (801)662-4 180; {F): (801}662-4 166
-| Email: donaid.null@hse.utah.edu
-ve NICU (P): (801)662-4100; NICU (F): (801)662-416¢
-vo Level IliG; NICU Beds: 50
-ne Neonatologlate:
-. BASERGA, MARIANA
-cy BEACHY, JOANNA
-yEEB BIERER, RYANN
-og BLOOM, RONALD
-i CHAN, GARY
-- COULTER, DAVID
-Ve ges DIGERONIMO, ROBERT J.
-eee cae
+OGDEN REGIONAL MEDICAL CENTER
+5475 S. 500 E.
+Ogden, UT 84405
+Level IIIB; NICU Beds: 18
+Neonatologists: 3
+Neonatologists names: James Berger; Chandra Mohan; Andrew Simmons
 
-DOLCOURT, JACK
-FAiX, ROGER
-FUNG, CAMILLE
-KING, JERRY
-LANE, ROBERT
-MALLESKE, DANIEL
-MILLEY, J. ROSS
-NULL, DONALD
-O'BRIEN, ELIZABETH
-WARD, ROBERT
-WIEDMEIR, SUE
-YODER, BRADLEY
-YOST, CON
-35 Updated: 8/24/2014
-“UNIVERSITY OF UTAH SCHOOL OF MEDICINE
-50 North Medicat Dr,
-Sait Lake City, UT 84132
-Division Chief: Robert H, Lane, MOD
-(P): (801)581-7085: (F): (B01)585-7395
-Email: rober Jane@hsc.utah.edu
-Training Program Director: Robert H. Lane, MD
-(P): (801)581-7085; (F): (810)585-7395
-Email: robert.lane@hsc.utah,edu
-NICU Medical Director: Bradiey A. Yoder, MD
-(P}: (801)587-3498; {F): (801)581-4724
-Email: bradley.yoder@hsc.utah,edu
-Director of NICU High Risk Follow-Up Cfinic:
-Anna Bodnar, MD
-NICU (P): (801)581-2745; NICU (F): (801)581-506
-7 ~+Level i115; NICU Beds: 50
+UTAH VALLEY REGIONAL MEDICAL CENTER
+1034 N. 500 W.
+Provo, UT 84604
+Level IIIB; NICU Beds: 39
+Neonatologists: 8
+Neonatologists names: Linda Adams; Anna Cheatham; Robert Cheatham; Erick Gerday; Lonnie Miner; Stephen Minton; Susan Morelli; Ronald Stoddard
+
+PRIMARY CHILDREN'S MEDICAL CENTER
+UNIVERSITY OF UTAH MEDICAL CENTER
+100 North Mario Cappeccia
+Salt Lake City, UT 84113
+Level IIIC; NICU Beds: 50
+Neonatologists: 20
+Neonatologists names: Mariana Baserga; Joanna Beachy; Ryann Bierer; Ronald Bloom; Gary Chan; David Coulter; Robert Digeronimo; Jack Dolcourt; Roger Faix; Camille Fung; Jerry King; Robert Lane; Daniel Malleske; Ross Milley; Donald Null; Elizabeth O'Brien; Robert Ward; Sue Wiedmeir; Bradley Yoder; Con Yost
+
+UNIVERSITY OF UTAH SCHOOL OF MEDICINE
+50 North Medical Dr.
+Salt Lake City, UT 84132
+Level IIIB; NICU Beds: 50
 Neonatologists:
-Refer to Nsonalologists Group of Primary
-Children's Medical Center, Salt Lake Cily, UT
-Updated: 7/6/2011
-ST. GEORGE, UT
+Refer to Nsonalologists Group of Primary Children's Medical Center, Salt Lake City, UT
+
 DIXIE REGIONAL MEDICAL CENTER
 544 South 400 East
 St. George, UT 84770
-NICU Medical Director; Robert E. Ridout, MD
-NICU (P); (435)688-5440
-Level #IB; NICU Beds: 28
-Neonatologists:
-CARROLL, PATIRCK D.
-EGGERT, LARRY D.
-RIDOUT, ROBERT E.
-Updated: 4/44/2014
-ALEXANDRIA, VA
+Level IIIB; NICU Beds: 28
+Neonatologists: 3
+Neonatologists names: Patrick Carroll; Larry Eggert; Robert Ridout
+
 INOVA ALEXANDRIA HOSPITAL
 4320 Seminary Rd., #3000
 Alexandria, VA 22304
-NICU Medical Director: Lisa Goldberg, MD
-6 — (P): (703)504-3000; (F): (703)504-3062
-NICU (P}: (703}504-3338
-Level liIB; NICU Beds; 16
-Neonatologists:
-FRANCE, MARGARET
-GOLDBERG, LISA
-HOLLIDAY, MICHAEL
-VERA, LUIS
-Updated: 4/29/2008
+Level IIIB; NICU Beds: 16
+Neonatologists: 4
+Neonatologists names: Margaret France; Lisa Goldberg; Michael Holliday; Luis Vera
 
-ARLINGTON, VA
 VIRGINIA HOSPITAL CENTER - ARLINGTON
-1701 N, George Mason Dr.
+1701 N. George Mason Dr.
 Arlington, VA 22205
-NICU Medical Director: Donna Tilion Archer, MD
-NICU (P): (703)558-6675; NICU (F): (703)558-6607
 Level IIIA; NICU Beds: 16
-Neonatologists:
-ARCHER, DONNA TILLON
-KUMAR, SUDKA
-HULTZEN, CHRISTOPHER
-RUNKLE, BEATRIZ
-YOON, HELEN
-Updated: 2/4/2011
-E CHARLOTTESVILLE, VA
-*UNIVERSITY OF VIRGINIA HEALTH SYSTEM
+Neonatologists: 5
+Neonatologists names: Donna Archer; Sudha Kumar; Christopher Hultzen; Beatriz Runkle; Helen Yoon
+
+UNIVERSITY OF VIRGINIA HEALTH SYSTEM
 P.O. Box 800386
-Charlottesville, VA 22908
-Division Chief: Robert A. Sinkin, MD, MPH
-} (P): (434)924-5428; (F): (434)924-2816
-Email: ras9q@virginia.edu
-Training Program Director: Karen Fairchild, MD
-(P): (484)924-5428; (F): (434)924-2816
-Email: kdfén@hscemail.mcec.virginia.edu
-NICU Medical Director: Robert A, Sinkin, MD, MPH
-(P): (484)924-5428; (F): (434)924-2816
-Email: ras9q@virginia.edu
-30 Director of NICU High Risk Follow-Up Clinic:
-Robert J. Boyle, MD
-NICU (P): (484)924-2335; NICU (F): (434)982-0796
-Level lilC; NICU Beds: 45
-Neonatologists:
-ATTRIDGE, JOSHUA
-BOYLE, ROBERT
-FAIRCHILD, KAREN
-KATTWINKEL, JOHN
-KAUFMAN, DAVID
-PAGET-BROWN, ALIX
-SINKIN, ROBERT
-SWANSON, JONATHAN
-ZANELLI, SANTINA
-Updated: 8/2/2011 ,
-FAIRFAX, VA
+Level IIIC; NICU Beds: 45
+Neonatologists: 9
+Neonatologists names: Joshua Attridge; Robert Boyle; Karen Fairchild; John Kattwinkel; David Kaufman; Alix Paget-Brown; Robert Sinkin; Jonathan Swanson; Santina Zanelli
+
 INOVA FAIR OAKS HOSPITAL
 3600 Joseph Siewick Dr.
 Fairfax, VA 22033
-NICU Medical Director: Alan Silk, MD
-(P): (703)391-3098; (F): {703)391 -3017
-Email: docsilk@aol.com
-NICU (P): (703)391-3560; NICU {F): (703)391-3414
-Level JHA; NICU Beds; 19
+Level IIIA; NICU Beds: 19
 Neonatologists:
-Refer to Neonatologists Group of Ineva Fairfax
-Hospttai fer Children, Falls Church, VA
-Updated: 2/24/2011
-FALLS CHURCH, VA
-INOVA FAIRFAX HOSPITAL FOR CHILDREN
-3300 Gallows Ra.
-Falls Church, VA 22042
-NICU Medical Diractor: John M. North, MD
+Refer to Neonatologists Group of Inova Fairfax Hospital for Children, Falls Church, VA
 
-! (P): (703)289-1400; (F): (703)289-1414
-NIGU (P): (703)776-6020; NICU (F): (703)776-6058
-Level fllC; NICU Beds: 75
-Neonatologists:
-AHRONOVICH, MARGOT D.
-BAKER, ROBIN L.
-BAVEJA, RAd
-. BECK, ROBERT B.
-BRUDNO, SPENCER
-DOE, EDWIN
-EIG, MATTHEW
-FOWLER, MARK
-: HESSAMFAR, AFSANEH
-HUNTINGTON, DANIELE F.
-KANG, JUN
-KEFALE, GEORGIS
-KLINE, ALEX
-: LAZARTE, RAUL A.
-LITMAN-MAZO, FERN L.
-NORTH, JOHN M.
-: PARK, TONG S.
-SILK, ALAN E.
-SPURRA, STEPHEN G,
-TRIBBLE, LINDA G,
-TROY, RACHEL
-: WORKIE, FEGETA
-Updated: 2/18/2011
-FREDERICKSBURG, VA
+INOVA FAIRFAX HOSPITAL FOR CHILDREN
+3300 Gallows Rd.
+Falls Church, VA 22042
+Level IIIC; NICU Beds: 75
+Neonatologists: 22
+Neonatologists names: Margot Ahronovich; Robin Baker; Raj Baveja; Robert Beck; Spencer Brudno; Edwin Doe; Matthew Eig; Mark Fowler; Afsaneh Hessamfar; Daniele Huntington; Jun Kang; Georgis Kefale; Alex Kline; Raul Lazarte; Fern Litman-Mazo; John North; Tong Park; Alan Silk; Stephen Spurr; Linda Tribble; Rachel Troy; Fegeta Workie
+
 MARY WASHINGTON HEALTH CARE
 Neonatology Office
 1001 Sam Perry Blvd.
-F Fredericksburg, VA 22401
-NICU Medical Director: Elsie Mainali, MD
-(P): (540)374-4745; (F): (540)374-4742
-NICU (P): (540)374-4395; NICU (F}: (540)374-4717
-Level} {IIB; NICU Beds: 17
-Neonatologists:
-AL-MATEEN, KEVIN
-: AMIN, JYOTI S.
-COBB, AUDREY
-MAINALI, ELSIE
-VELEISIS, RITA
-Updated: 2/1/2014
-! LEESBUAG, VA
+Fredericksburg, VA 22401
+Level IIIB; NICU Beds: 17
+Neonatologists: 5
+Neonatologists names: Kevin Al-Mateen; Jyoti Amin; Audrey Cobb; Elsie Mainali; Rita Veleisis
+
 INOVA LOUDOUN HOSPITAL
 44045 Riverside Pkwy.
 Leesburg, VA 20176
-NICU Medical Director: Anli Sharma, MD
-NICU (P}: (703)858-6350; NICU (F}: (703)858-8606
 Level IIB; NICU Beds: 8
-Neonatologists:
-: EIG, MATHEW
-7 MATHUR, GEETA
-i. SHARMA, ANIL
-ii TROY, RACHEL
-Updated: 2/4/2011
-LYNCHBURG, VA
+Neonatologists: 4
+Neonatologists names: Mathew Eig; Geeta Mathur; Anil Sharma; Rachel Troy
+
 VIRGINIA BAPTIST HOSPITAL
 3300 Rivermont Ave.
 Lynchburg, VA 24503
-NICU Medical Director: B, Keith Taylor, MD
-|
+Level IIIB; NICU Beds: 13
+Neonatologists: 3
+Neonatologists names: Syed Ahmad; Donna Cothran; Keith Taylor
 
-({P}: (494}947-5611; (F): (434)947-3932
-Director of NICU High Risk Follow-Up Clinic:
-Theresa Brennan, MD
-NICU (P): (434)947-4156; NICU (F): (434)947-4590
-Level HIB; NICU Beds: 13
-Neonatologists:
-AHMAD, SYED
-COTHRAN, DONNA
-TAYLOR, B, KEITH
-Updated: 4/8/2011
-MANASSAS, VA
 PRINCE WILLIAM HOSPITAL
 8700 Sudley Rd.
 Manassas, VA 20110
